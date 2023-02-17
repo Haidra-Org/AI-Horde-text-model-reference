@@ -1,0 +1,10 @@
+{
+	"Test Model": {
+		"name": "Test Model",
+		"baseline": "opt",
+		"description": "Test model for testing",
+		"version": "1",
+		"style": "generalist",
+		"nsfw": false
+	  }
+}
