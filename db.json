@@ -1,11 +1,1001 @@
 {
-	"Test Model": {
-		"name": "Test Model",
-		"baseline": "opt",
-		"parameters": 6000000000,
-		"description": "Test model for testing",
-		"version": "1",
-		"style": "generalist",
-		"nsfw": false
-	  }
+    "Alephrin/OPT-13B-Nerybus-Mix_50_50": {
+        "name": "Alephrin/OPT-13B-Nerybus-Mix_50_50",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloom": {
+        "name": "bigscience/bloom",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloom-1b7": {
+        "name": "bigscience/bloom-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloom-3b": {
+        "name": "bigscience/bloom-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloom-560m": {
+        "name": "bigscience/bloom-560m",
+        "baseline": "opt",
+        "parameters": 560000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloom-7b1": {
+        "name": "bigscience/bloom-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloomz": {
+        "name": "bigscience/bloomz",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloomz-1b7": {
+        "name": "bigscience/bloomz-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloomz-3b": {
+        "name": "bigscience/bloomz-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "bigscience/bloomz-7b1": {
+        "name": "bigscience/bloomz-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "concedo/OPT-2.7B-Nerybus-Mix": {
+        "name": "concedo/OPT-2.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "concedo/OPT-6.7B-Nerybus-Mix": {
+        "name": "concedo/OPT-6.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "digitous/GPT-R": {
+        "name": "digitous/GPT-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/gpt-j-6B": {
+        "name": "EleutherAI/gpt-j-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/gpt-neo-1.3B": {
+        "name": "EleutherAI/gpt-neo-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/gpt-neo-125M": {
+        "name": "EleutherAI/gpt-neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/gpt-neo-2.7B": {
+        "name": "EleutherAI/gpt-neo-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/gpt-neox-20b": {
+        "name": "EleutherAI/gpt-neox-20b",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1.3b": {
+        "name": "EleutherAI/pythia-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1.3b-deduped": {
+        "name": "EleutherAI/pythia-1.3b-deduped",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1.4b": {
+        "name": "EleutherAI/pythia-1.4b",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1.4b-deduped": {
+        "name": "EleutherAI/pythia-1.4b-deduped",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-125m": {
+        "name": "EleutherAI/pythia-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-125m-deduped": {
+        "name": "EleutherAI/pythia-125m-deduped",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-12b": {
+        "name": "EleutherAI/pythia-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-12b-deduped": {
+        "name": "EleutherAI/pythia-12b-deduped",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-13b": {
+        "name": "EleutherAI/pythia-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-13b-deduped": {
+        "name": "EleutherAI/pythia-13b-deduped",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-160m": {
+        "name": "EleutherAI/pythia-160m",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-160m-deduped": {
+        "name": "EleutherAI/pythia-160m-deduped",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1b": {
+        "name": "EleutherAI/pythia-1b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-1b-deduped": {
+        "name": "EleutherAI/pythia-1b-deduped",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-2.8b": {
+        "name": "EleutherAI/pythia-2.8b",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-2.8b-deduped": {
+        "name": "EleutherAI/pythia-2.8b-deduped",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-350m": {
+        "name": "EleutherAI/pythia-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-350m-deduped": {
+        "name": "EleutherAI/pythia-350m-deduped",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-410m": {
+        "name": "EleutherAI/pythia-410m",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-410m-deduped": {
+        "name": "EleutherAI/pythia-410m-deduped",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-6.7b": {
+        "name": "EleutherAI/pythia-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-6.7b-deduped": {
+        "name": "EleutherAI/pythia-6.7b-deduped",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-6.9b": {
+        "name": "EleutherAI/pythia-6.9b",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-6.9b-deduped": {
+        "name": "EleutherAI/pythia-6.9b-deduped",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-70m": {
+        "name": "EleutherAI/pythia-70m",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-70m-deduped": {
+        "name": "EleutherAI/pythia-70m-deduped",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "EleutherAI/pythia-800m": {
+        "name": "EleutherAI/pythia-800m",
+        "baseline": "opt",
+        "parameters": 800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-1.3b": {
+        "name": "facebook/opt-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-125m": {
+        "name": "facebook/opt-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-13b": {
+        "name": "facebook/opt-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-2.7b": {
+        "name": "facebook/opt-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-30b": {
+        "name": "facebook/opt-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-350m": {
+        "name": "facebook/opt-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-6.7b": {
+        "name": "facebook/opt-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-66b": {
+        "name": "facebook/opt-66b",
+        "baseline": "opt",
+        "parameters": 66000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-iml-1.3b": {
+        "name": "facebook/opt-iml-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/opt-iml-max-30b": {
+        "name": "facebook/opt-iml-max-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/xglm-1.7B": {
+        "name": "facebook/xglm-1.7B",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/xglm-2.9B": {
+        "name": "facebook/xglm-2.9B",
+        "baseline": "opt",
+        "parameters": 2900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/xglm-4.5B": {
+        "name": "facebook/xglm-4.5B",
+        "baseline": "opt",
+        "parameters": 4500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/xglm-564M": {
+        "name": "facebook/xglm-564M",
+        "baseline": "opt",
+        "parameters": 564000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "facebook/xglm-7.5B": {
+        "name": "facebook/xglm-7.5B",
+        "baseline": "opt",
+        "parameters": 7500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "gpt2": {
+        "name": "gpt2",
+        "baseline": "opt",
+        "parameters": 124000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "gpt2-large": {
+        "name": "gpt2-large",
+        "baseline": "opt",
+        "parameters": 774000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "gpt2-medium": {
+        "name": "gpt2-medium",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "gpt2-xl": {
+        "name": "gpt2-xl",
+        "baseline": "opt",
+        "parameters": 1500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "hakurei/lit-6B": {
+        "name": "hakurei/lit-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "hakurei/lotus-12B": {
+        "name": "hakurei/lotus-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-1.3B": {
+        "name": "KoboldAI/fairseq-dense-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-125M": {
+        "name": "KoboldAI/fairseq-dense-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-13B": {
+        "name": "KoboldAI/fairseq-dense-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-13B-Janeway": {
+        "name": "KoboldAI/fairseq-dense-13B-Janeway",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-13B-Nerys": {
+        "name": "KoboldAI/fairseq-dense-13B-Nerys",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-13B-Nerys-v2": {
+        "name": "KoboldAI/fairseq-dense-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-13B-Shinen": {
+        "name": "KoboldAI/fairseq-dense-13B-Shinen",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-2.7B": {
+        "name": "KoboldAI/fairseq-dense-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-2.7B-Janeway": {
+        "name": "KoboldAI/fairseq-dense-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-2.7B-Nerys": {
+        "name": "KoboldAI/fairseq-dense-2.7B-Nerys",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-355M": {
+        "name": "KoboldAI/fairseq-dense-355M",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-6.7B": {
+        "name": "KoboldAI/fairseq-dense-6.7B",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-6.7B-Janeway": {
+        "name": "KoboldAI/fairseq-dense-6.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/fairseq-dense-6.7B-Shinen": {
+        "name": "KoboldAI/fairseq-dense-6.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-J-6B-Adventure": {
+        "name": "KoboldAI/GPT-J-6B-Adventure",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-J-6B-Janeway": {
+        "name": "KoboldAI/GPT-J-6B-Janeway",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-J-6B-Shinen": {
+        "name": "KoboldAI/GPT-J-6B-Shinen",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-J-6B-Skein": {
+        "name": "KoboldAI/GPT-J-6B-Skein",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-1.3B-Adventure": {
+        "name": "KoboldAI/GPT-Neo-1.3B-Adventure",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-1.3B-Ramsay": {
+        "name": "KoboldAI/GPT-Neo-1.3B-Ramsay",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-AID": {
+        "name": "KoboldAI/GPT-Neo-2.7B-AID",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-Horni": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Horni",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-Horni-LN": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Horni-LN",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-Janeway": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-Picard": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Picard",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-Neo-2.7B-Shinen": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-NeoX-20B-Erebus": {
+        "name": "KoboldAI/GPT-NeoX-20B-Erebus",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/GPT-NeoX-20B-Skein": {
+        "name": "KoboldAI/GPT-NeoX-20B-Skein",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-13B-Erebus": {
+        "name": "KoboldAI/OPT-13B-Erebus",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-13B-Nerys-v2": {
+        "name": "KoboldAI/OPT-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-2.7B-Erebus": {
+        "name": "KoboldAI/OPT-2.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-2.7B-Nerys-v2": {
+        "name": "KoboldAI/OPT-2.7B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-30B-Erebus": {
+        "name": "KoboldAI/OPT-30B-Erebus",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-350M-Erebus": {
+        "name": "KoboldAI/OPT-350M-Erebus",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-350M-Nerys-v2": {
+        "name": "KoboldAI/OPT-350M-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-6.7B-Erebus": {
+        "name": "KoboldAI/OPT-6.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "KoboldAI/OPT-6B-nerys-v2": {
+        "name": "KoboldAI/OPT-6B-nerys-v2",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Merry/AID-Neo-125M": {
+        "name": "Merry/AID-Neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/pygmalion-1.3b": {
+        "name": "PygmalionAI/pygmalion-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/pygmalion-2.7b": {
+        "name": "PygmalionAI/pygmalion-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/pygmalion-350m": {
+        "name": "PygmalionAI/pygmalion-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/pygmalion-6b": {
+        "name": "PygmalionAI/pygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "rexwang8/qilin-lit-6b": {
+        "name": "rexwang8/qilin-lit-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/GPT-JT-6B-v0": {
+        "name": "togethercomputer/GPT-JT-6B-v0",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/GPT-JT-6B-v1": {
+        "name": "togethercomputer/GPT-JT-6B-v1",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    }
 }
