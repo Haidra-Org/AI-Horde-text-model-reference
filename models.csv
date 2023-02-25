@@ -1,4 +1,3 @@
-Alephrin/OPT-13B-Nerybus-Mix_50_50,13000000000
 bigscience/bloom,176000000000
 bigscience/bloom-1b7,1700000000
 bigscience/bloom-3b,3000000000
@@ -8,8 +7,6 @@ bigscience/bloomz,176000000000
 bigscience/bloomz-1b7,1700000000
 bigscience/bloomz-3b,3000000000
 bigscience/bloomz-7b1,7100000000
-concedo/OPT-2.7B-Nerybus-Mix,2700000000
-concedo/OPT-6.7B-Nerybus-Mix,6700000000
 digitous/GPT-R,6000000000
 EleutherAI/gpt-j-6B,6000000000
 EleutherAI/gpt-neo-1.3B,1300000000
@@ -101,6 +98,9 @@ KoboldAI/OPT-350M-Erebus,350000000
 KoboldAI/OPT-350M-Nerys-v2,350000000
 KoboldAI/OPT-6.7B-Erebus,6700000000
 KoboldAI/OPT-6B-nerys-v2,6700000000
+KoboldAI/OPT-2.7B-Nerybus-Mix,2700000000
+KoboldAI/OPT-6.7B-Nerybus-Mix,6700000000
+KoboldAI/OPT-13B-Nerybus-Mix,13000000000
 Merry/AID-Neo-125M,125000000
 PygmalionAI/pygmalion-1.3b,1300000000
 PygmalionAI/pygmalion-2.7b,2700000000
