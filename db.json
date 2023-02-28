@@ -80,6 +80,24 @@
         "style": "generalist",
         "nsfw": false
     },
+	"concedo/OPT-2.7B-Nerybus-Mix": {
+        "name": "concedo/OPT-2.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "concedo/OPT-6.7B-Nerybus-Mix": {
+        "name": "concedo/OPT-6.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "baseline": "opt",
@@ -91,6 +109,15 @@
     },
     "digitous/Janin-R": {
         "name": "digitous/Janin-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+	"digitous/Javelin-R": {
+        "name": "digitous/Javelin-R",
         "baseline": "opt",
         "parameters": 6000000000,
         "description": "Add me",

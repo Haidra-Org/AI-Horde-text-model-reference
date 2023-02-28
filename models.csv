@@ -7,7 +7,11 @@ bigscience/bloomz,176000000000
 bigscience/bloomz-1b7,1700000000
 bigscience/bloomz-3b,3000000000
 bigscience/bloomz-7b1,7100000000
+concedo/OPT-2.7B-Nerybus-Mix,2700000000
+concedo/OPT-6.7B-Nerybus-Mix,6700000000
 digitous/GPT-R,6000000000
+digitous/Javelin-R,6000000000
+digitous/Janin-R,6000000000
 EleutherAI/gpt-j-6B,6000000000
 EleutherAI/gpt-neo-1.3B,1300000000
 EleutherAI/gpt-neo-125M,125000000
