@@ -44,9 +44,9 @@ EleutherAI/pythia-6.9b-deduped,6900000000
 EleutherAI/pythia-70m,70000000
 EleutherAI/pythia-70m-deduped,70000000
 EleutherAI/pythia-800m,800000000
-Facebook/LLaMA-7b
-Facebook/LLaMA-30b
-Facebook/LLaMA-65b
+Facebook/LLaMA-7b,7000000000
+Facebook/LLaMA-30b,30000000000
+Facebook/LLaMA-65b,65000000000
 facebook/opt-1.3b,1300000000
 facebook/opt-125m,125000000
 facebook/opt-13b,13000000000
