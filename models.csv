@@ -7,8 +7,6 @@ bigscience/bloomz,176000000000
 bigscience/bloomz-1b7,1700000000
 bigscience/bloomz-3b,3000000000
 bigscience/bloomz-7b1,7100000000
-concedo/OPT-2.7B-Nerybus-Mix,2700000000
-concedo/OPT-6.7B-Nerybus-Mix,6700000000
 digitous/GPT-R,6000000000
 digitous/Javelin-R,6000000000
 digitous/Janin-R,6000000000
@@ -113,3 +111,4 @@ PygmalionAI/pygmalion-6b,6000000000
 rexwang8/qilin-lit-6b,6000000000
 togethercomputer/GPT-JT-6B-v0,6000000000
 togethercomputer/GPT-JT-6B-v1,6000000000
+OpenAssistant/oasst-sft-1-pythia-12b,1200000000

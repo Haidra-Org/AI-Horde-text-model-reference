@@ -80,24 +80,6 @@
         "style": "generalist",
         "nsfw": false
     },
-	"concedo/OPT-2.7B-Nerybus-Mix": {
-        "name": "concedo/OPT-2.7B-Nerybus-Mix",
-        "baseline": "opt",
-        "parameters": 2700000000,
-        "description": "Add me",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false
-    },
-    "concedo/OPT-6.7B-Nerybus-Mix": {
-        "name": "concedo/OPT-6.7B-Nerybus-Mix",
-        "baseline": "opt",
-        "parameters": 6700000000,
-        "description": "Add me",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false
-    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "baseline": "opt",
@@ -107,8 +89,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "digitous/Janin-R": {
-        "name": "digitous/Janin-R",
+    "digitous/Javelin-R": {
+        "name": "digitous/Javelin-R",
         "baseline": "opt",
         "parameters": 6000000000,
         "description": "Add me",
@@ -116,8 +98,8 @@
         "style": "generalist",
         "nsfw": false
     },
-	"digitous/Javelin-R": {
-        "name": "digitous/Javelin-R",
+    "digitous/Janin-R": {
+        "name": "digitous/Janin-R",
         "baseline": "opt",
         "parameters": 6000000000,
         "description": "Add me",
@@ -1029,6 +1011,15 @@
         "name": "togethercomputer/GPT-JT-6B-v1",
         "baseline": "opt",
         "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "OpenAssistant/oasst-sft-1-pythia-12b": {
+        "name": "OpenAssistant/oasst-sft-1-pythia-12b",
+        "baseline": "opt",
+        "parameters": 1200000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
