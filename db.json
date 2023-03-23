@@ -1024,5 +1024,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "TehVenom/PPO_Pygway-6b": {
+        "name": "TehVenom/PPO_Pygway-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/PPO_Pygway-V8p4_Dev-6b": {
+        "name": "TehVenom/PPO_Pygway-V8p4_Dev-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/TehVenom_PPO_Shygmalion-6b": {
+        "name": "TehVenom/TehVenom_PPO_Shygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
