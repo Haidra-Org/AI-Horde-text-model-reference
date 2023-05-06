@@ -1051,5 +1051,158 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "mosaicml/mpt-7b": {
+        "name": "mosaicml/mpt-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mosaicml/mpt-7b-storywriter": {
+        "name": "mosaicml/mpt-7b-storywriter",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mosaicml/mpt-7b-chat": {
+        "name": "mosaicml/mpt-7b-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mosaicml/mpt-7b-instruct": {
+        "name": "mosaicml/mpt-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/MPT-7b-Apache-2.0": {
+        "name": "TehVenom/MPT-7b-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/MPT-7b-storywriter-Apache-2.0": {
+        "name": "TehVenom/MPT-7b-storywriter-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge": {
+        "name": "TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/mpt-7b-InstructAndStorywriting-75_25-Merge": {
+        "name": "TehVenom/mpt-7b-InstructAndStorywriting-75_25-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge": {
+        "name": "TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mosaicml/mpt-1b-redpajama-200b": {
+        "name": "mosaicml/mpt-1b-redpajama-200b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mosaicml/mpt-1b-redpajama-200b-dolly": {
+        "name": "mosaicml/mpt-1b-redpajama-200b-dolly",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Base-7B-v0.1": {
+        "name": "togethercomputer/RedPajama-INCITE-Base-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1": {
+        "name": "togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Chat-7B-v0.1": {
+        "name": "togethercomputer/RedPajama-INCITE-Chat-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Chat-3B-v1": {
+        "name": "togethercomputer/RedPajama-INCITE-Chat-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Instruct-3B-v1": {
+        "name": "togethercomputer/RedPajama-INCITE-Instruct-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "togethercomputer/RedPajama-INCITE-Base-3B-v1": {
+        "name": "togethercomputer/RedPajama-INCITE-Base-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
