@@ -1303,5 +1303,14 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "TheBloke/guanaco-65B": {
+        "name": "TheBloke/guanaco-65B",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
