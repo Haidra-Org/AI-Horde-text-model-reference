@@ -989,6 +989,24 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TehVenom/Pygmalion-13b-Merged": {
+        "name": "TehVenom/Pygmalion-13b-Merged",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TehVenom/Pygmalion-7b-Merged": {
+        "name": "TehVenom/Pygmalion-7b-Merged",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "baseline": "opt",
@@ -1200,6 +1218,87 @@
         "name": "togethercomputer/RedPajama-INCITE-Base-3B-v1",
         "baseline": "opt",
         "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "digitous/13B-HyperMantis": {
+        "name": "digitous/13B-HyperMantis",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheBloke/wizardLM-7B": {
+        "name": "TheBloke/wizardLM-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-13B-Uncensored": {
+        "name": "ehartford/WizardLM-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-7B-Uncensored": {
+        "name": "ehartford/WizardLM-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheBloke/Wizard-Vicuna-13B-Uncensored": {
+        "name": "TheBloke/Wizard-Vicuna-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/Wizard-Vicuna-13B-Uncensored": {
+        "name": "ehartford/Wizard-Vicuna-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/Wizard-Vicuna-7B-Uncensored": {
+        "name": "ehartford/Wizard-Vicuna-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "openaccess-ai-collective/manticore-13b": {
+        "name": "openaccess-ai-collective/manticore-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "openaccess-ai-collective/manticore-13b-chat-pyg": {
+        "name": "openaccess-ai-collective/manticore-13b-chat-pyg",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
