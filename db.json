@@ -1204,5 +1204,140 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "PygmalionAI/pygmalion-7b": {
+        "name": "PygmalionAI/pygmalion-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/pygmalion-13b": {
+        "name": "PygmalionAI/pygmalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Henk717/airochronos-33B": {
+        "name": "Henk717/airochronos-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Henk717/chronoboros-33B": {
+        "name": "Henk717/chronoboros-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-65b-gpt4-1.4": {
+        "name": "jondurbin/airoboros-65b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-65b-gpt4-1.3": {
+        "name": "jondurbin/airoboros-65b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-65b-gpt4-1.2": {
+        "name": "jondurbin/airoboros-65b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-33b-gpt4-1.4": {
+        "name": "jondurbin/airoboros-33b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-33b-gpt4-1.2": {
+        "name": "jondurbin/airoboros-33b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "jondurbin/airoboros-33b-gpt4-1.3": {
+        "name": "jondurbin/airoboros-33b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "elinas/chronos-13b": {
+        "name": "elinas/chronos-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "elinas/chronos-33b": {
+        "name": "elinas/chronos-33b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Austism/chronos-hermes-13b": {
+        "name": "Austism/chronos-hermes-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "CalderaAI/30B-Lazarus": {
+        "name": "CalderaAI/30B-Lazarus",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "chavinlo/gpt4-x-alpaca": {
+        "name": "chavinlo/gpt4-x-alpaca",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
