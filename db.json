@@ -1339,5 +1339,68 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "ehartford/WizardLM-33B-V1.0-Uncensored": {
+        "name": "ehartford/WizardLM-33B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-13B-V1.0-Uncensored": {
+        "name": "ehartford/WizardLM-13B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-30B-Uncensored": {
+        "name": "ehartford/WizardLM-30B-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-13B-Uncensored": {
+        "name": "ehartford/WizardLM-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/WizardLM-7B-Uncensored": {
+        "name": "ehartford/WizardLM-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/Wizard-Vicuna-13B-Uncensored": {
+        "name": "ehartford/Wizard-Vicuna-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ehartford/Wizard-Vicuna-7B-Uncensored": {
+        "name": "ehartford/Wizard-Vicuna-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
