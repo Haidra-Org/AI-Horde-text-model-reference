@@ -1402,5 +1402,158 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "stabilityai/FreeWilly2": {
+        "name": "stabilityai/FreeWilly2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-70b-chat-hf": {
+        "name": "meta-llama/Llama-2-70b-chat-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-70b-hf": {
+        "name": "meta-llama/Llama-2-70b-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-13b-chat-hf": {
+        "name": "meta-llama/Llama-2-13b-chat-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-13b-hf": {
+        "name": "meta-llama/Llama-2-13b-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-7b-chat-hf": {
+        "name": "meta-llama/Llama-2-7b-chat-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Llama-2-7b-hf": {
+        "name": "meta-llama/Llama-2-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NousResearch/Redmond-Puffin-13B": {
+        "name": "NousResearch/Redmond-Puffin-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NousResearch/Nous-Hermes-Llama2-13b": {
+        "name": "NousResearch/Nous-Hermes-Llama2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "CalderaAI/13B-Ouroboros": {
+        "name": "CalderaAI/13B-Ouroboros",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "CalderaAI/13B-BlueMethod": {
+        "name": "CalderaAI/13B-BlueMethod",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Tap-M/Luna-AI-Llama2-Uncensored": {
+        "name": "Tap-M/Luna-AI-Llama2-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Aeala/Enterredaas-65b": {
+        "name": "Aeala/Enterredaas-65b",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Aeala/Enterredaas-33b": {
+        "name": "Aeala/Enterredaas-33b",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "CalderaAI/30B-Epsilon": {
+        "name": "CalderaAI/30B-Epsilon",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mlabonne/llama-2-7b-guanaco": {
+        "name": "mlabonne/llama-2-7b-guanaco",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "openaccess-ai-collective/manticore-13b": {
+        "name": "openaccess-ai-collective/manticore-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
