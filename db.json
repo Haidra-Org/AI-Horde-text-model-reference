@@ -1555,5 +1555,1562 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "koboldcpp/bloom": {
+        "name": "koboldcpp/bloom",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloom-1b7": {
+        "name": "koboldcpp/bloom-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloom-3b": {
+        "name": "koboldcpp/bloom-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloom-560m": {
+        "name": "koboldcpp/bloom-560m",
+        "baseline": "opt",
+        "parameters": 560000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloom-7b1": {
+        "name": "koboldcpp/bloom-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloomz": {
+        "name": "koboldcpp/bloomz",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloomz-1b7": {
+        "name": "koboldcpp/bloomz-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloomz-3b": {
+        "name": "koboldcpp/bloomz-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/bloomz-7b1": {
+        "name": "koboldcpp/bloomz-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-R": {
+        "name": "koboldcpp/GPT-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Javelin-R": {
+        "name": "koboldcpp/Javelin-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Janin-R": {
+        "name": "koboldcpp/Janin-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt-j-6B": {
+        "name": "koboldcpp/gpt-j-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt-neo-1.3B": {
+        "name": "koboldcpp/gpt-neo-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt-neo-125M": {
+        "name": "koboldcpp/gpt-neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt-neo-2.7B": {
+        "name": "koboldcpp/gpt-neo-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt-neox-20b": {
+        "name": "koboldcpp/gpt-neox-20b",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1.3b": {
+        "name": "koboldcpp/pythia-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1.3b-deduped": {
+        "name": "koboldcpp/pythia-1.3b-deduped",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1.4b": {
+        "name": "koboldcpp/pythia-1.4b",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1.4b-deduped": {
+        "name": "koboldcpp/pythia-1.4b-deduped",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-125m": {
+        "name": "koboldcpp/pythia-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-125m-deduped": {
+        "name": "koboldcpp/pythia-125m-deduped",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-12b": {
+        "name": "koboldcpp/pythia-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-12b-deduped": {
+        "name": "koboldcpp/pythia-12b-deduped",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-13b": {
+        "name": "koboldcpp/pythia-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-13b-deduped": {
+        "name": "koboldcpp/pythia-13b-deduped",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-160m": {
+        "name": "koboldcpp/pythia-160m",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-160m-deduped": {
+        "name": "koboldcpp/pythia-160m-deduped",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1b": {
+        "name": "koboldcpp/pythia-1b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-1b-deduped": {
+        "name": "koboldcpp/pythia-1b-deduped",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-2.8b": {
+        "name": "koboldcpp/pythia-2.8b",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-2.8b-deduped": {
+        "name": "koboldcpp/pythia-2.8b-deduped",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-350m": {
+        "name": "koboldcpp/pythia-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-350m-deduped": {
+        "name": "koboldcpp/pythia-350m-deduped",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-410m": {
+        "name": "koboldcpp/pythia-410m",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-410m-deduped": {
+        "name": "koboldcpp/pythia-410m-deduped",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-6.7b": {
+        "name": "koboldcpp/pythia-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-6.7b-deduped": {
+        "name": "koboldcpp/pythia-6.7b-deduped",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-6.9b": {
+        "name": "koboldcpp/pythia-6.9b",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-6.9b-deduped": {
+        "name": "koboldcpp/pythia-6.9b-deduped",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-70m": {
+        "name": "koboldcpp/pythia-70m",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-70m-deduped": {
+        "name": "koboldcpp/pythia-70m-deduped",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-800m": {
+        "name": "koboldcpp/pythia-800m",
+        "baseline": "opt",
+        "parameters": 800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-1.3b": {
+        "name": "koboldcpp/opt-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-125m": {
+        "name": "koboldcpp/opt-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-13b": {
+        "name": "koboldcpp/opt-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-2.7b": {
+        "name": "koboldcpp/opt-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-30b": {
+        "name": "koboldcpp/opt-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-350m": {
+        "name": "koboldcpp/opt-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-6.7b": {
+        "name": "koboldcpp/opt-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-66b": {
+        "name": "koboldcpp/opt-66b",
+        "baseline": "opt",
+        "parameters": 66000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-iml-1.3b": {
+        "name": "koboldcpp/opt-iml-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opt-iml-max-30b": {
+        "name": "koboldcpp/opt-iml-max-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/xglm-1.7B": {
+        "name": "koboldcpp/xglm-1.7B",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/xglm-2.9B": {
+        "name": "koboldcpp/xglm-2.9B",
+        "baseline": "opt",
+        "parameters": 2900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/xglm-4.5B": {
+        "name": "koboldcpp/xglm-4.5B",
+        "baseline": "opt",
+        "parameters": 4500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/xglm-564M": {
+        "name": "koboldcpp/xglm-564M",
+        "baseline": "opt",
+        "parameters": 564000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/xglm-7.5B": {
+        "name": "koboldcpp/xglm-7.5B",
+        "baseline": "opt",
+        "parameters": 7500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt2": {
+        "name": "koboldcpp/gpt2",
+        "baseline": "opt",
+        "parameters": 124000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt2-large": {
+        "name": "koboldcpp/gpt2-large",
+        "baseline": "opt",
+        "parameters": 774000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt2-medium": {
+        "name": "koboldcpp/gpt2-medium",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt2-xl": {
+        "name": "koboldcpp/gpt2-xl",
+        "baseline": "opt",
+        "parameters": 1500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/lit-6B": {
+        "name": "koboldcpp/lit-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/lotus-12B": {
+        "name": "koboldcpp/lotus-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-1.3B": {
+        "name": "koboldcpp/fairseq-dense-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-125M": {
+        "name": "koboldcpp/fairseq-dense-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-13B": {
+        "name": "koboldcpp/fairseq-dense-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-13B-Janeway": {
+        "name": "koboldcpp/fairseq-dense-13B-Janeway",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-13B-Nerys": {
+        "name": "koboldcpp/fairseq-dense-13B-Nerys",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-13B-Nerys-v2": {
+        "name": "koboldcpp/fairseq-dense-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-13B-Shinen": {
+        "name": "koboldcpp/fairseq-dense-13B-Shinen",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-2.7B": {
+        "name": "koboldcpp/fairseq-dense-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-2.7B-Janeway": {
+        "name": "koboldcpp/fairseq-dense-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-2.7B-Nerys": {
+        "name": "koboldcpp/fairseq-dense-2.7B-Nerys",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-355M": {
+        "name": "koboldcpp/fairseq-dense-355M",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-6.7B": {
+        "name": "koboldcpp/fairseq-dense-6.7B",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-6.7B-Janeway": {
+        "name": "koboldcpp/fairseq-dense-6.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/fairseq-dense-6.7B-Shinen": {
+        "name": "koboldcpp/fairseq-dense-6.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-J-6B-Adventure": {
+        "name": "koboldcpp/GPT-J-6B-Adventure",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-J-6B-Janeway": {
+        "name": "koboldcpp/GPT-J-6B-Janeway",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-J-6B-Shinen": {
+        "name": "koboldcpp/GPT-J-6B-Shinen",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-J-6B-Skein": {
+        "name": "koboldcpp/GPT-J-6B-Skein",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-1.3B-Adventure": {
+        "name": "koboldcpp/GPT-Neo-1.3B-Adventure",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-1.3B-Ramsay": {
+        "name": "koboldcpp/GPT-Neo-1.3B-Ramsay",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-AID": {
+        "name": "koboldcpp/GPT-Neo-2.7B-AID",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-Horni": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Horni",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-Horni-LN": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Horni-LN",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-Janeway": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-Picard": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Picard",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-Neo-2.7B-Shinen": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-NeoX-20B-Erebus": {
+        "name": "koboldcpp/GPT-NeoX-20B-Erebus",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-NeoX-20B-Skein": {
+        "name": "koboldcpp/GPT-NeoX-20B-Skein",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-13B-Erebus": {
+        "name": "koboldcpp/OPT-13B-Erebus",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-13B-Nerys-v2": {
+        "name": "koboldcpp/OPT-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-2.7B-Erebus": {
+        "name": "koboldcpp/OPT-2.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-2.7B-Nerys-v2": {
+        "name": "koboldcpp/OPT-2.7B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-30B-Erebus": {
+        "name": "koboldcpp/OPT-30B-Erebus",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-350M-Erebus": {
+        "name": "koboldcpp/OPT-350M-Erebus",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-350M-Nerys-v2": {
+        "name": "koboldcpp/OPT-350M-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-6.7B-Erebus": {
+        "name": "koboldcpp/OPT-6.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-6B-nerys-v2": {
+        "name": "koboldcpp/OPT-6B-nerys-v2",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-2.7B-Nerybus-Mix": {
+        "name": "koboldcpp/OPT-2.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-6.7B-Nerybus-Mix": {
+        "name": "koboldcpp/OPT-6.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OPT-13B-Nerybus-Mix": {
+        "name": "koboldcpp/OPT-13B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/AID-Neo-125M": {
+        "name": "koboldcpp/AID-Neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-1.3b": {
+        "name": "koboldcpp/pygmalion-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-2.7b": {
+        "name": "koboldcpp/pygmalion-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-350m": {
+        "name": "koboldcpp/pygmalion-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-6b": {
+        "name": "koboldcpp/pygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/qilin-lit-6b": {
+        "name": "koboldcpp/qilin-lit-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-JT-6B-v0": {
+        "name": "koboldcpp/GPT-JT-6B-v0",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/GPT-JT-6B-v1": {
+        "name": "koboldcpp/GPT-JT-6B-v1",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/oasst-sft-1-pythia-12b": {
+        "name": "koboldcpp/oasst-sft-1-pythia-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/PPO_Pygway-6b-Mix": {
+        "name": "koboldcpp/PPO_Pygway-6b-Mix",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/PPO_Pygway-V8p4_Dev-6b": {
+        "name": "koboldcpp/PPO_Pygway-V8p4_Dev-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/TehVenom_PPO_Shygmalion-6b": {
+        "name": "koboldcpp/TehVenom_PPO_Shygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-7b": {
+        "name": "koboldcpp/mpt-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-7b-storywriter": {
+        "name": "koboldcpp/mpt-7b-storywriter",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-7b-chat": {
+        "name": "koboldcpp/mpt-7b-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-7b-instruct": {
+        "name": "koboldcpp/mpt-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MPT-7b-Apache-2.0": {
+        "name": "koboldcpp/MPT-7b-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MPT-7b-storywriter-Apache-2.0": {
+        "name": "koboldcpp/MPT-7b-storywriter-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MPT-7b-InstructAndStorywriting-50_50-Merge": {
+        "name": "koboldcpp/MPT-7b-InstructAndStorywriting-50_50-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-7b-InstructAndStorywriting-75_25-Merge": {
+        "name": "koboldcpp/mpt-7b-InstructAndStorywriting-75_25-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MPT-7b-Chat-Instruct-LongCTX-Merge": {
+        "name": "koboldcpp/MPT-7b-Chat-Instruct-LongCTX-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-1b-redpajama-200b": {
+        "name": "koboldcpp/mpt-1b-redpajama-200b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mpt-1b-redpajama-200b-dolly": {
+        "name": "koboldcpp/mpt-1b-redpajama-200b-dolly",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Base-7B-v0.1": {
+        "name": "koboldcpp/RedPajama-INCITE-Base-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Instruct-7B-v0.1": {
+        "name": "koboldcpp/RedPajama-INCITE-Instruct-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Chat-7B-v0.1": {
+        "name": "koboldcpp/RedPajama-INCITE-Chat-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Chat-3B-v1": {
+        "name": "koboldcpp/RedPajama-INCITE-Chat-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Instruct-3B-v1": {
+        "name": "koboldcpp/RedPajama-INCITE-Instruct-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/RedPajama-INCITE-Base-3B-v1": {
+        "name": "koboldcpp/RedPajama-INCITE-Base-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-7b": {
+        "name": "koboldcpp/pygmalion-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-13b": {
+        "name": "koboldcpp/pygmalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airochronos-33B": {
+        "name": "koboldcpp/airochronos-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronoboros-33B": {
+        "name": "koboldcpp/chronoboros-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-65b-gpt4-1.4": {
+        "name": "koboldcpp/airoboros-65b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-65b-gpt4-1.3": {
+        "name": "koboldcpp/airoboros-65b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-65b-gpt4-1.2": {
+        "name": "koboldcpp/airoboros-65b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-33b-gpt4-1.4": {
+        "name": "koboldcpp/airoboros-33b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-33b-gpt4-1.2": {
+        "name": "koboldcpp/airoboros-33b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-33b-gpt4-1.3": {
+        "name": "koboldcpp/airoboros-33b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronos-13b": {
+        "name": "koboldcpp/chronos-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronos-33b": {
+        "name": "koboldcpp/chronos-33b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronos-hermes-13b": {
+        "name": "koboldcpp/chronos-hermes-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/30B-Lazarus": {
+        "name": "koboldcpp/30B-Lazarus",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gpt4-x-alpaca": {
+        "name": "koboldcpp/gpt4-x-alpaca",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-33B-V1.0-Uncensored": {
+        "name": "koboldcpp/WizardLM-33B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-13B-V1.0-Uncensored": {
+        "name": "koboldcpp/WizardLM-13B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-30B-Uncensored": {
+        "name": "koboldcpp/WizardLM-30B-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-13B-Uncensored": {
+        "name": "koboldcpp/WizardLM-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-7B-Uncensored": {
+        "name": "koboldcpp/WizardLM-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Wizard-Vicuna-13B-Uncensored": {
+        "name": "koboldcpp/Wizard-Vicuna-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Wizard-Vicuna-7B-Uncensored": {
+        "name": "koboldcpp/Wizard-Vicuna-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/FreeWilly2": {
+        "name": "koboldcpp/FreeWilly2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-70b-chat-hf": {
+        "name": "koboldcpp/Llama-2-70b-chat-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-70b-hf": {
+        "name": "koboldcpp/Llama-2-70b-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-13b-chat-hf": {
+        "name": "koboldcpp/Llama-2-13b-chat-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-13b-hf": {
+        "name": "koboldcpp/Llama-2-13b-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-7b-chat-hf": {
+        "name": "koboldcpp/Llama-2-7b-chat-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-2-7b-hf": {
+        "name": "koboldcpp/Llama-2-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Redmond-Puffin-13B": {
+        "name": "koboldcpp/Redmond-Puffin-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Nous-Hermes-Llama2-13b": {
+        "name": "koboldcpp/Nous-Hermes-Llama2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/13B-Ouroboros": {
+        "name": "koboldcpp/13B-Ouroboros",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/13B-BlueMethod": {
+        "name": "koboldcpp/13B-BlueMethod",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Luna-AI-Llama2-Uncensored": {
+        "name": "koboldcpp/Luna-AI-Llama2-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Enterredaas-65b": {
+        "name": "koboldcpp/Enterredaas-65b",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Enterredaas-33b": {
+        "name": "koboldcpp/Enterredaas-33b",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/30B-Epsilon": {
+        "name": "koboldcpp/30B-Epsilon",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/llama-2-7b-guanaco": {
+        "name": "koboldcpp/llama-2-7b-guanaco",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/manticore-13b": {
+        "name": "koboldcpp/manticore-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
