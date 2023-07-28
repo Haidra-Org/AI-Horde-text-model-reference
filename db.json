@@ -1403,10 +1403,28 @@
         "style": "generalist",
         "nsfw": false
     },
-    "stabilityai/FreeWilly2": {
-        "name": "stabilityai/FreeWilly2",
+    "stabilityai/StableBeluga2": {
+        "name": "stabilityai/StableBeluga2",
         "baseline": "opt",
         "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "stabilityai/StableBeluga-13B": {
+        "name": "stabilityai/StableBeluga-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "stabilityai/StableBeluga-7B": {
+        "name": "stabilityai/StableBeluga-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -2960,10 +2978,28 @@
         "style": "generalist",
         "nsfw": false
     },
-    "koboldcpp/FreeWilly2": {
-        "name": "koboldcpp/FreeWilly2",
+    "koboldcpp/StableBeluga2": {
+        "name": "koboldcpp/StableBeluga2",
         "baseline": "opt",
         "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/StableBeluga-13B": {
+        "name": "koboldcpp/StableBeluga-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/StableBeluga-7B": {
+        "name": "koboldcpp/StableBeluga-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
