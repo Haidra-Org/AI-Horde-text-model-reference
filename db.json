@@ -944,6 +944,24 @@
         "style": "generalist",
         "nsfw": false
     },
+    "KoboldAI/LLAMA2-13B-Holodeck-1": {
+        "name": "KoboldAI/LLAMA2-13B-Holodeck-1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Pirr/pythia-13b-deduped-green_devil": {
+        "name": "Pirr/pythia-13b-deduped-green_devil",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Merry/AID-Neo-125M": {
         "name": "Merry/AID-Neo-125M",
         "baseline": "opt",
@@ -3142,6 +3160,24 @@
     },
     "koboldcpp/manticore-13b": {
         "name": "koboldcpp/manticore-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/LLAMA2-13B-Holodeck-1": {
+        "name": "koboldcpp/LLAMA2-13B-Holodeck-1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pythia-13b-deduped-green_devil": {
+        "name": "koboldcpp/pythia-13b-deduped-green_devil",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",
