@@ -146,8 +146,10 @@ jondurbin/airoboros-33b-gpt4-1.4,33000000000
 jondurbin/airoboros-33b-gpt4-1.2,33000000000
 jondurbin/airoboros-33b-gpt4-1.3,33000000000
 elinas/chronos-13b,13000000000
+elinas/chronos-13b-v2,13000000000
 elinas/chronos-33b,30000000000
 Austism/chronos-hermes-13b,13000000000
+Austism/chronos-hermes-13b-v2,13000000000
 CalderaAI/30B-Lazarus,33000000000
 chavinlo/gpt4-x-alpaca,13000000000
 ehartford/WizardLM-33B-V1.0-Uncensored,33000000000
@@ -322,8 +324,10 @@ koboldcpp/airoboros-33b-gpt4-1.4,33000000000
 koboldcpp/airoboros-33b-gpt4-1.2,33000000000
 koboldcpp/airoboros-33b-gpt4-1.3,33000000000
 koboldcpp/chronos-13b,13000000000
+koboldcpp/chronos-13b-v2,13000000000
 koboldcpp/chronos-33b,30000000000
 koboldcpp/chronos-hermes-13b,13000000000
+koboldcpp/chronos-hermes-13b-v2,13000000000
 koboldcpp/30B-Lazarus,33000000000
 koboldcpp/gpt4-x-alpaca,13000000000
 koboldcpp/WizardLM-33B-V1.0-Uncensored,33000000000
