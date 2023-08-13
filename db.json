@@ -1610,6 +1610,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Gryphe/MythoMax-L2-13b": {
+        "name": "Gryphe/MythoMax-L2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3214,6 +3223,15 @@
     },
     "koboldcpp/pythia-13b-deduped-green_devil": {
         "name": "koboldcpp/pythia-13b-deduped-green_devil",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MythoMax-L2-13b": {
+        "name": "koboldcpp/MythoMax-L2-13b",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",

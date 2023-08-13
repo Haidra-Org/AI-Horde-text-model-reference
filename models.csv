@@ -179,6 +179,8 @@ CalderaAI/30B-Epsilon,33000000000
 CalderaAI/13B-BlueMethod,13000000000
 mlabonne/llama-2-7b-guanaco,7000000000
 openaccess-ai-collective/manticore-13b,13000000000
+openaccess-ai-collective/manticore-13b,13000000000
+Gryphe/MythoMax-L2-13b,13000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
 koboldcpp/bloom-3b,3000000000
@@ -359,3 +361,4 @@ koboldcpp/llama-2-7b-guanaco,7000000000
 koboldcpp/manticore-13b,13000000000
 koboldcpp/LLAMA2-13B-Holodeck-1,13000000000
 koboldcpp/pythia-13b-deduped-green_devil,13000000000
+koboldcpp/MythoMax-L2-13b,13000000000
