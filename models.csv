@@ -105,6 +105,7 @@ KoboldAI/OPT-6.7B-Nerybus-Mix,6700000000
 KoboldAI/OPT-13B-Nerybus-Mix,13000000000
 KoboldAI/OPT-13B-Nerybus-Mix,13000000000
 KoboldAI/LLAMA2-13B-Holodeck-1,13000000000
+KoboldAI/LLaMA2-13B-Holomax,13000000000
 Pirr/pythia-13b-deduped-green_devil,13000000000
 Merry/AID-Neo-125M,125000000
 PygmalionAI/pygmalion-1.3b,1300000000
@@ -362,3 +363,4 @@ koboldcpp/manticore-13b,13000000000
 koboldcpp/LLAMA2-13B-Holodeck-1,13000000000
 koboldcpp/pythia-13b-deduped-green_devil,13000000000
 koboldcpp/MythoMax-L2-13b,13000000000
+koboldcpp/LLaMA2-13B-Holomax,13000000000

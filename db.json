@@ -953,6 +953,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "KoboldAI/LLaMA2-13B-Holomax": {
+        "name": "KoboldAI/LLaMA2-13B-Holomax",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Pirr/pythia-13b-deduped-green_devil": {
         "name": "Pirr/pythia-13b-deduped-green_devil",
         "baseline": "opt",
@@ -3232,6 +3241,15 @@
     },
     "koboldcpp/MythoMax-L2-13b": {
         "name": "koboldcpp/MythoMax-L2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/LLaMA2-13B-Holomax": {
+        "name": "koboldcpp/LLaMA2-13B-Holomax",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",
