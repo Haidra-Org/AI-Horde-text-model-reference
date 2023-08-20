@@ -1448,6 +1448,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "ehartford/WizardLM-1.0-Uncensored-Llama2-13b": {
+        "name": "ehartford/WizardLM-1.0-Uncensored-Llama2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "stabilityai/StableBeluga2": {
         "name": "stabilityai/StableBeluga2",
         "baseline": "opt",
@@ -3250,6 +3259,15 @@
     },
     "koboldcpp/LLaMA2-13B-Holomax": {
         "name": "koboldcpp/LLaMA2-13B-Holomax",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b": {
+        "name": "koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",
