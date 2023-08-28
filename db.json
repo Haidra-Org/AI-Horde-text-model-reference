@@ -1466,6 +1466,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "NousResearch/Nous-Hermes-Llama2-70b": {
+        "name": "NousResearch/Nous-Hermes-Llama2-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "stabilityai/StableBeluga-13B": {
         "name": "stabilityai/StableBeluga-13B",
         "baseline": "opt",
@@ -3270,6 +3279,15 @@
         "name": "koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Nous-Hermes-Llama2-70b": {
+        "name": "koboldcpp/Nous-Hermes-Llama2-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",

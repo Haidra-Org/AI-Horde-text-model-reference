@@ -162,6 +162,7 @@ ehartford/Wizard-Vicuna-13B-Uncensored,13000000000
 ehartford/Wizard-Vicuna-7B-Uncensored,7000000000
 ehartford/WizardLM-1.0-Uncensored-Llama2-13b,13000000000
 stabilityai/StableBeluga2,70000000000
+NousResearch/Nous-Hermes-Llama2-70b,70000000000
 stabilityai/StableBeluga-13B,13000000000
 stabilityai/StableBeluga-7B,7000000000
 meta-llama/Llama-2-70b-chat-hf,70000000000
@@ -366,3 +367,4 @@ koboldcpp/pythia-13b-deduped-green_devil,13000000000
 koboldcpp/MythoMax-L2-13b,13000000000
 koboldcpp/LLaMA2-13B-Holomax,13000000000
 koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b,13000000000
+koboldcpp/Nous-Hermes-Llama2-70b,70000000000
