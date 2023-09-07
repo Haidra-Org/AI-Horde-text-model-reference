@@ -1016,6 +1016,78 @@
         "style": "generalist",
         "nsfw": false
     },
+    "PygmalionAI/pygmalion-2-13b": {
+        "name": "PygmalionAI/pygmalion-2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "PygmalionAI/mythalion-13b": {
+        "name": "PygmalionAI/mythalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-7b": {
+        "name": "tiiuae/falcon-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-7b-instruct": {
+        "name": "tiiuae/falcon-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-40b": {
+        "name": "tiiuae/falcon-40b",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-40b-instruct": {
+        "name": "tiiuae/falcon-40b-instruct",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-180B": {
+        "name": "tiiuae/falcon-180B",
+        "baseline": "opt",
+        "parameters": 180000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "tiiuae/falcon-180B-chat": {
+        "name": "tiiuae/falcon-180B-chat",
+        "baseline": "opt",
+        "parameters": 180000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "baseline": "opt",
@@ -2631,6 +2703,78 @@
         "name": "koboldcpp/pygmalion-6b",
         "baseline": "opt",
         "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/pygmalion-2-13b": {
+        "name": "koboldcpp/pygmalion-2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mythalion-13b": {
+        "name": "koboldcpp/mythalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-7b": {
+        "name": "koboldcpp/falcon-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-7b-instruct": {
+        "name": "koboldcpp/falcon-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-40b": {
+        "name": "koboldcpp/falcon-40b",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-40b-instruct": {
+        "name": "koboldcpp/falcon-40b-instruct",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-180B": {
+        "name": "koboldcpp/falcon-180B",
+        "baseline": "opt",
+        "parameters": 180000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/falcon-180B-chat": {
+        "name": "koboldcpp/falcon-180B-chat",
+        "baseline": "opt",
+        "parameters": 180000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
