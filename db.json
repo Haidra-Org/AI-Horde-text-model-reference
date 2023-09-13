@@ -1718,6 +1718,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Undi95/ReMM-SLERP-L2-13B": {
+        "name": "Undi95/ReMM-SLERP-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3432,6 +3441,15 @@
         "name": "koboldcpp/Nous-Hermes-Llama2-70b",
         "baseline": "opt",
         "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/ReMM-SLERP-L2-13B": {
+        "name": "koboldcpp/ReMM-SLERP-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
