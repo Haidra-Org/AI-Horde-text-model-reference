@@ -1727,6 +1727,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Xwin-LM/Xwin-LM-70B-V0.1": {
+        "name": "Xwin-LM/Xwin-LM-70B-V0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3450,6 +3459,15 @@
         "name": "koboldcpp/ReMM-SLERP-L2-13B",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Xwin-LM-70B-V0.1": {
+        "name": "koboldcpp/Xwin-LM-70B-V0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
