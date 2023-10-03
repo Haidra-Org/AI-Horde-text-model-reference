@@ -347,6 +347,8 @@ koboldcpp/airoboros-65b-gpt4-1.2,65000000000
 koboldcpp/airoboros-33b-gpt4-1.4,33000000000
 koboldcpp/airoboros-33b-gpt4-1.2,33000000000
 koboldcpp/airoboros-33b-gpt4-1.3,33000000000
+koboldcpp/airoboros-l2-13b-2.2,13000000000
+koboldcpp/airoboros-l2-7b-2.2,7000000000
 koboldcpp/chronos-13b,13000000000
 koboldcpp/chronos-13b-v2,13000000000
 koboldcpp/chronos-33b,30000000000
