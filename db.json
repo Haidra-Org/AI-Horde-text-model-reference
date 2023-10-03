@@ -1745,6 +1745,24 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Undi95/Emerhyst-13B": {
+        "name": "Undi95/Emerhyst-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Undi95/Emerhyst-20B": {
+        "name": "Undi95/Emerhyst-20B",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3502,6 +3520,24 @@
     },
     "koboldcpp/MLewd-ReMM-L2-Chat-20B": {
         "name": "koboldcpp/MLewd-ReMM-L2-Chat-20B",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Emerhyst-13B": {
+        "name": "koboldcpp/Emerhyst-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Emerhyst-20B": {
+        "name": "koboldcpp/Emerhyst-20B",
         "baseline": "opt",
         "parameters": 20000000000,
         "description": "Add me",
