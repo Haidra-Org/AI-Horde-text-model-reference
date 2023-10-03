@@ -194,6 +194,7 @@ openaccess-ai-collective/manticore-13b,13000000000
 Gryphe/MythoMax-L2-13b,13000000000
 Undi95/ReMM-SLERP-L2-13B,13000000000
 Xwin-LM/Xwin-LM-70B-V0.1,70000000000
+Undi95/MLewd-ReMM-L2-Chat-20B,20000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
 koboldcpp/bloom-3b,3000000000
@@ -388,3 +389,4 @@ koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b,13000000000
 koboldcpp/Nous-Hermes-Llama2-70b,70000000000
 koboldcpp/ReMM-SLERP-L2-13B,13000000000
 koboldcpp/Xwin-LM-70B-V0.1,70000000000
+koboldcpp/MLewd-ReMM-L2-Chat-20B,20000000000
