@@ -1763,6 +1763,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Undi95/Amethyst-13B-Mistral": {
+        "name": "Undi95/Amethyst-13B-Mistral",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3540,6 +3549,15 @@
         "name": "koboldcpp/Emerhyst-20B",
         "baseline": "opt",
         "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Amethyst-13B-Mistral": {
+        "name": "koboldcpp/Amethyst-13B-Mistral",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
