@@ -1772,6 +1772,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Henk717/spring-dragon": {
+        "name": "Henk717/spring-dragon",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
@@ -3556,6 +3565,15 @@
     },
     "koboldcpp/Amethyst-13B-Mistral": {
         "name": "koboldcpp/Amethyst-13B-Mistral",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/spring-dragon": {
+        "name": "koboldcpp/spring-dragon",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",
