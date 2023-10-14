@@ -112,6 +112,7 @@ PygmalionAI/pygmalion-1.3b,1300000000
 PygmalionAI/pygmalion-2.7b,2700000000
 PygmalionAI/pygmalion-350m,350000000
 PygmalionAI/pygmalion-6b,6000000000
+PygmalionAI/pygmalion-2-7b,7000000000
 PygmalionAI/pygmalion-2-13b,13000000000
 PygmalionAI/mythalion-13b,13000000000
 tiiuae/falcon-7b,7000000000
@@ -193,7 +194,10 @@ openaccess-ai-collective/manticore-13b,13000000000
 openaccess-ai-collective/manticore-13b,13000000000
 Gryphe/MythoMax-L2-13b,13000000000
 Undi95/ReMM-SLERP-L2-13B,13000000000
+Xwin-LM/Xwin-LM-7B-V0.1,7000000000
+Xwin-LM/Xwin-LM-13B-V0.1,13000000000
 Xwin-LM/Xwin-LM-70B-V0.1,70000000000
+Sao10K/Stheno-1.8-L2-13B,13000000000
 Undi95/MLewd-ReMM-L2-Chat-20B,20000000000
 Undi95/Emerhyst-13B,13000000000
 Undi95/Emerhyst-20B,20000000000
@@ -201,6 +205,9 @@ Undi95/Amethyst-13B-Mistral,13000000000
 Undi95/MXLewd-L2-20B,20000000000
 Undi95/MXLewdMini-L2-13B,13000000000
 Henk717/spring-dragon,13000000000
+mistralai/Mistral-7B-v0.1,7000000000
+mistralai/Mistral-7B-Instruct-v0.1,7000000000
+Norquinal/Mistral-7B-claude-chat,7000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
 koboldcpp/bloom-3b,3000000000
@@ -311,6 +318,7 @@ koboldcpp/pygmalion-1.3b,1300000000
 koboldcpp/pygmalion-2.7b,2700000000
 koboldcpp/pygmalion-350m,350000000
 koboldcpp/pygmalion-6b,6000000000
+koboldcpp/pygmalion-2-7b,7000000000
 koboldcpp/pygmalion-2-13b,13000000000
 koboldcpp/mythalion-13b,13000000000
 koboldcpp/falcon-7b,7000000000
@@ -396,7 +404,10 @@ koboldcpp/LLaMA2-13B-Holomax,13000000000
 koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b,13000000000
 koboldcpp/Nous-Hermes-Llama2-70b,70000000000
 koboldcpp/ReMM-SLERP-L2-13B,13000000000
+koboldcpp/Xwin-LM-7B-V0.1,7000000000
+koboldcpp/Xwin-LM-13B-V0.1,13000000000
 koboldcpp/Xwin-LM-70B-V0.1,70000000000
+koboldcpp/Stheno-1.8-L2-13B,13000000000
 koboldcpp/MLewd-ReMM-L2-Chat-20B,20000000000
 koboldcpp/Emerhyst-13B,13000000000
 koboldcpp/Emerhyst-20B,20000000000
@@ -404,3 +415,6 @@ koboldcpp/Amethyst-13B-Mistral,13000000000
 koboldcpp/spring-dragon,13000000000
 koboldcpp/MXLewd-L2-20B,20000000000
 koboldcpp/MXLewdMini-L2-13B,13000000000
+koboldcpp/Mistral-7B-v0.1,7000000000
+koboldcpp/Mistral-7B-Instruct-v0.1,7000000000
+koboldcpp/Mistral-7B-claude-chat,7000000000

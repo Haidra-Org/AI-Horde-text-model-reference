@@ -1016,6 +1016,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "PygmalionAI/pygmalion-2-7b": {
+        "name": "PygmalionAI/pygmalion-2-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "PygmalionAI/pygmalion-2-13b": {
         "name": "PygmalionAI/pygmalion-2-13b",
         "baseline": "opt",
@@ -1727,10 +1736,37 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Xwin-LM/Xwin-LM-7B-V0.1": {
+        "name": "Xwin-LM/Xwin-LM-7B-V0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Xwin-LM/Xwin-LM-13B-V0.1": {
+        "name": "Xwin-LM/Xwin-LM-13B-V0.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Xwin-LM/Xwin-LM-70B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-70B-V0.1",
         "baseline": "opt",
         "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Sao10K/Stheno-1.8-L2-13B": {
+        "name": "Sao10K/Stheno-1.8-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -1794,6 +1830,33 @@
         "name": "Henk717/spring-dragon",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mistralai/Mistral-7B-v0.1": {
+        "name": "mistralai/Mistral-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mistralai/Mistral-7B-Instruct-v0.1": {
+        "name": "mistralai/Mistral-7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Norquinal/Mistral-7B-claude-chat": {
+        "name": "Norquinal/Mistral-7B-claude-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -2789,6 +2852,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/pygmalion-2-7b": {
+        "name": "koboldcpp/pygmalion-2-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/pygmalion-2-13b": {
         "name": "koboldcpp/pygmalion-2-13b",
         "baseline": "opt",
@@ -3545,10 +3617,37 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/Xwin-LM-7B-V0.1": {
+        "name": "koboldcpp/Xwin-LM-7B-V0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Xwin-LM-13B-V0.1": {
+        "name": "koboldcpp/Xwin-LM-13B-V0.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/Xwin-LM-70B-V0.1": {
         "name": "koboldcpp/Xwin-LM-70B-V0.1",
         "baseline": "opt",
         "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Stheno-1.8-L2-13B": {
+        "name": "koboldcpp/Stheno-1.8-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -3612,6 +3711,33 @@
         "name": "koboldcpp/MXLewdMini-L2-13B",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-7B-v0.1": {
+        "name": "koboldcpp/Mistral-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-7B-Instruct-v0.1": {
+        "name": "koboldcpp/Mistral-7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-7B-claude-chat": {
+        "name": "koboldcpp/Mistral-7B-claude-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
