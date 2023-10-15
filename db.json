@@ -1736,6 +1736,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Undi95/Xwin-MLewd-13B-V0.2": {
+        "name": "Undi95/Xwin-MLewd-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Xwin-LM/Xwin-LM-7B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-7B-V0.1",
         "baseline": "opt",
@@ -1756,6 +1765,33 @@
     },
     "Xwin-LM/Xwin-LM-70B-V0.1": {
         "name": "Xwin-LM/Xwin-LM-70B-V0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Xwin-LM/Xwin-LM-7B-V0.2": {
+        "name": "Xwin-LM/Xwin-LM-7B-V0.2",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Xwin-LM/Xwin-LM-13B-V0.2": {
+        "name": "Xwin-LM/Xwin-LM-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Xwin-LM/Xwin-LM-70B-V0.2": {
+        "name": "Xwin-LM/Xwin-LM-70B-V0.2",
         "baseline": "opt",
         "parameters": 70000000000,
         "description": "Add me",
@@ -3617,6 +3653,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/Xwin-MLewd-13B-V0.2": {
+        "name": "koboldcpp/Xwin-MLewd-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/Xwin-LM-7B-V0.1": {
         "name": "koboldcpp/Xwin-LM-7B-V0.1",
         "baseline": "opt",
@@ -3637,6 +3682,33 @@
     },
     "koboldcpp/Xwin-LM-70B-V0.1": {
         "name": "koboldcpp/Xwin-LM-70B-V0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Xwin-LM-7B-V0.2": {
+        "name": "koboldcpp/Xwin-LM-7B-V0.2",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Xwin-LM-13B-V0.2": {
+        "name": "koboldcpp/Xwin-LM-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Xwin-LM-70B-V0.2": {
+        "name": "koboldcpp/Xwin-LM-70B-V0.2",
         "baseline": "opt",
         "parameters": 70000000000,
         "description": "Add me",
