@@ -3293,6 +3293,24 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/airoboros-m-7b-3.0": {
+        "name": "koboldcpp/airoboros-m-7b-3.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/airoboros-m-7b-3.1": {
+        "name": "koboldcpp/airoboros-m-7b-3.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/chronos-13b": {
         "name": "koboldcpp/chronos-13b",
         "baseline": "opt",
