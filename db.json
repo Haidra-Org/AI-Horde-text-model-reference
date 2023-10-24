@@ -1925,6 +1925,1932 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/bigscience/bloom": {
+        "name": "aphrodite/bigscience/bloom",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloom-1b7": {
+        "name": "aphrodite/bigscience/bloom-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloom-3b": {
+        "name": "aphrodite/bigscience/bloom-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloom-560m": {
+        "name": "aphrodite/bigscience/bloom-560m",
+        "baseline": "opt",
+        "parameters": 560000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloom-7b1": {
+        "name": "aphrodite/bigscience/bloom-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloomz": {
+        "name": "aphrodite/bigscience/bloomz",
+        "baseline": "opt",
+        "parameters": 176000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloomz-1b7": {
+        "name": "aphrodite/bigscience/bloomz-1b7",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloomz-3b": {
+        "name": "aphrodite/bigscience/bloomz-3b",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bigscience/bloomz-7b1": {
+        "name": "aphrodite/bigscience/bloomz-7b1",
+        "baseline": "opt",
+        "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/digitous/GPT-R": {
+        "name": "aphrodite/digitous/GPT-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/digitous/Javelin-R": {
+        "name": "aphrodite/digitous/Javelin-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/digitous/Janin-R": {
+        "name": "aphrodite/digitous/Janin-R",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/gpt-j-6B": {
+        "name": "aphrodite/EleutherAI/gpt-j-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/gpt-neo-1.3B": {
+        "name": "aphrodite/EleutherAI/gpt-neo-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/gpt-neo-125M": {
+        "name": "aphrodite/EleutherAI/gpt-neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/gpt-neo-2.7B": {
+        "name": "aphrodite/EleutherAI/gpt-neo-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/gpt-neox-20b": {
+        "name": "aphrodite/EleutherAI/gpt-neox-20b",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1.3b": {
+        "name": "aphrodite/EleutherAI/pythia-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1.3b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-1.3b-deduped",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1.4b": {
+        "name": "aphrodite/EleutherAI/pythia-1.4b",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1.4b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-1.4b-deduped",
+        "baseline": "opt",
+        "parameters": 1400000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-125m": {
+        "name": "aphrodite/EleutherAI/pythia-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-125m-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-125m-deduped",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-12b": {
+        "name": "aphrodite/EleutherAI/pythia-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-12b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-12b-deduped",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-13b": {
+        "name": "aphrodite/EleutherAI/pythia-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-13b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-13b-deduped",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-160m": {
+        "name": "aphrodite/EleutherAI/pythia-160m",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-160m-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-160m-deduped",
+        "baseline": "opt",
+        "parameters": 160000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1b": {
+        "name": "aphrodite/EleutherAI/pythia-1b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-1b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-1b-deduped",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-2.8b": {
+        "name": "aphrodite/EleutherAI/pythia-2.8b",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-2.8b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-2.8b-deduped",
+        "baseline": "opt",
+        "parameters": 2800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-350m": {
+        "name": "aphrodite/EleutherAI/pythia-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-350m-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-350m-deduped",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-410m": {
+        "name": "aphrodite/EleutherAI/pythia-410m",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-410m-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-410m-deduped",
+        "baseline": "opt",
+        "parameters": 410000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-6.7b": {
+        "name": "aphrodite/EleutherAI/pythia-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-6.7b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-6.7b-deduped",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-6.9b": {
+        "name": "aphrodite/EleutherAI/pythia-6.9b",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-6.9b-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-6.9b-deduped",
+        "baseline": "opt",
+        "parameters": 6900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-70m": {
+        "name": "aphrodite/EleutherAI/pythia-70m",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-70m-deduped": {
+        "name": "aphrodite/EleutherAI/pythia-70m-deduped",
+        "baseline": "opt",
+        "parameters": 70000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/EleutherAI/pythia-800m": {
+        "name": "aphrodite/EleutherAI/pythia-800m",
+        "baseline": "opt",
+        "parameters": 800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-1.3b": {
+        "name": "aphrodite/facebook/opt-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-125m": {
+        "name": "aphrodite/facebook/opt-125m",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-13b": {
+        "name": "aphrodite/facebook/opt-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-2.7b": {
+        "name": "aphrodite/facebook/opt-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-30b": {
+        "name": "aphrodite/facebook/opt-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-350m": {
+        "name": "aphrodite/facebook/opt-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-6.7b": {
+        "name": "aphrodite/facebook/opt-6.7b",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-66b": {
+        "name": "aphrodite/facebook/opt-66b",
+        "baseline": "opt",
+        "parameters": 66000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-iml-1.3b": {
+        "name": "aphrodite/facebook/opt-iml-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/opt-iml-max-30b": {
+        "name": "aphrodite/facebook/opt-iml-max-30b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/xglm-1.7B": {
+        "name": "aphrodite/facebook/xglm-1.7B",
+        "baseline": "opt",
+        "parameters": 1700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/xglm-2.9B": {
+        "name": "aphrodite/facebook/xglm-2.9B",
+        "baseline": "opt",
+        "parameters": 2900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/xglm-4.5B": {
+        "name": "aphrodite/facebook/xglm-4.5B",
+        "baseline": "opt",
+        "parameters": 4500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/xglm-564M": {
+        "name": "aphrodite/facebook/xglm-564M",
+        "baseline": "opt",
+        "parameters": 564000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/facebook/xglm-7.5B": {
+        "name": "aphrodite/facebook/xglm-7.5B",
+        "baseline": "opt",
+        "parameters": 7500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/gpt2": {
+        "name": "aphrodite/gpt2",
+        "baseline": "opt",
+        "parameters": 124000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/gpt2-large": {
+        "name": "aphrodite/gpt2-large",
+        "baseline": "opt",
+        "parameters": 774000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/gpt2-medium": {
+        "name": "aphrodite/gpt2-medium",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/gpt2-xl": {
+        "name": "aphrodite/gpt2-xl",
+        "baseline": "opt",
+        "parameters": 1500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/hakurei/lit-6B": {
+        "name": "aphrodite/hakurei/lit-6B",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/hakurei/lotus-12B": {
+        "name": "aphrodite/hakurei/lotus-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-1.3B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-1.3B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-125M": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B-Janeway": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Janeway",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B-Nerys": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Nerys",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B-Nerys-v2": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B-Shinen": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Shinen",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-2.7B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-2.7B",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-2.7B-Janeway": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-2.7B-Nerys": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-2.7B-Nerys",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-355M": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-355M",
+        "baseline": "opt",
+        "parameters": 355000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-6.7B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-6.7B",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-6.7B-Janeway": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-6.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/fairseq-dense-6.7B-Shinen": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-6.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-J-6B-Adventure": {
+        "name": "aphrodite/KoboldAI/GPT-J-6B-Adventure",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-J-6B-Janeway": {
+        "name": "aphrodite/KoboldAI/GPT-J-6B-Janeway",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-J-6B-Shinen": {
+        "name": "aphrodite/KoboldAI/GPT-J-6B-Shinen",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-J-6B-Skein": {
+        "name": "aphrodite/KoboldAI/GPT-J-6B-Skein",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-1.3B-Adventure": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-1.3B-Adventure",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-1.3B-Ramsay": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-1.3B-Ramsay",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-AID": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-AID",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni-LN": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni-LN",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Janeway": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Janeway",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Picard": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Picard",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Shinen": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Shinen",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-NeoX-20B-Erebus": {
+        "name": "aphrodite/KoboldAI/GPT-NeoX-20B-Erebus",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/GPT-NeoX-20B-Skein": {
+        "name": "aphrodite/KoboldAI/GPT-NeoX-20B-Skein",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-13B-Erebus": {
+        "name": "aphrodite/KoboldAI/OPT-13B-Erebus",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-13B-Nerys-v2": {
+        "name": "aphrodite/KoboldAI/OPT-13B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-2.7B-Erebus": {
+        "name": "aphrodite/KoboldAI/OPT-2.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-2.7B-Nerys-v2": {
+        "name": "aphrodite/KoboldAI/OPT-2.7B-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-30B-Erebus": {
+        "name": "aphrodite/KoboldAI/OPT-30B-Erebus",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-350M-Erebus": {
+        "name": "aphrodite/KoboldAI/OPT-350M-Erebus",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-350M-Nerys-v2": {
+        "name": "aphrodite/KoboldAI/OPT-350M-Nerys-v2",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-6.7B-Erebus": {
+        "name": "aphrodite/KoboldAI/OPT-6.7B-Erebus",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-6B-nerys-v2": {
+        "name": "aphrodite/KoboldAI/OPT-6B-nerys-v2",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-2.7B-Nerybus-Mix": {
+        "name": "aphrodite/KoboldAI/OPT-2.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-6.7B-Nerybus-Mix": {
+        "name": "aphrodite/KoboldAI/OPT-6.7B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 6700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/OPT-13B-Nerybus-Mix": {
+        "name": "aphrodite/KoboldAI/OPT-13B-Nerybus-Mix",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLAMA2-13B-Holodeck-1": {
+        "name": "aphrodite/KoboldAI/LLAMA2-13B-Holodeck-1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLaMA2-13B-Holomax": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-Holomax",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLaMA2-13B-Tiefighter": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-Tiefighter",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLaMA2-13B-TieWriter": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-TieWriter",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Pirr/pythia-13b-deduped-green_devil": {
+        "name": "aphrodite/Pirr/pythia-13b-deduped-green_devil",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Merry/AID-Neo-125M": {
+        "name": "aphrodite/Merry/AID-Neo-125M",
+        "baseline": "opt",
+        "parameters": 125000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-1.3b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-1.3b",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-2.7b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-2.7b",
+        "baseline": "opt",
+        "parameters": 2700000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-350m": {
+        "name": "aphrodite/PygmalionAI/pygmalion-350m",
+        "baseline": "opt",
+        "parameters": 350000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-6b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-2-7b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-2-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-2-13b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/mythalion-13b": {
+        "name": "aphrodite/PygmalionAI/mythalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-7b": {
+        "name": "aphrodite/tiiuae/falcon-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-7b-instruct": {
+        "name": "aphrodite/tiiuae/falcon-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-40b": {
+        "name": "aphrodite/tiiuae/falcon-40b",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-40b-instruct": {
+        "name": "aphrodite/tiiuae/falcon-40b-instruct",
+        "baseline": "opt",
+        "parameters": 40000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-180B": {
+        "name": "aphrodite/tiiuae/falcon-180B",
+        "baseline": "opt",
+        "parameters": 180000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/tiiuae/falcon-180B-chat": {
+        "name": "aphrodite/tiiuae/falcon-180B-chat",
+        "baseline": "opt",
+        "parameters": 180000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/rexwang8/qilin-lit-6b": {
+        "name": "aphrodite/rexwang8/qilin-lit-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/GPT-JT-6B-v0": {
+        "name": "aphrodite/togethercomputer/GPT-JT-6B-v0",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/GPT-JT-6B-v1": {
+        "name": "aphrodite/togethercomputer/GPT-JT-6B-v1",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/OpenAssistant/oasst-sft-1-pythia-12b": {
+        "name": "aphrodite/OpenAssistant/oasst-sft-1-pythia-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/PPO_Pygway-6b-Mix": {
+        "name": "aphrodite/KoboldAI/PPO_Pygway-6b-Mix",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/PPO_Pygway-V8p4_Dev-6b": {
+        "name": "aphrodite/TehVenom/PPO_Pygway-V8p4_Dev-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/TehVenom_PPO_Shygmalion-6b": {
+        "name": "aphrodite/TehVenom/TehVenom_PPO_Shygmalion-6b",
+        "baseline": "opt",
+        "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-7b": {
+        "name": "aphrodite/mosaicml/mpt-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-7b-storywriter": {
+        "name": "aphrodite/mosaicml/mpt-7b-storywriter",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-7b-chat": {
+        "name": "aphrodite/mosaicml/mpt-7b-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-7b-instruct": {
+        "name": "aphrodite/mosaicml/mpt-7b-instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/MPT-7b-Apache-2.0": {
+        "name": "aphrodite/TehVenom/MPT-7b-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/MPT-7b-storywriter-Apache-2.0": {
+        "name": "aphrodite/TehVenom/MPT-7b-storywriter-Apache-2.0",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge": {
+        "name": "aphrodite/TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/mpt-7b-InstructAndStorywriting-75_25-Merge": {
+        "name": "aphrodite/TehVenom/mpt-7b-InstructAndStorywriting-75_25-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge": {
+        "name": "aphrodite/TehVenom/MPT-7b-Chat-Instruct-LongCTX-Merge",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-1b-redpajama-200b": {
+        "name": "aphrodite/mosaicml/mpt-1b-redpajama-200b",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mosaicml/mpt-1b-redpajama-200b-dolly": {
+        "name": "aphrodite/mosaicml/mpt-1b-redpajama-200b-dolly",
+        "baseline": "opt",
+        "parameters": 1000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Base-7B-v0.1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Base-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Chat-3B-v1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Chat-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Instruct-3B-v1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Instruct-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/togethercomputer/RedPajama-INCITE-Base-3B-v1": {
+        "name": "aphrodite/togethercomputer/RedPajama-INCITE-Base-3B-v1",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-7b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/PygmalionAI/pygmalion-13b": {
+        "name": "aphrodite/PygmalionAI/pygmalion-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Henk717/airochronos-33B": {
+        "name": "aphrodite/Henk717/airochronos-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Henk717/chronoboros-33B": {
+        "name": "aphrodite/Henk717/chronoboros-33B",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-65b-gpt4-1.4": {
+        "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-65b-gpt4-1.3": {
+        "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-65b-gpt4-1.2": {
+        "name": "aphrodite/jondurbin/airoboros-65b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-33b-gpt4-1.4": {
+        "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.4",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-33b-gpt4-1.2": {
+        "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.2",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/jondurbin/airoboros-33b-gpt4-1.3": {
+        "name": "aphrodite/jondurbin/airoboros-33b-gpt4-1.3",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/chronos-13b": {
+        "name": "aphrodite/elinas/chronos-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/chronos-13b-v2": {
+        "name": "aphrodite/elinas/chronos-13b-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/chronos-33b": {
+        "name": "aphrodite/elinas/chronos-33b",
+        "baseline": "opt",
+        "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Austism/chronos-hermes-13b": {
+        "name": "aphrodite/Austism/chronos-hermes-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Austism/chronos-hermes-13b-v2": {
+        "name": "aphrodite/Austism/chronos-hermes-13b-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CalderaAI/30B-Lazarus": {
+        "name": "aphrodite/CalderaAI/30B-Lazarus",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/chavinlo/gpt4-x-alpaca": {
+        "name": "aphrodite/chavinlo/gpt4-x-alpaca",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-33B-V1.0-Uncensored": {
+        "name": "aphrodite/ehartford/WizardLM-33B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-13B-V1.0-Uncensored": {
+        "name": "aphrodite/ehartford/WizardLM-13B-V1.0-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-30B-Uncensored": {
+        "name": "aphrodite/ehartford/WizardLM-30B-Uncensored",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-13B-Uncensored": {
+        "name": "aphrodite/ehartford/WizardLM-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-7B-Uncensored": {
+        "name": "aphrodite/ehartford/WizardLM-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/Wizard-Vicuna-13B-Uncensored": {
+        "name": "aphrodite/ehartford/Wizard-Vicuna-13B-Uncensored",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/Wizard-Vicuna-7B-Uncensored": {
+        "name": "aphrodite/ehartford/Wizard-Vicuna-7B-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ehartford/WizardLM-1.0-Uncensored-Llama2-13b": {
+        "name": "aphrodite/ehartford/WizardLM-1.0-Uncensored-Llama2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/stabilityai/StableBeluga2": {
+        "name": "aphrodite/stabilityai/StableBeluga2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NousResearch/Nous-Hermes-Llama2-70b": {
+        "name": "aphrodite/NousResearch/Nous-Hermes-Llama2-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/stabilityai/StableBeluga-13B": {
+        "name": "aphrodite/stabilityai/StableBeluga-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/stabilityai/StableBeluga-7B": {
+        "name": "aphrodite/stabilityai/StableBeluga-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-70b-chat-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-70b-chat-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-70b-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-70b-hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-13b-chat-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-13b-chat-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-13b-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-13b-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-7b-chat-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-7b-chat-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Llama-2-7b-hf": {
+        "name": "aphrodite/meta-llama/Llama-2-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NousResearch/Redmond-Puffin-13B": {
+        "name": "aphrodite/NousResearch/Redmond-Puffin-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NousResearch/Nous-Hermes-Llama2-13b": {
+        "name": "aphrodite/NousResearch/Nous-Hermes-Llama2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CalderaAI/13B-Ouroboros": {
+        "name": "aphrodite/CalderaAI/13B-Ouroboros",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CalderaAI/13B-BlueMethod": {
+        "name": "aphrodite/CalderaAI/13B-BlueMethod",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Tap-M/Luna-AI-Llama2-Uncensored": {
+        "name": "aphrodite/Tap-M/Luna-AI-Llama2-Uncensored",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Aeala/Enterredaas-65b": {
+        "name": "aphrodite/Aeala/Enterredaas-65b",
+        "baseline": "opt",
+        "parameters": 65000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Aeala/Enterredaas-33b": {
+        "name": "aphrodite/Aeala/Enterredaas-33b",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CalderaAI/30B-Epsilon": {
+        "name": "aphrodite/CalderaAI/30B-Epsilon",
+        "baseline": "opt",
+        "parameters": 33000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mlabonne/llama-2-7b-guanaco": {
+        "name": "aphrodite/mlabonne/llama-2-7b-guanaco",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/openaccess-ai-collective/manticore-13b": {
+        "name": "aphrodite/openaccess-ai-collective/manticore-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Gryphe/MythoMax-L2-13b": {
+        "name": "aphrodite/Gryphe/MythoMax-L2-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/ReMM-SLERP-L2-13B": {
+        "name": "aphrodite/Undi95/ReMM-SLERP-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/Xwin-MLewd-13B-V0.2": {
+        "name": "aphrodite/Undi95/Xwin-MLewd-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-7B-V0.1": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-7B-V0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-13B-V0.1": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-13B-V0.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-70B-V0.1": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-70B-V0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-7B-V0.2": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-7B-V0.2",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-13B-V0.2": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-13B-V0.2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Xwin-LM/Xwin-LM-70B-V0.2": {
+        "name": "aphrodite/Xwin-LM/Xwin-LM-70B-V0.2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Sao10K/Stheno-1.8-L2-13B": {
+        "name": "aphrodite/Sao10K/Stheno-1.8-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B": {
+        "name": "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/Emerhyst-13B": {
+        "name": "aphrodite/Undi95/Emerhyst-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/Emerhyst-20B": {
+        "name": "aphrodite/Undi95/Emerhyst-20B",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/Amethyst-13B-Mistral": {
+        "name": "aphrodite/Undi95/Amethyst-13B-Mistral",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/MXLewd-L2-20B": {
+        "name": "aphrodite/Undi95/MXLewd-L2-20B",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/MXLewdMini-L2-13B": {
+        "name": "aphrodite/Undi95/MXLewdMini-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Henk717/spring-dragon": {
+        "name": "aphrodite/Henk717/spring-dragon",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-7B-v0.1": {
+        "name": "aphrodite/mistralai/Mistral-7B-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-7B-Instruct-v0.1": {
+        "name": "aphrodite/mistralai/Mistral-7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Norquinal/Mistral-7B-claude-chat": {
+        "name": "aphrodite/Norquinal/Mistral-7B-claude-chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/bloom": {
         "name": "koboldcpp/bloom",
         "baseline": "opt",
