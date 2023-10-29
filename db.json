@@ -80,6 +80,60 @@
         "style": "generalist",
         "nsfw": false
     },
+    "codellama/CodeLlama-7b-hf": {
+        "name": "codellama/CodeLlama-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "codellama/CodeLlama-7b-Instruct-hf": {
+        "name": "codellama/CodeLlama-7b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "codellama/CodeLlama-13b-hf": {
+        "name": "codellama/CodeLlama-13b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "codellama/CodeLlama-13b-Instruct-hf": {
+        "name": "codellama/CodeLlama-13b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "codellama/CodeLlama-34b-hf": {
+        "name": "codellama/CodeLlama-34b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "codellama/CodeLlama-34b-Instruct-hf": {
+        "name": "codellama/CodeLlama-34b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "baseline": "opt",
@@ -2015,6 +2069,60 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/codellama/CodeLlama-7b-hf": {
+        "name": "aphrodite/codellama/CodeLlama-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/codellama/CodeLlama-7b-Instruct-hf": {
+        "name": "aphrodite/codellama/CodeLlama-7b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/codellama/CodeLlama-13b-hf": {
+        "name": "aphrodite/codellama/CodeLlama-13b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/codellama/CodeLlama-13b-Instruct-hf": {
+        "name": "aphrodite/codellama/CodeLlama-13b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/codellama/CodeLlama-34b-hf": {
+        "name": "aphrodite/codellama/CodeLlama-34b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/codellama/CodeLlama-34b-Instruct-hf": {
+        "name": "aphrodite/codellama/CodeLlama-34b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/digitous/GPT-R": {
         "name": "aphrodite/digitous/GPT-R",
         "baseline": "opt",
@@ -3945,6 +4053,60 @@
         "name": "koboldcpp/bloomz-7b1",
         "baseline": "opt",
         "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-7b-hf": {
+        "name": "koboldcpp/CodeLlama-7b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-7b-Instruct-hf": {
+        "name": "koboldcpp/CodeLlama-7b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-13b-hf": {
+        "name": "koboldcpp/CodeLlama-13b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-13b-Instruct-hf": {
+        "name": "koboldcpp/CodeLlama-13b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-34b-hf": {
+        "name": "koboldcpp/CodeLlama-34b-hf",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/CodeLlama-34b-Instruct-hf": {
+        "name": "koboldcpp/CodeLlama-34b-Instruct-hf",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
