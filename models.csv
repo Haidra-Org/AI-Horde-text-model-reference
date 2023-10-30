@@ -157,6 +157,7 @@ togethercomputer/RedPajama-INCITE-Base-3B-v1,3000000000
 PygmalionAI/pygmalion-7b,7000000000
 PygmalionAI/pygmalion-13b,13000000000
 Henk717/airochronos-33B,33000000000
+Henk717/echidna-tiefigther-25,13000000000
 Henk717/chronoboros-33B,33000000000
 jondurbin/airoboros-65b-gpt4-1.4,65000000000
 jondurbin/airoboros-65b-gpt4-1.3,65000000000
@@ -183,6 +184,7 @@ stabilityai/StableBeluga2,70000000000
 NousResearch/Nous-Hermes-Llama2-70b,70000000000
 stabilityai/StableBeluga-13B,13000000000
 stabilityai/StableBeluga-7B,7000000000
+lizpreciatior/lzlv_70b_fp16_hf,70000000000
 meta-llama/Llama-2-70b-chat-hf,70000000000
 meta-llama/Llama-2-70b-hf,70000000000
 meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -381,6 +383,7 @@ aphrodite/togethercomputer/RedPajama-INCITE-Base-3B-v1,3000000000
 aphrodite/PygmalionAI/pygmalion-7b,7000000000
 aphrodite/PygmalionAI/pygmalion-13b,13000000000
 aphrodite/Henk717/airochronos-33B,33000000000
+aphrodite/Henk717/echidna-tiefigther-25,13000000000
 aphrodite/Henk717/chronoboros-33B,33000000000
 aphrodite/jondurbin/airoboros-65b-gpt4-1.4,65000000000
 aphrodite/jondurbin/airoboros-65b-gpt4-1.3,65000000000
@@ -407,6 +410,7 @@ aphrodite/stabilityai/StableBeluga2,70000000000
 aphrodite/NousResearch/Nous-Hermes-Llama2-70b,70000000000
 aphrodite/stabilityai/StableBeluga-13B,13000000000
 aphrodite/stabilityai/StableBeluga-7B,7000000000
+aphrodite/lizpreciatior/lzlv_70b_fp16_hf,70000000000
 aphrodite/meta-llama/Llama-2-70b-chat-hf,70000000000
 aphrodite/meta-llama/Llama-2-70b-hf,70000000000
 aphrodite/meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -598,6 +602,7 @@ koboldcpp/RedPajama-INCITE-Base-3B-v1,3000000000
 koboldcpp/pygmalion-7b,7000000000
 koboldcpp/pygmalion-13b,13000000000
 koboldcpp/airochronos-33B,33000000000
+koboldcpp/echidna-tiefigther-25,13000000000
 koboldcpp/chronoboros-33B,33000000000
 koboldcpp/airoboros-65b-gpt4-1.4,65000000000
 koboldcpp/airoboros-65b-gpt4-1.3,65000000000
@@ -627,6 +632,7 @@ koboldcpp/Wizard-Vicuna-7B-Uncensored,7000000000
 koboldcpp/StableBeluga2,70000000000
 koboldcpp/StableBeluga-13B,13000000000
 koboldcpp/StableBeluga-7B,7000000000
+koboldcpp/lzlv_70b_fp16_hf,70000000000
 koboldcpp/Llama-2-70b-chat-hf,70000000000
 koboldcpp/Llama-2-70b-hf,70000000000
 koboldcpp/Llama-2-13b-chat-hf,13000000000

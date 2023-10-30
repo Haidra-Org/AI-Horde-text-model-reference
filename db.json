@@ -1421,6 +1421,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Henk717/echidna-tiefigther-25": {
+        "name": "Henk717/echidna-tiefigther-25",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Henk717/chronoboros-33B": {
         "name": "Henk717/chronoboros-33B",
         "baseline": "opt",
@@ -1650,6 +1659,15 @@
         "name": "stabilityai/StableBeluga-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "lizpreciatior/lzlv_70b_fp16_hf": {
+        "name": "lizpreciatior/lzlv_70b_fp16_hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -3410,6 +3428,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/Henk717/echidna-tiefigther-25": {
+        "name": "aphrodite/Henk717/echidna-tiefigther-25",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/Henk717/chronoboros-33B": {
         "name": "aphrodite/Henk717/chronoboros-33B",
         "baseline": "opt",
@@ -3639,6 +3666,15 @@
         "name": "aphrodite/stabilityai/StableBeluga-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/lizpreciatior/lzlv_70b_fp16_hf": {
+        "name": "aphrodite/lizpreciatior/lzlv_70b_fp16_hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -5345,6 +5381,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/echidna-tiefigther-25": {
+        "name": "koboldcpp/echidna-tiefigther-25",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/chronoboros-33B": {
         "name": "koboldcpp/chronoboros-33B",
         "baseline": "opt",
@@ -5601,6 +5646,15 @@
         "name": "koboldcpp/StableBeluga-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/lzlv_70b_fp16_hf": {
+        "name": "koboldcpp/lzlv_70b_fp16_hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
