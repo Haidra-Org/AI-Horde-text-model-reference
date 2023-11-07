@@ -1673,6 +1673,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Sao10K/Euryale-1.3-L2-70B": {
+        "name": "Sao10K/Euryale-1.3-L2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "meta-llama/Llama-2-70b-chat-hf": {
         "name": "meta-llama/Llama-2-70b-chat-hf",
         "baseline": "opt",
@@ -3680,6 +3689,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/Sao10K/Euryale-1.3-L2-70B": {
+        "name": "aphrodite/Sao10K/Euryale-1.3-L2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/meta-llama/Llama-2-70b-chat-hf": {
         "name": "aphrodite/meta-llama/Llama-2-70b-chat-hf",
         "baseline": "opt",
@@ -5653,6 +5671,15 @@
     },
     "koboldcpp/lzlv_70b_fp16_hf": {
         "name": "koboldcpp/lzlv_70b_fp16_hf",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Euryale-1.3-L2-70B": {
+        "name": "koboldcpp/Euryale-1.3-L2-70B",
         "baseline": "opt",
         "parameters": 70000000000,
         "description": "Add me",

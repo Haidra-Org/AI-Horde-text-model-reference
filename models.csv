@@ -185,6 +185,7 @@ NousResearch/Nous-Hermes-Llama2-70b,70000000000
 stabilityai/StableBeluga-13B,13000000000
 stabilityai/StableBeluga-7B,7000000000
 lizpreciatior/lzlv_70b_fp16_hf,70000000000
+Sao10K/Euryale-1.3-L2-70B,70000000000
 meta-llama/Llama-2-70b-chat-hf,70000000000
 meta-llama/Llama-2-70b-hf,70000000000
 meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -411,6 +412,7 @@ aphrodite/NousResearch/Nous-Hermes-Llama2-70b,70000000000
 aphrodite/stabilityai/StableBeluga-13B,13000000000
 aphrodite/stabilityai/StableBeluga-7B,7000000000
 aphrodite/lizpreciatior/lzlv_70b_fp16_hf,70000000000
+aphrodite/Sao10K/Euryale-1.3-L2-70B,70000000000
 aphrodite/meta-llama/Llama-2-70b-chat-hf,70000000000
 aphrodite/meta-llama/Llama-2-70b-hf,70000000000
 aphrodite/meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -633,6 +635,7 @@ koboldcpp/StableBeluga2,70000000000
 koboldcpp/StableBeluga-13B,13000000000
 koboldcpp/StableBeluga-7B,7000000000
 koboldcpp/lzlv_70b_fp16_hf,70000000000
+koboldcpp/Euryale-1.3-L2-70B,70000000000
 koboldcpp/Llama-2-70b-chat-hf,70000000000
 koboldcpp/Llama-2-70b-hf,70000000000
 koboldcpp/Llama-2-13b-chat-hf,13000000000
