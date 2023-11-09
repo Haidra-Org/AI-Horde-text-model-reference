@@ -1520,6 +1520,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "elinas/chronos007-70b": {
+        "name": "elinas/chronos007-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Austism/chronos-hermes-13b": {
         "name": "Austism/chronos-hermes-13b",
         "baseline": "opt",
@@ -3536,6 +3545,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/elinas/chronos007-70b": {
+        "name": "aphrodite/elinas/chronos007-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/Austism/chronos-hermes-13b": {
         "name": "aphrodite/Austism/chronos-hermes-13b",
         "baseline": "opt",
@@ -5538,6 +5556,15 @@
         "name": "koboldcpp/chronos-33b",
         "baseline": "opt",
         "parameters": 30000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronos007-70b": {
+        "name": "koboldcpp/chronos007-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
