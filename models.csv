@@ -216,6 +216,7 @@ Xwin-LM/Xwin-LM-13B-V0.2,13000000000
 Xwin-LM/Xwin-LM-70B-V0.2,70000000000
 Sao10K/Stheno-1.8-L2-13B,13000000000
 Undi95/MLewd-ReMM-L2-Chat-20B,20000000000
+Undi95/MLewd-ReMM-L2-Chat-20B-Inverted,20000000000
 Undi95/Emerhyst-13B,13000000000
 Undi95/Emerhyst-20B,20000000000
 Undi95/Amethyst-13B-Mistral,13000000000
@@ -444,6 +445,7 @@ aphrodite/Xwin-LM/Xwin-LM-13B-V0.2,13000000000
 aphrodite/Xwin-LM/Xwin-LM-70B-V0.2,70000000000
 aphrodite/Sao10K/Stheno-1.8-L2-13B,13000000000
 aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B,20000000000
+aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted,20000000000
 aphrodite/Undi95/Emerhyst-13B,13000000000
 aphrodite/Undi95/Emerhyst-20B,20000000000
 aphrodite/Undi95/Amethyst-13B-Mistral,13000000000
@@ -675,6 +677,7 @@ koboldcpp/Xwin-LM-13B-V0.2,13000000000
 koboldcpp/Xwin-LM-70B-V0.2,70000000000
 koboldcpp/Stheno-1.8-L2-13B,13000000000
 koboldcpp/MLewd-ReMM-L2-Chat-20B,20000000000
+koboldcpp/MLewd-ReMM-L2-Chat-20B-Inverted,20000000000
 koboldcpp/Emerhyst-13B,13000000000
 koboldcpp/Emerhyst-20B,20000000000
 koboldcpp/Amethyst-13B-Mistral,13000000000
