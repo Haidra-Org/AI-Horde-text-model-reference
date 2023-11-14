@@ -2024,6 +2024,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Walmart-the-bag/Misted-7B": {
+        "name": "Walmart-the-bag/Misted-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NeverSleep/Echidna-13b-v0.3": {
         "name": "NeverSleep/Echidna-13b-v0.3",
         "baseline": "opt",
@@ -4062,6 +4071,15 @@
         "name": "aphrodite/NeverSleep/Echidna-13b-v0.3",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Walmart-the-bag/Misted-7B": {
+        "name": "aphrodite/Walmart-the-bag/Misted-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6141,6 +6159,15 @@
         "name": "koboldcpp/Echidna-13b-v0.3",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Misted-7B": {
+        "name": "koboldcpp/Misted-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
