@@ -1,4 +1,13 @@
 {
+    "alpindale/goliath-120b": {
+        "name": "alpindale/goliath-120b",
+        "baseline": "opt",
+        "parameters": 120000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "bigscience/bloom": {
         "name": "bigscience/bloom",
         "baseline": "opt",
@@ -156,6 +165,24 @@
         "name": "digitous/Janin-R",
         "baseline": "opt",
         "parameters": 6000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "elinas/chronos-70b-v2": {
+        "name": "elinas/chronos-70b-v2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "elinas/chronos-13b-v2": {
+        "name": "elinas/chronos-13b-v2",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -1034,6 +1061,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "KoboldAI/LLaMA2-13B-Psyfighter2": {
+        "name": "KoboldAI/LLaMA2-13B-Psyfighter2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "KoboldAI/LLaMA2-13B-TieWriter": {
         "name": "KoboldAI/LLaMA2-13B-TieWriter",
         "baseline": "opt",
@@ -1495,15 +1531,6 @@
     },
     "elinas/chronos-13b": {
         "name": "elinas/chronos-13b",
-        "baseline": "opt",
-        "parameters": 13000000000,
-        "description": "Add me",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false
-    },
-    "elinas/chronos-13b-v2": {
-        "name": "elinas/chronos-13b-v2",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",
@@ -2037,6 +2064,15 @@
         "name": "NeverSleep/Echidna-13b-v0.3",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/alpindale/goliath-120b": {
+        "name": "aphrodite/alpindale/goliath-120b",
+        "baseline": "opt",
+        "parameters": 120000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -3077,6 +3113,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aphrodite/KoboldAI/LLaMA2-13B-Psyfighter2": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-Psyfighter2",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/KoboldAI/LLaMA2-13B-TieWriter": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-TieWriter",
         "baseline": "opt",
@@ -3565,6 +3610,15 @@
     },
     "aphrodite/elinas/chronos007-70b": {
         "name": "aphrodite/elinas/chronos007-70b",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/chronos-70b-v2": {
+        "name": "aphrodite/elinas/chronos-70b-v2",
         "baseline": "opt",
         "parameters": 70000000000,
         "description": "Add me",
@@ -4080,6 +4134,15 @@
         "name": "aphrodite/Walmart-the-bag/Misted-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/goliath-120b": {
+        "name": "koboldcpp/goliath-120b",
+        "baseline": "opt",
+        "parameters": 120000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -5606,6 +5669,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "koboldcpp/chronos-70b-v2": {
+        "name": "koboldcpp/chronos-70b-v2",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "koboldcpp/chronos-hermes-13b": {
         "name": "koboldcpp/chronos-hermes-13b",
         "baseline": "opt",
@@ -5941,6 +6013,15 @@
     },
     "koboldcpp/LLaMA2-13B-TiefighterLR": {
         "name": "koboldcpp/LLaMA2-13B-TiefighterLR",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/LLaMA2-13B-Psyfighter2": {
+        "name": "koboldcpp/LLaMA2-13B-Psyfighter2",
         "baseline": "opt",
         "parameters": 13000000000,
         "description": "Add me",

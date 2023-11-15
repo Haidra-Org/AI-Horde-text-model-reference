@@ -1,3 +1,4 @@
+alpindale/goliath-120b,120000000000
 bigscience/bloom,176000000000
 bigscience/bloom-1b7,1700000000
 bigscience/bloom-3b,3000000000
@@ -16,6 +17,8 @@ codellama/CodeLlama-34b-Instruct-hf,13000000000
 digitous/GPT-R,6000000000
 digitous/Javelin-R,6000000000
 digitous/Janin-R,6000000000
+elinas/chronos-70b-v2,70000000000
+elinas/chronos-13b-v2,13000000000
 EleutherAI/gpt-j-6B,6000000000
 EleutherAI/gpt-neo-1.3B,1300000000
 EleutherAI/gpt-neo-125M,125000000
@@ -114,6 +117,7 @@ KoboldAI/LLAMA2-13B-Holodeck-1,13000000000
 KoboldAI/LLaMA2-13B-Holomax,13000000000
 KoboldAI/LLaMA2-13B-Tiefighter,13000000000
 KoboldAI/LLaMA2-13B-TiefighterLR,13000000000
+KoboldAI/LLaMA2-13B-Psyfighter2,13000000000
 KoboldAI/LLaMA2-13B-TieWriter,13000000000
 Pirr/pythia-13b-deduped-green_devil,13000000000
 Merry/AID-Neo-125M,125000000
@@ -228,6 +232,7 @@ mistralai/Mistral-7B-Instruct-v0.1,7000000000
 Norquinal/Mistral-7B-claude-chat,7000000000
 Walmart-the-bag/Misted-7B,7000000000
 NeverSleep/Echidna-13b-v0.3,13000000000
+aphrodite/alpindale/goliath-120b,120000000000
 aphrodite/bigscience/bloom,176000000000
 aphrodite/bigscience/bloom-1b7,1700000000
 aphrodite/bigscience/bloom-3b,3000000000
@@ -344,6 +349,7 @@ aphrodite/KoboldAI/LLAMA2-13B-Holodeck-1,13000000000
 aphrodite/KoboldAI/LLaMA2-13B-Holomax,13000000000
 aphrodite/KoboldAI/LLaMA2-13B-Tiefighter,13000000000
 aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR,13000000000
+aphrodite/KoboldAI/LLaMA2-13B-Psyfighter2,13000000000
 aphrodite/KoboldAI/LLaMA2-13B-TieWriter,13000000000
 aphrodite/Pirr/pythia-13b-deduped-green_devil,13000000000
 aphrodite/Merry/AID-Neo-125M,125000000
@@ -399,6 +405,8 @@ aphrodite/elinas/chronos-13b,13000000000
 aphrodite/elinas/chronos-13b-v2,13000000000
 aphrodite/elinas/chronos-33b,30000000000
 aphrodite/elinas/chronos007-70b,70000000000
+aphrodite/elinas/chronos-70b-v2,70000000000
+aphrodite/elinas/chronos-13b-v2,13000000000
 aphrodite/Austism/chronos-hermes-13b,13000000000
 aphrodite/Austism/chronos-hermes-13b-v2,13000000000
 aphrodite/CalderaAI/30B-Lazarus,33000000000
@@ -458,6 +466,7 @@ aphrodite/mistralai/Mistral-7B-Instruct-v0.1,7000000000
 aphrodite/Norquinal/Mistral-7B-claude-chat,7000000000
 aphrodite/NeverSleep/Echidna-13b-v0.3,13000000000
 aphrodite/Walmart-the-bag/Misted-7B,7000000000
+koboldcpp/goliath-120b,120000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
 koboldcpp/bloom-3b,3000000000
@@ -627,6 +636,8 @@ koboldcpp/chronos-13b,13000000000
 koboldcpp/chronos-13b-v2,13000000000
 koboldcpp/chronos-33b,30000000000
 koboldcpp/chronos007-70b,70000000000
+koboldcpp/chronos-70b-v2,70000000000
+koboldcpp/chronos-13b-v2,13000000000
 koboldcpp/chronos-hermes-13b,13000000000
 koboldcpp/chronos-hermes-13b-v2,13000000000
 koboldcpp/30B-Lazarus,33000000000
@@ -666,6 +677,7 @@ koboldcpp/MythoMax-L2-13b,13000000000
 koboldcpp/LLaMA2-13B-Holomax,13000000000
 koboldcpp/LLaMA2-13B-Tiefighter,13000000000
 koboldcpp/LLaMA2-13B-TiefighterLR,13000000000
+koboldcpp/LLaMA2-13B-Psyfighter2,13000000000
 koboldcpp/LLaMA2-13B-TieWriter,13000000000
 koboldcpp/WizardLM-1.0-Uncensored-Llama2-13b,13000000000
 koboldcpp/Nous-Hermes-Llama2-70b,70000000000
