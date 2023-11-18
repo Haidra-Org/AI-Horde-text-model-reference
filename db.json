@@ -2060,6 +2060,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Walmart-the-bag/MysticFusion-13B": {
+        "name": "Walmart-the-bag/MysticFusion-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NeverSleep/Echidna-13b-v0.3": {
         "name": "NeverSleep/Echidna-13b-v0.3",
         "baseline": "opt",
@@ -4134,6 +4143,15 @@
         "name": "aphrodite/Walmart-the-bag/Misted-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Walmart-the-bag/MysticFusion-13B": {
+        "name": "aphrodite/Walmart-the-bag/MysticFusion-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6249,6 +6267,15 @@
         "name": "koboldcpp/Misted-7B",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MysticFusion-13B": {
+        "name": "koboldcpp/MysticFusion-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",

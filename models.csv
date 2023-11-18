@@ -231,6 +231,7 @@ mistralai/Mistral-7B-v0.1,7000000000
 mistralai/Mistral-7B-Instruct-v0.1,7000000000
 Norquinal/Mistral-7B-claude-chat,7000000000
 Walmart-the-bag/Misted-7B,7000000000
+Walmart-the-bag/MysticFusion-13B,13000000000
 NeverSleep/Echidna-13b-v0.3,13000000000
 aphrodite/alpindale/goliath-120b,120000000000
 aphrodite/bigscience/bloom,176000000000
@@ -466,6 +467,7 @@ aphrodite/mistralai/Mistral-7B-Instruct-v0.1,7000000000
 aphrodite/Norquinal/Mistral-7B-claude-chat,7000000000
 aphrodite/NeverSleep/Echidna-13b-v0.3,13000000000
 aphrodite/Walmart-the-bag/Misted-7B,7000000000
+aphrodite/Walmart-the-bag/MysticFusion-13B,13000000000
 koboldcpp/goliath-120b,120000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
@@ -703,3 +705,4 @@ koboldcpp/Mistral-7B-Instruct-v0.1,7000000000
 koboldcpp/Mistral-7B-claude-chat,7000000000
 koboldcpp/Echidna-13b-v0.3,13000000000
 koboldcpp/Misted-7B,7000000000
+koboldcpp/MysticFusion-13B,13000000000
