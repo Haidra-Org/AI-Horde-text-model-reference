@@ -233,6 +233,11 @@ Norquinal/Mistral-7B-claude-chat,7000000000
 Walmart-the-bag/Misted-7B,7000000000
 Walmart-the-bag/MysticFusion-13B,13000000000
 NeverSleep/Echidna-13b-v0.3,13000000000
+NeverSleep/Noromaid-7b-v0.1.1,7000000000
+NeverSleep/Noromaid-13b-v0.1.1,13000000000
+NeverSleep/Noromaid-20b-v0.1.1,20000000000
+NyxKrage/Chronomaid-Storytelling-13b,13000000000
+Undi95/Toppy-M-7B,7000000000
 aphrodite/alpindale/goliath-120b,120000000000
 aphrodite/bigscience/bloom,176000000000
 aphrodite/bigscience/bloom-1b7,1700000000
@@ -468,6 +473,11 @@ aphrodite/Norquinal/Mistral-7B-claude-chat,7000000000
 aphrodite/NeverSleep/Echidna-13b-v0.3,13000000000
 aphrodite/Walmart-the-bag/Misted-7B,7000000000
 aphrodite/Walmart-the-bag/MysticFusion-13B,13000000000
+aphrodite/NeverSleep/Noromaid-7b-v0.1.1,7000000000
+aphrodite/NeverSleep/Noromaid-13b-v0.1.1,13000000000
+aphrodite/NeverSleep/Noromaid-20b-v0.1.1,20000000000
+aphrodite/NyxKrage/Chronomaid-Storytelling-13b,13000000000
+aphrodite/Undi95/Toppy-M-7B,7000000000
 koboldcpp/goliath-120b,120000000000
 koboldcpp/bloom,176000000000
 koboldcpp/bloom-1b7,1700000000
@@ -706,3 +716,8 @@ koboldcpp/Mistral-7B-claude-chat,7000000000
 koboldcpp/Echidna-13b-v0.3,13000000000
 koboldcpp/Misted-7B,7000000000
 koboldcpp/MysticFusion-13B,13000000000
+koboldcpp/Noromaid-7b-v0.1.1,7000000000
+koboldcpp/Noromaid-13b-v0.1.1,13000000000
+koboldcpp/Noromaid-20b-v0.1.1,20000000000
+koboldcpp/Chronomaid-Storytelling-13b,13000000000
+koboldcpp/Toppy-M-7B,7000000000

@@ -2078,6 +2078,51 @@
         "style": "generalist",
         "nsfw": false
     },
+    "NeverSleep/Noromaid-7b-v0.1.1": {
+        "name": "NeverSleep/Noromaid-7b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Noromaid-13b-v0.1.1": {
+        "name": "NeverSleep/Noromaid-13b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Noromaid-20b-v0.1.1": {
+        "name": "NeverSleep/Noromaid-20b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NyxKrage/Chronomaid-Storytelling-13b": {
+        "name": "NyxKrage/Chronomaid-Storytelling-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Undi95/Toppy-M-7B": {
+        "name": "Undi95/Toppy-M-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/alpindale/goliath-120b": {
         "name": "aphrodite/alpindale/goliath-120b",
         "baseline": "opt",
@@ -4152,6 +4197,51 @@
         "name": "aphrodite/Walmart-the-bag/MysticFusion-13B",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Noromaid-7b-v0.1.1": {
+        "name": "aphrodite/NeverSleep/Noromaid-7b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Noromaid-13b-v0.1.1": {
+        "name": "aphrodite/NeverSleep/Noromaid-13b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Noromaid-20b-v0.1.1": {
+        "name": "aphrodite/NeverSleep/Noromaid-20b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NyxKrage/Chronomaid-Storytelling-13b": {
+        "name": "aphrodite/NyxKrage/Chronomaid-Storytelling-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/Toppy-M-7B": {
+        "name": "aphrodite/Undi95/Toppy-M-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6276,6 +6366,51 @@
         "name": "koboldcpp/MysticFusion-13B",
         "baseline": "opt",
         "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Noromaid-7b-v0.1.1": {
+        "name": "koboldcpp/Noromaid-7b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Noromaid-13b-v0.1.1": {
+        "name": "koboldcpp/Noromaid-13b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Noromaid-20b-v0.1.1": {
+        "name": "koboldcpp/Noromaid-20b-v0.1.1",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Chronomaid-Storytelling-13b": {
+        "name": "koboldcpp/Chronomaid-Storytelling-13b",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Toppy-M-7B": {
+        "name": "koboldcpp/Toppy-M-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
