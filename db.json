@@ -89,6 +89,15 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Bronya-Rand/Inairtra-7B": {
+        "name": "Bronya-Rand/Inairtra-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "codellama/CodeLlama-7b-hf": {
         "name": "codellama/CodeLlama-7b-hf",
         "baseline": "opt",
@@ -4332,6 +4341,15 @@
         "name": "koboldcpp/bloomz-7b1",
         "baseline": "opt",
         "parameters": 7100000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Inairtra-7B": {
+        "name": "koboldcpp/Inairtra-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
