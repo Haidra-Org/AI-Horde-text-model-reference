@@ -2132,6 +2132,24 @@
         "style": "generalist",
         "nsfw": false
     },
+    "acrastt/Marx-3B-V3": {
+        "name": "acrastt/Marx-3B-V3",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "teknium/OpenHermes-2.5-Mistral-7B": {
+        "name": "teknium/OpenHermes-2.5-Mistral-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "aphrodite/alpindale/goliath-120b": {
         "name": "aphrodite/alpindale/goliath-120b",
         "baseline": "opt",
@@ -4249,6 +4267,24 @@
     },
     "aphrodite/Undi95/Toppy-M-7B": {
         "name": "aphrodite/Undi95/Toppy-M-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/acrastt/Marx-3B-V3": {
+        "name": "aphrodite/acrastt/Marx-3B-V3",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/teknium/OpenHermes-2.5-Mistral-7B": {
+        "name": "aphrodite/teknium/OpenHermes-2.5-Mistral-7B",
         "baseline": "opt",
         "parameters": 7000000000,
         "description": "Add me",
@@ -6427,6 +6463,24 @@
     },
     "koboldcpp/Toppy-M-7B": {
         "name": "koboldcpp/Toppy-M-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Marx-3B-V3": {
+        "name": "koboldcpp/Marx-3B-V3",
+        "baseline": "opt",
+        "parameters": 3000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/OpenHermes-2.5-Mistral-7B": {
+        "name": "koboldcpp/OpenHermes-2.5-Mistral-7B",
         "baseline": "opt",
         "parameters": 7000000000,
         "description": "Add me",
