@@ -192,6 +192,7 @@ stabilityai/StableBeluga-13B,13000000000
 stabilityai/StableBeluga-7B,7000000000
 lizpreciatior/lzlv_70b_fp16_hf,70000000000
 Sao10K/Euryale-1.3-L2-70B,70000000000
+Sao10K/Stheno-1.10-L2-13B,13000000000
 meta-llama/Llama-2-70b-chat-hf,70000000000
 meta-llama/Llama-2-70b-hf,70000000000
 meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -435,6 +436,7 @@ aphrodite/stabilityai/StableBeluga-13B,13000000000
 aphrodite/stabilityai/StableBeluga-7B,7000000000
 aphrodite/lizpreciatior/lzlv_70b_fp16_hf,70000000000
 aphrodite/Sao10K/Euryale-1.3-L2-70B,70000000000
+aphrodite/Sao10K/Stheno-1.10-L2-13B,13000000000
 aphrodite/meta-llama/Llama-2-70b-chat-hf,70000000000
 aphrodite/meta-llama/Llama-2-70b-hf,70000000000
 aphrodite/meta-llama/Llama-2-13b-chat-hf,13000000000
@@ -668,6 +670,7 @@ koboldcpp/WizardLM-13B-Uncensored,13000000000
 koboldcpp/WizardLM-7B-Uncensored,7000000000
 koboldcpp/Wizard-Vicuna-13B-Uncensored,13000000000
 koboldcpp/Wizard-Vicuna-7B-Uncensored,7000000000
+koboldcpp/Sao10K/Stheno-1.10-L2-13B,13000000000
 koboldcpp/StableBeluga2,70000000000
 koboldcpp/StableBeluga-13B,13000000000
 koboldcpp/StableBeluga-7B,7000000000
