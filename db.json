@@ -5345,6 +5345,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Sao10K/SthenoWriter-L2-13B": {
+        "name": "Sao10K/SthenoWriter-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Sao10K/SthenoWriter-L2-13B": {
+        "name": "aphrodite/Sao10K/SthenoWriter-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/SthenoWriter-L2-13B": {
+        "name": "koboldcpp/SthenoWriter-L2-13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Sao10K/SthenoWriter2.1-L2-13B": {
         "name": "Sao10K/SthenoWriter2.1-L2-13B",
         "baseline": "opt",
