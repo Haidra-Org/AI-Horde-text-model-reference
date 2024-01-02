@@ -5426,6 +5426,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "SanjiWatsuki/Silicon-Maid-7B": {
+        "name": "SanjiWatsuki/Silicon-Maid-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SanjiWatsuki/Silicon-Maid-7B": {
+        "name": "aphrodite/SanjiWatsuki/Silicon-Maid-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Silicon-Maid-7B": {
+        "name": "koboldcpp/Silicon-Maid-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "meta-llama/Llama-2-70b-chat-hf": {
         "name": "meta-llama/Llama-2-70b-chat-hf",
         "baseline": "opt",
