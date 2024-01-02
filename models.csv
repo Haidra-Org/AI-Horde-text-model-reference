@@ -175,6 +175,7 @@ jondurbin/airoboros-l2-7b-2.2,7000000000
 jondurbin/airoboros-m-7b-3.0,7000000000
 jondurbin/airoboros-m-7b-3.1.2,7000000000
 jondurbin/airoboros-m-7b-3.1,7000000000
+jondurbin/bagel-dpo-34b-v0.2,34000000000
 teknium/airoboros-mistral2.2-7b,7000000000
 elinas/chronos-13b,13000000000
 elinas/chronos-13b-v2,13000000000
@@ -246,7 +247,9 @@ Walmart-the-bag/MysticFusion-13B,13000000000
 NeverSleep/Echidna-13b-v0.3,13000000000
 NeverSleep/Noromaid-7b-v0.1.1,7000000000
 NeverSleep/Noromaid-13b-v0.1.1,13000000000
+NeverSleep/Noromaid-13b-v0.2,13000000000
 NeverSleep/Noromaid-20b-v0.1.1,20000000000
+NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3,56000000000
 NyxKrage/Chronomaid-Storytelling-13b,13000000000
 Undi95/Toppy-M-7B,7000000000
 acrastt/Marx-3B-V3,3000000000
