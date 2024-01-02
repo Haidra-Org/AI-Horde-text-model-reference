@@ -4751,8 +4751,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "jondurbin/bagel-dpo-34b-v0.2": {
-        "name": "jondurbin/bagel-dpo-34b-v0.2",
+    "jondurbin/bagel-34b-v0.2": {
+        "name": "jondurbin/bagel-34b-v0.2",
         "baseline": "opt",
         "parameters": 34000000000,
         "description": "Add me",
@@ -4760,8 +4760,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "aphrodite/jondurbin/bagel-dpo-34b-v0.2": {
-        "name": "aphrodite/jondurbin/bagel-dpo-34b-v0.2",
+    "aphrodite/jondurbin/bagel-34b-v0.2": {
+        "name": "aphrodite/jondurbin/bagel-34b-v0.2",
         "baseline": "opt",
         "parameters": 34000000000,
         "description": "Add me",
@@ -4769,8 +4769,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "koboldcpp/bagel-dpo-34b-v0.2": {
-        "name": "koboldcpp/bagel-dpo-34b-v0.2",
+    "koboldcpp/bagel-34b-v0.2": {
+        "name": "koboldcpp/bagel-34b-v0.2",
         "baseline": "opt",
         "parameters": 34000000000,
         "description": "Add me",
