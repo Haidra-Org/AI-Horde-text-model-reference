@@ -5480,6 +5480,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "SanjiWatsuki/Kunoichi-7B": {
+        "name": "SanjiWatsuki/Kunoichi-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SanjiWatsuki/Kunoichi-7B": {
+        "name": "aphrodite/SanjiWatsuki/Kunoichi-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Kunoichi-7B": {
+        "name": "koboldcpp/Kunoichi-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "meta-llama/Llama-2-70b-chat-hf": {
         "name": "meta-llama/Llama-2-70b-chat-hf",
         "baseline": "opt",
