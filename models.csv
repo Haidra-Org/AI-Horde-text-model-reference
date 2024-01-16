@@ -146,6 +146,7 @@ mosaicml/mpt-7b,7000000000
 mosaicml/mpt-7b-storywriter,7000000000
 mosaicml/mpt-7b-chat,7000000000
 mosaicml/mpt-7b-instruct,7000000000
+MarsupialAI/KitchenSink_103b,103000000000
 TehVenom/MPT-7b-Apache-2.0,7000000000
 TehVenom/MPT-7b-storywriter-Apache-2.0,7000000000
 TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge,7000000000

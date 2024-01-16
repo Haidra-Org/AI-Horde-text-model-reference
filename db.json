@@ -3968,6 +3968,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/KitchenSink_103b": {
+        "name": "MarsupialAI/KitchenSink_103b",
+        "baseline": "opt",
+        "parameters": 103000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/KitchenSink_103b": {
+        "name": "aphrodite/MarsupialAI/KitchenSink_103b",
+        "baseline": "opt",
+        "parameters": 103000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/KitchenSink_103b": {
+        "name": "koboldcpp/KitchenSink_103b",
+        "baseline": "opt",
+        "parameters": 103000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TehVenom/MPT-7b-Apache-2.0": {
         "name": "TehVenom/MPT-7b-Apache-2.0",
         "baseline": "opt",
