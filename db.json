@@ -3158,6 +3158,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "KoboldAI/LLaMA2-13B-Estopia": {
+        "name": "KoboldAI/LLaMA2-13B-Estopia",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KoboldAI/LLaMA2-13B-Estopia": {
+        "name": "aphrodite/KoboldAI/LLaMA2-13B-Estopia",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/LLaMA2-13B-Estopia": {
+        "name": "koboldcpp/LLaMA2-13B-Estopia",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "KoboldAI/LLaMA2-13B-Tiefighter": {
         "name": "KoboldAI/LLaMA2-13B-Tiefighter",
         "baseline": "opt",
