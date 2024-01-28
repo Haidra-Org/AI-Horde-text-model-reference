@@ -2024,6 +2024,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "KatyTheCutie/EstopianMaid-13B": {
+        "name": "KatyTheCutie/EstopianMaid-13B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/KatyTheCutie/EstopianMaid-13B": {
+        "name": "aphrodite/KatyTheCutie/EstopianMaid-13B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/EstopianMaid-13B": {
+        "name": "koboldcpp/EstopianMaid-13B",
+        "baseline": "opt",
+        "parameters": 1300000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "KoboldAI/fairseq-dense-1.3B": {
         "name": "KoboldAI/fairseq-dense-1.3B",
         "baseline": "opt",
