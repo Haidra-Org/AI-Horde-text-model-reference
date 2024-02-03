@@ -2027,7 +2027,7 @@
     "KatyTheCutie/EstopianMaid-13B": {
         "name": "KatyTheCutie/EstopianMaid-13B",
         "baseline": "opt",
-        "parameters": 1300000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -2036,7 +2036,7 @@
     "aphrodite/KatyTheCutie/EstopianMaid-13B": {
         "name": "aphrodite/KatyTheCutie/EstopianMaid-13B",
         "baseline": "opt",
-        "parameters": 1300000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -2045,7 +2045,7 @@
     "koboldcpp/EstopianMaid-13B": {
         "name": "koboldcpp/EstopianMaid-13B",
         "baseline": "opt",
-        "parameters": 1300000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
