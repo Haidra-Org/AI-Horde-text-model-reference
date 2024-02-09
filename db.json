@@ -6830,6 +6830,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "mistralai/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 56000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 56000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "opt",
+        "parameters": 56000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NyxKrage/Chronomaid-Storytelling-13b": {
         "name": "NyxKrage/Chronomaid-Storytelling-13b",
         "baseline": "opt",
