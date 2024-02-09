@@ -6806,7 +6806,7 @@
     "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6815,7 +6815,7 @@
     "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6824,7 +6824,7 @@
     "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6833,7 +6833,7 @@
     "mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6842,7 +6842,7 @@
     "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6851,7 +6851,7 @@
     "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 56000000000,
+        "parameters": 46000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
