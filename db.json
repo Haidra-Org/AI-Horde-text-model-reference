@@ -296,6 +296,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "brucethemoose/Yi-34B-200K-RPMerge": {
+        "name": "brucethemoose/Yi-34B-200K-RPMerge",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/brucethemoose/Yi-34B-200K-RPMerge": {
+        "name": "aphrodite/brucethemoose/Yi-34B-200K-RPMerge",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Yi-34B-200K-RPMerge": {
+        "name": "koboldcpp/Yi-34B-200K-RPMerge",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "codellama/CodeLlama-7b-hf": {
         "name": "codellama/CodeLlama-7b-hf",
         "baseline": "opt",
@@ -353,7 +380,7 @@
     "codellama/CodeLlama-13b-hf": {
         "name": "codellama/CodeLlama-13b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -362,7 +389,7 @@
     "aphrodite/codellama/CodeLlama-13b-hf": {
         "name": "aphrodite/codellama/CodeLlama-13b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -371,7 +398,7 @@
     "koboldcpp/CodeLlama-13b-hf": {
         "name": "koboldcpp/CodeLlama-13b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -407,7 +434,7 @@
     "codellama/CodeLlama-34b-hf": {
         "name": "codellama/CodeLlama-34b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -416,7 +443,7 @@
     "aphrodite/codellama/CodeLlama-34b-hf": {
         "name": "aphrodite/codellama/CodeLlama-34b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -425,7 +452,7 @@
     "koboldcpp/CodeLlama-34b-hf": {
         "name": "koboldcpp/CodeLlama-34b-hf",
         "baseline": "opt",
-        "parameters": 7000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -434,7 +461,7 @@
     "codellama/CodeLlama-34b-Instruct-hf": {
         "name": "codellama/CodeLlama-34b-Instruct-hf",
         "baseline": "opt",
-        "parameters": 13000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -443,7 +470,7 @@
     "aphrodite/codellama/CodeLlama-34b-Instruct-hf": {
         "name": "aphrodite/codellama/CodeLlama-34b-Instruct-hf",
         "baseline": "opt",
-        "parameters": 13000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -452,7 +479,7 @@
     "koboldcpp/CodeLlama-34b-Instruct-hf": {
         "name": "koboldcpp/CodeLlama-34b-Instruct-hf",
         "baseline": "opt",
-        "parameters": 13000000000,
+        "parameters": 34000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",

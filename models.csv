@@ -9,12 +9,13 @@ bigscience/bloomz-1b7,1700000000
 bigscience/bloomz-3b,3000000000
 bigscience/bloomz-7b1,7100000000
 Bronya-Rand/Inairtra-7B,7000000000
+brucethemoose/Yi-34B-200K-RPMerge,34000000000
 codellama/CodeLlama-7b-hf,7000000000
 codellama/CodeLlama-7b-Instruct-hf,7000000000
-codellama/CodeLlama-13b-hf,7000000000
+codellama/CodeLlama-13b-hf,13000000000
 codellama/CodeLlama-13b-Instruct-hf,13000000000
-codellama/CodeLlama-34b-hf,7000000000
-codellama/CodeLlama-34b-Instruct-hf,13000000000
+codellama/CodeLlama-34b-hf,34000000000
+codellama/CodeLlama-34b-Instruct-hf,34000000000
 digitous/GPT-R,6000000000
 digitous/Javelin-R,6000000000
 digitous/Janin-R,6000000000
