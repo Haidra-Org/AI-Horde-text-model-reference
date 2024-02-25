@@ -5615,6 +5615,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Sao10K/Fimbulvetr-11B-v2": {
+        "name": "Sao10K/Fimbulvetr-11B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Sao10K/Fimbulvetr-11B-v2": {
+        "name": "aphrodite/Sao10K/Fimbulvetr-11B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Fimbulvetr-11B-v2": {
+        "name": "koboldcpp/Fimbulvetr-11B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "SanjiWatsuki/Silicon-Maid-7B": {
         "name": "SanjiWatsuki/Silicon-Maid-7B",
         "baseline": "opt",
