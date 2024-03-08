@@ -5642,6 +5642,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Sao10K/Solstice-11B-v1": {
+        "name": "Sao10K/Solstice-11B-v1",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Sao10K/Solstice-11B-v1": {
+        "name": "aphrodite/Sao10K/Solstice-11B-v1",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Solstice-11B-v1": {
+        "name": "koboldcpp/Solstice-11B-v1",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "SanjiWatsuki/Silicon-Maid-7B": {
         "name": "SanjiWatsuki/Silicon-Maid-7B",
         "baseline": "opt",
@@ -6857,6 +6884,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "NeverSleep/Noromaid-13b-v0.3": {
+        "name": "NeverSleep/Noromaid-13b-v0.3",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Noromaid-13b-v0.3": {
+        "name": "aphrodite/NeverSleep/Noromaid-13b-v0.3",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Noromaid-13b-v0.3": {
+        "name": "koboldcpp/Noromaid-13b-v0.3",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NeverSleep/Noromaid-20b-v0.1.1": {
         "name": "NeverSleep/Noromaid-20b-v0.1.1",
         "baseline": "opt",
@@ -6904,6 +6958,33 @@
     },
     "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3",
+        "baseline": "opt",
+        "parameters": 46000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
+        "name": "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
+        "baseline": "opt",
+        "parameters": 46000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
+        "name": "aphrodite/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
+        "baseline": "opt",
+        "parameters": 46000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
+        "name": "koboldcpp/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "baseline": "opt",
         "parameters": 46000000000,
         "description": "Add me",

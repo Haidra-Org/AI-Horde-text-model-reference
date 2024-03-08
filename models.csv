@@ -209,6 +209,7 @@ Sao10K/SthenoWriter-L2-13B,13000000000
 Sao10K/SthenoWriter2.1-L2-13B,13000000000
 Sao10K/Euryale-1.3-L2-70B,70000000000
 Sao10K/Fimbulvetr-11B-v2,11000000000
+Sao10K/Solstice-11B-v1,11000000000
 SanjiWatsuki/Silicon-Maid-7B,7000000000
 SanjiWatsuki/Kunoichi-7B,7000000000
 meta-llama/Llama-2-70b-chat-hf,70000000000
@@ -256,8 +257,10 @@ NeverSleep/Echidna-13b-v0.3,13000000000
 NeverSleep/Noromaid-7b-v0.1.1,7000000000
 NeverSleep/Noromaid-13b-v0.1.1,13000000000
 NeverSleep/Noromaid-13b-v0.2,13000000000
+NeverSleep/Noromaid-13b-v0.3,13000000000
 NeverSleep/Noromaid-20b-v0.1.1,20000000000
 NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3,46000000000
+NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss,46000000000
 mistralai/Mixtral-8x7B-Instruct-v0.1,46000000000
 NyxKrage/Chronomaid-Storytelling-13b,13000000000
 Undi95/Toppy-M-7B,7000000000
