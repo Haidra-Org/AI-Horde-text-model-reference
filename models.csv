@@ -115,7 +115,6 @@ KoboldAI/OPT-6B-nerys-v2,6700000000
 KoboldAI/OPT-2.7B-Nerybus-Mix,2700000000
 KoboldAI/OPT-6.7B-Nerybus-Mix,6700000000
 KoboldAI/OPT-13B-Nerybus-Mix,13000000000
-KoboldAI/OPT-13B-Nerybus-Mix,13000000000
 KoboldAI/LLAMA2-13B-Holodeck-1,13000000000
 KoboldAI/LLaMA2-13B-Holomax,13000000000
 KoboldAI/LLaMA2-13B-Estopia,13000000000
@@ -183,7 +182,6 @@ jondurbin/airoboros-m-7b-3.1,7000000000
 jondurbin/bagel-34b-v0.2,34000000000
 teknium/airoboros-mistral2.2-7b,7000000000
 elinas/chronos-13b,13000000000
-elinas/chronos-13b-v2,13000000000
 elinas/chronos-33b,30000000000
 elinas/chronos007-70b,70000000000
 elinas/ChronoEuryalis-70B,70000000000
@@ -226,9 +224,7 @@ Tap-M/Luna-AI-Llama2-Uncensored,7000000000
 Aeala/Enterredaas-65b,65000000000
 Aeala/Enterredaas-33b,33000000000
 CalderaAI/30B-Epsilon,33000000000
-CalderaAI/13B-BlueMethod,13000000000
 mlabonne/llama-2-7b-guanaco,7000000000
-openaccess-ai-collective/manticore-13b,13000000000
 openaccess-ai-collective/manticore-13b,13000000000
 Gryphe/MythoMax-L2-13b,13000000000
 Undi95/ReMM-SLERP-L2-13B,13000000000
@@ -266,4 +262,3 @@ NyxKrage/Chronomaid-Storytelling-13b,13000000000
 Undi95/Toppy-M-7B,7000000000
 acrastt/Marx-3B-V3,3000000000
 teknium/OpenHermes-2.5-Mistral-7B,7000000000
-Bronya-Rand/Inairtra-7B,7000000000
