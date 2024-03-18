@@ -1916,6 +1916,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "fblgit/UNA-TheBeagle-7b-v1": {
+        "name": "fblgit/UNA-TheBeagle-7b-v1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/fblgit/UNA-TheBeagle-7b-v1": {
+        "name": "aphrodite/fblgit/UNA-TheBeagle-7b-v1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/UNA-TheBeagle-7b-v1": {
+        "name": "koboldcpp/UNA-TheBeagle-7b-v1",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "gpt2": {
         "name": "gpt2",
         "baseline": "opt",
