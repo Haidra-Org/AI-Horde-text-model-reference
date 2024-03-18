@@ -485,6 +485,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "CohereForAI/c4ai-command-r-v01": {
+        "name": "CohereForAI/c4ai-command-r-v01",
+        "baseline": "opt",
+        "parameters": 35000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CohereForAI/c4ai-command-r-v01": {
+        "name": "aphrodite/CohereForAI/c4ai-command-r-v01",
+        "baseline": "opt",
+        "parameters": 35000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/c4ai-command-r-v01": {
+        "name": "koboldcpp/c4ai-command-r-v01",
+        "baseline": "opt",
+        "parameters": 35000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "baseline": "opt",
@@ -7120,6 +7147,60 @@
     },
     "koboldcpp/OpenHermes-2.5-Mistral-7B": {
         "name": "koboldcpp/OpenHermes-2.5-Mistral-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "froggeric/WestLake-10.7B-v2": {
+        "name": "froggeric/WestLake-10.7B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/froggeric/WestLake-10.7B-v2": {
+        "name": "aphrodite/froggeric/WestLake-10.7B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WestLake-10.7B-v2": {
+        "name": "koboldcpp/WestLake-10.7B-v2",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "senseable/WestLake-7B-v2": {
+        "name": "senseable/WestLake-7B-v2",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/senseable/WestLake-7B-v2": {
+        "name": "aphrodite/senseable/WestLake-7B-v2",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WestLake-7B-v2": {
+        "name": "koboldcpp/WestLake-7B-v2",
         "baseline": "opt",
         "parameters": 7000000000,
         "description": "Add me",
