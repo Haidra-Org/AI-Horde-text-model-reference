@@ -4157,6 +4157,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/SkunkApe-16b": {
+        "name": "MarsupialAI/SkunkApe-16b",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/SkunkApe-16b": {
+        "name": "aphrodite/MarsupialAI/SkunkApe-16b",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/SkunkApe-16b": {
+        "name": "koboldcpp/SkunkApe-16b",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TehVenom/MPT-7b-Apache-2.0": {
         "name": "TehVenom/MPT-7b-Apache-2.0",
         "baseline": "opt",
