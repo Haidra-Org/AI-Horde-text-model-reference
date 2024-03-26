@@ -4157,6 +4157,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/SkunkApe-14b": {
+        "name": "MarsupialAI/SkunkApe-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/SkunkApe-14b": {
+        "name": "aphrodite/MarsupialAI/SkunkApe-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/SkunkApe-14b": {
+        "name": "koboldcpp/SkunkApe-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "MarsupialAI/SkunkApe-16b": {
         "name": "MarsupialAI/SkunkApe-16b",
         "baseline": "opt",
