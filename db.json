@@ -7288,5 +7288,383 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "Qwen/Qwen1.5-72B-Chat": {
+        "name": "Qwen/Qwen1.5-72B-Chat",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-72B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-72B-Chat",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-72B-Chat": {
+        "name": "koboldcpp/Qwen1.5-72B-Chat",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-32B-Chat": {
+        "name": "Qwen/Qwen1.5-32B-Chat",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-32B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-32B-Chat",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-32B-Chat": {
+        "name": "koboldcpp/Qwen1.5-32B-Chat",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-14B-Chat": {
+        "name": "Qwen/Qwen1.5-14B-Chat",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-14B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-14B-Chat",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-14B-Chat": {
+        "name": "koboldcpp/Qwen1.5-14B-Chat",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-7B-Chat": {
+        "name": "Qwen/Qwen1.5-7B-Chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-7B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-7B-Chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-7B-Chat": {
+        "name": "koboldcpp/Qwen1.5-7B-Chat",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-4B-Chat": {
+        "name": "Qwen/Qwen1.5-4B-Chat",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-4B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-4B-Chat",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-4B-Chat": {
+        "name": "koboldcpp/Qwen1.5-4B-Chat",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-1.8B-Chat": {
+        "name": "Qwen/Qwen1.5-1.8B-Chat",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-1.8B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-1.8B-Chat",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-1.8B-Chat": {
+        "name": "koboldcpp/Qwen1.5-1.8B-Chat",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-0.5B-Chat": {
+        "name": "Qwen/Qwen1.5-0.5B-Chat",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-0.5B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-0.5B-Chat",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-0.5B-Chat": {
+        "name": "koboldcpp/Qwen1.5-0.5B-Chat",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-72B": {
+        "name": "Qwen/Qwen1.5-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-72B": {
+        "name": "aphrodite/Qwen/Qwen1.5-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-72B": {
+        "name": "koboldcpp/Qwen1.5-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-32B": {
+        "name": "Qwen/Qwen1.5-32B",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-32B": {
+        "name": "aphrodite/Qwen/Qwen1.5-32B",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-32B": {
+        "name": "koboldcpp/Qwen1.5-32B",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-14B": {
+        "name": "Qwen/Qwen1.5-14B",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-14B": {
+        "name": "aphrodite/Qwen/Qwen1.5-14B",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-14B": {
+        "name": "koboldcpp/Qwen1.5-14B",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-7B": {
+        "name": "Qwen/Qwen1.5-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-7B": {
+        "name": "aphrodite/Qwen/Qwen1.5-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-7B": {
+        "name": "koboldcpp/Qwen1.5-7B",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-4B": {
+        "name": "Qwen/Qwen1.5-4B",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-4B": {
+        "name": "aphrodite/Qwen/Qwen1.5-4B",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-4B": {
+        "name": "koboldcpp/Qwen1.5-4B",
+        "baseline": "opt",
+        "parameters": 4000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-1.8B": {
+        "name": "Qwen/Qwen1.5-1.8B",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-1.8B": {
+        "name": "aphrodite/Qwen/Qwen1.5-1.8B",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-1.8B": {
+        "name": "koboldcpp/Qwen1.5-1.8B",
+        "baseline": "opt",
+        "parameters": 1800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen1.5-0.5B": {
+        "name": "Qwen/Qwen1.5-0.5B",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen1.5-0.5B": {
+        "name": "aphrodite/Qwen/Qwen1.5-0.5B",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen1.5-0.5B": {
+        "name": "koboldcpp/Qwen1.5-0.5B",
+        "baseline": "opt",
+        "parameters": 500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
