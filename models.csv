@@ -17,6 +17,7 @@ codellama/CodeLlama-13b-Instruct-hf,13000000000
 codellama/CodeLlama-34b-hf,34000000000
 codellama/CodeLlama-34b-Instruct-hf,34000000000
 CohereForAI/c4ai-command-r-v01,35000000000
+CohereForAI/c4ai-command-r-plus,104000000000
 digitous/GPT-R,6000000000
 digitous/Javelin-R,6000000000
 digitous/Janin-R,6000000000

@@ -512,6 +512,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "CohereForAI/c4ai-command-r-plus": {
+        "name": "CohereForAI/c4ai-command-r-plus",
+        "baseline": "opt",
+        "parameters": 104000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/CohereForAI/c4ai-command-r-plus": {
+        "name": "aphrodite/CohereForAI/c4ai-command-r-plus",
+        "baseline": "opt",
+        "parameters": 104000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/c4ai-command-r-plus": {
+        "name": "koboldcpp/c4ai-command-r-plus",
+        "baseline": "opt",
+        "parameters": 104000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "baseline": "opt",
