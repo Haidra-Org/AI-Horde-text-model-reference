@@ -7693,5 +7693,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
+        "name": "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
+        "name": "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/zephyr-orpo-141b-A35b-v0.1": {
+        "name": "koboldcpp/zephyr-orpo-141b-A35b-v0.1",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
