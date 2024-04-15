@@ -290,3 +290,5 @@ HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1,141000000000
 lightblue/Karasu-Mixtral-8x22B-v0.1,141000000000
 lightblue/Karasu-Mixtral-8x22B-v0.1,141000000000
 microsoft/WizardLM-2-8x22B,141000000000
+microsoft/WizardLM-2-7B,7000000000
+microsoft/WizardLM-2-70B,70000000000
