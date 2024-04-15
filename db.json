@@ -620,6 +620,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "elinas/chronos-mistral-7b": {
+        "name": "elinas/chronos-mistral-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/chronos-mistral-7b": {
+        "name": "aphrodite/elinas/chronos-mistral-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/chronos-mistral-7b": {
+        "name": "koboldcpp/chronos-mistral-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "elinas/chronos-70b-v2": {
         "name": "elinas/chronos-70b-v2",
         "baseline": "opt",
@@ -7741,6 +7768,33 @@
     },
     "koboldcpp/Karasu-Mixtral-8x22B-v0.1": {
         "name": "koboldcpp/Karasu-Mixtral-8x22B-v0.1",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "microsoft/WizardLM-2-8x22B": {
+        "name": "microsoft/WizardLM-2-8x22B",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/microsoft/WizardLM-2-8x22B": {
+        "name": "aphrodite/microsoft/WizardLM-2-8x22B",
+        "baseline": "opt",
+        "parameters": 141000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/WizardLM-2-8x22B": {
+        "name": "koboldcpp/WizardLM-2-8x22B",
         "baseline": "opt",
         "parameters": 141000000000,
         "description": "Add me",
