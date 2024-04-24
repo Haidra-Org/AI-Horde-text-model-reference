@@ -4238,6 +4238,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/JerseyDevil-14b": {
+        "name": "MarsupialAI/JerseyDevil-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/JerseyDevil-14b": {
+        "name": "aphrodite/MarsupialAI/JerseyDevil-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/JerseyDevil-14b": {
+        "name": "koboldcpp/JerseyDevil-14b",
+        "baseline": "opt",
+        "parameters": 14000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "MarsupialAI/SkunkApe-16b": {
         "name": "MarsupialAI/SkunkApe-16b",
         "baseline": "opt",
@@ -4260,6 +4287,33 @@
         "name": "koboldcpp/SkunkApe-16b",
         "baseline": "opt",
         "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "MarsupialAI/HelloNurse-11b": {
+        "name": "MarsupialAI/HelloNurse-11b",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/HelloNurse-11b": {
+        "name": "aphrodite/MarsupialAI/HelloNurse-11b",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/HelloNurse-11b": {
+        "name": "koboldcpp/HelloNurse-11b",
+        "baseline": "opt",
+        "parameters": 11000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -6042,6 +6096,114 @@
         "name": "koboldcpp/Llama-2-7b-hf",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Meta-Llama-3-8B": {
+        "name": "meta-llama/Meta-Llama-3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-8B": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3-8B": {
+        "name": "koboldcpp/Meta-Llama-3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Meta-Llama-3-8B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3-8B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Meta-Llama-3-70B": {
+        "name": "meta-llama/Meta-Llama-3-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-70B": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3-70B": {
+        "name": "koboldcpp/Meta-Llama-3-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Meta-Llama-3-70B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3-70B-Instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3-70B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3-70B-Instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",

@@ -224,6 +224,10 @@ meta-llama/Llama-2-13b-chat-hf,13000000000
 meta-llama/Llama-2-13b-hf,13000000000
 meta-llama/Llama-2-7b-chat-hf,7000000000
 meta-llama/Llama-2-7b-hf,7000000000
+meta-llama/Meta-Llama-3-8B,8000000000
+meta-llama/Meta-Llama-3-8B-Instruct,8000000000
+meta-llama/Meta-Llama-3-70B,70000000000
+meta-llama/Meta-Llama-3-70B-Instruct,70000000000
 NousResearch/Redmond-Puffin-13B,13000000000
 NousResearch/Nous-Hermes-Llama2-13b,13000000000
 CalderaAI/13B-Ouroboros,13000000000
