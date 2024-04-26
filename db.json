@@ -8098,5 +8098,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "cgato/L3-TheSpice-8b-v0.8.3": {
+        "name": "cgato/L3-TheSpice-8b-v0.8.3",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/cgato/L3-TheSpice-8b-v0.8.3": {
+        "name": "aphrodite/cgato/L3-TheSpice-8b-v0.8.3",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/L3-TheSpice-8b-v0.8.3": {
+        "name": "koboldcpp/L3-TheSpice-8b-v0.8.3",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
