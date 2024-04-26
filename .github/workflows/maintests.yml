@@ -1,0 +1,43 @@
+name: Tests
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.py'
+      - '**.json'
+      - 'tox.ini'
+      - '.github/workflows/maintests.yml'
+      - '.github/workflows/prtests.yml'
+      - '.pre-commit-config.yaml'
+      - 'scripts/requirements.txt'
+      - 'scripts/requirements.dev.txt'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10"]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run pre-commit
+        uses: pre-commit/action@v3.0.0
+
+  verify-models-db:
+    env:
+      TESTS_ONGOING: "1"
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.10"]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Run validation
+        run: python convert.py

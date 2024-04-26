@@ -8044,5 +8044,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "TheDrummer/Moistral-11B-v3": {
+        "name": "TheDrummer/Moistral-11B-v3",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Moistral-11B-v3": {
+        "name": "aphrodite/TheDrummer/Moistral-11B-v3",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Moistral-11B-v3": {
+        "name": "koboldcpp/Moistral-11B-v3",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
