@@ -59,7 +59,9 @@ if TESTS_ONGOING and os.path.exists(output_file):
     with open("db_test.json", "r") as f:
         new_data = f.read()
 
-    assert old_data == new_data, "db.json and db_test.json are different. Did you forget to run `convert.py`?"
+    if old_data != new_data:
+        print("db.json and db_test.json are different. Did you forget to run `convert.py`?")
+        exit(1)
 else:
     with open(output_file, "w") as f:
         json.dump(data, f, indent=4)
