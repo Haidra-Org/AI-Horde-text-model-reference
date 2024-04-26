@@ -50,7 +50,7 @@ if TESTS_ONGOING and os.path.exists(output_file):
     # Instead, we'll write to a new file and make sure the two files are the same
     # by comparing them as strings
     with open("db_test.json", "w") as f:
-        json.dump(data, f, indent=4)        
+        json.dump(data, f, indent=4)
         f.write("\n")
 
     with open(output_file, "r") as f:
@@ -66,4 +66,3 @@ else:
     with open(output_file, "w") as f:
         json.dump(data, f, indent=4)
         f.write("\n")
-
