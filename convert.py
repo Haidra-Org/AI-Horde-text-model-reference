@@ -1,5 +1,6 @@
 import csv
 import json
+import os
 
 input_file = "models.csv"
 output_file = "db.json"
@@ -14,7 +15,7 @@ with open(input_file, newline='') as csvfile:
         model_name = name.split("/")[1] if "/" in name else name
         params = row[1]
 
-        
+
         data[name] = {
             "name": name,
             "baseline": "opt",
@@ -43,5 +44,24 @@ with open(input_file, newline='') as csvfile:
             "nsfw": False
         }
 
-with open(output_file, "w") as f:
-    json.dump(data, f, indent=4)
+TESTS_ONGOING = os.getenv("TESTS_ONGOING", False)
+if TESTS_ONGOING and os.path.exists(output_file):
+    # If tests are ongoing, we don't want to overwrite the db.json file
+    # Instead, we'll write to a new file and make sure the two files are the same
+    # by comparing them as strings
+    with open("db_test.json", "w") as f:
+        json.dump(data, f, indent=4)        
+        f.write("\n")
+
+    with open(output_file, "r") as f:
+        old_data = f.read()
+
+    with open("db_test.json", "r") as f:
+        new_data = f.read()
+
+    assert old_data == new_data, "db.json and db_test.json are different. Did you forget to run `convert.py`?"
+else:
+    with open(output_file, "w") as f:
+        json.dump(data, f, indent=4)
+        f.write("\n")
+
