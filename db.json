@@ -8072,6 +8072,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TheDrummer/Llama-3SOME-8B-v1-BETA": {
+        "name": "TheDrummer/Llama-3SOME-8B-v1-BETA",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Llama-3SOME-8B-v1-BETA": {
+        "name": "aphrodite/TheDrummer/Llama-3SOME-8B-v1-BETA",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-3SOME-8B-v1-BETA": {
+        "name": "koboldcpp/Llama-3SOME-8B-v1-BETA",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "cognitivecomputations/dolphin-2.9-llama3-8b": {
         "name": "cognitivecomputations/dolphin-2.9-llama3-8b",
         "baseline": "opt",
