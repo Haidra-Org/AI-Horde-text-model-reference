@@ -4319,6 +4319,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/Aqueducts-18B": {
+        "name": "MarsupialAI/Aqueducts-18B",
+        "baseline": "opt",
+        "parameters": 18000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/Aqueducts-18B": {
+        "name": "aphrodite/MarsupialAI/Aqueducts-18B",
+        "baseline": "opt",
+        "parameters": 18000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Aqueducts-18B": {
+        "name": "koboldcpp/Aqueducts-18B",
+        "baseline": "opt",
+        "parameters": 18000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TehVenom/MPT-7b-Apache-2.0": {
         "name": "TehVenom/MPT-7b-Apache-2.0",
         "baseline": "opt",
