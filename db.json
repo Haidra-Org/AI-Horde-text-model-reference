@@ -8179,5 +8179,59 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "Himitsui/Kaiju-11B": {
+        "name": "Himitsui/Kaiju-11B",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Himitsui/Kaiju-11B": {
+        "name": "aphrodite/Himitsui/Kaiju-11B",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Kaiju-11B": {
+        "name": "koboldcpp/Kaiju-11B",
+        "baseline": "opt",
+        "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B": {
+        "name": "ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B": {
+        "name": "aphrodite/ChaoticNeutrals/Poppy_Porpoise-v0.7-L3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Poppy_Porpoise-v0.7-L3-8B": {
+        "name": "koboldcpp/Poppy_Porpoise-v0.7-L3-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
