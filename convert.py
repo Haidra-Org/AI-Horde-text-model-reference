@@ -18,9 +18,9 @@ with open(input_file, newline='') as csvfile:
         # Convert the parameter value to billions, handling fractional values
         if "." in params_str:
             params_float = float(params_str)
-            params = int(params_float * 1000000000)
+            params = int(params_float * 1_000_000_000)
         else:
-            params = int(params_str) * 1000000000
+            params = int(params_str) * 1_000_000_000
 
         data[name] = {
             "name": name,
