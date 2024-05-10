@@ -13,8 +13,14 @@ with open(input_file, newline='') as csvfile:
         print(row)
         name = row[0]
         model_name = name.split("/")[1] if "/" in name else name
-        params = row[1]
+        params_str = row[1]  # Store the parameter value as a string
 
+        # Convert the parameter value to billions, handling fractional values
+        if "." in params_str:
+            params_float = float(params_str)
+            params = int(params_float * 1000000000)
+        else:
+            params = int(params_str) * 1000000000
 
         data[name] = {
             "name": name,
