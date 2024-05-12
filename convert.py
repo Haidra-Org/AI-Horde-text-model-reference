@@ -13,8 +13,15 @@ with open(input_file, newline='') as csvfile:
         print(row)
         name = row[0]
         model_name = name.split("/")[1] if "/" in name else name
-        params = row[1]
+        params_str = row[1]  # Store the parameter value as a string
 
+        # Convert the parameter value to billions
+        try:
+            params = int(float(params_str) * 1_000_000_000)
+        except ValueError as e:
+            print(e)
+            print(f"Error converting {params_str} in {name} to an integer")
+            exit(1)
 
         data[name] = {
             "name": name,

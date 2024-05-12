@@ -1,5 +1,6 @@
 db_test.json
 .tox
+.vscode
 
 .ruff_cache
 
