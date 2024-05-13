@@ -7292,7 +7292,7 @@
     "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7301,7 +7301,7 @@
     "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "aphrodite/NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7310,7 +7310,7 @@
     "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3": {
         "name": "koboldcpp/Noromaid-v0.1-mixtral-8x7b-v3",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7319,7 +7319,7 @@
     "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
         "name": "NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7328,7 +7328,7 @@
     "aphrodite/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
         "name": "aphrodite/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7337,7 +7337,115 @@
     "koboldcpp/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss": {
         "name": "koboldcpp/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Llama-3-Lumimaid-70B-v0.1": {
+        "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-3-Lumimaid-70B-v0.1": {
+        "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
+        "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-3-Lumimaid-8B-v0.1": {
+        "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "baseline": "opt",
+        "parameters": 8000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7346,7 +7454,7 @@
     "mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7355,7 +7463,7 @@
     "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7364,7 +7472,7 @@
     "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 46000000000,
+        "parameters": 28000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7373,7 +7481,7 @@
     "mistralai/Mixtral-8x22B-Instruct-v0.1": {
         "name": "mistralai/Mixtral-8x22B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7382,7 +7490,7 @@
     "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1": {
         "name": "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7391,7 +7499,7 @@
     "koboldcpp/Mixtral-8x22B-Instruct-v0.1": {
         "name": "koboldcpp/Mixtral-8x22B-Instruct-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7940,7 +8048,7 @@
     "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
         "name": "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7949,7 +8057,7 @@
     "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
         "name": "aphrodite/HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7958,7 +8066,7 @@
     "koboldcpp/zephyr-orpo-141b-A35b-v0.1": {
         "name": "koboldcpp/zephyr-orpo-141b-A35b-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7967,7 +8075,7 @@
     "lightblue/Karasu-Mixtral-8x22B-v0.1": {
         "name": "lightblue/Karasu-Mixtral-8x22B-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7976,7 +8084,7 @@
     "aphrodite/lightblue/Karasu-Mixtral-8x22B-v0.1": {
         "name": "aphrodite/lightblue/Karasu-Mixtral-8x22B-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7985,7 +8093,7 @@
     "koboldcpp/Karasu-Mixtral-8x22B-v0.1": {
         "name": "koboldcpp/Karasu-Mixtral-8x22B-v0.1",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7994,7 +8102,7 @@
     "microsoft/WizardLM-2-8x22B": {
         "name": "microsoft/WizardLM-2-8x22B",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -8003,7 +8111,7 @@
     "aphrodite/microsoft/WizardLM-2-8x22B": {
         "name": "aphrodite/microsoft/WizardLM-2-8x22B",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -8012,7 +8120,7 @@
     "koboldcpp/WizardLM-2-8x22B": {
         "name": "koboldcpp/WizardLM-2-8x22B",
         "baseline": "opt",
-        "parameters": 141000000000,
+        "parameters": 88000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
