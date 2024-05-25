@@ -8368,5 +8368,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "xxx777xxxASD/ChaoticSoliloquy-4x8B": {
+        "name": "xxx777xxxASD/ChaoticSoliloquy-4x8B",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/xxx777xxxASD/ChaoticSoliloquy-4x8B": {
+        "name": "aphrodite/xxx777xxxASD/ChaoticSoliloquy-4x8B",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/ChaoticSoliloquy-4x8B": {
+        "name": "koboldcpp/ChaoticSoliloquy-4x8B",
+        "baseline": "opt",
+        "parameters": 16000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
