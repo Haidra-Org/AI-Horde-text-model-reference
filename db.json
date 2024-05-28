@@ -8422,5 +8422,59 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "TheSkullery/llama-3-cat-8b-instruct-v1": {
+        "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheSkullery/llama-3-cat-8b-instruct-v1": {
+        "name": "aphrodite/TheSkullery/llama-3-cat-8b-instruct-v1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/llama-3-cat-8b-instruct-v1": {
+        "name": "koboldcpp/llama-3-cat-8b-instruct-v1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "turboderp/Cat-Llama-3-70B-instruct": {
+        "name": "turboderp/Cat-Llama-3-70B-instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/turboderp/Cat-Llama-3-70B-instruct": {
+        "name": "aphrodite/turboderp/Cat-Llama-3-70B-instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Cat-Llama-3-70B-instruct": {
+        "name": "koboldcpp/Cat-Llama-3-70B-instruct",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
