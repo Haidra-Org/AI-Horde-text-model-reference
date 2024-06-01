@@ -8476,5 +8476,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
+        "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
+        "name": "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
+        "name": "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
