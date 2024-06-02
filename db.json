@@ -8477,8 +8477,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
-        "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+    "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
+        "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
         "baseline": "opt",
         "parameters": 20000000000,
         "description": "Add me",
@@ -8486,8 +8486,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
-        "name": "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+    "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
+        "name": "aphrodite/DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
         "baseline": "opt",
         "parameters": 20000000000,
         "description": "Add me",
@@ -8495,8 +8495,8 @@
         "style": "generalist",
         "nsfw": false
     },
-    "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b-GGUF": {
-        "name": "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b-GGUF",
+    "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b": {
+        "name": "koboldcpp/Psyonic-Cetacean-Ultra-Quality-20b",
         "baseline": "opt",
         "parameters": 20000000000,
         "description": "Add me",
