@@ -8503,5 +8503,32 @@
         "version": "1",
         "style": "generalist",
         "nsfw": false
+    },
+    "v000000/L3-8B-Poppy-Sunspice": {
+        "name": "v000000/L3-8B-Poppy-Sunspice",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/v000000/L3-8B-Poppy-Sunspice": {
+        "name": "aphrodite/v000000/L3-8B-Poppy-Sunspice",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/L3-8B-Poppy-Sunspice": {
+        "name": "koboldcpp/L3-8B-Poppy-Sunspice",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
     }
 }
