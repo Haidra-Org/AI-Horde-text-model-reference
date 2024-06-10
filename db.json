@@ -8099,6 +8099,87 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Qwen/Qwen2-72B-Instruct": {
+        "name": "Qwen/Qwen2-72B-Instruct",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen2-72B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2-72B-Instruct",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen2-72B-Instruct": {
+        "name": "koboldcpp/Qwen2-72B-Instruct",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen2-7B-Instruct": {
+        "name": "Qwen/Qwen2-7B-Instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen2-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2-7B-Instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen2-7B-Instruct": {
+        "name": "koboldcpp/Qwen2-7B-Instruct",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Qwen/Qwen2-57B-A14B-Instruct": {
+        "name": "Qwen/Qwen2-57B-A14B-Instruct",
+        "baseline": "opt",
+        "parameters": 29000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Qwen/Qwen2-57B-A14B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2-57B-A14B-Instruct",
+        "baseline": "opt",
+        "parameters": 29000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Qwen2-57B-A14B-Instruct": {
+        "name": "koboldcpp/Qwen2-57B-A14B-Instruct",
+        "baseline": "opt",
+        "parameters": 29000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1": {
         "name": "HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1",
         "baseline": "opt",
