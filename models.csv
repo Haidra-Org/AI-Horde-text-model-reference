@@ -300,6 +300,9 @@ Qwen/Qwen1.5-4B,4
 Qwen/Qwen1.5-1.8B,1.8
 Qwen/Qwen1.5-1.8B,1.8
 Qwen/Qwen1.5-0.5B,0.5
+Qwen/Qwen2-72B-Instruct,72
+Qwen/Qwen2-7B-Instruct,7
+Qwen/Qwen2-57B-A14B-Instruct,29
 HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1,88
 lightblue/Karasu-Mixtral-8x22B-v0.1,88
 lightblue/Karasu-Mixtral-8x22B-v0.1,88
