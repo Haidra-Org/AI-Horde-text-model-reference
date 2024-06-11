@@ -159,6 +159,7 @@ MarsupialAI/JerseyDevil-14b,14
 MarsupialAI/SkunkApe-16b,16
 MarsupialAI/HelloNurse-11b,11
 MarsupialAI/Aqueducts-18B,18
+MarsupialAI/IxChel-L3-12B,12
 TehVenom/MPT-7b-Apache-2.0,7
 TehVenom/MPT-7b-storywriter-Apache-2.0,7
 TehVenom/MPT-7b-InstructAndStorywriting-50_50-Merge,7
@@ -240,6 +241,7 @@ Aeala/Enterredaas-65b,65
 Aeala/Enterredaas-33b,33
 CalderaAI/30B-Epsilon,33
 mlabonne/llama-2-7b-guanaco,7
+mlabonne/NeuralDaredevil-8B-abliterated,8
 openaccess-ai-collective/manticore-13b,13
 Gryphe/MythoMax-L2-13b,13
 Undi95/ReMM-SLERP-L2-13B,13
