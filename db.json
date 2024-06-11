@@ -4346,6 +4346,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "MarsupialAI/IxChel-L3-12B": {
+        "name": "MarsupialAI/IxChel-L3-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/MarsupialAI/IxChel-L3-12B": {
+        "name": "aphrodite/MarsupialAI/IxChel-L3-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/IxChel-L3-12B": {
+        "name": "koboldcpp/IxChel-L3-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TehVenom/MPT-7b-Apache-2.0": {
         "name": "TehVenom/MPT-7b-Apache-2.0",
         "baseline": "opt",
@@ -6528,6 +6555,33 @@
         "name": "koboldcpp/llama-2-7b-guanaco",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mlabonne/NeuralDaredevil-8B-abliterated": {
+        "name": "mlabonne/NeuralDaredevil-8B-abliterated",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mlabonne/NeuralDaredevil-8B-abliterated": {
+        "name": "aphrodite/mlabonne/NeuralDaredevil-8B-abliterated",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/NeuralDaredevil-8B-abliterated": {
+        "name": "koboldcpp/NeuralDaredevil-8B-abliterated",
+        "baseline": "opt",
+        "parameters": 8000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
