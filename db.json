@@ -5993,6 +5993,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Sao10K/L3-70B-Euryale-v2.1": {
+        "name": "Sao10K/L3-70B-Euryale-v2.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Sao10K/L3-70B-Euryale-v2.1": {
+        "name": "aphrodite/Sao10K/L3-70B-Euryale-v2.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/L3-70B-Euryale-v2.1": {
+        "name": "koboldcpp/L3-70B-Euryale-v2.1",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "SanjiWatsuki/Silicon-Maid-7B": {
         "name": "SanjiWatsuki/Silicon-Maid-7B",
         "baseline": "opt",
