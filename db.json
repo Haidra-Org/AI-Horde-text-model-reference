@@ -26,6 +26,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "alpindale/magnum-72b-v1": {
+        "name": "alpindale/magnum-72b-v1",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/alpindale/magnum-72b-v1": {
+        "name": "aphrodite/alpindale/magnum-72b-v1",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-72b-v1": {
+        "name": "koboldcpp/magnum-72b-v1",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "bigscience/bloom": {
         "name": "bigscience/bloom",
         "baseline": "opt",
