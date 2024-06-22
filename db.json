@@ -7532,6 +7532,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TeeZee/DarkForest-20B-v3.0": {
+        "name": "TeeZee/DarkForest-20B-v3.0",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TeeZee/DarkForest-20B-v3.0": {
+        "name": "aphrodite/TeeZee/DarkForest-20B-v3.0",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/DarkForest-20B-v3.0": {
+        "name": "koboldcpp/DarkForest-20B-v3.0",
+        "baseline": "opt",
+        "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TeeZee/NEBULA-23.8B-v1.0": {
         "name": "TeeZee/NEBULA-23.8B-v1.0",
         "baseline": "opt",
