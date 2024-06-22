@@ -1025,6 +1025,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "dreamgen/opus-v1.4-70b-llama3": {
+        "name": "dreamgen/opus-v1.4-70b-llama3",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/dreamgen/opus-v1.4-70b-llama3": {
+        "name": "aphrodite/dreamgen/opus-v1.4-70b-llama3",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/opus-v1.4-70b-llama3": {
+        "name": "koboldcpp/opus-v1.4-70b-llama3",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "ehartford/Wizard-Vicuna-13B-Uncensored": {
         "name": "ehartford/Wizard-Vicuna-13B-Uncensored",
         "baseline": "opt",
