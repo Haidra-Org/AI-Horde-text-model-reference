@@ -431,6 +431,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "bluuwhale/L3-SthenoMaidBlackroot-8B-V1": {
+        "name": "bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/bluuwhale/L3-SthenoMaidBlackroot-8B-V1": {
+        "name": "aphrodite/bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/L3-SthenoMaidBlackroot-8B-V1": {
+        "name": "koboldcpp/L3-SthenoMaidBlackroot-8B-V1",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Bronya-Rand/Inairtra-7B": {
         "name": "Bronya-Rand/Inairtra-7B",
         "baseline": "opt",
