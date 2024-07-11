@@ -102,6 +102,7 @@ facebook/xglm-564M,0.564
 facebook/xglm-7.5B,7.5
 fblgit/UNA-TheBeagle-7b-v1,7
 froggeric/WestLake-10.7B-v2,11
+google/gemma-2-27b-it,27
 gpt2,0.124
 gpt2-large,0.774
 gpt2-medium,0.355

@@ -2807,6 +2807,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "google/gemma-2-27b-it": {
+        "name": "google/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/google/gemma-2-27b-it": {
+        "name": "aphrodite/google/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gemma-2-27b-it": {
+        "name": "koboldcpp/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "gpt2": {
         "name": "gpt2",
         "baseline": "opt",
