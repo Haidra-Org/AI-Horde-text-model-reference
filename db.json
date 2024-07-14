@@ -7937,6 +7937,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TheDrummer/Big-Tiger-Gemma-27B-v1": {
+        "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1": {
+        "name": "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Big-Tiger-Gemma-27B-v1": {
+        "name": "koboldcpp/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TheDrummer/Coomand-R-35B-v1": {
         "name": "TheDrummer/Coomand-R-35B-v1",
         "baseline": "opt",
