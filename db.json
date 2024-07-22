@@ -8558,6 +8558,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "turboderp/turbcat-instruct-72b": {
+        "name": "turboderp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/turboderp/turbcat-instruct-72b": {
+        "name": "aphrodite/turboderp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/turbcat-instruct-72b": {
+        "name": "koboldcpp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Undi95/Amethyst-13B-Mistral": {
         "name": "Undi95/Amethyst-13B-Mistral",
         "baseline": "opt",
