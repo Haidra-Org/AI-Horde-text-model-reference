@@ -3185,6 +3185,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "intervitens/mini-magnum-12b-v1.1": {
+        "name": "intervitens/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/intervitens/mini-magnum-12b-v1.1": {
+        "name": "aphrodite/intervitens/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mini-magnum-12b-v1.1": {
+        "name": "koboldcpp/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "jebcarter/psyonic-cetacean-20B": {
         "name": "jebcarter/psyonic-cetacean-20B",
         "baseline": "opt",
