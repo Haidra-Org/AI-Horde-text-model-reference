@@ -5642,6 +5642,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "mistralai/Mistral-Large-Instruct-2407": {
+        "name": "mistralai/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-Large-Instruct-2407": {
+        "name": "aphrodite/mistralai/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-Large-Instruct-2407": {
+        "name": "koboldcpp/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "mlabonne/llama-2-7b-guanaco": {
         "name": "mlabonne/llama-2-7b-guanaco",
         "baseline": "opt",
