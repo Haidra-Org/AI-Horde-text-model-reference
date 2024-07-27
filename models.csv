@@ -31,6 +31,7 @@ codellama/CodeLlama-34b-Instruct-hf,34
 codellama/CodeLlama-7b-hf,7
 codellama/CodeLlama-7b-Instruct-hf,7
 cognitivecomputations/dolphin-2.9-llama3-8b,8
+cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b,12
 CohereForAI/c4ai-command-r-plus,104
 CohereForAI/c4ai-command-r-v01,35
 DavidAU/Psyonic-Cetacean-Ultra-Quality-20b,20
@@ -209,6 +210,7 @@ mistralai/Mistral-7B-v0.1,7
 mistralai/Mixtral-8x22B-Instruct-v0.1,88
 mistralai/Mixtral-8x7B-Instruct-v0.1,28
 mistralai/Mistral-Large-Instruct-2407,123
+mistralai/Mistral-Nemo-Instruct-2407,12
 mlabonne/llama-2-7b-guanaco,7
 mlabonne/NeuralDaredevil-8B-abliterated,8
 mosaicml/mpt-1b-redpajama-200b,1
@@ -222,6 +224,10 @@ NeverSleep/Llama-3-Lumimaid-70B-v0.1,70
 NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS,70
 NeverSleep/Llama-3-Lumimaid-8B-v0.1,8
 NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS,8
+NeverSleep/Lumimaid-v0.2-8B,8
+NeverSleep/Lumimaid-v0.2-12B,12
+NeverSleep/Lumimaid-v0.2-70B,70
+NeverSleep/Lumimaid-v0.2-123B,123
 NeverSleep/Noromaid-13b-v0.1.1,13
 NeverSleep/Noromaid-13b-v0.2,13
 NeverSleep/Noromaid-13b-v0.3,13
