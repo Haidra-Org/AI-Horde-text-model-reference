@@ -890,6 +890,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "koboldcpp/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "CohereForAI/c4ai-command-r-plus": {
         "name": "CohereForAI/c4ai-command-r-plus",
         "baseline": "opt",
@@ -5669,6 +5696,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "mistralai/Mistral-Nemo-Instruct-2407": {
+        "name": "mistralai/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-Nemo-Instruct-2407": {
+        "name": "aphrodite/mistralai/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-Nemo-Instruct-2407": {
+        "name": "koboldcpp/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "mlabonne/llama-2-7b-guanaco": {
         "name": "mlabonne/llama-2-7b-guanaco",
         "baseline": "opt",
@@ -6015,6 +6069,114 @@
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
         "baseline": "opt",
         "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "NeverSleep/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-8B": {
+        "name": "koboldcpp/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-12B": {
+        "name": "NeverSleep/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-12B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-12B": {
+        "name": "koboldcpp/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-70B": {
+        "name": "NeverSleep/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-70B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-70B": {
+        "name": "koboldcpp/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "NeverSleep/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-123B": {
+        "name": "koboldcpp/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
