@@ -6398,6 +6398,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "nothingiisreal/Celeste-12B-V1.6": {
+        "name": "nothingiisreal/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/nothingiisreal/Celeste-12B-V1.6": {
+        "name": "aphrodite/nothingiisreal/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Celeste-12B-V1.6": {
+        "name": "koboldcpp/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NousResearch/Nous-Hermes-Llama2-13b": {
         "name": "NousResearch/Nous-Hermes-Llama2-13b",
         "baseline": "opt",
