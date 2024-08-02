@@ -7829,6 +7829,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Steelskull/G2-DA-Nyxora-27b-V2": {
+        "name": "Steelskull/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2": {
+        "name": "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/G2-DA-Nyxora-27b-V2": {
+        "name": "koboldcpp/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Tap-M/Luna-AI-Llama2-Uncensored": {
         "name": "Tap-M/Luna-AI-Llama2-Uncensored",
         "baseline": "opt",
