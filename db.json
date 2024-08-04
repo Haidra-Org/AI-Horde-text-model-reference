@@ -8261,6 +8261,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TheDrummer/Gemmasutra-Mini-2B-v1": {
+        "name": "TheDrummer/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1": {
+        "name": "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Gemmasutra-Mini-2B-v1": {
+        "name": "koboldcpp/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TheDrummer/Gemmasutra-Pro-27B-v1": {
         "name": "TheDrummer/Gemmasutra-Pro-27B-v1",
         "baseline": "opt",
