@@ -998,6 +998,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "crestf411/daybreak-kunoichi-2dpo-7b": {
+        "name": "crestf411/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b": {
+        "name": "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/daybreak-kunoichi-2dpo-7b": {
+        "name": "koboldcpp/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
         "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
         "baseline": "opt",
