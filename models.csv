@@ -120,6 +120,7 @@ Henk717/echidna-tiefigther-25,13
 Henk717/spring-dragon,13
 Himitsui/Kaiju-11B,11
 HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1,88
+IndexTeam/Index-1.9B-Chat,1.9
 intervitens/mini-magnum-12b-v1.1,12
 jebcarter/psyonic-cetacean-20B,20
 jondurbin/airoboros-33b-gpt4-1.2,33
@@ -205,6 +206,7 @@ meta-llama/Meta-Llama-3-70B,70
 meta-llama/Meta-Llama-3-70B-Instruct,70
 meta-llama/Meta-Llama-3-8B,8
 meta-llama/Meta-Llama-3-8B-Instruct,8
+meta-llama/Meta-Llama-3.1-8B-Instruct,8
 microsoft/WizardLM-2-70B,70
 microsoft/WizardLM-2-7B,7
 microsoft/WizardLM-2-8x22B,88
