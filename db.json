@@ -80,6 +80,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aetherwiing/MN-12B-Starcannon-v3": {
+        "name": "aetherwiing/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/aetherwiing/MN-12B-Starcannon-v3": {
+        "name": "aphrodite/aetherwiing/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MN-12B-Starcannon-v3": {
+        "name": "koboldcpp/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "alpindale/goliath-120b": {
         "name": "alpindale/goliath-120b",
         "baseline": "opt",
