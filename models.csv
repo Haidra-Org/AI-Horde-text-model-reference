@@ -1,8 +1,10 @@
 acrastt/Marx-3B-V3,3
 Aeala/Enterredaas-33b,33
 Aeala/Enterredaas-65b,65
+aetherwiing/MN-12B-Starcannon-v3,12
 alpindale/goliath-120b,120
 alpindale/magnum-72b-v1,72
+anthracite-org/magnum-12b-v2,12
 Austism/chronos-hermes-13b,13
 Austism/chronos-hermes-13b-v2,13
 bigscience/bloom,176
@@ -31,8 +33,10 @@ codellama/CodeLlama-34b-Instruct-hf,34
 codellama/CodeLlama-7b-hf,7
 codellama/CodeLlama-7b-Instruct-hf,7
 cognitivecomputations/dolphin-2.9-llama3-8b,8
+cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b,12
 CohereForAI/c4ai-command-r-plus,104
 CohereForAI/c4ai-command-r-v01,35
+crestf411/daybreak-kunoichi-2dpo-7b,7
 DavidAU/Psyonic-Cetacean-Ultra-Quality-20b,20
 digitous/GPT-R,6
 digitous/Janin-R,6
@@ -102,6 +106,7 @@ facebook/xglm-564M,0.564
 facebook/xglm-7.5B,7.5
 fblgit/UNA-TheBeagle-7b-v1,7
 froggeric/WestLake-10.7B-v2,11
+google/gemma-2-27b-it,27
 gpt2,0.124
 gpt2-large,0.774
 gpt2-medium,0.355
@@ -115,6 +120,8 @@ Henk717/echidna-tiefigther-25,13
 Henk717/spring-dragon,13
 Himitsui/Kaiju-11B,11
 HuggingFaceH4/zephyr-orpo-141b-A35b-v0.1,88
+IndexTeam/Index-1.9B-Chat,1.9
+intervitens/mini-magnum-12b-v1.1,12
 jebcarter/psyonic-cetacean-20B,20
 jondurbin/airoboros-33b-gpt4-1.2,33
 jondurbin/airoboros-33b-gpt4-1.3,33
@@ -199,6 +206,7 @@ meta-llama/Meta-Llama-3-70B,70
 meta-llama/Meta-Llama-3-70B-Instruct,70
 meta-llama/Meta-Llama-3-8B,8
 meta-llama/Meta-Llama-3-8B-Instruct,8
+meta-llama/Meta-Llama-3.1-8B-Instruct,8
 microsoft/WizardLM-2-70B,70
 microsoft/WizardLM-2-7B,7
 microsoft/WizardLM-2-8x22B,88
@@ -206,6 +214,8 @@ mistralai/Mistral-7B-Instruct-v0.1,7
 mistralai/Mistral-7B-v0.1,7
 mistralai/Mixtral-8x22B-Instruct-v0.1,88
 mistralai/Mixtral-8x7B-Instruct-v0.1,28
+mistralai/Mistral-Large-Instruct-2407,123
+mistralai/Mistral-Nemo-Instruct-2407,12
 mlabonne/llama-2-7b-guanaco,7
 mlabonne/NeuralDaredevil-8B-abliterated,8
 mosaicml/mpt-1b-redpajama-200b,1
@@ -219,6 +229,10 @@ NeverSleep/Llama-3-Lumimaid-70B-v0.1,70
 NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS,70
 NeverSleep/Llama-3-Lumimaid-8B-v0.1,8
 NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS,8
+NeverSleep/Lumimaid-v0.2-8B,8
+NeverSleep/Lumimaid-v0.2-12B,12
+NeverSleep/Lumimaid-v0.2-70B,70
+NeverSleep/Lumimaid-v0.2-123B,123
 NeverSleep/Noromaid-13b-v0.1.1,13
 NeverSleep/Noromaid-13b-v0.2,13
 NeverSleep/Noromaid-13b-v0.3,13
@@ -227,6 +241,7 @@ NeverSleep/Noromaid-7b-v0.1.1,7
 NeverSleep/Noromaid-v0.1-mixtral-8x7b-v3,28
 NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss,28
 Norquinal/Mistral-7B-claude-chat,7
+nothingiisreal/Celeste-12B-V1.6,12
 NousResearch/Nous-Hermes-Llama2-13b,13
 NousResearch/Nous-Hermes-Llama2-70b,70
 NousResearch/Redmond-Puffin-13B,13
@@ -281,6 +296,7 @@ senseable/WestLake-7B-v2,7
 stabilityai/StableBeluga-13B,13
 stabilityai/StableBeluga-7B,7
 stabilityai/StableBeluga2,70
+Steelskull/G2-DA-Nyxora-27b-V2,27
 Tap-M/Luna-AI-Llama2-Uncensored,7
 TeeZee/DarkForest-20B-v2.0,20
 TeeZee/DarkForest-20B-v3.0,20
@@ -294,10 +310,15 @@ TehVenom/PPO_Pygway-V8p4_Dev-6b,6
 TehVenom/TehVenom_PPO_Shygmalion-6b,6
 teknium/airoboros-mistral2.2-7b,7
 teknium/OpenHermes-2.5-Mistral-7B,7
+TheDrummer/Big-Tiger-Gemma-27B-v1,27
 TheDrummer/Coomand-R-35B-v1,35
+TheDrummer/Gemmasutra-Mini-2B-v1,2.6
+TheDrummer/Gemmasutra-Pro-27B-v1,27
 TheDrummer/Llama-3SOME-8B-v1-BETA,8
 TheDrummer/Llama-3SOME-8B-v2,8
 TheDrummer/Moistral-11B-v3,11
+TheDrummer/Rocinante-12B-v1,12
+TheDrummer/Smegmma-9B-v1,9
 TheSkullery/llama-3-cat-8b-instruct-v1,8
 tiiuae/falcon-180B,180
 tiiuae/falcon-180B-chat,180
@@ -314,9 +335,12 @@ togethercomputer/RedPajama-INCITE-Chat-7B-v0.1,7
 togethercomputer/RedPajama-INCITE-Instruct-3B-v1,3
 togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1,7
 turboderp/Cat-Llama-3-70B-instruct,70
+turboderp/llama3-turbcat-instruct-8b,8
+turboderp/turbcat-instruct-72b,72
 Undi95/Amethyst-13B-Mistral,13
 Undi95/Emerhyst-13B,13
 Undi95/Emerhyst-20B,20
+Undi95/MG-FinalMix-72B,72
 Undi95/MLewd-ReMM-L2-Chat-20B,20
 Undi95/MLewd-ReMM-L2-Chat-20B-Inverted,20
 Undi95/MXLewd-L2-20B,20

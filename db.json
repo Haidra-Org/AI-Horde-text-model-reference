@@ -80,6 +80,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "aetherwiing/MN-12B-Starcannon-v3": {
+        "name": "aetherwiing/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/aetherwiing/MN-12B-Starcannon-v3": {
+        "name": "aphrodite/aetherwiing/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MN-12B-Starcannon-v3": {
+        "name": "koboldcpp/MN-12B-Starcannon-v3",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "alpindale/goliath-120b": {
         "name": "alpindale/goliath-120b",
         "baseline": "opt",
@@ -129,6 +156,33 @@
         "name": "koboldcpp/magnum-72b-v1",
         "baseline": "opt",
         "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "anthracite-org/magnum-12b-v2": {
+        "name": "anthracite-org/magnum-12b-v2",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/anthracite-org/magnum-12b-v2": {
+        "name": "aphrodite/anthracite-org/magnum-12b-v2",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-12b-v2": {
+        "name": "koboldcpp/magnum-12b-v2",
+        "baseline": "opt",
+        "parameters": 12000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -890,6 +944,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "aphrodite/cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/dolphin-2.9.3-mistral-nemo-12b": {
+        "name": "koboldcpp/dolphin-2.9.3-mistral-nemo-12b",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "CohereForAI/c4ai-command-r-plus": {
         "name": "CohereForAI/c4ai-command-r-plus",
         "baseline": "opt",
@@ -939,6 +1020,33 @@
         "name": "koboldcpp/c4ai-command-r-v01",
         "baseline": "opt",
         "parameters": 35000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "crestf411/daybreak-kunoichi-2dpo-7b": {
+        "name": "crestf411/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b": {
+        "name": "aphrodite/crestf411/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/daybreak-kunoichi-2dpo-7b": {
+        "name": "koboldcpp/daybreak-kunoichi-2dpo-7b",
+        "baseline": "opt",
+        "parameters": 7000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -2807,6 +2915,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "google/gemma-2-27b-it": {
+        "name": "google/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/google/gemma-2-27b-it": {
+        "name": "aphrodite/google/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/gemma-2-27b-it": {
+        "name": "koboldcpp/gemma-2-27b-it",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "gpt2": {
         "name": "gpt2",
         "baseline": "opt",
@@ -3153,6 +3288,60 @@
         "name": "koboldcpp/zephyr-orpo-141b-A35b-v0.1",
         "baseline": "opt",
         "parameters": 88000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "IndexTeam/Index-1.9B-Chat": {
+        "name": "IndexTeam/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/IndexTeam/Index-1.9B-Chat": {
+        "name": "aphrodite/IndexTeam/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Index-1.9B-Chat": {
+        "name": "koboldcpp/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "intervitens/mini-magnum-12b-v1.1": {
+        "name": "intervitens/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/intervitens/mini-magnum-12b-v1.1": {
+        "name": "aphrodite/intervitens/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/mini-magnum-12b-v1.1": {
+        "name": "koboldcpp/mini-magnum-12b-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -5399,6 +5588,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3.1-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "microsoft/WizardLM-2-70B": {
         "name": "microsoft/WizardLM-2-70B",
         "baseline": "opt",
@@ -5583,6 +5799,60 @@
         "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
         "baseline": "opt",
         "parameters": 28000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mistralai/Mistral-Large-Instruct-2407": {
+        "name": "mistralai/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-Large-Instruct-2407": {
+        "name": "aphrodite/mistralai/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-Large-Instruct-2407": {
+        "name": "koboldcpp/Mistral-Large-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "mistralai/Mistral-Nemo-Instruct-2407": {
+        "name": "mistralai/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/mistralai/Mistral-Nemo-Instruct-2407": {
+        "name": "aphrodite/mistralai/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-Nemo-Instruct-2407": {
+        "name": "koboldcpp/Mistral-Nemo-Instruct-2407",
+        "baseline": "opt",
+        "parameters": 12000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -5939,6 +6209,114 @@
         "style": "generalist",
         "nsfw": false
     },
+    "NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "NeverSleep/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-8B": {
+        "name": "koboldcpp/Lumimaid-v0.2-8B",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-12B": {
+        "name": "NeverSleep/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-12B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-12B": {
+        "name": "koboldcpp/Lumimaid-v0.2-12B",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-70B": {
+        "name": "NeverSleep/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-70B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-70B": {
+        "name": "koboldcpp/Lumimaid-v0.2-70B",
+        "baseline": "opt",
+        "parameters": 70000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "NeverSleep/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Lumimaid-v0.2-123B": {
+        "name": "koboldcpp/Lumimaid-v0.2-123B",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "NeverSleep/Noromaid-13b-v0.1.1": {
         "name": "NeverSleep/Noromaid-13b-v0.1.1",
         "baseline": "opt",
@@ -6150,6 +6528,33 @@
         "name": "koboldcpp/Mistral-7B-claude-chat",
         "baseline": "opt",
         "parameters": 7000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "nothingiisreal/Celeste-12B-V1.6": {
+        "name": "nothingiisreal/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/nothingiisreal/Celeste-12B-V1.6": {
+        "name": "aphrodite/nothingiisreal/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Celeste-12B-V1.6": {
+        "name": "koboldcpp/Celeste-12B-V1.6",
+        "baseline": "opt",
+        "parameters": 12000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -7559,6 +7964,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "Steelskull/G2-DA-Nyxora-27b-V2": {
+        "name": "Steelskull/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2": {
+        "name": "aphrodite/Steelskull/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/G2-DA-Nyxora-27b-V2": {
+        "name": "koboldcpp/G2-DA-Nyxora-27b-V2",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Tap-M/Luna-AI-Llama2-Uncensored": {
         "name": "Tap-M/Luna-AI-Llama2-Uncensored",
         "baseline": "opt",
@@ -7910,6 +8342,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TheDrummer/Big-Tiger-Gemma-27B-v1": {
+        "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1": {
+        "name": "aphrodite/TheDrummer/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Big-Tiger-Gemma-27B-v1": {
+        "name": "koboldcpp/Big-Tiger-Gemma-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TheDrummer/Coomand-R-35B-v1": {
         "name": "TheDrummer/Coomand-R-35B-v1",
         "baseline": "opt",
@@ -7932,6 +8391,60 @@
         "name": "koboldcpp/Coomand-R-35B-v1",
         "baseline": "opt",
         "parameters": 35000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheDrummer/Gemmasutra-Mini-2B-v1": {
+        "name": "TheDrummer/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1": {
+        "name": "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Gemmasutra-Mini-2B-v1": {
+        "name": "koboldcpp/Gemmasutra-Mini-2B-v1",
+        "baseline": "opt",
+        "parameters": 2600000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheDrummer/Gemmasutra-Pro-27B-v1": {
+        "name": "TheDrummer/Gemmasutra-Pro-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Gemmasutra-Pro-27B-v1": {
+        "name": "aphrodite/TheDrummer/Gemmasutra-Pro-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Gemmasutra-Pro-27B-v1": {
+        "name": "koboldcpp/Gemmasutra-Pro-27B-v1",
+        "baseline": "opt",
+        "parameters": 27000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -8013,6 +8526,60 @@
         "name": "koboldcpp/Moistral-11B-v3",
         "baseline": "opt",
         "parameters": 11000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheDrummer/Rocinante-12B-v1": {
+        "name": "TheDrummer/Rocinante-12B-v1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Rocinante-12B-v1": {
+        "name": "aphrodite/TheDrummer/Rocinante-12B-v1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Rocinante-12B-v1": {
+        "name": "koboldcpp/Rocinante-12B-v1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheDrummer/Smegmma-9B-v1": {
+        "name": "TheDrummer/Smegmma-9B-v1",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Smegmma-9B-v1": {
+        "name": "aphrodite/TheDrummer/Smegmma-9B-v1",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Smegmma-9B-v1": {
+        "name": "koboldcpp/Smegmma-9B-v1",
+        "baseline": "opt",
+        "parameters": 9000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
@@ -8450,6 +9017,60 @@
         "style": "generalist",
         "nsfw": false
     },
+    "turboderp/llama3-turbcat-instruct-8b": {
+        "name": "turboderp/llama3-turbcat-instruct-8b",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/turboderp/llama3-turbcat-instruct-8b": {
+        "name": "aphrodite/turboderp/llama3-turbcat-instruct-8b",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/llama3-turbcat-instruct-8b": {
+        "name": "koboldcpp/llama3-turbcat-instruct-8b",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "turboderp/turbcat-instruct-72b": {
+        "name": "turboderp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/turboderp/turbcat-instruct-72b": {
+        "name": "aphrodite/turboderp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/turbcat-instruct-72b": {
+        "name": "koboldcpp/turbcat-instruct-72b",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Undi95/Amethyst-13B-Mistral": {
         "name": "Undi95/Amethyst-13B-Mistral",
         "baseline": "opt",
@@ -8526,6 +9147,33 @@
         "name": "koboldcpp/Emerhyst-20B",
         "baseline": "opt",
         "parameters": 20000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "Undi95/MG-FinalMix-72B": {
+        "name": "Undi95/MG-FinalMix-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/Undi95/MG-FinalMix-72B": {
+        "name": "aphrodite/Undi95/MG-FinalMix-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/MG-FinalMix-72B": {
+        "name": "koboldcpp/MG-FinalMix-72B",
+        "baseline": "opt",
+        "parameters": 72000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
