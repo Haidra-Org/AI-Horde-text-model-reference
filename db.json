@@ -3293,6 +3293,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "IndexTeam/Index-1.9B-Chat": {
+        "name": "IndexTeam/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/IndexTeam/Index-1.9B-Chat": {
+        "name": "aphrodite/IndexTeam/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Index-1.9B-Chat": {
+        "name": "koboldcpp/Index-1.9B-Chat",
+        "baseline": "opt",
+        "parameters": 1900000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "intervitens/mini-magnum-12b-v1.1": {
         "name": "intervitens/mini-magnum-12b-v1.1",
         "baseline": "opt",
@@ -5554,6 +5581,33 @@
     },
     "koboldcpp/Meta-Llama-3-8B-Instruct": {
         "name": "koboldcpp/Meta-Llama-3-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3.1-8B-Instruct",
         "baseline": "opt",
         "parameters": 8000000000,
         "description": "Add me",
