@@ -188,6 +188,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "anthracite-org/magnum-v2-123b": {
+        "name": "anthracite-org/magnum-v2-123b",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/anthracite-org/magnum-v2-123b": {
+        "name": "aphrodite/anthracite-org/magnum-v2-123b",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-v2-123b": {
+        "name": "koboldcpp/magnum-v2-123b",
+        "baseline": "opt",
+        "parameters": 123000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Austism/chronos-hermes-13b": {
         "name": "Austism/chronos-hermes-13b",
         "baseline": "opt",
