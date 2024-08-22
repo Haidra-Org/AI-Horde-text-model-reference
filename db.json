@@ -2429,6 +2429,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "elinas/Chronos-Gold-12B-1.0": {
+        "name": "elinas/Chronos-Gold-12B-1.0",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/elinas/Chronos-Gold-12B-1.0": {
+        "name": "aphrodite/elinas/Chronos-Gold-12B-1.0",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Chronos-Gold-12B-1.0": {
+        "name": "koboldcpp/Chronos-Gold-12B-1.0",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "elinas/chronos-mistral-7b": {
         "name": "elinas/chronos-mistral-7b",
         "baseline": "opt",
