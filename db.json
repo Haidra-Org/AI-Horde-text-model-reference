@@ -107,6 +107,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "ai21labs/AI21-Jamba-1.5-Mini": {
+        "name": "ai21labs/AI21-Jamba-1.5-Mini",
+        "baseline": "opt",
+        "parameters": 26000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ai21labs/AI21-Jamba-1.5-Mini": {
+        "name": "aphrodite/ai21labs/AI21-Jamba-1.5-Mini",
+        "baseline": "opt",
+        "parameters": 26000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/AI21-Jamba-1.5-Mini": {
+        "name": "koboldcpp/AI21-Jamba-1.5-Mini",
+        "baseline": "opt",
+        "parameters": 26000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "alpindale/goliath-120b": {
         "name": "alpindale/goliath-120b",
         "baseline": "opt",
