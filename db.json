@@ -242,6 +242,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
+        "name": "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
+        "name": "aphrodite/ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
+        "name": "koboldcpp/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
+        "baseline": "opt",
+        "parameters": 12000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "Austism/chronos-hermes-13b": {
         "name": "Austism/chronos-hermes-13b",
         "baseline": "opt",
