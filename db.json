@@ -8720,6 +8720,60 @@
         "style": "generalist",
         "nsfw": false
     },
+    "TheDrummer/Star-Command-R-32B-v1": {
+        "name": "TheDrummer/Star-Command-R-32B-v1",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Star-Command-R-32B-v1": {
+        "name": "aphrodite/TheDrummer/Star-Command-R-32B-v1",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Star-Command-R-32B-v1": {
+        "name": "koboldcpp/Star-Command-R-32B-v1",
+        "baseline": "opt",
+        "parameters": 32000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "TheDrummer/Theia-21B-v2": {
+        "name": "TheDrummer/Theia-21B-v2",
+        "baseline": "opt",
+        "parameters": 21000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/TheDrummer/Theia-21B-v2": {
+        "name": "aphrodite/TheDrummer/Theia-21B-v2",
+        "baseline": "opt",
+        "parameters": 21000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Theia-21B-v2": {
+        "name": "koboldcpp/Theia-21B-v2",
+        "baseline": "opt",
+        "parameters": 21000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
         "baseline": "opt",
