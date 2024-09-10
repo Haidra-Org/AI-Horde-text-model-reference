@@ -8018,6 +8018,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "SicariusSicariiStuff/2B_or_not_2B": {
+        "name": "SicariusSicariiStuff/2B_or_not_2B",
+        "baseline": "opt",
+        "parameters": 2500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SicariusSicariiStuff/2B_or_not_2B": {
+        "name": "aphrodite/SicariusSicariiStuff/2B_or_not_2B",
+        "baseline": "opt",
+        "parameters": 2500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/2B_or_not_2B": {
+        "name": "koboldcpp/2B_or_not_2B",
+        "baseline": "opt",
+        "parameters": 2500000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "SicariusSicariiStuff/Dusk_Rainbow": {
         "name": "SicariusSicariiStuff/Dusk_Rainbow",
         "baseline": "opt",
@@ -8040,6 +8067,60 @@
         "name": "koboldcpp/Dusk_Rainbow",
         "baseline": "opt",
         "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
+        "name": "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
+        "baseline": "opt",
+        "parameters": 3800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
+        "name": "aphrodite/SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
+        "baseline": "opt",
+        "parameters": 3800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Phi-3.5-mini-instruct_Uncensored": {
+        "name": "koboldcpp/Phi-3.5-mini-instruct_Uncensored",
+        "baseline": "opt",
+        "parameters": 3800000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "SicariusSicariiStuff/Tinybra_13B": {
+        "name": "SicariusSicariiStuff/Tinybra_13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SicariusSicariiStuff/Tinybra_13B": {
+        "name": "aphrodite/SicariusSicariiStuff/Tinybra_13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Tinybra_13B": {
+        "name": "koboldcpp/Tinybra_13B",
+        "baseline": "opt",
+        "parameters": 13000000000,
         "description": "Add me",
         "version": "1",
         "style": "generalist",
