@@ -8018,6 +8018,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "SicariusSicariiStuff/Dusk_Rainbow": {
+        "name": "SicariusSicariiStuff/Dusk_Rainbow",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/SicariusSicariiStuff/Dusk_Rainbow": {
+        "name": "aphrodite/SicariusSicariiStuff/Dusk_Rainbow",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/Dusk_Rainbow": {
+        "name": "koboldcpp/Dusk_Rainbow",
+        "baseline": "opt",
+        "parameters": 8000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "stabilityai/StableBeluga-13B": {
         "name": "stabilityai/StableBeluga-13B",
         "baseline": "opt",
