@@ -242,6 +242,60 @@
         "style": "generalist",
         "nsfw": false
     },
+    "anthracite-org/magnum-v3-9b-chatml": {
+        "name": "anthracite-org/magnum-v3-9b-chatml",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/anthracite-org/magnum-v3-9b-chatml": {
+        "name": "aphrodite/anthracite-org/magnum-v3-9b-chatml",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-v3-9b-chatml": {
+        "name": "koboldcpp/magnum-v3-9b-chatml",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "anthracite-org/magnum-v3-9b-customgemma2": {
+        "name": "anthracite-org/magnum-v3-9b-customgemma2",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/anthracite-org/magnum-v3-9b-customgemma2": {
+        "name": "aphrodite/anthracite-org/magnum-v3-9b-customgemma2",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-v3-9b-customgemma2": {
+        "name": "koboldcpp/magnum-v3-9b-customgemma2",
+        "baseline": "opt",
+        "parameters": 9000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "baseline": "opt",
