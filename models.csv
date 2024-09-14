@@ -41,6 +41,7 @@ codellama/CodeLlama-7b-hf,7
 codellama/CodeLlama-7b-Instruct-hf,7
 cognitivecomputations/dolphin-2.9-llama3-8b,8
 cognitivecomputations/dolphin-2.9.3-mistral-nemo-12b,12
+cognitivecomputations/dolphin-2.9.4-gemma2-2b,2
 CohereForAI/c4ai-command-r-plus,104
 CohereForAI/c4ai-command-r-v01,35
 crestf411/daybreak-kunoichi-2dpo-7b,7
