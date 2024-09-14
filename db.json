@@ -269,6 +269,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "anthracite-org/magnum-v3-34b": {
+        "name": "anthracite-org/magnum-v3-34b",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/anthracite-org/magnum-v3-34b": {
+        "name": "aphrodite/anthracite-org/magnum-v3-34b",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/magnum-v3-34b": {
+        "name": "koboldcpp/magnum-v3-34b",
+        "baseline": "opt",
+        "parameters": 34000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "anthracite-org/magnum-v3-9b-chatml": {
         "name": "anthracite-org/magnum-v3-9b-chatml",
         "baseline": "opt",
