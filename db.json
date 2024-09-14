@@ -1160,6 +1160,33 @@
         "style": "generalist",
         "nsfw": false
     },
+    "cognitivecomputations/dolphin-2.9.4-gemma2-2b": {
+        "name": "cognitivecomputations/dolphin-2.9.4-gemma2-2b",
+        "baseline": "opt",
+        "parameters": 2000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "aphrodite/cognitivecomputations/dolphin-2.9.4-gemma2-2b": {
+        "name": "aphrodite/cognitivecomputations/dolphin-2.9.4-gemma2-2b",
+        "baseline": "opt",
+        "parameters": 2000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
+    "koboldcpp/dolphin-2.9.4-gemma2-2b": {
+        "name": "koboldcpp/dolphin-2.9.4-gemma2-2b",
+        "baseline": "opt",
+        "parameters": 2000000000,
+        "description": "Add me",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false
+    },
     "CohereForAI/c4ai-command-r-plus": {
         "name": "CohereForAI/c4ai-command-r-plus",
         "baseline": "opt",
