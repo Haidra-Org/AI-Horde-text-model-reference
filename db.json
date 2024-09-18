@@ -5987,6 +5987,48 @@
             "2B"
         ]
     },
+    "inflatebot/MN-12B-Mag-Mell-R1": {
+        "name": "inflatebot/MN-12B-Mag-Mell-R1",
+        "model_name": "MN-12B-Mag-Mell-R1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MN 12B Mag Mell R1",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/inflatebot/MN-12B-Mag-Mell-R1": {
+        "name": "aphrodite/inflatebot/MN-12B-Mag-Mell-R1",
+        "model_name": "MN-12B-Mag-Mell-R1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MN 12B Mag Mell R1",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/MN-12B-Mag-Mell-R1": {
+        "name": "koboldcpp/MN-12B-Mag-Mell-R1",
+        "model_name": "MN-12B-Mag-Mell-R1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MN 12B Mag Mell R1",
+        "tags": [
+            "12B"
+        ]
+    },
     "intervitens/mini-magnum-12b-v1.1": {
         "name": "intervitens/mini-magnum-12b-v1.1",
         "model_name": "mini-magnum-12b-v1.1",
