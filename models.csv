@@ -227,6 +227,7 @@ mistralai/Mixtral-8x22B-Instruct-v0.1,88,,https://huggingface.co/mistralai/Mixtr
 mistralai/Mixtral-8x7B-Instruct-v0.1,28,,https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1,,"Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",generalist,popular,Mistral,
 mistralai/Mistral-Large-Instruct-2407,123,,https://huggingface.co/mistralai/Mistral-Large-Instruct-2407,,,,,,
 mistralai/Mistral-Nemo-Instruct-2407,12,,https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407,,,,,,
+mistralai/Mistral-Small-Instruct-2409,22,,,,,,,,
 mlabonne/llama-2-7b-guanaco,7,,https://huggingface.co/mlabonne/llama-2-7b-guanaco,,,,,,
 mlabonne/NeuralDaredevil-8B-abliterated,8,,https://huggingface.co/mlabonne/NeuralDaredevil-8B-abliterated,,"Extremely potent model, arguably better than models far larger, with the caveat being that it MUST be used with it's ""llama 3 instruct"" format, lest you lose a huge amount of its power. First notable super-merge type model for the Llama-3 ecosystem.",roleplay,popular,Llama 3,
 mosaicml/mpt-1b-redpajama-200b,1,,https://huggingface.co/mosaicml/mpt-1b-redpajama-200b,,,,,,
