@@ -330,6 +330,7 @@ teknium/airoboros-mistral2.2-7b,7,,https://huggingface.co/teknium/airoboros-mist
 teknium/OpenHermes-2.5-Mistral-7B,7,,https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B,,,,,,
 TheDrummer/Big-Tiger-Gemma-27B-v1,27,,https://huggingface.co/TheDrummer/Big-Tiger-Gemma-27B-v1,,,,,,
 TheDrummer/Coomand-R-35B-v1,35,,https://huggingface.co/TheDrummer/Coomand-R-35B-v1,,,,,,
+TheDrummer/Cydonia-22B-v1,22,,,,,,,,
 TheDrummer/Gemmasutra-Mini-2B-v1,2.6,,https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1,,,,,,
 TheDrummer/Gemmasutra-Pro-27B-v1,27,,https://huggingface.co/TheDrummer/Gemmasutra-Pro-27B-v1,,,,,,
 TheDrummer/Llama-3SOME-8B-v1-BETA,8,,,,,,,,
