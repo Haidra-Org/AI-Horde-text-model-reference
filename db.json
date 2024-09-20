@@ -13595,6 +13595,48 @@
         ],
         "instruct_format": "Llama 3"
     },
+    "Sao10K/L3.1-70B-Hanami-x1": {
+        "name": "Sao10K/L3.1-70B-Hanami-x1",
+        "model_name": "L3.1-70B-Hanami-x1",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Hanami x1",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Sao10K/L3.1-70B-Hanami-x1": {
+        "name": "aphrodite/Sao10K/L3.1-70B-Hanami-x1",
+        "model_name": "L3.1-70B-Hanami-x1",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Hanami x1",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/L3.1-70B-Hanami-x1": {
+        "name": "koboldcpp/L3.1-70B-Hanami-x1",
+        "model_name": "L3.1-70B-Hanami-x1",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Hanami x1",
+        "tags": [
+            "70B"
+        ]
+    },
     "Sao10K/Solstice-11B-v1": {
         "name": "Sao10K/Solstice-11B-v1",
         "model_name": "Solstice-11B-v1",

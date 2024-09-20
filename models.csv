@@ -300,6 +300,7 @@ Sao10K/L3-8B-Lunaris-v1,8,,https://huggingface.co/Sao10K/L3-8B-Lunaris-v1,,Merge
 Sao10K/L3-8B-Stheno-v3.1,8,,,,,,,,
 Sao10K/L3-8B-Stheno-v3.2,8,,https://huggingface.co/Sao10K/L3-8B-Stheno-v3.2,,"Extraordinary RP model, v3.2 fixed most of the issues that v3.1 had, It's hard to find faults with this model at it's size outside of the typical dependence on correct instruct formatting for Llama 3.",roleplay,popular,Llama 3,
 Sao10K/L3-8B-Stheno-v3.3-32K,8,,https://huggingface.co/Sao10K/L3-8B-Stheno-v3.3-32K,,"Extraordinary RP model, v3.2 fixed most of the issues that v3.1 had, It's hard to find faults with this model at it's size outside of the typical dependence on correct instruct formatting for Llama 3.",roleplay,popular,Llama 3,
+Sao10K/L3.1-70B-Hanami-x1,70,,,,,,,,
 Sao10K/Solstice-11B-v1,11,,,,,,,,
 Sao10K/Stheno-1.10-L2-13B,13,,,,,,,,
 Sao10K/Stheno-1.8-L2-13B,13,,,,,,,,
