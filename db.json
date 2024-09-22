@@ -2027,6 +2027,90 @@
             "2B"
         ]
     },
+    "CohereForAI/c4ai-command-r-08-2024": {
+        "name": "CohereForAI/c4ai-command-r-08-2024",
+        "model_name": "c4ai-command-r-08-2024",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r 08 2024",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/CohereForAI/c4ai-command-r-08-2024": {
+        "name": "aphrodite/CohereForAI/c4ai-command-r-08-2024",
+        "model_name": "c4ai-command-r-08-2024",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r 08 2024",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/c4ai-command-r-08-2024": {
+        "name": "koboldcpp/c4ai-command-r-08-2024",
+        "model_name": "c4ai-command-r-08-2024",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r 08 2024",
+        "tags": [
+            "32B"
+        ]
+    },
+    "CohereForAI/c4ai-command-r-plus-08-2024": {
+        "name": "CohereForAI/c4ai-command-r-plus-08-2024",
+        "model_name": "c4ai-command-r-plus-08-2024",
+        "baseline": "",
+        "parameters": 104000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r plus 08 2024",
+        "tags": [
+            "104B"
+        ]
+    },
+    "aphrodite/CohereForAI/c4ai-command-r-plus-08-2024": {
+        "name": "aphrodite/CohereForAI/c4ai-command-r-plus-08-2024",
+        "model_name": "c4ai-command-r-plus-08-2024",
+        "baseline": "",
+        "parameters": 104000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r plus 08 2024",
+        "tags": [
+            "104B"
+        ]
+    },
+    "koboldcpp/c4ai-command-r-plus-08-2024": {
+        "name": "koboldcpp/c4ai-command-r-plus-08-2024",
+        "model_name": "c4ai-command-r-plus-08-2024",
+        "baseline": "",
+        "parameters": 104000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command r plus 08 2024",
+        "tags": [
+            "104B"
+        ]
+    },
     "CohereForAI/c4ai-command-r-plus": {
         "name": "CohereForAI/c4ai-command-r-plus",
         "model_name": "c4ai-command-r-plus",
@@ -13113,6 +13197,48 @@
         "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
         "tags": [
             "7B"
+        ]
+    },
+    "Qwen/Qwen2.5-14B-Instruct": {
+        "name": "Qwen/Qwen2.5-14B-Instruct",
+        "model_name": "Qwen2.5-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 14B Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-14B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-14B-Instruct",
+        "model_name": "Qwen2.5-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 14B Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-14B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-14B-Instruct",
+        "model_name": "Qwen2.5-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 14B Instruct",
+        "tags": [
+            "14B"
         ]
     },
     "rexwang8/qilin-lit-6b": {
