@@ -9380,6 +9380,51 @@
             "103B"
         ]
     },
+    "MarsupialAI/Lusca-33B": {
+        "name": "MarsupialAI/Lusca-33B",
+        "model_name": "Lusca-33B",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lusca 33B",
+        "url": "https://huggingface.co/MarsupialAI/Lusca-33B",
+        "tags": [
+            "33B"
+        ]
+    },
+    "aphrodite/MarsupialAI/Lusca-33B": {
+        "name": "aphrodite/MarsupialAI/Lusca-33B",
+        "model_name": "Lusca-33B",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lusca 33B",
+        "url": "https://huggingface.co/MarsupialAI/Lusca-33B",
+        "tags": [
+            "33B"
+        ]
+    },
+    "koboldcpp/Lusca-33B": {
+        "name": "koboldcpp/Lusca-33B",
+        "model_name": "Lusca-33B",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lusca 33B",
+        "url": "https://huggingface.co/MarsupialAI/Lusca-33B",
+        "tags": [
+            "33B"
+        ]
+    },
     "MarsupialAI/SkunkApe-14b": {
         "name": "MarsupialAI/SkunkApe-14b",
         "model_name": "SkunkApe-14b",
