@@ -14072,6 +14072,48 @@
         ],
         "instruct_format": "Alpaca"
     },
+    "SicariusSicariiStuff/2B-ad": {
+        "name": "SicariusSicariiStuff/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/2B-ad": {
+        "name": "aphrodite/SicariusSicariiStuff/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/2B-ad": {
+        "name": "koboldcpp/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
+        ]
+    },
     "SicariusSicariiStuff/2B_or_not_2B": {
         "name": "SicariusSicariiStuff/2B_or_not_2B",
         "model_name": "2B_or_not_2B",
