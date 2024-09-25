@@ -13286,6 +13286,48 @@
             "14B"
         ]
     },
+    "Qwen/Qwen2.5-7B-Instruct": {
+        "name": "Qwen/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-7B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "model_name": "qilin-lit-6b",
