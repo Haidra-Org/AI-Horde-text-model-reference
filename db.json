@@ -10007,6 +10007,216 @@
             "8B"
         ]
     },
+    "meta-llama/Llama-3.1-405B-Instruct": {
+        "name": "meta-llama/Llama-3.1-405B-Instruct",
+        "model_name": "Llama-3.1-405B-Instruct",
+        "baseline": "",
+        "parameters": 405000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 405B Instruct",
+        "tags": [
+            "405B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.1-405B-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.1-405B-Instruct",
+        "model_name": "Llama-3.1-405B-Instruct",
+        "baseline": "",
+        "parameters": 405000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 405B Instruct",
+        "tags": [
+            "405B"
+        ]
+    },
+    "koboldcpp/Llama-3.1-405B-Instruct": {
+        "name": "koboldcpp/Llama-3.1-405B-Instruct",
+        "model_name": "Llama-3.1-405B-Instruct",
+        "baseline": "",
+        "parameters": 405000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 405B Instruct",
+        "tags": [
+            "405B"
+        ]
+    },
+    "meta-llama/Llama-3.2-1B-Instruct": {
+        "name": "meta-llama/Llama-3.2-1B-Instruct",
+        "model_name": "Llama-3.2-1B-Instruct",
+        "baseline": "",
+        "parameters": 1000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 1B Instruct",
+        "tags": [
+            "1B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-1B-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-1B-Instruct",
+        "model_name": "Llama-3.2-1B-Instruct",
+        "baseline": "",
+        "parameters": 1000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 1B Instruct",
+        "tags": [
+            "1B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-1B-Instruct": {
+        "name": "koboldcpp/Llama-3.2-1B-Instruct",
+        "model_name": "Llama-3.2-1B-Instruct",
+        "baseline": "",
+        "parameters": 1000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 1B Instruct",
+        "tags": [
+            "1B"
+        ]
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "name": "meta-llama/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-3B-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-3B-Instruct": {
+        "name": "koboldcpp/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "meta-llama/Llama-3.2-11B-Vision-Instruct": {
+        "name": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-11B-Vision-Instruct": {
+        "name": "koboldcpp/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
+        ]
+    },
+    "meta-llama/Llama-3.2-90B-Vision-Instruct": {
+        "name": "meta-llama/Llama-3.2-90B-Vision-Instruct",
+        "model_name": "Llama-3.2-90B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 90000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 90B Vision Instruct",
+        "tags": [
+            "90B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-90B-Vision-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-90B-Vision-Instruct",
+        "model_name": "Llama-3.2-90B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 90000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 90B Vision Instruct",
+        "tags": [
+            "90B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-90B-Vision-Instruct": {
+        "name": "koboldcpp/Llama-3.2-90B-Vision-Instruct",
+        "model_name": "Llama-3.2-90B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 90000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 90B Vision Instruct",
+        "tags": [
+            "90B"
+        ]
+    },
     "microsoft/WizardLM-2-70B": {
         "name": "microsoft/WizardLM-2-70B",
         "model_name": "WizardLM-2-70B",
