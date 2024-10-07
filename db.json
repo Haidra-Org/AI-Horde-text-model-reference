@@ -5338,7 +5338,7 @@
         "model_name": "Luminum-v0.1-123B",
         "baseline": "",
         "parameters": 123000000000,
-        "description": "",
+        "description": "A merge of Lumimaid v0.2 123B and Magnum v2 123B with Mistral Large Instruct 2407 as its base. Claims to inherit Luminaid's vocabulary and Magnum's creativity while keeping Mistral Large's smarts.",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
@@ -5346,14 +5346,15 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral"
     },
     "aphrodite/FluffyKaeloky/Luminum-v0.1-123B": {
         "name": "aphrodite/FluffyKaeloky/Luminum-v0.1-123B",
         "model_name": "Luminum-v0.1-123B",
         "baseline": "",
         "parameters": 123000000000,
-        "description": "",
+        "description": "A merge of Lumimaid v0.2 123B and Magnum v2 123B with Mistral Large Instruct 2407 as its base. Claims to inherit Luminaid's vocabulary and Magnum's creativity while keeping Mistral Large's smarts.",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
@@ -5361,14 +5362,15 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral"
     },
     "koboldcpp/Luminum-v0.1-123B": {
         "name": "koboldcpp/Luminum-v0.1-123B",
         "model_name": "Luminum-v0.1-123B",
         "baseline": "",
         "parameters": 123000000000,
-        "description": "",
+        "description": "A merge of Lumimaid v0.2 123B and Magnum v2 123B with Mistral Large Instruct 2407 as its base. Claims to inherit Luminaid's vocabulary and Magnum's creativity while keeping Mistral Large's smarts.",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
@@ -5376,7 +5378,8 @@
         "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
         "tags": [
             "123B"
-        ]
+        ],
+        "instruct_format": "Mistral"
     },
     "froggeric/WestLake-10.7B-v2": {
         "name": "froggeric/WestLake-10.7B-v2",
@@ -14508,13 +14511,15 @@
         "parameters": 3000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Impish LLAMA 3B",
         "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
         "tags": [
-            "3B"
-        ]
+            "3B",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B": {
         "name": "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B",
@@ -14523,13 +14528,15 @@
         "parameters": 3000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Impish LLAMA 3B",
         "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
         "tags": [
-            "3B"
-        ]
+            "3B",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/Impish_LLAMA_3B": {
         "name": "koboldcpp/Impish_LLAMA_3B",
@@ -14538,13 +14545,15 @@
         "parameters": 3000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Impish LLAMA 3B",
         "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
         "tags": [
-            "3B"
-        ]
+            "3B",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3"
     },
     "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
         "name": "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
