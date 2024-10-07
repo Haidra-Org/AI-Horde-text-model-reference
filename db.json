@@ -5333,6 +5333,51 @@
             "7B"
         ]
     },
+    "FluffyKaeloky/Luminum-v0.1-123B": {
+        "name": "FluffyKaeloky/Luminum-v0.1-123B",
+        "model_name": "Luminum-v0.1-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Luminum v0.1 123B",
+        "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/FluffyKaeloky/Luminum-v0.1-123B": {
+        "name": "aphrodite/FluffyKaeloky/Luminum-v0.1-123B",
+        "model_name": "Luminum-v0.1-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Luminum v0.1 123B",
+        "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Luminum-v0.1-123B": {
+        "name": "koboldcpp/Luminum-v0.1-123B",
+        "model_name": "Luminum-v0.1-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Luminum v0.1 123B",
+        "url": "https://huggingface.co/FluffyKaeloky/Luminum-v0.1-123B",
+        "tags": [
+            "123B"
+        ]
+    },
     "froggeric/WestLake-10.7B-v2": {
         "name": "froggeric/WestLake-10.7B-v2",
         "model_name": "WestLake-10.7B-v2",
@@ -14454,6 +14499,51 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/Dusk_Rainbow",
         "tags": [
             "8B"
+        ]
+    },
+    "SicariusSicariiStuff/Impish_LLAMA_3B": {
+        "name": "SicariusSicariiStuff/Impish_LLAMA_3B",
+        "model_name": "Impish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 3B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_LLAMA_3B",
+        "model_name": "Impish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 3B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Impish_LLAMA_3B": {
+        "name": "koboldcpp/Impish_LLAMA_3B",
+        "model_name": "Impish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 3B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_LLAMA_3B",
+        "tags": [
+            "3B"
         ]
     },
     "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
