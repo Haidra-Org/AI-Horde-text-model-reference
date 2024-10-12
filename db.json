@@ -12287,6 +12287,51 @@
             "12B"
         ]
     },
+    "ParasiticRogue/Instant-RP-Noodles-12B-v1.4": {
+        "name": "ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
+        "model_name": "Instant-RP-Noodles-12B-v1.4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Instant RP Noodles 12B v1.4",
+        "url": "https://huggingface.co/ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/ParasiticRogue/Instant-RP-Noodles-12B-v1.4": {
+        "name": "aphrodite/ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
+        "model_name": "Instant-RP-Noodles-12B-v1.4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Instant RP Noodles 12B v1.4",
+        "url": "https://huggingface.co/ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Instant-RP-Noodles-12B-v1.4": {
+        "name": "koboldcpp/Instant-RP-Noodles-12B-v1.4",
+        "model_name": "Instant-RP-Noodles-12B-v1.4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Instant RP Noodles 12B v1.4",
+        "url": "https://huggingface.co/ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
+        "tags": [
+            "12B"
+        ]
+    },
     "Pirr/pythia-13b-deduped-green_devil": {
         "name": "Pirr/pythia-13b-deduped-green_devil",
         "model_name": "pythia-13b-deduped-green_devil",
