@@ -15986,6 +15986,51 @@
             "12B"
         ]
     },
+    "TheDrummer/Rocinante-12B-v1.1": {
+        "name": "TheDrummer/Rocinante-12B-v1.1",
+        "model_name": "Rocinante-12B-v1.1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Rocinante 12B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1.1",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/TheDrummer/Rocinante-12B-v1.1": {
+        "name": "aphrodite/TheDrummer/Rocinante-12B-v1.1",
+        "model_name": "Rocinante-12B-v1.1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Rocinante 12B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1.1",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Rocinante-12B-v1.1": {
+        "name": "koboldcpp/Rocinante-12B-v1.1",
+        "model_name": "Rocinante-12B-v1.1",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Rocinante 12B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-12B-v1.1",
+        "tags": [
+            "12B"
+        ]
+    },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
         "model_name": "Smegmma-9B-v1",
