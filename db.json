@@ -14600,6 +14600,51 @@
         ],
         "instruct_format": "Llama 3"
     },
+    "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA": {
+        "name": "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
+        "model_name": "LLAMA-3_8B_Unaligned_BETA",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "LLAMA 3 8B Unaligned BETA",
+        "url": "https://huggingface.co/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA": {
+        "name": "aphrodite/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
+        "model_name": "LLAMA-3_8B_Unaligned_BETA",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "LLAMA 3 8B Unaligned BETA",
+        "url": "https://huggingface.co/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/LLAMA-3_8B_Unaligned_BETA": {
+        "name": "koboldcpp/LLAMA-3_8B_Unaligned_BETA",
+        "model_name": "LLAMA-3_8B_Unaligned_BETA",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "LLAMA 3 8B Unaligned BETA",
+        "url": "https://huggingface.co/SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
+        "tags": [
+            "8B"
+        ]
+    },
     "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
         "name": "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
         "model_name": "Phi-3.5-mini-instruct_Uncensored",
