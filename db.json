@@ -14915,6 +14915,51 @@
             "70B"
         ]
     },
+    "Steelskull/ML-MS-Etheris-123B": {
+        "name": "Steelskull/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/Steelskull/ML-MS-Etheris-123B": {
+        "name": "aphrodite/Steelskull/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/ML-MS-Etheris-123B": {
+        "name": "koboldcpp/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
+        ]
+    },
     "Steelskull/G2-DA-Nyxora-27b-V2": {
         "name": "Steelskull/G2-DA-Nyxora-27b-V2",
         "model_name": "G2-DA-Nyxora-27b-V2",
