@@ -9203,6 +9203,51 @@
             "70B"
         ]
     },
+    "MarinaraSpaghetti/NemoMix-Unleashed-12B": {
+        "name": "MarinaraSpaghetti/NemoMix-Unleashed-12B",
+        "model_name": "NemoMix-Unleashed-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NemoMix Unleashed 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoMix-Unleashed-12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/MarinaraSpaghetti/NemoMix-Unleashed-12B": {
+        "name": "aphrodite/MarinaraSpaghetti/NemoMix-Unleashed-12B",
+        "model_name": "NemoMix-Unleashed-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NemoMix Unleashed 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoMix-Unleashed-12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/NemoMix-Unleashed-12B": {
+        "name": "koboldcpp/NemoMix-Unleashed-12B",
+        "model_name": "NemoMix-Unleashed-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NemoMix Unleashed 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoMix-Unleashed-12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "MarsupialAI/Aqueducts-18B": {
         "name": "MarsupialAI/Aqueducts-18B",
         "model_name": "Aqueducts-18B",
