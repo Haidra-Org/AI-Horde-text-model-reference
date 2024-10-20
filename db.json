@@ -632,6 +632,294 @@
             "9B"
         ]
     },
+    "anthracite-org/magnum-v4-123b": {
+        "name": "anthracite-org/magnum-v4-123b",
+        "model_name": "magnum-v4-123b",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 123B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/anthracite-org/magnum-v4-123b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-123b",
+        "model_name": "magnum-v4-123b",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 123B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/magnum-v4-123b": {
+        "name": "koboldcpp/magnum-v4-123b",
+        "model_name": "magnum-v4-123b",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 123B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-123b",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "anthracite-org/magnum-v4-12b": {
+        "name": "anthracite-org/magnum-v4-12b",
+        "model_name": "magnum-v4-12b",
+        "baseline": "mistralai/Mistral-Nemo-Instruct-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 12B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
+        "tags": [
+            "12B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/anthracite-org/magnum-v4-12b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-12b",
+        "model_name": "magnum-v4-12b",
+        "baseline": "mistralai/Mistral-Nemo-Instruct-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 12B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
+        "tags": [
+            "12B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/magnum-v4-12b": {
+        "name": "koboldcpp/magnum-v4-12b",
+        "model_name": "magnum-v4-12b",
+        "baseline": "mistralai/Mistral-Nemo-Instruct-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 12B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-12b",
+        "tags": [
+            "12B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "anthracite-org/magnum-v4-22b": {
+        "name": "anthracite-org/magnum-v4-22b",
+        "model_name": "magnum-v4-22b",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 22B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/anthracite-org/magnum-v4-22b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-22b",
+        "model_name": "magnum-v4-22b",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 22B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/magnum-v4-22b": {
+        "name": "koboldcpp/magnum-v4-22b",
+        "model_name": "magnum-v4-22b",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 22B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-22b",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "anthracite-org/magnum-v4-27b": {
+        "name": "anthracite-org/magnum-v4-27b",
+        "model_name": "magnum-v4-27b",
+        "baseline": "google/gemma-2-27b",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 27B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
+        "tags": [
+            "27B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/anthracite-org/magnum-v4-27b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-27b",
+        "model_name": "magnum-v4-27b",
+        "baseline": "google/gemma-2-27b",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 27B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
+        "tags": [
+            "27B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/magnum-v4-27b": {
+        "name": "koboldcpp/magnum-v4-27b",
+        "model_name": "magnum-v4-27b",
+        "baseline": "google/gemma-2-27b",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 27B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-27b",
+        "tags": [
+            "27B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "anthracite-org/magnum-v4-72b": {
+        "name": "anthracite-org/magnum-v4-72b",
+        "model_name": "magnum-v4-72b",
+        "baseline": "Qwen/Qwen2.5-72B-Instruct",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 72B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
+        "tags": [
+            "72B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/anthracite-org/magnum-v4-72b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-72b",
+        "model_name": "magnum-v4-72b",
+        "baseline": "Qwen/Qwen2.5-72B-Instruct",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 72B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
+        "tags": [
+            "72B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/magnum-v4-72b": {
+        "name": "koboldcpp/magnum-v4-72b",
+        "model_name": "magnum-v4-72b",
+        "baseline": "Qwen/Qwen2.5-72B-Instruct",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 72B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-72b",
+        "tags": [
+            "72B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "anthracite-org/magnum-v4-9b": {
+        "name": "anthracite-org/magnum-v4-9b",
+        "model_name": "magnum-v4-9b",
+        "baseline": "google/gemma-2-9b",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 9B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
+        "tags": [
+            "9B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/anthracite-org/magnum-v4-9b": {
+        "name": "aphrodite/anthracite-org/magnum-v4-9b",
+        "model_name": "magnum-v4-9b",
+        "baseline": "google/gemma-2-9b",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 9B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
+        "tags": [
+            "9B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/magnum-v4-9b": {
+        "name": "koboldcpp/magnum-v4-9b",
+        "model_name": "magnum-v4-9b",
+        "baseline": "google/gemma-2-9b",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Magnum v4 9B",
+        "url": "https://huggingface.co/anthracite-org/magnum-v4-9b",
+        "tags": [
+            "9B"
+        ],
+        "instruct_format": "ChatML"
+    },
     "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "model_name": "Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
