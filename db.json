@@ -6092,6 +6092,51 @@
             "12B"
         ]
     },
+    "Hastagaras/Jamet-8B-L3-MK.V-Blackroot": {
+        "name": "Hastagaras/Jamet-8B-L3-MK.V-Blackroot",
+        "model_name": "Jamet-8B-L3-MK.V-Blackroot",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Jamet 8B L3 MK.V Blackroot",
+        "url": "https://huggingface.co/Hastagaras/Jamet-8B-L3-MK.V-Blackroot",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/Hastagaras/Jamet-8B-L3-MK.V-Blackroot": {
+        "name": "aphrodite/Hastagaras/Jamet-8B-L3-MK.V-Blackroot",
+        "model_name": "Jamet-8B-L3-MK.V-Blackroot",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Jamet 8B L3 MK.V Blackroot",
+        "url": "https://huggingface.co/Hastagaras/Jamet-8B-L3-MK.V-Blackroot",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Jamet-8B-L3-MK.V-Blackroot": {
+        "name": "koboldcpp/Jamet-8B-L3-MK.V-Blackroot",
+        "model_name": "Jamet-8B-L3-MK.V-Blackroot",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Jamet 8B L3 MK.V Blackroot",
+        "url": "https://huggingface.co/Hastagaras/Jamet-8B-L3-MK.V-Blackroot",
+        "tags": [
+            "8B"
+        ]
+    },
     "Henk717/airochronos-33B": {
         "name": "Henk717/airochronos-33B",
         "model_name": "airochronos-33B",
