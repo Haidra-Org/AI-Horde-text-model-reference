@@ -2579,6 +2579,51 @@
             "20B"
         ]
     },
+    "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct": {
+        "name": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "model_name": "DeepSeek-Coder-V2-Lite-Instruct",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek Coder V2 Lite Instruct",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "tags": [
+            "16B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "model_name": "DeepSeek-Coder-V2-Lite-Instruct",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek Coder V2 Lite Instruct",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "tags": [
+            "16B"
+        ]
+    },
+    "koboldcpp/DeepSeek-Coder-V2-Lite-Instruct": {
+        "name": "koboldcpp/DeepSeek-Coder-V2-Lite-Instruct",
+        "model_name": "DeepSeek-Coder-V2-Lite-Instruct",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek Coder V2 Lite Instruct",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+        "tags": [
+            "16B"
+        ]
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "model_name": "GPT-R",
