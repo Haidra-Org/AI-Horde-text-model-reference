@@ -9896,6 +9896,51 @@
             "33B"
         ]
     },
+    "MarsupialAI/Monstral-123B": {
+        "name": "MarsupialAI/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/MarsupialAI/Monstral-123B": {
+        "name": "aphrodite/MarsupialAI/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Monstral-123B": {
+        "name": "koboldcpp/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
+        "tags": [
+            "123B"
+        ]
+    },
     "MarsupialAI/SkunkApe-14b": {
         "name": "MarsupialAI/SkunkApe-14b",
         "model_name": "SkunkApe-14b",
