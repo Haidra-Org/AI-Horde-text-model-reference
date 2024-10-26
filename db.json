@@ -239,6 +239,51 @@
             "26B"
         ]
     },
+    "allura-org/MS-Meadowlark-22B": {
+        "name": "allura-org/MS-Meadowlark-22B",
+        "model_name": "MS-Meadowlark-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS Meadowlark 22B",
+        "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
+        "tags": [
+            "22B"
+        ]
+    },
+    "aphrodite/allura-org/MS-Meadowlark-22B": {
+        "name": "aphrodite/allura-org/MS-Meadowlark-22B",
+        "model_name": "MS-Meadowlark-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS Meadowlark 22B",
+        "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
+        "tags": [
+            "22B"
+        ]
+    },
+    "koboldcpp/MS-Meadowlark-22B": {
+        "name": "koboldcpp/MS-Meadowlark-22B",
+        "model_name": "MS-Meadowlark-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS Meadowlark 22B",
+        "url": "https://huggingface.co/allura-org/MS-Meadowlark-22B",
+        "tags": [
+            "22B"
+        ]
+    },
     "alpindale/goliath-120b": {
         "name": "alpindale/goliath-120b",
         "model_name": "goliath-120b",
