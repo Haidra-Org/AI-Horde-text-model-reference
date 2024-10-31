@@ -319,6 +319,7 @@ SanjiWatsuki/Silicon-Maid-7B,7,,https://huggingface.co/SanjiWatsuki/Silicon-Maid
 Sao10K/Euryale-1.3-L2-70B,70,,,,,,,,
 Sao10K/Fimbulvetr-11B-v2,11,,https://huggingface.co/Sao10K/Fimbulvetr-11B-v2,,Very creative model focused on RP and chat. Great at NSFW. As long as you don't mind the occasional reroll this is one of the best RP models for weaker hardware. This model is getting a little dated these days but it remians popular due to its adaptability and flavor. Alpaca RP focused model that excels across many tasks. Generally fairly reliable even outside of RP.,roleplay,popular,Alpaca,
 Sao10K/L3-70B-Euryale-v2.1,70,,https://huggingface.co/Sao10K/L3-70B-Euryale-v2.1,,,,,,
+Sao10K/L3.1-70B-Euryale-v2.2,70,,https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2,,,,,,
 Sao10K/L3-8B-Lunaris-v1,8,,https://huggingface.co/Sao10K/L3-8B-Lunaris-v1,,Merge of Stheno 3.2 and serveral other models to help balance out capabilities. Overall the most reliable l3 based model when it comes to roleplay specifically.,roleplay,popular,Llama 3,
 Sao10K/L3-8B-Stheno-v3.1,8,,,,,,,,
 Sao10K/L3-8B-Stheno-v3.2,8,,https://huggingface.co/Sao10K/L3-8B-Stheno-v3.2,,"Extraordinary RP model, v3.2 fixed most of the issues that v3.1 had, It's hard to find faults with this model at it's size outside of the typical dependence on correct instruct formatting for Llama 3.",roleplay,popular,Llama 3,

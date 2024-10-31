@@ -14420,6 +14420,51 @@
             "70B"
         ]
     },
+    "Sao10K/L3.1-70B-Euryale-v2.2": {
+        "name": "Sao10K/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2": {
+        "name": "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/L3.1-70B-Euryale-v2.2": {
+        "name": "koboldcpp/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
+    },
     "Sao10K/L3-8B-Lunaris-v1": {
         "name": "Sao10K/L3-8B-Lunaris-v1",
         "model_name": "L3-8B-Lunaris-v1",
