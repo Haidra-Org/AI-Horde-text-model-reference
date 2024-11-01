@@ -965,6 +965,90 @@
         ],
         "instruct_format": "ChatML"
     },
+    "arcee-ai/Llama-3.1-SuperNova-Lite": {
+        "name": "arcee-ai/Llama-3.1-SuperNova-Lite",
+        "model_name": "Llama-3.1-SuperNova-Lite",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 SuperNova Lite",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/arcee-ai/Llama-3.1-SuperNova-Lite": {
+        "name": "aphrodite/arcee-ai/Llama-3.1-SuperNova-Lite",
+        "model_name": "Llama-3.1-SuperNova-Lite",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 SuperNova Lite",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Llama-3.1-SuperNova-Lite": {
+        "name": "koboldcpp/Llama-3.1-SuperNova-Lite",
+        "model_name": "Llama-3.1-SuperNova-Lite",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 SuperNova Lite",
+        "tags": [
+            "8B"
+        ]
+    },
+    "arcee-ai/SuperNova-Medius": {
+        "name": "arcee-ai/SuperNova-Medius",
+        "model_name": "SuperNova-Medius",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "SuperNova Medius",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/arcee-ai/SuperNova-Medius": {
+        "name": "aphrodite/arcee-ai/SuperNova-Medius",
+        "model_name": "SuperNova-Medius",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "SuperNova Medius",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/SuperNova-Medius": {
+        "name": "koboldcpp/SuperNova-Medius",
+        "model_name": "SuperNova-Medius",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "SuperNova Medius",
+        "tags": [
+            "14B"
+        ]
+    },
     "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1": {
         "name": "ArliAI/Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
         "model_name": "Mistral-Nemo-12B-ArliAI-RPMax-v1.1",
