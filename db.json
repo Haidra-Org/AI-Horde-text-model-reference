@@ -16676,6 +16676,51 @@
             "8B"
         ]
     },
+    "TheDrummer/Ministrations-8B-v1": {
+        "name": "TheDrummer/Ministrations-8B-v1",
+        "model_name": "Ministrations-8B-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministrations 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Ministrations-8B-v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/TheDrummer/Ministrations-8B-v1": {
+        "name": "aphrodite/TheDrummer/Ministrations-8B-v1",
+        "model_name": "Ministrations-8B-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministrations 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Ministrations-8B-v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Ministrations-8B-v1": {
+        "name": "koboldcpp/Ministrations-8B-v1",
+        "model_name": "Ministrations-8B-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministrations 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Ministrations-8B-v1",
+        "tags": [
+            "8B"
+        ]
+    },
     "TheDrummer/Moistral-11B-v3": {
         "name": "TheDrummer/Moistral-11B-v3",
         "model_name": "Moistral-11B-v3",
