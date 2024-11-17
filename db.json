@@ -5075,6 +5075,51 @@
             "70B"
         ]
     },
+    "EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2": {
+        "name": "EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
+        "model_name": "EVA-Qwen2.5-32B-v0.2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 32B v0.2",
+        "url": "https://huggingface.co/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2": {
+        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
+        "model_name": "EVA-Qwen2.5-32B-v0.2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 32B v0.2",
+        "url": "https://huggingface.co/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/EVA-Qwen2.5-32B-v0.2": {
+        "name": "koboldcpp/EVA-Qwen2.5-32B-v0.2",
+        "model_name": "EVA-Qwen2.5-32B-v0.2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 32B v0.2",
+        "url": "https://huggingface.co/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
+        "tags": [
+            "32B"
+        ]
+    },
     "facebook/opt-1.3b": {
         "name": "facebook/opt-1.3b",
         "model_name": "opt-1.3b",
