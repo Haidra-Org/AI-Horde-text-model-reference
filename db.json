@@ -5123,6 +5123,90 @@
             "70B"
         ]
     },
+    "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
+        "name": "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
+        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/EVA-Qwen2.5-7B-v0.1": {
+        "name": "koboldcpp/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
+        ]
+    },
+    "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2": {
+        "name": "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2",
+        "model_name": "EVA-Qwen2.5-14B-v0.2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 14B v0.2",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2": {
+        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2",
+        "model_name": "EVA-Qwen2.5-14B-v0.2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 14B v0.2",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/EVA-Qwen2.5-14B-v0.2": {
+        "name": "koboldcpp/EVA-Qwen2.5-14B-v0.2",
+        "model_name": "EVA-Qwen2.5-14B-v0.2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 14B v0.2",
+        "tags": [
+            "14B"
+        ]
+    },
     "EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2": {
         "name": "EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
         "model_name": "EVA-Qwen2.5-32B-v0.2",
@@ -5166,6 +5250,48 @@
         "url": "https://huggingface.co/EVA-UNIT-01/EVA-Qwen2.5-32B-v0.2",
         "tags": [
             "32B"
+        ]
+    },
+    "EVA-UNIT-01/EVA-Qwen2.5-72B-v0.1": {
+        "name": "EVA-UNIT-01/EVA-Qwen2.5-72B-v0.1",
+        "model_name": "EVA-Qwen2.5-72B-v0.1",
+        "baseline": "",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 72B v0.1",
+        "tags": [
+            "72B"
+        ]
+    },
+    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-72B-v0.1": {
+        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-72B-v0.1",
+        "model_name": "EVA-Qwen2.5-72B-v0.1",
+        "baseline": "",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 72B v0.1",
+        "tags": [
+            "72B"
+        ]
+    },
+    "koboldcpp/EVA-Qwen2.5-72B-v0.1": {
+        "name": "koboldcpp/EVA-Qwen2.5-72B-v0.1",
+        "model_name": "EVA-Qwen2.5-72B-v0.1",
+        "baseline": "",
+        "parameters": 72000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 72B v0.1",
+        "tags": [
+            "72B"
         ]
     },
     "facebook/opt-1.3b": {
