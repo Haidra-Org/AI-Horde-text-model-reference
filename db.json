@@ -2618,6 +2618,54 @@
             "35B"
         ]
     },
+    "concedo/Beepo-22B": {
+        "name": "concedo/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "aphrodite/concedo/Beepo-22B": {
+        "name": "aphrodite/concedo/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "koboldcpp/Beepo-22B": {
+        "name": "koboldcpp/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
     "crestf411/daybreak-kunoichi-2dpo-7b": {
         "name": "crestf411/daybreak-kunoichi-2dpo-7b",
         "model_name": "daybreak-kunoichi-2dpo-7b",
