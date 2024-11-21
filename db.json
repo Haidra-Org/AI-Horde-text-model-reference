@@ -2618,6 +2618,54 @@
             "35B"
         ]
     },
+    "concedo/Beepo-22B": {
+        "name": "concedo/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "aphrodite/concedo/Beepo-22B": {
+        "name": "aphrodite/concedo/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "koboldcpp/Beepo-22B": {
+        "name": "koboldcpp/Beepo-22B",
+        "model_name": "Beepo-22B",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22000000000,
+        "description": "Decensored finetune of Mistral Small 22B that attempts to keep its intelligence/instruct capabilities.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Beepo 22B",
+        "url": "https://huggingface.co/concedo/Beepo-22B",
+        "tags": [
+            "22B"
+        ],
+        "instruct_format": "Alpaca"
+    },
     "crestf411/daybreak-kunoichi-2dpo-7b": {
         "name": "crestf411/daybreak-kunoichi-2dpo-7b",
         "model_name": "daybreak-kunoichi-2dpo-7b",
@@ -11273,6 +11321,54 @@
             "123B"
         ]
     },
+    "mistralai/Mistral-Large-Instruct-2411": {
+        "name": "mistralai/Mistral-Large-Instruct-2411",
+        "model_name": "Mistral-Large-Instruct-2411",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Large Instruct 2411",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/mistralai/Mistral-Large-Instruct-2411": {
+        "name": "aphrodite/mistralai/Mistral-Large-Instruct-2411",
+        "model_name": "Mistral-Large-Instruct-2411",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Large Instruct 2411",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/Mistral-Large-Instruct-2411": {
+        "name": "koboldcpp/Mistral-Large-Instruct-2411",
+        "model_name": "Mistral-Large-Instruct-2411",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Large Instruct 2411",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-Instruct-2411",
+        "tags": [
+            "123B"
+        ],
+        "instruct_format": "Mistral"
+    },
     "mistralai/Mistral-Nemo-Instruct-2407": {
         "name": "mistralai/Mistral-Nemo-Instruct-2407",
         "model_name": "Mistral-Nemo-Instruct-2407",
@@ -12928,6 +13024,102 @@
         "tags": [
             "12B"
         ]
+    },
+    "ParasiticRogue/EVA-Instruct-32B": {
+        "name": "ParasiticRogue/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/ParasiticRogue/EVA-Instruct-32B": {
+        "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/EVA-Instruct-32B": {
+        "name": "koboldcpp/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "ParasiticRogue/EVA-Instruct-32B-v2": {
+        "name": "ParasiticRogue/EVA-Instruct-32B-v2",
+        "model_name": "EVA-Instruct-32B-v2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-Gutenberg-Doppel-32B and EVA-Qwen2.5-32B-v0.2.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B v2",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/ParasiticRogue/EVA-Instruct-32B-v2": {
+        "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B-v2",
+        "model_name": "EVA-Instruct-32B-v2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-Gutenberg-Doppel-32B and EVA-Qwen2.5-32B-v0.2.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B v2",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/EVA-Instruct-32B-v2": {
+        "name": "koboldcpp/EVA-Instruct-32B-v2",
+        "model_name": "EVA-Instruct-32B-v2",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-Gutenberg-Doppel-32B and EVA-Qwen2.5-32B-v0.2.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B v2",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
     },
     "ParasiticRogue/Instant-RP-Noodles-12B-v1.4": {
         "name": "ParasiticRogue/Instant-RP-Noodles-12B-v1.4",
@@ -16540,6 +16732,51 @@
         "nsfw": false,
         "display_name": "Cydonia 22B v1.2",
         "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1.2",
+        "tags": [
+            "22B"
+        ]
+    },
+    "TheDrummer/Cydonia-22B-v1.3": {
+        "name": "TheDrummer/Cydonia-22B-v1.3",
+        "model_name": "Cydonia-22B-v1.3",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 22B v1.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1.3",
+        "tags": [
+            "22B"
+        ]
+    },
+    "aphrodite/TheDrummer/Cydonia-22B-v1.3": {
+        "name": "aphrodite/TheDrummer/Cydonia-22B-v1.3",
+        "model_name": "Cydonia-22B-v1.3",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 22B v1.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1.3",
+        "tags": [
+            "22B"
+        ]
+    },
+    "koboldcpp/Cydonia-22B-v1.3": {
+        "name": "koboldcpp/Cydonia-22B-v1.3",
+        "model_name": "Cydonia-22B-v1.3",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 22B v1.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-22B-v1.3",
         "tags": [
             "22B"
         ]
