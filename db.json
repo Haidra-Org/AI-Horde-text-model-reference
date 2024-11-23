@@ -10019,6 +10019,51 @@
             "18B"
         ]
     },
+    "MarsupialAI/Dumbstral-169B": {
+        "name": "MarsupialAI/Dumbstral-169B",
+        "model_name": "Dumbstral-169B",
+        "baseline": "",
+        "parameters": 169000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dumbstral 169B",
+        "url": "https://huggingface.co/MarsupialAI/Dumbstral-169B",
+        "tags": [
+            "169B"
+        ]
+    },
+    "aphrodite/MarsupialAI/Dumbstral-169B": {
+        "name": "aphrodite/MarsupialAI/Dumbstral-169B",
+        "model_name": "Dumbstral-169B",
+        "baseline": "",
+        "parameters": 169000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dumbstral 169B",
+        "url": "https://huggingface.co/MarsupialAI/Dumbstral-169B",
+        "tags": [
+            "169B"
+        ]
+    },
+    "koboldcpp/Dumbstral-169B": {
+        "name": "koboldcpp/Dumbstral-169B",
+        "model_name": "Dumbstral-169B",
+        "baseline": "",
+        "parameters": 169000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dumbstral 169B",
+        "url": "https://huggingface.co/MarsupialAI/Dumbstral-169B",
+        "tags": [
+            "169B"
+        ]
+    },
     "MarsupialAI/HelloNurse-11b": {
         "name": "MarsupialAI/HelloNurse-11b",
         "model_name": "HelloNurse-11b",
