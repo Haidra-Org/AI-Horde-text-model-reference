@@ -7580,6 +7580,51 @@
         ],
         "instruct_format": "Alpaca"
     },
+    "knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
+        "name": "knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
+        "model_name": "Cydonia-v1.3-Magnum-v4-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v1.3 Magnum v4 22B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
+        "tags": [
+            "22B"
+        ]
+    },
+    "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
+        "name": "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
+        "model_name": "Cydonia-v1.3-Magnum-v4-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v1.3 Magnum v4 22B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
+        "tags": [
+            "22B"
+        ]
+    },
+    "koboldcpp/Cydonia-v1.3-Magnum-v4-22B": {
+        "name": "koboldcpp/Cydonia-v1.3-Magnum-v4-22B",
+        "model_name": "Cydonia-v1.3-Magnum-v4-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v1.3 Magnum v4 22B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
+        "tags": [
+            "22B"
+        ]
+    },
     "KoboldAI/fairseq-dense-1.3B": {
         "name": "KoboldAI/fairseq-dense-1.3B",
         "model_name": "fairseq-dense-1.3B",
