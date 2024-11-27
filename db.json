@@ -7580,6 +7580,51 @@
         ],
         "instruct_format": "Alpaca"
     },
+    "knifeayumu/Behemoth-v1.1-Magnum-v4-123B": {
+        "name": "knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
+        "model_name": "Behemoth-v1.1-Magnum-v4-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "A merge of Behemoth 123B v1.1 and magnum-v4-123B with a recipe similar to Monstral-123B.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth v1.1 Magnum v4 123B",
+        "url": "https://huggingface.co/knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/knifeayumu/Behemoth-v1.1-Magnum-v4-123B": {
+        "name": "aphrodite/knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
+        "model_name": "Behemoth-v1.1-Magnum-v4-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "A merge of Behemoth 123B v1.1 and magnum-v4-123B with a recipe similar to Monstral-123B.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth v1.1 Magnum v4 123B",
+        "url": "https://huggingface.co/knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Behemoth-v1.1-Magnum-v4-123B": {
+        "name": "koboldcpp/Behemoth-v1.1-Magnum-v4-123B",
+        "model_name": "Behemoth-v1.1-Magnum-v4-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "A merge of Behemoth 123B v1.1 and magnum-v4-123B with a recipe similar to Monstral-123B.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth v1.1 Magnum v4 123B",
+        "url": "https://huggingface.co/knifeayumu/Behemoth-v1.1-Magnum-v4-123B",
+        "tags": [
+            "123B"
+        ]
+    },
     "knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
@@ -16771,6 +16816,159 @@
         "tags": [
             "123B"
         ]
+    },
+    "TheDrummer/Behemoth-123B-v2": {
+        "name": "TheDrummer/Behemoth-123B-v2",
+        "model_name": "Behemoth-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1 (Classic), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
+        "tags": [
+            "123B",
+            "generalist"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "aphrodite/TheDrummer/Behemoth-123B-v2": {
+        "name": "aphrodite/TheDrummer/Behemoth-123B-v2",
+        "model_name": "Behemoth-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1 (Classic), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
+        "tags": [
+            "123B",
+            "generalist"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "koboldcpp/Behemoth-123B-v2": {
+        "name": "koboldcpp/Behemoth-123B-v2",
+        "model_name": "Behemoth-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1 (Classic), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2",
+        "tags": [
+            "123B",
+            "generalist"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "TheDrummer/Behemoth-123B-v2.1": {
+        "name": "TheDrummer/Behemoth-123B-v2.1",
+        "model_name": "Behemoth-123B-v2.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1.1 (Creative Boost), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.1",
+        "tags": [
+            "123B",
+            "roleplay"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "aphrodite/TheDrummer/Behemoth-123B-v2.1": {
+        "name": "aphrodite/TheDrummer/Behemoth-123B-v2.1",
+        "model_name": "Behemoth-123B-v2.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1.1 (Creative Boost), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.1",
+        "tags": [
+            "123B",
+            "roleplay"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "koboldcpp/Behemoth-123B-v2.1": {
+        "name": "koboldcpp/Behemoth-123B-v2.1",
+        "model_name": "Behemoth-123B-v2.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An equivalent of Behemoth 123B v1.1 (Creative Boost), updated with Mistral Large Instruct 2411 as its base model.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.1",
+        "tags": [
+            "123B",
+            "roleplay"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "TheDrummer/Behemoth-123B-v2.2": {
+        "name": "TheDrummer/Behemoth-123B-v2.2",
+        "model_name": "Behemoth-123B-v2.2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An even more creative and \"unhinged\" iteration of Behemoth 123B v2.1.",
+        "version": "1",
+        "style": "story",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.2",
+        "tags": [
+            "123B",
+            "story"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "aphrodite/TheDrummer/Behemoth-123B-v2.2": {
+        "name": "aphrodite/TheDrummer/Behemoth-123B-v2.2",
+        "model_name": "Behemoth-123B-v2.2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An even more creative and \"unhinged\" iteration of Behemoth 123B v2.1.",
+        "version": "1",
+        "style": "story",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.2",
+        "tags": [
+            "123B",
+            "story"
+        ],
+        "instruct_format": "Metharme"
+    },
+    "koboldcpp/Behemoth-123B-v2.2": {
+        "name": "koboldcpp/Behemoth-123B-v2.2",
+        "model_name": "Behemoth-123B-v2.2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "An even more creative and \"unhinged\" iteration of Behemoth 123B v2.1.",
+        "version": "1",
+        "style": "story",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v2.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v2.2",
+        "tags": [
+            "123B",
+            "story"
+        ],
+        "instruct_format": "Metharme"
     },
     "TheDrummer/Big-Tiger-Gemma-27B-v1": {
         "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
