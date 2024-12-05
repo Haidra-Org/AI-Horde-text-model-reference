@@ -10424,6 +10424,51 @@
             "123B"
         ]
     },
+    "MarsupialAI/Monstral-123B-v2": {
+        "name": "MarsupialAI/Monstral-123B-v2",
+        "model_name": "Monstral-123B-v2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B v2",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B-v2",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/MarsupialAI/Monstral-123B-v2": {
+        "name": "aphrodite/MarsupialAI/Monstral-123B-v2",
+        "model_name": "Monstral-123B-v2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B v2",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B-v2",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Monstral-123B-v2": {
+        "name": "koboldcpp/Monstral-123B-v2",
+        "model_name": "Monstral-123B-v2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B v2",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B-v2",
+        "tags": [
+            "123B"
+        ]
+    },
     "MarsupialAI/SkunkApe-14b": {
         "name": "MarsupialAI/SkunkApe-14b",
         "model_name": "SkunkApe-14b",
@@ -15739,6 +15784,51 @@
             "roleplay"
         ],
         "instruct_format": "Llama 3"
+    },
+    "SicariusSicariiStuff/Impish_Mind_8B": {
+        "name": "SicariusSicariiStuff/Impish_Mind_8B",
+        "model_name": "Impish_Mind_8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Mind 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_Mind_8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_Mind_8B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_Mind_8B",
+        "model_name": "Impish_Mind_8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Mind 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_Mind_8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Impish_Mind_8B": {
+        "name": "koboldcpp/Impish_Mind_8B",
+        "model_name": "Impish_Mind_8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Mind 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Impish_Mind_8B",
+        "tags": [
+            "8B"
+        ]
     },
     "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA": {
         "name": "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
