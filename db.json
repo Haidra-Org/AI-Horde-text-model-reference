@@ -16907,6 +16907,51 @@
             "123B"
         ]
     },
+    "TheDrummer/Behemoth-123B-v1.2": {
+        "name": "TheDrummer/Behemoth-123B-v1.2",
+        "model_name": "Behemoth-123B-v1.2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v1.2",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/TheDrummer/Behemoth-123B-v1.2": {
+        "name": "aphrodite/TheDrummer/Behemoth-123B-v1.2",
+        "model_name": "Behemoth-123B-v1.2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v1.2",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Behemoth-123B-v1.2": {
+        "name": "koboldcpp/Behemoth-123B-v1.2",
+        "model_name": "Behemoth-123B-v1.2",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Behemoth 123B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-123B-v1.2",
+        "tags": [
+            "123B"
+        ]
+    },
     "TheDrummer/Behemoth-123B-v2": {
         "name": "TheDrummer/Behemoth-123B-v2",
         "model_name": "Behemoth-123B-v2",
