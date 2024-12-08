@@ -6800,6 +6800,51 @@
             "88B"
         ]
     },
+    "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated": {
+        "name": "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-32B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct abliterated",
+        "url": "https://huggingface.co/huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated": {
+        "name": "aphrodite/huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-32B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct abliterated",
+        "url": "https://huggingface.co/huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-32B-Instruct-abliterated": {
+        "name": "koboldcpp/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-32B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct abliterated",
+        "url": "https://huggingface.co/huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
     "IndexTeam/Index-1.9B-Chat": {
         "name": "IndexTeam/Index-1.9B-Chat",
         "model_name": "Index-1.9B-Chat",
