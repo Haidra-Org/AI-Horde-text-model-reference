@@ -2801,6 +2801,51 @@
             "16B"
         ]
     },
+    "deepseek-ai/DeepSeek-V2.5-1210": {
+        "name": "deepseek-ai/DeepSeek-V2.5-1210",
+        "model_name": "DeepSeek-V2.5-1210",
+        "baseline": "",
+        "parameters": 236000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V2.5 1210",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210",
+        "tags": [
+            "236B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-V2.5-1210": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-V2.5-1210",
+        "model_name": "DeepSeek-V2.5-1210",
+        "baseline": "",
+        "parameters": 236000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V2.5 1210",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210",
+        "tags": [
+            "236B"
+        ]
+    },
+    "koboldcpp/DeepSeek-V2.5-1210": {
+        "name": "koboldcpp/DeepSeek-V2.5-1210",
+        "model_name": "DeepSeek-V2.5-1210",
+        "baseline": "",
+        "parameters": 236000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V2.5 1210",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V2.5-1210",
+        "tags": [
+            "236B"
+        ]
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "model_name": "GPT-R",
