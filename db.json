@@ -14861,6 +14861,132 @@
             "7B"
         ]
     },
+    "Qwen/Qwen2.5-Coder-32B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-32B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-14B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-14B-Instruct",
+        "model_name": "Qwen2.5-Coder-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-14B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-14B-Instruct",
+        "model_name": "Qwen2.5-Coder-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-14B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-14B-Instruct",
+        "model_name": "Qwen2.5-Coder-14B-Instruct",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-7B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-7B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "model_name": "qilin-lit-6b",
