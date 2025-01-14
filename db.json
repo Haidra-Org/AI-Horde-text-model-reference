@@ -16217,6 +16217,51 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/Negative_LLAMA_70B": {
+        "name": "SicariusSicariiStuff/Negative_LLAMA_70B",
+        "model_name": "Negative_LLAMA_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Negative LLAMA 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Negative_LLAMA_70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Negative_LLAMA_70B": {
+        "name": "aphrodite/SicariusSicariiStuff/Negative_LLAMA_70B",
+        "model_name": "Negative_LLAMA_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Negative LLAMA 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Negative_LLAMA_70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Negative_LLAMA_70B": {
+        "name": "koboldcpp/Negative_LLAMA_70B",
+        "model_name": "Negative_LLAMA_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Negative LLAMA 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Negative_LLAMA_70B",
+        "tags": [
+            "70B"
+        ]
+    },
     "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored": {
         "name": "SicariusSicariiStuff/Phi-3.5-mini-instruct_Uncensored",
         "model_name": "Phi-3.5-mini-instruct_Uncensored",
