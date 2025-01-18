@@ -2888,6 +2888,90 @@
             "236B"
         ]
     },
+    "deepseek-ai/DeepSeek-V3": {
+        "name": "deepseek-ai/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
+        "tags": [
+            "150B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-V3": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
+        "tags": [
+            "150B"
+        ]
+    },
+    "koboldcpp/DeepSeek-V3": {
+        "name": "koboldcpp/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
+        "tags": [
+            "150B"
+        ]
+    },
+    "deepseek-ai/DeepSeek-V3-Base": {
+        "name": "deepseek-ai/DeepSeek-V3-Base",
+        "model_name": "DeepSeek-V3-Base",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3 Base",
+        "tags": [
+            "150B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-V3-Base": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-V3-Base",
+        "model_name": "DeepSeek-V3-Base",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3 Base",
+        "tags": [
+            "150B"
+        ]
+    },
+    "koboldcpp/DeepSeek-V3-Base": {
+        "name": "koboldcpp/DeepSeek-V3-Base",
+        "model_name": "DeepSeek-V3-Base",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3 Base",
+        "tags": [
+            "150B"
+        ]
+    },
     "digitous/GPT-R": {
         "name": "digitous/GPT-R",
         "model_name": "GPT-R",
