@@ -16202,6 +16202,48 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/Eximius_Persona_5B": {
+        "name": "SicariusSicariiStuff/Eximius_Persona_5B",
+        "model_name": "Eximius_Persona_5B",
+        "baseline": "",
+        "parameters": 5000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Eximius Persona 5B",
+        "tags": [
+            "5B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Eximius_Persona_5B": {
+        "name": "aphrodite/SicariusSicariiStuff/Eximius_Persona_5B",
+        "model_name": "Eximius_Persona_5B",
+        "baseline": "",
+        "parameters": 5000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Eximius Persona 5B",
+        "tags": [
+            "5B"
+        ]
+    },
+    "koboldcpp/Eximius_Persona_5B": {
+        "name": "koboldcpp/Eximius_Persona_5B",
+        "model_name": "Eximius_Persona_5B",
+        "baseline": "",
+        "parameters": 5000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Eximius Persona 5B",
+        "tags": [
+            "5B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_LLAMA_3B": {
         "name": "SicariusSicariiStuff/Impish_LLAMA_3B",
         "model_name": "Impish_LLAMA_3B",
