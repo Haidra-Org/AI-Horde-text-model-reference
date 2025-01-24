@@ -7013,6 +7013,48 @@
             "88B"
         ]
     },
+    "huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated": {
+        "name": "huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "model_name": "DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 32B abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated": {
+        "name": "aphrodite/huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "model_name": "DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 32B abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/DeepSeek-R1-Distill-Qwen-32B-abliterated": {
+        "name": "koboldcpp/DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "model_name": "DeepSeek-R1-Distill-Qwen-32B-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 32B abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
     "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated": {
         "name": "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
         "model_name": "Qwen2.5-Coder-32B-Instruct-abliterated",
