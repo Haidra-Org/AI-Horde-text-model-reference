@@ -16466,6 +16466,48 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/Impish_QWEN_7B-1M": {
+        "name": "SicariusSicariiStuff/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Impish_QWEN_7B-1M": {
+        "name": "koboldcpp/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_QWEN_14B-1M": {
         "name": "SicariusSicariiStuff/Impish_QWEN_14B-1M",
         "model_name": "Impish_QWEN_14B-1M",
