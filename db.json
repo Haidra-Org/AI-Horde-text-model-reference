@@ -16466,6 +16466,48 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/Impish_QWEN_14B-1M": {
+        "name": "SicariusSicariiStuff/Impish_QWEN_14B-1M",
+        "model_name": "Impish_QWEN_14B-1M",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 14B 1M",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_QWEN_14B-1M": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_QWEN_14B-1M",
+        "model_name": "Impish_QWEN_14B-1M",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 14B 1M",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Impish_QWEN_14B-1M": {
+        "name": "koboldcpp/Impish_QWEN_14B-1M",
+        "model_name": "Impish_QWEN_14B-1M",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 14B 1M",
+        "tags": [
+            "14B"
+        ]
+    },
     "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA": {
         "name": "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA",
         "model_name": "LLAMA-3_8B_Unaligned_BETA",
