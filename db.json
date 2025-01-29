@@ -7097,6 +7097,48 @@
             "88B"
         ]
     },
+    "huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2": {
+        "name": "huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "model_name": "DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 14B abliterated v2",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2": {
+        "name": "aphrodite/huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "model_name": "DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 14B abliterated v2",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2": {
+        "name": "koboldcpp/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "model_name": "DeepSeek-R1-Distill-Qwen-14B-abliterated-v2",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Qwen 14B abliterated v2",
+        "tags": [
+            "14B"
+        ]
+    },
     "huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated": {
         "name": "huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated",
         "model_name": "DeepSeek-R1-Distill-Qwen-32B-abliterated",
@@ -16857,6 +16899,48 @@
         "display_name": "Wingless Imp 8B",
         "tags": [
             "8B"
+        ]
+    },
+    "sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7": {
+        "name": "sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7",
+        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7": {
+        "name": "aphrodite/sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7",
+        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Lamarck-14B-v0.7sometimesanotion": {
+        "name": "koboldcpp/Lamarck-14B-v0.7sometimesanotion",
+        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "tags": [
+            "14B"
         ]
     },
     "stabilityai/StableBeluga-13B": {
