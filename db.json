@@ -12230,6 +12230,48 @@
             "22B"
         ]
     },
+    "mistralai/Mistral-Small-24B-Instruct-2501": {
+        "name": "mistralai/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501": {
+        "name": "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Mistral-Small-24B-Instruct-2501": {
+        "name": "koboldcpp/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
     "mlabonne/llama-2-7b-guanaco": {
         "name": "mlabonne/llama-2-7b-guanaco",
         "model_name": "llama-2-7b-guanaco",
