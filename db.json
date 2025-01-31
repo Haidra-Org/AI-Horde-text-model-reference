@@ -16943,44 +16943,44 @@
             "8B"
         ]
     },
-    "sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7": {
-        "name": "sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7",
-        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+    "sometimesanotion/Lamarck-14B-v0.7": {
+        "name": "sometimesanotion/Lamarck-14B-v0.7",
+        "model_name": "Lamarck-14B-v0.7",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "display_name": "Lamarck 14B v0.7",
         "tags": [
             "14B"
         ]
     },
-    "aphrodite/sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7": {
-        "name": "aphrodite/sometimesanotion/Lamarck-14B-v0.7sometimesanotion/Lamarck-14B-v0.7",
-        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+    "aphrodite/sometimesanotion/Lamarck-14B-v0.7": {
+        "name": "aphrodite/sometimesanotion/Lamarck-14B-v0.7",
+        "model_name": "Lamarck-14B-v0.7",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "display_name": "Lamarck 14B v0.7",
         "tags": [
             "14B"
         ]
     },
-    "koboldcpp/Lamarck-14B-v0.7sometimesanotion": {
-        "name": "koboldcpp/Lamarck-14B-v0.7sometimesanotion",
-        "model_name": "Lamarck-14B-v0.7sometimesanotion",
+    "koboldcpp/Lamarck-14B-v0.7": {
+        "name": "koboldcpp/Lamarck-14B-v0.7",
+        "model_name": "Lamarck-14B-v0.7",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lamarck 14B v0.7sometimesanotion",
+        "display_name": "Lamarck 14B v0.7",
         "tags": [
             "14B"
         ]
