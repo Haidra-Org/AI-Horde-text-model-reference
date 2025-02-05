@@ -1589,6 +1589,48 @@
             "7B"
         ]
     },
+    "Black-Ink-Guild/Pernicious_Prophecy_70B": {
+        "name": "Black-Ink-Guild/Pernicious_Prophecy_70B",
+        "model_name": "Pernicious_Prophecy_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Pernicious Prophecy 70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Black-Ink-Guild/Pernicious_Prophecy_70B": {
+        "name": "aphrodite/Black-Ink-Guild/Pernicious_Prophecy_70B",
+        "model_name": "Pernicious_Prophecy_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Pernicious Prophecy 70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Pernicious_Prophecy_70B": {
+        "name": "koboldcpp/Pernicious_Prophecy_70B",
+        "model_name": "Pernicious_Prophecy_70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Pernicious Prophecy 70B",
+        "tags": [
+            "70B"
+        ]
+    },
     "bluuwhale/L3-SthenoMaidBlackroot-8B-V1": {
         "name": "bluuwhale/L3-SthenoMaidBlackroot-8B-V1",
         "model_name": "L3-SthenoMaidBlackroot-8B-V1",
