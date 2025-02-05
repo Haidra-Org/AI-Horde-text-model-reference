@@ -2969,6 +2969,48 @@
             "16B"
         ]
     },
+    "deepseek-ai/DeepSeek-R1-Distill-Llama-8B": {
+        "name": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+        "model_name": "DeepSeek-R1-Distill-Llama-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Llama 8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-R1-Distill-Llama-8B": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+        "model_name": "DeepSeek-R1-Distill-Llama-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Llama 8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/DeepSeek-R1-Distill-Llama-8B": {
+        "name": "koboldcpp/DeepSeek-R1-Distill-Llama-8B",
+        "model_name": "DeepSeek-R1-Distill-Llama-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek R1 Distill Llama 8B",
+        "tags": [
+            "8B"
+        ]
+    },
     "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B": {
         "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
         "model_name": "DeepSeek-R1-Distill-Qwen-32B",
