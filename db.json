@@ -16853,6 +16853,48 @@
             "4B"
         ]
     },
+    "SicariusSicariiStuff/Phi-lthy4": {
+        "name": "SicariusSicariiStuff/Phi-lthy4",
+        "model_name": "Phi-lthy4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi lthy4",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Phi-lthy4": {
+        "name": "aphrodite/SicariusSicariiStuff/Phi-lthy4",
+        "model_name": "Phi-lthy4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi lthy4",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Phi-lthy4": {
+        "name": "koboldcpp/Phi-lthy4",
+        "model_name": "Phi-lthy4",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi lthy4",
+        "tags": [
+            "12B"
+        ]
+    },
     "SicariusSicariiStuff/Redemption_Wind_24B": {
         "name": "SicariusSicariiStuff/Redemption_Wind_24B",
         "model_name": "Redemption_Wind_24B",
