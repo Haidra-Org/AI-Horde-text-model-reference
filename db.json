@@ -18290,6 +18290,48 @@
         ],
         "instruct_format": "Metharme"
     },
+    "TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "aphrodite/TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "aphrodite/TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "koboldcpp/Anubis-Pro-105B-v1": {
+        "name": "koboldcpp/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
     "TheDrummer/Big-Tiger-Gemma-27B-v1": {
         "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
         "model_name": "Big-Tiger-Gemma-27B-v1",
