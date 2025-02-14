@@ -406,6 +406,7 @@ TheDrummer/Behemoth-123B-v1.2,123,,https://huggingface.co/TheDrummer/Behemoth-12
 TheDrummer/Behemoth-123B-v2,123,Behemoth 123B v2.0,https://huggingface.co/TheDrummer/Behemoth-123B-v2,mistralai/Mistral-Large-Instruct-2411,"An equivalent of Behemoth 123B v1 (Classic), updated with Mistral Large Instruct 2411 as its base model.",generalist,,Metharme,
 TheDrummer/Behemoth-123B-v2.1,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v2.1,mistralai/Mistral-Large-Instruct-2411,"An equivalent of Behemoth 123B v1.1 (Creative Boost), updated with Mistral Large Instruct 2411 as its base model.",roleplay,,Metharme,
 TheDrummer/Behemoth-123B-v2.2,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v2.2,mistralai/Mistral-Large-Instruct-2411,"An even more creative and ""unhinged"" iteration of Behemoth 123B v2.1.",story,,Metharme,
+TheDrummer/Anubis-Pro-105B-v1,105,,,,,,,,
 TheDrummer/Big-Tiger-Gemma-27B-v1,27,,https://huggingface.co/TheDrummer/Big-Tiger-Gemma-27B-v1,,,,,,
 TheDrummer/Coomand-R-35B-v1,35,,https://huggingface.co/TheDrummer/Coomand-R-35B-v1,,,,,,
 TheDrummer/Cydonia-22B-v1,22,,https://huggingface.co/TheDrummer/Cydonia-22B-v1,,,,,,
