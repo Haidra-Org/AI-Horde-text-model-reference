@@ -18557,6 +18557,48 @@
             "22B"
         ]
     },
+    "TheDrummer/Cydonia-24B-v2": {
+        "name": "TheDrummer/Cydonia-24B-v2",
+        "model_name": "Cydonia-24B-v2",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v2": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v2",
+        "model_name": "Cydonia-24B-v2",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Cydonia-24B-v2": {
+        "name": "koboldcpp/Cydonia-24B-v2",
+        "model_name": "Cydonia-24B-v2",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2",
+        "tags": [
+            "24B"
+        ]
+    },
     "TheDrummer/Gemmasutra-Mini-2B-v1": {
         "name": "TheDrummer/Gemmasutra-Mini-2B-v1",
         "model_name": "Gemmasutra-Mini-2B-v1",
