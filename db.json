@@ -16895,6 +16895,48 @@
             "4B"
         ]
     },
+    "SicariusSicariiStuff/Phi-Line_14B": {
+        "name": "SicariusSicariiStuff/Phi-Line_14B",
+        "model_name": "Phi-Line_14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi Line 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Phi-Line_14B": {
+        "name": "aphrodite/SicariusSicariiStuff/Phi-Line_14B",
+        "model_name": "Phi-Line_14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi Line 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Phi-Line_14B": {
+        "name": "koboldcpp/Phi-Line_14B",
+        "model_name": "Phi-Line_14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Phi Line 14B",
+        "tags": [
+            "14B"
+        ]
+    },
     "SicariusSicariiStuff/Phi-lthy4": {
         "name": "SicariusSicariiStuff/Phi-lthy4",
         "model_name": "Phi-lthy4",
