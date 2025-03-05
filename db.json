@@ -13877,6 +13877,48 @@
             "13B"
         ]
     },
+    "OddTheGreat/Apparatus_24B": {
+        "name": "OddTheGreat/Apparatus_24B",
+        "model_name": "Apparatus_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Apparatus 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/OddTheGreat/Apparatus_24B": {
+        "name": "aphrodite/OddTheGreat/Apparatus_24B",
+        "model_name": "Apparatus_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Apparatus 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Apparatus_24B": {
+        "name": "koboldcpp/Apparatus_24B",
+        "model_name": "Apparatus_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Apparatus 24B",
+        "tags": [
+            "24B"
+        ]
+    },
     "openaccess-ai-collective/manticore-13b": {
         "name": "openaccess-ai-collective/manticore-13b",
         "model_name": "manticore-13b",
