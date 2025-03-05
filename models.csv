@@ -306,6 +306,7 @@ NousResearch/Nous-Hermes-Llama2-13b,13,,https://huggingface.co/NousResearch/Nous
 NousResearch/Nous-Hermes-Llama2-70b,70,,https://huggingface.co/NousResearch/Nous-Hermes-Llama2-70b,,,,,,
 NousResearch/Redmond-Puffin-13B,13,,https://huggingface.co/NousResearch/Redmond-Puffin-13B,,,,,,
 NyxKrage/Chronomaid-Storytelling-13b,13,,https://huggingface.co/NyxKrage/Chronomaid-Storytelling-13b,,,,,,
+OddTheGreat/Apparatus_24B,24,,,,,,,,
 openaccess-ai-collective/manticore-13b,13,,https://huggingface.co/openaccess-ai-collective/manticore-13b,,,,,,
 OpenAssistant/oasst-sft-1-pythia-12b,12,,https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b,,,,,,
 ParasiticRogue/EVA-Instruct-32B,32,,https://huggingface.co/ParasiticRogue/EVA-Instruct-32B,,A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.,,,ChatML,
