@@ -15659,6 +15659,48 @@
             "7B"
         ]
     },
+    "Qwen/QwQ-32B": {
+        "name": "Qwen/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/QwQ-32B": {
+        "name": "aphrodite/Qwen/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/QwQ-32B": {
+        "name": "koboldcpp/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "tags": [
+            "32B"
+        ]
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "model_name": "qilin-lit-6b",
