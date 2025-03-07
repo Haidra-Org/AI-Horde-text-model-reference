@@ -7307,6 +7307,48 @@
             "32B"
         ]
     },
+    "huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated": {
+        "name": "huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-14B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct abliterated",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated": {
+        "name": "aphrodite/huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-14B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct abliterated",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-14B-Instruct-abliterated": {
+        "name": "koboldcpp/Qwen2.5-Coder-14B-Instruct-abliterated",
+        "model_name": "Qwen2.5-Coder-14B-Instruct-abliterated",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B Instruct abliterated",
+        "tags": [
+            "14B"
+        ]
+    },
     "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated": {
         "name": "huihui-ai/Qwen2.5-Coder-32B-Instruct-abliterated",
         "model_name": "Qwen2.5-Coder-32B-Instruct-abliterated",
