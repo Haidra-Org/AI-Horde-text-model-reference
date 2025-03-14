@@ -2528,6 +2528,48 @@
             "2B"
         ]
     },
+    "CohereForAI/c4ai-command-a-03-2025": {
+        "name": "CohereForAI/c4ai-command-a-03-2025",
+        "model_name": "c4ai-command-a-03-2025",
+        "baseline": "",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command a 03 2025",
+        "tags": [
+            "111B"
+        ]
+    },
+    "aphrodite/CohereForAI/c4ai-command-a-03-2025": {
+        "name": "aphrodite/CohereForAI/c4ai-command-a-03-2025",
+        "model_name": "c4ai-command-a-03-2025",
+        "baseline": "",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command a 03 2025",
+        "tags": [
+            "111B"
+        ]
+    },
+    "koboldcpp/c4ai-command-a-03-2025": {
+        "name": "koboldcpp/c4ai-command-a-03-2025",
+        "model_name": "c4ai-command-a-03-2025",
+        "baseline": "",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "c4ai command a 03 2025",
+        "tags": [
+            "111B"
+        ]
+    },
     "CohereForAI/c4ai-command-r-08-2024": {
         "name": "CohereForAI/c4ai-command-r-08-2024",
         "model_name": "c4ai-command-r-08-2024",
