@@ -6593,6 +6593,132 @@
         ],
         "instruct_format": "Gemma"
     },
+    "google/gemma-3-4b-it": {
+        "name": "google/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 4b it",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/google/gemma-3-4b-it": {
+        "name": "aphrodite/google/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 4b it",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/gemma-3-4b-it": {
+        "name": "koboldcpp/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 4b it",
+        "tags": [
+            "4B"
+        ]
+    },
+    "google/gemma-3-12b-it": {
+        "name": "google/gemma-3-12b-it",
+        "model_name": "gemma-3-12b-it",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 12b it",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/google/gemma-3-12b-it": {
+        "name": "aphrodite/google/gemma-3-12b-it",
+        "model_name": "gemma-3-12b-it",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 12b it",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/gemma-3-12b-it": {
+        "name": "koboldcpp/gemma-3-12b-it",
+        "model_name": "gemma-3-12b-it",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 12b it",
+        "tags": [
+            "12B"
+        ]
+    },
+    "google/gemma-3-27b-it": {
+        "name": "google/gemma-3-27b-it",
+        "model_name": "gemma-3-27b-it",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 27b it",
+        "tags": [
+            "27B"
+        ]
+    },
+    "aphrodite/google/gemma-3-27b-it": {
+        "name": "aphrodite/google/gemma-3-27b-it",
+        "model_name": "gemma-3-27b-it",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 27b it",
+        "tags": [
+            "27B"
+        ]
+    },
+    "koboldcpp/gemma-3-27b-it": {
+        "name": "koboldcpp/gemma-3-27b-it",
+        "model_name": "gemma-3-27b-it",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gemma 3 27b it",
+        "tags": [
+            "27B"
+        ]
+    },
     "gpt2": {
         "name": "gpt2",
         "model_name": "gpt2",
