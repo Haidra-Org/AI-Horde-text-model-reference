@@ -16916,6 +16916,48 @@
             "5B"
         ]
     },
+    "SicariusSicariiStuff/Fiendish_LLAMA_3B": {
+        "name": "SicariusSicariiStuff/Fiendish_LLAMA_3B",
+        "model_name": "Fiendish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fiendish LLAMA 3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Fiendish_LLAMA_3B": {
+        "name": "aphrodite/SicariusSicariiStuff/Fiendish_LLAMA_3B",
+        "model_name": "Fiendish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fiendish LLAMA 3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Fiendish_LLAMA_3B": {
+        "name": "koboldcpp/Fiendish_LLAMA_3B",
+        "model_name": "Fiendish_LLAMA_3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fiendish LLAMA 3B",
+        "tags": [
+            "3B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_LLAMA_3B": {
         "name": "SicariusSicariiStuff/Impish_LLAMA_3B",
         "model_name": "Impish_LLAMA_3B",
