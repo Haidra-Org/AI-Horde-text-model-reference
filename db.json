@@ -17615,6 +17615,48 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/X-Ray_Alpha": {
+        "name": "SicariusSicariiStuff/X-Ray_Alpha",
+        "model_name": "X-Ray_Alpha",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "X Ray Alpha",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/X-Ray_Alpha": {
+        "name": "aphrodite/SicariusSicariiStuff/X-Ray_Alpha",
+        "model_name": "X-Ray_Alpha",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "X Ray Alpha",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/X-Ray_Alpha": {
+        "name": "koboldcpp/X-Ray_Alpha",
+        "model_name": "X-Ray_Alpha",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "X Ray Alpha",
+        "tags": [
+            "4B"
+        ]
+    },
     "sometimesanotion/Lamarck-14B-v0.7": {
         "name": "sometimesanotion/Lamarck-14B-v0.7",
         "model_name": "Lamarck-14B-v0.7",
