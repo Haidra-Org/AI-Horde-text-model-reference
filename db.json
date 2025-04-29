@@ -15869,6 +15869,258 @@
             "7B"
         ]
     },
+    "Qwen/Qwen3-4B": {
+        "name": "Qwen/Qwen3-4B",
+        "model_name": "Qwen3-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-4B": {
+        "name": "aphrodite/Qwen/Qwen3-4B",
+        "model_name": "Qwen3-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Qwen3-4B": {
+        "name": "koboldcpp/Qwen3-4B",
+        "model_name": "Qwen3-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "Qwen/Qwen3-8B": {
+        "name": "Qwen/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-8B": {
+        "name": "aphrodite/Qwen/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Qwen3-8B": {
+        "name": "koboldcpp/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "Qwen/Qwen3-14B": {
+        "name": "Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-14B": {
+        "name": "aphrodite/Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen3-14B": {
+        "name": "koboldcpp/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen3-32B": {
+        "name": "Qwen/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-32B": {
+        "name": "aphrodite/Qwen/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen3-32B": {
+        "name": "koboldcpp/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/Qwen3-30B-A3B": {
+        "name": "Qwen/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-30B-A3B": {
+        "name": "aphrodite/Qwen/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "koboldcpp/Qwen3-30B-A3B": {
+        "name": "koboldcpp/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "Qwen/Qwen3-235B-A22B": {
+        "name": "Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-235B-A22B": {
+        "name": "aphrodite/Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "koboldcpp/Qwen3-235B-A22B": {
+        "name": "koboldcpp/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
     "Qwen/QwQ-32B": {
         "name": "Qwen/QwQ-32B",
         "model_name": "QwQ-32B",
