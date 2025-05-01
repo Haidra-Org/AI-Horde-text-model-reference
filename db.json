@@ -16163,6 +16163,48 @@
             "32B"
         ]
     },
+    "ReadyArt/The-Omega-Directive-M-24B-v1.1": {
+        "name": "ReadyArt/The-Omega-Directive-M-24B-v1.1",
+        "model_name": "The-Omega-Directive-M-24B-v1.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "The Omega Directive M 24B v1.1",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/ReadyArt/The-Omega-Directive-M-24B-v1.1": {
+        "name": "aphrodite/ReadyArt/The-Omega-Directive-M-24B-v1.1",
+        "model_name": "The-Omega-Directive-M-24B-v1.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "The Omega Directive M 24B v1.1",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/The-Omega-Directive-M-24B-v1.1": {
+        "name": "koboldcpp/The-Omega-Directive-M-24B-v1.1",
+        "model_name": "The-Omega-Directive-M-24B-v1.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "The Omega Directive M 24B v1.1",
+        "tags": [
+            "24B"
+        ]
+    },
     "rexwang8/qilin-lit-6b": {
         "name": "rexwang8/qilin-lit-6b",
         "model_name": "qilin-lit-6b",
@@ -19935,6 +19977,48 @@
         "url": "https://huggingface.co/TheSkullery/llama-3-cat-8b-instruct-v1",
         "tags": [
             "8B"
+        ]
+    },
+    "THUDM/GLM-4-32B-0414": {
+        "name": "THUDM/GLM-4-32B-0414",
+        "model_name": "GLM-4-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/THUDM/GLM-4-32B-0414": {
+        "name": "aphrodite/THUDM/GLM-4-32B-0414",
+        "model_name": "GLM-4-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/GLM-4-32B-0414": {
+        "name": "koboldcpp/GLM-4-32B-0414",
+        "model_name": "GLM-4-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414",
+        "tags": [
+            "32B"
         ]
     },
     "tiiuae/falcon-180B": {
