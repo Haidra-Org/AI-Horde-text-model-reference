@@ -6581,6 +6581,90 @@
         ],
         "instruct_format": "Alpaca"
     },
+    "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1": {
+        "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-4B-abliterated-v1",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 4B abliterated v1",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1": {
+        "name": "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-4B-abliterated-v1",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 4B abliterated v1",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Josiefied-Qwen3-4B-abliterated-v1": {
+        "name": "koboldcpp/Josiefied-Qwen3-4B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-4B-abliterated-v1",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 4B abliterated v1",
+        "tags": [
+            "4B"
+        ]
+    },
     "google/gemma-2-27b-it": {
         "name": "google/gemma-2-27b-it",
         "model_name": "gemma-2-27b-it",
