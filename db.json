@@ -16247,6 +16247,48 @@
             "32B"
         ]
     },
+    "ReadyArt/Broken-Tutu-24B": {
+        "name": "ReadyArt/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/ReadyArt/Broken-Tutu-24B": {
+        "name": "aphrodite/ReadyArt/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Broken-Tutu-24B": {
+        "name": "koboldcpp/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "tags": [
+            "24B"
+        ]
+    },
     "ReadyArt/The-Omega-Directive-M-24B-v1.1": {
         "name": "ReadyArt/The-Omega-Directive-M-24B-v1.1",
         "model_name": "The-Omega-Directive-M-24B-v1.1",
