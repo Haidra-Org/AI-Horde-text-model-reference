@@ -7559,6 +7559,48 @@
             "32B"
         ]
     },
+    "huihui-ai/GLM-4-32B-0414-abliterated": {
+        "name": "huihui-ai/GLM-4-32B-0414-abliterated",
+        "model_name": "GLM-4-32B-0414-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414 abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/huihui-ai/GLM-4-32B-0414-abliterated": {
+        "name": "aphrodite/huihui-ai/GLM-4-32B-0414-abliterated",
+        "model_name": "GLM-4-32B-0414-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414 abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/GLM-4-32B-0414-abliterated": {
+        "name": "koboldcpp/GLM-4-32B-0414-abliterated",
+        "model_name": "GLM-4-32B-0414-abliterated",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4 32B 0414 abliterated",
+        "tags": [
+            "32B"
+        ]
+    },
     "huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated": {
         "name": "huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated",
         "model_name": "Qwen2.5-Coder-14B-Instruct-abliterated",
