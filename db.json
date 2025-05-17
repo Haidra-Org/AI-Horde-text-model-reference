@@ -8518,45 +8518,60 @@
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
         "baseline": "",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
         "baseline": "",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "koboldcpp/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "koboldcpp/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
         "baseline": "",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "roleplay",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "KoboldAI/fairseq-dense-1.3B": {
         "name": "KoboldAI/fairseq-dense-1.3B",
