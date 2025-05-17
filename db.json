@@ -19298,6 +19298,48 @@
             "105B"
         ]
     },
+    "TheDrummer/Big-Alice-28B-v1": {
+        "name": "TheDrummer/Big-Alice-28B-v1",
+        "model_name": "Big-Alice-28B-v1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Big Alice 28B v1",
+        "tags": [
+            "28B"
+        ]
+    },
+    "aphrodite/TheDrummer/Big-Alice-28B-v1": {
+        "name": "aphrodite/TheDrummer/Big-Alice-28B-v1",
+        "model_name": "Big-Alice-28B-v1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Big Alice 28B v1",
+        "tags": [
+            "28B"
+        ]
+    },
+    "koboldcpp/Big-Alice-28B-v1": {
+        "name": "koboldcpp/Big-Alice-28B-v1",
+        "model_name": "Big-Alice-28B-v1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Big Alice 28B v1",
+        "tags": [
+            "28B"
+        ]
+    },
     "TheDrummer/Big-Tiger-Gemma-27B-v1": {
         "name": "TheDrummer/Big-Tiger-Gemma-27B-v1",
         "model_name": "Big-Tiger-Gemma-27B-v1",
