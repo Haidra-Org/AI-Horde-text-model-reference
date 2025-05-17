@@ -19565,6 +19565,48 @@
             "24B"
         ]
     },
+    "TheDrummer/Fallen-Gemma3-27B-v1": {
+        "name": "TheDrummer/Fallen-Gemma3-27B-v1",
+        "model_name": "Fallen-Gemma3-27B-v1",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fallen Gemma3 27B v1",
+        "tags": [
+            "27B"
+        ]
+    },
+    "aphrodite/TheDrummer/Fallen-Gemma3-27B-v1": {
+        "name": "aphrodite/TheDrummer/Fallen-Gemma3-27B-v1",
+        "model_name": "Fallen-Gemma3-27B-v1",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fallen Gemma3 27B v1",
+        "tags": [
+            "27B"
+        ]
+    },
+    "koboldcpp/Fallen-Gemma3-27B-v1": {
+        "name": "koboldcpp/Fallen-Gemma3-27B-v1",
+        "model_name": "Fallen-Gemma3-27B-v1",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Fallen Gemma3 27B v1",
+        "tags": [
+            "27B"
+        ]
+    },
     "TheDrummer/Gemmasutra-Mini-2B-v1": {
         "name": "TheDrummer/Gemmasutra-Mini-2B-v1",
         "model_name": "Gemmasutra-Mini-2B-v1",
