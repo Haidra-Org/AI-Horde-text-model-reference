@@ -188,7 +188,7 @@ jondurbin/airoboros-m-7b-3.1.2,7,,https://huggingface.co/jondurbin/airoboros-m-7
 jondurbin/bagel-34b-v0.2,34,,https://huggingface.co/jondurbin/bagel-34b-v0.2,,,,,,
 KatyTheCutie/EstopianMaid-13B,13,,https://huggingface.co/KatyTheCutie/EstopianMaid-13B,,"Merge of Estopia (another great model), Noromaid, and a few other models. Strong adhesion to character cards. Has some training for sensory requests to improve their outputs, eg, what do i see. Alpaca RP focused model that excels across many tasks. Generally fairly reliable even outside of RP.",roleplay,"popular, story",Alpaca,
 knifeayumu/Behemoth-v1.1-Magnum-v4-123B,123,,https://huggingface.co/knifeayumu/Behemoth-v1.1-Magnum-v4-123B,,A merge of Behemoth 123B v1.1 and magnum-v4-123B with a recipe similar to Monstral-123B.,,,,
-knifeayumu/Cydonia-v1.3-Magnum-v4-22B,22,,https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B,,,,,,
+knifeayumu/Cydonia-v1.3-Magnum-v4-22B,22,,https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B,,"Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",roleplay,"popular, roleplay, story, adventure",Mistral,
 KoboldAI/fairseq-dense-1.3B,1.3,,https://huggingface.co/KoboldAI/fairseq-dense-1.3B,,,,,,
 KoboldAI/fairseq-dense-125M,0.125,,https://huggingface.co/KoboldAI/fairseq-dense-125M,,,,,,
 KoboldAI/fairseq-dense-13B,13,,https://huggingface.co/KoboldAI/fairseq-dense-13B,,,,,,
