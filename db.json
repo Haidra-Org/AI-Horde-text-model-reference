@@ -3401,6 +3401,60 @@
             "6B"
         ]
     },
+    "DreadPoor/Irix-12B-Model_Stock": {
+        "name": "DreadPoor/Irix-12B-Model_Stock",
+        "model_name": "Irix-12B-Model_Stock",
+        "baseline": "yamatazen/EtherealAurora-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Irix 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Irix-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/DreadPoor/Irix-12B-Model_Stock": {
+        "name": "aphrodite/DreadPoor/Irix-12B-Model_Stock",
+        "model_name": "Irix-12B-Model_Stock",
+        "baseline": "yamatazen/EtherealAurora-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Irix 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Irix-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/Irix-12B-Model_Stock": {
+        "name": "koboldcpp/Irix-12B-Model_Stock",
+        "model_name": "Irix-12B-Model_Stock",
+        "baseline": "yamatazen/EtherealAurora-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Irix 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Irix-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
     "dreamgen/opus-v1.4-70b-llama3": {
         "name": "dreamgen/opus-v1.4-70b-llama3",
         "model_name": "opus-v1.4-70b-llama3",
@@ -8516,47 +8570,65 @@
     "knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-22B-v1.3",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "chat",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "aphrodite/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-22B-v1.3",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "chat",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "koboldcpp/Cydonia-v1.3-Magnum-v4-22B": {
         "name": "koboldcpp/Cydonia-v1.3-Magnum-v4-22B",
         "model_name": "Cydonia-v1.3-Magnum-v4-22B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-22B-v1.3",
         "parameters": 22000000000,
-        "description": "",
+        "description": "Adventure-style RP model with rich descriptions, deep immersion, and great pacing. Strong SFW/NSFW performance. UGI 43.16 / Willingness 8 - outperforms many 100B+ giants.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Cydonia v1.3 Magnum v4 22B",
         "url": "https://huggingface.co/knifeayumu/Cydonia-v1.3-Magnum-v4-22B",
         "tags": [
-            "22B"
-        ]
+            "22B",
+            "adventure",
+            "chat",
+            "popular",
+            "roleplay",
+            "story"
+        ],
+        "instruct_format": "Mistral"
     },
     "KoboldAI/fairseq-dense-1.3B": {
         "name": "KoboldAI/fairseq-dense-1.3B",
@@ -20095,6 +20167,63 @@
         "tags": [
             "9B"
         ]
+    },
+    "TheDrummer/Snowpiercer-15B-v1": {
+        "name": "TheDrummer/Snowpiercer-15B-v1",
+        "model_name": "Snowpiercer-15B-v1",
+        "baseline": "SillyTilly/ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml",
+        "parameters": 15000000000,
+        "description": "Snowpiercer 15B v1 knocks out the positivity, enhances the RP & creativity, and retains the intelligence & reasoning of ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml. <think> capable upon prefill!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Snowpiercer 15B v1",
+        "url": "https://huggingface.co/TheDrummer/Snowpiercer-15B-v1",
+        "tags": [
+            "15B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/TheDrummer/Snowpiercer-15B-v1": {
+        "name": "aphrodite/TheDrummer/Snowpiercer-15B-v1",
+        "model_name": "Snowpiercer-15B-v1",
+        "baseline": "SillyTilly/ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml",
+        "parameters": 15000000000,
+        "description": "Snowpiercer 15B v1 knocks out the positivity, enhances the RP & creativity, and retains the intelligence & reasoning of ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml. <think> capable upon prefill!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Snowpiercer 15B v1",
+        "url": "https://huggingface.co/TheDrummer/Snowpiercer-15B-v1",
+        "tags": [
+            "15B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Snowpiercer-15B-v1": {
+        "name": "koboldcpp/Snowpiercer-15B-v1",
+        "model_name": "Snowpiercer-15B-v1",
+        "baseline": "SillyTilly/ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml",
+        "parameters": 15000000000,
+        "description": "Snowpiercer 15B v1 knocks out the positivity, enhances the RP & creativity, and retains the intelligence & reasoning of ServiceNow-AI-Apriel-Nemotron-15b-Thinker-Chatml. <think> capable upon prefill!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Snowpiercer 15B v1",
+        "url": "https://huggingface.co/TheDrummer/Snowpiercer-15B-v1",
+        "tags": [
+            "15B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "TheDrummer/Star-Command-R-32B-v1": {
         "name": "TheDrummer/Star-Command-R-32B-v1",
