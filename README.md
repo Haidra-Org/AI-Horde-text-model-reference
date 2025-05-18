@@ -24,7 +24,7 @@ Values from defaults.json are used to fill in missing fields in the CSV file.
 Keys from generation_params.json are used to validate the 'settings' field.
 Values from generation_params.json are not used.
 
-## Note to maintainers:
+## Notes to maintainers:
 
 As of a [recent PR](https://github.com/Haidra-Org/AI-Horde-text-model-reference/pull/16), you will have to make sure that:
 
@@ -33,3 +33,5 @@ As of a [recent PR](https://github.com/Haidra-Org/AI-Horde-text-model-reference/
 - The incoming files pass linting via `pre-commit`
   - `python -m pip install pre-commit` (first time only)
   - `pre-commit run --all-files`
+
+Additionally, be sure that there are no extra files in PRs (for example, IDE configuration files). You can do this by going to the `Files Changed` tab when looking at a PR.
