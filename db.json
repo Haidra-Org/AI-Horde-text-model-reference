@@ -16366,7 +16366,7 @@
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16377,15 +16377,14 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/ReadyArt/Broken-Tutu-24B": {
         "name": "aphrodite/ReadyArt/Broken-Tutu-24B",
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16396,15 +16395,14 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Broken-Tutu-24B": {
         "name": "koboldcpp/Broken-Tutu-24B",
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16415,8 +16413,7 @@
             "chat",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "ReadyArt/The-Omega-Directive-M-24B-v1.1": {
         "name": "ReadyArt/The-Omega-Directive-M-24B-v1.1",
