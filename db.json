@@ -2085,13 +2085,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "Chat",
+            "chat",
             "roleplay",
             "storytelling"
         ],
@@ -2104,13 +2104,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "Chat",
+            "chat",
             "roleplay",
             "storytelling"
         ],
@@ -2123,13 +2123,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "Chat",
+            "chat",
             "roleplay",
             "storytelling"
         ],
@@ -12070,18 +12070,16 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
         "version": "1",
-        "style": "Chat",
+        "style": " assistant",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
+            " assistant",
             "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
+            "censored\""
         ]
     },
     "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
@@ -12089,18 +12087,16 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
         "version": "1",
-        "style": "Chat",
+        "style": " assistant",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
+            " assistant",
             "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
+            "censored\""
         ]
     },
     "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
@@ -12108,18 +12104,16 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
         "version": "1",
-        "style": "Chat",
+        "style": " assistant",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
+            " assistant",
             "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
+            "censored\""
         ]
     },
     "meta-llama/Llama-3.1-405B-Instruct": {
@@ -14359,7 +14353,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts (in a good way). Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14367,9 +14361,8 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
-            "Bilingual",
             "Chat",
-            "Roleplay"
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
@@ -14378,7 +14371,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts (in a good way). Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14386,9 +14379,8 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
-            "Bilingual",
             "Chat",
-            "Roleplay"
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
@@ -14397,7 +14389,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts (in a good way). Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14405,9 +14397,8 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
-            "Bilingual",
             "Chat",
-            "Roleplay"
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
