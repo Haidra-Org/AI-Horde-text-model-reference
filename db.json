@@ -2085,13 +2085,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "chat",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "chat",
+            "Chat",
             "roleplay",
             "storytelling"
         ],
@@ -2104,13 +2104,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "chat",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "chat",
+            "Chat",
             "roleplay",
             "storytelling"
         ],
@@ -2123,13 +2123,13 @@
         "parameters": 13000000000,
         "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
         "version": "1",
-        "style": "chat",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "storytime 13b",
         "url": "https://huggingface.co/chargoddard/storytime-13b",
         "tags": [
             "13B",
-            "chat",
+            "Chat",
             "roleplay",
             "storytelling"
         ],
@@ -12070,16 +12070,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": " assistant",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            " assistant",
             "8B",
-            "censored\""
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
@@ -12087,16 +12089,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": " assistant",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            " assistant",
             "8B",
-            "censored\""
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
@@ -12104,16 +12108,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.\",Chat,multilingual",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": " assistant",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            " assistant",
             "8B",
-            "censored\""
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "meta-llama/Llama-3.1-405B-Instruct": {
@@ -14353,7 +14359,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14361,8 +14367,9 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
+            "Bilingual",
             "Chat",
-            "roleplay"
+            "Roleplay"
         ],
         "instruct_format": "ChatML"
     },
@@ -14371,7 +14378,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14379,8 +14386,9 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
+            "Bilingual",
             "Chat",
-            "roleplay"
+            "Roleplay"
         ],
         "instruct_format": "ChatML"
     },
@@ -14389,7 +14397,7 @@
         "model_name": "Apparatus_24B",
         "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
         "style": "Chat",
         "nsfw": false,
@@ -14397,8 +14405,9 @@
         "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
             "24B",
+            "Bilingual",
             "Chat",
-            "roleplay"
+            "Roleplay"
         ],
         "instruct_format": "ChatML"
     },
@@ -20487,17 +20496,16 @@
         "parameters": 49000000000,
         "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Valkyrie 49B v1",
         "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
         "tags": [
             "49B",
-            "Chat",
+            "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "llama3"
+        ]
     },
     "aphrodite/TheDrummer/Valkyrie-49B-v1": {
         "name": "aphrodite/TheDrummer/Valkyrie-49B-v1",
@@ -20506,17 +20514,16 @@
         "parameters": 49000000000,
         "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Valkyrie 49B v1",
         "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
         "tags": [
             "49B",
-            "Chat",
+            "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "llama3"
+        ]
     },
     "koboldcpp/Valkyrie-49B-v1": {
         "name": "koboldcpp/Valkyrie-49B-v1",
@@ -20525,17 +20532,16 @@
         "parameters": 49000000000,
         "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
         "version": "1",
-        "style": "Chat",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Valkyrie 49B v1",
         "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
         "tags": [
             "49B",
-            "Chat",
+            "chat",
             "reasoning",
             "roleplay"
-        ],
-        "instruct_format": "llama3"
+        ]
     },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
@@ -20587,7 +20593,7 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "Its performance is comparable to OpenAI\u00e2\u20ac\u2122s GPT series and DeepSeek\u00e2\u20ac\u2122s V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
         "style": "utility",
         "nsfw": false,
@@ -20606,7 +20612,7 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "Its performance is comparable to OpenAI\u00e2\u20ac\u2122s GPT series and DeepSeek\u00e2\u20ac\u2122s V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
         "style": "utility",
         "nsfw": false,
@@ -20625,7 +20631,7 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "Its performance is comparable to OpenAI\u00e2\u20ac\u2122s GPT series and DeepSeek\u00e2\u20ac\u2122s V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
         "style": "utility",
         "nsfw": false,
