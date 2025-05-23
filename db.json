@@ -2078,6 +2078,63 @@
             "8B"
         ]
     },
+    "chargoddard/storytime-13b": {
+        "name": "chargoddard/storytime-13b",
+        "model_name": "storytime-13b",
+        "baseline": "chargoddard/Chronorctypus-Limarobormes-13b",
+        "parameters": 13000000000,
+        "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "storytime 13b",
+        "url": "https://huggingface.co/chargoddard/storytime-13b",
+        "tags": [
+            "13B",
+            "Chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "aphrodite/chargoddard/storytime-13b": {
+        "name": "aphrodite/chargoddard/storytime-13b",
+        "model_name": "storytime-13b",
+        "baseline": "chargoddard/Chronorctypus-Limarobormes-13b",
+        "parameters": 13000000000,
+        "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "storytime 13b",
+        "url": "https://huggingface.co/chargoddard/storytime-13b",
+        "tags": [
+            "13B",
+            "Chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "Alpaca"
+    },
+    "koboldcpp/storytime-13b": {
+        "name": "koboldcpp/storytime-13b",
+        "model_name": "storytime-13b",
+        "baseline": "chargoddard/Chronorctypus-Limarobormes-13b",
+        "parameters": 13000000000,
+        "description": "A few years old, but still a strong chat, roleplay, and storytelling NSFW model.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "storytime 13b",
+        "url": "https://huggingface.co/chargoddard/storytime-13b",
+        "tags": [
+            "13B",
+            "Chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "Alpaca"
+    },
     "chavinlo/gpt4-x-alpaca": {
         "name": "chavinlo/gpt4-x-alpaca",
         "model_name": "gpt4-x-alpaca",
@@ -12013,14 +12070,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
@@ -12028,14 +12089,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
@@ -12043,14 +12108,18 @@
         "model_name": "Meta-Llama-3.1-8B-Instruct",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Meta Llama 3.1 8B Instruct",
         "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "meta-llama/Llama-3.1-405B-Instruct": {
@@ -14288,44 +14357,59 @@
     "OddTheGreat/Apparatus_24B": {
         "name": "OddTheGreat/Apparatus_24B",
         "model_name": "Apparatus_24B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Apparatus 24B",
+        "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "Bilingual",
+            "Chat",
+            "Roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/OddTheGreat/Apparatus_24B": {
         "name": "aphrodite/OddTheGreat/Apparatus_24B",
         "model_name": "Apparatus_24B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Apparatus 24B",
+        "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "Bilingual",
+            "Chat",
+            "Roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/Apparatus_24B": {
         "name": "koboldcpp/Apparatus_24B",
         "model_name": "Apparatus_24B",
-        "baseline": "",
+        "baseline": "TheDrummer/Cydonia-24B-v2",
         "parameters": 24000000000,
-        "description": "",
+        "description": "Rich language, RP and ERP capabilities. Has neutral or negative bias, sometimes overreacts in a good way. Behaves well in ERP, it can understand hints and teasing while not going too horny too fast. Bilingual :English and Russian. Creator reccomends using sphiratrioth666/SillyTavern-Presets-Sphiratrioth.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Apparatus 24B",
+        "url": "https://huggingface.co/OddTheGreat/Apparatus_24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "Bilingual",
+            "Chat",
+            "Roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "openaccess-ai-collective/manticore-13b": {
         "name": "openaccess-ai-collective/manticore-13b",
@@ -14644,6 +14728,84 @@
         "tags": [
             "12B"
         ]
+    },
+    "PocketDoc/Dans-PersonalityEngine-V1.2.0-24b": {
+        "name": "PocketDoc/Dans-PersonalityEngine-V1.2.0-24b",
+        "model_name": "Dans-PersonalityEngine-V1.2.0-24b",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "Capable at co-writing and roleplay. Can perform sentiment analysis or summarization as part of a pipeline. Trained on a wide array of one shot instructions, multi turn instructions, tool use, role playing scenarios, text adventure games, co-writing, and much more.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.2.0 24b",
+        "url": "https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b",
+        "tags": [
+            "24B",
+            "code",
+            "generalist",
+            "roleplay",
+            "science",
+            "storywriting"
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 1.0,
+            "top_p": 0.95,
+            "min_p": 0.05
+        }
+    },
+    "aphrodite/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b": {
+        "name": "aphrodite/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b",
+        "model_name": "Dans-PersonalityEngine-V1.2.0-24b",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "Capable at co-writing and roleplay. Can perform sentiment analysis or summarization as part of a pipeline. Trained on a wide array of one shot instructions, multi turn instructions, tool use, role playing scenarios, text adventure games, co-writing, and much more.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.2.0 24b",
+        "url": "https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b",
+        "tags": [
+            "24B",
+            "code",
+            "generalist",
+            "roleplay",
+            "science",
+            "storywriting"
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 1.0,
+            "top_p": 0.95,
+            "min_p": 0.05
+        }
+    },
+    "koboldcpp/Dans-PersonalityEngine-V1.2.0-24b": {
+        "name": "koboldcpp/Dans-PersonalityEngine-V1.2.0-24b",
+        "model_name": "Dans-PersonalityEngine-V1.2.0-24b",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "Capable at co-writing and roleplay. Can perform sentiment analysis or summarization as part of a pipeline. Trained on a wide array of one shot instructions, multi turn instructions, tool use, role playing scenarios, text adventure games, co-writing, and much more.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.2.0 24b",
+        "url": "https://huggingface.co/PocketDoc/Dans-PersonalityEngine-V1.2.0-24b",
+        "tags": [
+            "24B",
+            "code",
+            "generalist",
+            "roleplay",
+            "science",
+            "storywriting"
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 1.0,
+            "top_p": 0.95,
+            "min_p": 0.05
+        }
     },
     "PocketDoc/Dans-SakuraKaze-V1.0.0-12b": {
         "name": "PocketDoc/Dans-SakuraKaze-V1.0.0-12b",
@@ -20327,6 +20489,60 @@
             "21B"
         ]
     },
+    "TheDrummer/Valkyrie-49B-v1": {
+        "name": "TheDrummer/Valkyrie-49B-v1",
+        "model_name": "Valkyrie-49B-v1",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
+        "parameters": 49000000000,
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
+        "tags": [
+            "49B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Valkyrie-49B-v1": {
+        "name": "aphrodite/TheDrummer/Valkyrie-49B-v1",
+        "model_name": "Valkyrie-49B-v1",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
+        "parameters": 49000000000,
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
+        "tags": [
+            "49B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Valkyrie-49B-v1": {
+        "name": "koboldcpp/Valkyrie-49B-v1",
+        "model_name": "Valkyrie-49B-v1",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
+        "parameters": 49000000000,
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v1",
+        "tags": [
+            "49B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
         "model_name": "llama-3-cat-8b-instruct-v1",
@@ -20377,13 +20593,18 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-32B-0414",
         "tags": [
-            "32B"
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "utility"
         ]
     },
     "aphrodite/THUDM/GLM-4-32B-0414": {
@@ -20391,13 +20612,18 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-32B-0414",
         "tags": [
-            "32B"
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "utility"
         ]
     },
     "koboldcpp/GLM-4-32B-0414": {
@@ -20405,13 +20631,18 @@
         "model_name": "GLM-4-32B-0414",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Its performance is comparable to OpenAI GPT series and DeepSeek V3/R1 series. Achieves good results in engineering code, Artifact generation, function calling, search-based Q&A, and report generation.",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-32B-0414",
         "tags": [
-            "32B"
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "utility"
         ]
     },
     "tiiuae/falcon-180B": {
@@ -22159,14 +22390,16 @@
         "model_name": "Hathor_Stable-v0.2-L3-8B",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Hathor Stable v0.2 L3 8B",
         "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "roleplay"
         ]
     },
     "aphrodite/Nitral-AI/Hathor_Stable-v0.2-L3-8B": {
@@ -22174,14 +22407,16 @@
         "model_name": "Hathor_Stable-v0.2-L3-8B",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Hathor Stable v0.2 L3 8B",
         "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "roleplay"
         ]
     },
     "koboldcpp/Hathor_Stable-v0.2-L3-8B": {
@@ -22189,14 +22424,16 @@
         "model_name": "Hathor_Stable-v0.2-L3-8B",
         "baseline": "",
         "parameters": 8000000000,
-        "description": "",
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
         "version": "1",
-        "style": "generalist",
+        "style": "Chat",
         "nsfw": false,
         "display_name": "Hathor Stable v0.2 L3 8B",
         "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
         "tags": [
-            "8B"
+            "8B",
+            "Chat",
+            "roleplay"
         ]
     }
 }
