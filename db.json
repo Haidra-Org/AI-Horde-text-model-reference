@@ -1136,51 +1136,6 @@
             "12B"
         ]
     },
-    "Austism/chronos-hermes-13b": {
-        "name": "Austism/chronos-hermes-13b",
-        "model_name": "chronos-hermes-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos hermes 13b",
-        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
-        "tags": [
-            "13B"
-        ]
-    },
-    "aphrodite/Austism/chronos-hermes-13b": {
-        "name": "aphrodite/Austism/chronos-hermes-13b",
-        "model_name": "chronos-hermes-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos hermes 13b",
-        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
-        "tags": [
-            "13B"
-        ]
-    },
-    "koboldcpp/chronos-hermes-13b": {
-        "name": "koboldcpp/chronos-hermes-13b",
-        "model_name": "chronos-hermes-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos hermes 13b",
-        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
-        "tags": [
-            "13B"
-        ]
-    },
     "Austism/chronos-hermes-13b-v2": {
         "name": "Austism/chronos-hermes-13b-v2",
         "model_name": "chronos-hermes-13b-v2",
@@ -1226,49 +1181,49 @@
             "13B"
         ]
     },
-    "bigscience/bloom": {
-        "name": "bigscience/bloom",
-        "model_name": "bloom",
+    "Austism/chronos-hermes-13b": {
+        "name": "Austism/chronos-hermes-13b",
+        "model_name": "chronos-hermes-13b",
         "baseline": "",
-        "parameters": 176000000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloom",
-        "url": "https://huggingface.co/bigscience/bloom",
+        "display_name": "chronos hermes 13b",
+        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
-            "176B"
+            "13B"
         ]
     },
-    "aphrodite/bigscience/bloom": {
-        "name": "aphrodite/bigscience/bloom",
-        "model_name": "bloom",
+    "aphrodite/Austism/chronos-hermes-13b": {
+        "name": "aphrodite/Austism/chronos-hermes-13b",
+        "model_name": "chronos-hermes-13b",
         "baseline": "",
-        "parameters": 176000000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloom",
-        "url": "https://huggingface.co/bigscience/bloom",
+        "display_name": "chronos hermes 13b",
+        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
-            "176B"
+            "13B"
         ]
     },
-    "koboldcpp/bloom": {
-        "name": "koboldcpp/bloom",
-        "model_name": "bloom",
+    "koboldcpp/chronos-hermes-13b": {
+        "name": "koboldcpp/chronos-hermes-13b",
+        "model_name": "chronos-hermes-13b",
         "baseline": "",
-        "parameters": 176000000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloom",
-        "url": "https://huggingface.co/bigscience/bloom",
+        "display_name": "chronos hermes 13b",
+        "url": "https://huggingface.co/Austism/chronos-hermes-13b",
         "tags": [
-            "176B"
+            "13B"
         ]
     },
     "bigscience/bloom-1b7": {
@@ -1451,47 +1406,47 @@
             "7B"
         ]
     },
-    "bigscience/bloomz": {
-        "name": "bigscience/bloomz",
-        "model_name": "bloomz",
+    "bigscience/bloom": {
+        "name": "bigscience/bloom",
+        "model_name": "bloom",
         "baseline": "",
         "parameters": 176000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloomz",
-        "url": "https://huggingface.co/bigscience/bloomz",
+        "display_name": "bloom",
+        "url": "https://huggingface.co/bigscience/bloom",
         "tags": [
             "176B"
         ]
     },
-    "aphrodite/bigscience/bloomz": {
-        "name": "aphrodite/bigscience/bloomz",
-        "model_name": "bloomz",
+    "aphrodite/bigscience/bloom": {
+        "name": "aphrodite/bigscience/bloom",
+        "model_name": "bloom",
         "baseline": "",
         "parameters": 176000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloomz",
-        "url": "https://huggingface.co/bigscience/bloomz",
+        "display_name": "bloom",
+        "url": "https://huggingface.co/bigscience/bloom",
         "tags": [
             "176B"
         ]
     },
-    "koboldcpp/bloomz": {
-        "name": "koboldcpp/bloomz",
-        "model_name": "bloomz",
+    "koboldcpp/bloom": {
+        "name": "koboldcpp/bloom",
+        "model_name": "bloom",
         "baseline": "",
         "parameters": 176000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "bloomz",
-        "url": "https://huggingface.co/bigscience/bloomz",
+        "display_name": "bloom",
+        "url": "https://huggingface.co/bigscience/bloom",
         "tags": [
             "176B"
         ]
@@ -1629,6 +1584,51 @@
         "url": "https://huggingface.co/bigscience/bloomz-7b1",
         "tags": [
             "7B"
+        ]
+    },
+    "bigscience/bloomz": {
+        "name": "bigscience/bloomz",
+        "model_name": "bloomz",
+        "baseline": "",
+        "parameters": 176000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "bloomz",
+        "url": "https://huggingface.co/bigscience/bloomz",
+        "tags": [
+            "176B"
+        ]
+    },
+    "aphrodite/bigscience/bloomz": {
+        "name": "aphrodite/bigscience/bloomz",
+        "model_name": "bloomz",
+        "baseline": "",
+        "parameters": 176000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "bloomz",
+        "url": "https://huggingface.co/bigscience/bloomz",
+        "tags": [
+            "176B"
+        ]
+    },
+    "koboldcpp/bloomz": {
+        "name": "koboldcpp/bloomz",
+        "model_name": "bloomz",
+        "baseline": "",
+        "parameters": 176000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "bloomz",
+        "url": "https://huggingface.co/bigscience/bloomz",
+        "tags": [
+            "176B"
         ]
     },
     "Black-Ink-Guild/Pernicious_Prophecy_70B": {
@@ -3239,48 +3239,6 @@
             "236B"
         ]
     },
-    "deepseek-ai/DeepSeek-V3": {
-        "name": "deepseek-ai/DeepSeek-V3",
-        "model_name": "DeepSeek-V3",
-        "baseline": "",
-        "parameters": 150000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "DeepSeek V3",
-        "tags": [
-            "150B"
-        ]
-    },
-    "aphrodite/deepseek-ai/DeepSeek-V3": {
-        "name": "aphrodite/deepseek-ai/DeepSeek-V3",
-        "model_name": "DeepSeek-V3",
-        "baseline": "",
-        "parameters": 150000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "DeepSeek V3",
-        "tags": [
-            "150B"
-        ]
-    },
-    "koboldcpp/DeepSeek-V3": {
-        "name": "koboldcpp/DeepSeek-V3",
-        "model_name": "DeepSeek-V3",
-        "baseline": "",
-        "parameters": 150000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "DeepSeek V3",
-        "tags": [
-            "150B"
-        ]
-    },
     "deepseek-ai/DeepSeek-V3-Base": {
         "name": "deepseek-ai/DeepSeek-V3-Base",
         "model_name": "DeepSeek-V3-Base",
@@ -3319,6 +3277,48 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "DeepSeek V3 Base",
+        "tags": [
+            "150B"
+        ]
+    },
+    "deepseek-ai/DeepSeek-V3": {
+        "name": "deepseek-ai/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
+        "tags": [
+            "150B"
+        ]
+    },
+    "aphrodite/deepseek-ai/DeepSeek-V3": {
+        "name": "aphrodite/deepseek-ai/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
+        "tags": [
+            "150B"
+        ]
+    },
+    "koboldcpp/DeepSeek-V3": {
+        "name": "koboldcpp/DeepSeek-V3",
+        "model_name": "DeepSeek-V3",
+        "baseline": "",
+        "parameters": 150000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "DeepSeek V3",
         "tags": [
             "150B"
         ]
@@ -4136,48 +4136,6 @@
             "20B"
         ]
     },
-    "EleutherAI/pythia-1.3b": {
-        "name": "EleutherAI/pythia-1.3b",
-        "model_name": "pythia-1.3b",
-        "baseline": "",
-        "parameters": 1300000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "pythia 1.3b",
-        "tags": [
-            "1B"
-        ]
-    },
-    "aphrodite/EleutherAI/pythia-1.3b": {
-        "name": "aphrodite/EleutherAI/pythia-1.3b",
-        "model_name": "pythia-1.3b",
-        "baseline": "",
-        "parameters": 1300000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "pythia 1.3b",
-        "tags": [
-            "1B"
-        ]
-    },
-    "koboldcpp/pythia-1.3b": {
-        "name": "koboldcpp/pythia-1.3b",
-        "model_name": "pythia-1.3b",
-        "baseline": "",
-        "parameters": 1300000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "pythia 1.3b",
-        "tags": [
-            "1B"
-        ]
-    },
     "EleutherAI/pythia-1.3b-deduped": {
         "name": "EleutherAI/pythia-1.3b-deduped",
         "model_name": "pythia-1.3b-deduped",
@@ -4220,47 +4178,44 @@
             "1B"
         ]
     },
-    "EleutherAI/pythia-1.4b": {
-        "name": "EleutherAI/pythia-1.4b",
-        "model_name": "pythia-1.4b",
+    "EleutherAI/pythia-1.3b": {
+        "name": "EleutherAI/pythia-1.3b",
+        "model_name": "pythia-1.3b",
         "baseline": "",
-        "parameters": 1400000000,
+        "parameters": 1300000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1.4b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
+        "display_name": "pythia 1.3b",
         "tags": [
             "1B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-1.4b": {
-        "name": "aphrodite/EleutherAI/pythia-1.4b",
-        "model_name": "pythia-1.4b",
+    "aphrodite/EleutherAI/pythia-1.3b": {
+        "name": "aphrodite/EleutherAI/pythia-1.3b",
+        "model_name": "pythia-1.3b",
         "baseline": "",
-        "parameters": 1400000000,
+        "parameters": 1300000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1.4b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
+        "display_name": "pythia 1.3b",
         "tags": [
             "1B"
         ]
     },
-    "koboldcpp/pythia-1.4b": {
-        "name": "koboldcpp/pythia-1.4b",
-        "model_name": "pythia-1.4b",
+    "koboldcpp/pythia-1.3b": {
+        "name": "koboldcpp/pythia-1.3b",
+        "model_name": "pythia-1.3b",
         "baseline": "",
-        "parameters": 1400000000,
+        "parameters": 1300000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1.4b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
+        "display_name": "pythia 1.3b",
         "tags": [
             "1B"
         ]
@@ -4310,46 +4265,49 @@
             "1B"
         ]
     },
-    "EleutherAI/pythia-125m": {
-        "name": "EleutherAI/pythia-125m",
-        "model_name": "pythia-125m",
+    "EleutherAI/pythia-1.4b": {
+        "name": "EleutherAI/pythia-1.4b",
+        "model_name": "pythia-1.4b",
         "baseline": "",
-        "parameters": 125000000,
+        "parameters": 1400000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 125m",
+        "display_name": "pythia 1.4b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
         "tags": [
-            "0B"
+            "1B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-125m": {
-        "name": "aphrodite/EleutherAI/pythia-125m",
-        "model_name": "pythia-125m",
+    "aphrodite/EleutherAI/pythia-1.4b": {
+        "name": "aphrodite/EleutherAI/pythia-1.4b",
+        "model_name": "pythia-1.4b",
         "baseline": "",
-        "parameters": 125000000,
+        "parameters": 1400000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 125m",
+        "display_name": "pythia 1.4b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
         "tags": [
-            "0B"
+            "1B"
         ]
     },
-    "koboldcpp/pythia-125m": {
-        "name": "koboldcpp/pythia-125m",
-        "model_name": "pythia-125m",
+    "koboldcpp/pythia-1.4b": {
+        "name": "koboldcpp/pythia-1.4b",
+        "model_name": "pythia-1.4b",
         "baseline": "",
-        "parameters": 125000000,
+        "parameters": 1400000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 125m",
+        "display_name": "pythia 1.4b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1.4b",
         "tags": [
-            "0B"
+            "1B"
         ]
     },
     "EleutherAI/pythia-125m-deduped": {
@@ -4394,49 +4352,46 @@
             "0B"
         ]
     },
-    "EleutherAI/pythia-12b": {
-        "name": "EleutherAI/pythia-12b",
-        "model_name": "pythia-12b",
+    "EleutherAI/pythia-125m": {
+        "name": "EleutherAI/pythia-125m",
+        "model_name": "pythia-125m",
         "baseline": "",
-        "parameters": 12000000000,
+        "parameters": 125000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 12b",
-        "url": "https://huggingface.co/EleutherAI/pythia-12b",
+        "display_name": "pythia 125m",
         "tags": [
-            "12B"
+            "0B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-12b": {
-        "name": "aphrodite/EleutherAI/pythia-12b",
-        "model_name": "pythia-12b",
+    "aphrodite/EleutherAI/pythia-125m": {
+        "name": "aphrodite/EleutherAI/pythia-125m",
+        "model_name": "pythia-125m",
         "baseline": "",
-        "parameters": 12000000000,
+        "parameters": 125000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 12b",
-        "url": "https://huggingface.co/EleutherAI/pythia-12b",
+        "display_name": "pythia 125m",
         "tags": [
-            "12B"
+            "0B"
         ]
     },
-    "koboldcpp/pythia-12b": {
-        "name": "koboldcpp/pythia-12b",
-        "model_name": "pythia-12b",
+    "koboldcpp/pythia-125m": {
+        "name": "koboldcpp/pythia-125m",
+        "model_name": "pythia-125m",
         "baseline": "",
-        "parameters": 12000000000,
+        "parameters": 125000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 12b",
-        "url": "https://huggingface.co/EleutherAI/pythia-12b",
+        "display_name": "pythia 125m",
         "tags": [
-            "12B"
+            "0B"
         ]
     },
     "EleutherAI/pythia-12b-deduped": {
@@ -4484,46 +4439,49 @@
             "12B"
         ]
     },
-    "EleutherAI/pythia-13b": {
-        "name": "EleutherAI/pythia-13b",
-        "model_name": "pythia-13b",
+    "EleutherAI/pythia-12b": {
+        "name": "EleutherAI/pythia-12b",
+        "model_name": "pythia-12b",
         "baseline": "",
-        "parameters": 13000000000,
+        "parameters": 12000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 13b",
+        "display_name": "pythia 12b",
+        "url": "https://huggingface.co/EleutherAI/pythia-12b",
         "tags": [
-            "13B"
+            "12B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-13b": {
-        "name": "aphrodite/EleutherAI/pythia-13b",
-        "model_name": "pythia-13b",
+    "aphrodite/EleutherAI/pythia-12b": {
+        "name": "aphrodite/EleutherAI/pythia-12b",
+        "model_name": "pythia-12b",
         "baseline": "",
-        "parameters": 13000000000,
+        "parameters": 12000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 13b",
+        "display_name": "pythia 12b",
+        "url": "https://huggingface.co/EleutherAI/pythia-12b",
         "tags": [
-            "13B"
+            "12B"
         ]
     },
-    "koboldcpp/pythia-13b": {
-        "name": "koboldcpp/pythia-13b",
-        "model_name": "pythia-13b",
+    "koboldcpp/pythia-12b": {
+        "name": "koboldcpp/pythia-12b",
+        "model_name": "pythia-12b",
         "baseline": "",
-        "parameters": 13000000000,
+        "parameters": 12000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 13b",
+        "display_name": "pythia 12b",
+        "url": "https://huggingface.co/EleutherAI/pythia-12b",
         "tags": [
-            "13B"
+            "12B"
         ]
     },
     "EleutherAI/pythia-13b-deduped": {
@@ -4568,49 +4526,46 @@
             "13B"
         ]
     },
-    "EleutherAI/pythia-160m": {
-        "name": "EleutherAI/pythia-160m",
-        "model_name": "pythia-160m",
+    "EleutherAI/pythia-13b": {
+        "name": "EleutherAI/pythia-13b",
+        "model_name": "pythia-13b",
         "baseline": "",
-        "parameters": 160000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 160m",
-        "url": "https://huggingface.co/EleutherAI/pythia-160m",
+        "display_name": "pythia 13b",
         "tags": [
-            "0B"
+            "13B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-160m": {
-        "name": "aphrodite/EleutherAI/pythia-160m",
-        "model_name": "pythia-160m",
+    "aphrodite/EleutherAI/pythia-13b": {
+        "name": "aphrodite/EleutherAI/pythia-13b",
+        "model_name": "pythia-13b",
         "baseline": "",
-        "parameters": 160000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 160m",
-        "url": "https://huggingface.co/EleutherAI/pythia-160m",
+        "display_name": "pythia 13b",
         "tags": [
-            "0B"
+            "13B"
         ]
     },
-    "koboldcpp/pythia-160m": {
-        "name": "koboldcpp/pythia-160m",
-        "model_name": "pythia-160m",
+    "koboldcpp/pythia-13b": {
+        "name": "koboldcpp/pythia-13b",
+        "model_name": "pythia-13b",
         "baseline": "",
-        "parameters": 160000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 160m",
-        "url": "https://huggingface.co/EleutherAI/pythia-160m",
+        "display_name": "pythia 13b",
         "tags": [
-            "0B"
+            "13B"
         ]
     },
     "EleutherAI/pythia-160m-deduped": {
@@ -4658,49 +4613,49 @@
             "0B"
         ]
     },
-    "EleutherAI/pythia-1b": {
-        "name": "EleutherAI/pythia-1b",
-        "model_name": "pythia-1b",
+    "EleutherAI/pythia-160m": {
+        "name": "EleutherAI/pythia-160m",
+        "model_name": "pythia-160m",
         "baseline": "",
-        "parameters": 1000000000,
+        "parameters": 160000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1b",
+        "display_name": "pythia 160m",
+        "url": "https://huggingface.co/EleutherAI/pythia-160m",
         "tags": [
-            "1B"
+            "0B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-1b": {
-        "name": "aphrodite/EleutherAI/pythia-1b",
-        "model_name": "pythia-1b",
+    "aphrodite/EleutherAI/pythia-160m": {
+        "name": "aphrodite/EleutherAI/pythia-160m",
+        "model_name": "pythia-160m",
         "baseline": "",
-        "parameters": 1000000000,
+        "parameters": 160000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1b",
+        "display_name": "pythia 160m",
+        "url": "https://huggingface.co/EleutherAI/pythia-160m",
         "tags": [
-            "1B"
+            "0B"
         ]
     },
-    "koboldcpp/pythia-1b": {
-        "name": "koboldcpp/pythia-1b",
-        "model_name": "pythia-1b",
+    "koboldcpp/pythia-160m": {
+        "name": "koboldcpp/pythia-160m",
+        "model_name": "pythia-160m",
         "baseline": "",
-        "parameters": 1000000000,
+        "parameters": 160000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 1b",
-        "url": "https://huggingface.co/EleutherAI/pythia-1b",
+        "display_name": "pythia 160m",
+        "url": "https://huggingface.co/EleutherAI/pythia-160m",
         "tags": [
-            "1B"
+            "0B"
         ]
     },
     "EleutherAI/pythia-1b-deduped": {
@@ -4748,49 +4703,49 @@
             "1B"
         ]
     },
-    "EleutherAI/pythia-2.8b": {
-        "name": "EleutherAI/pythia-2.8b",
-        "model_name": "pythia-2.8b",
+    "EleutherAI/pythia-1b": {
+        "name": "EleutherAI/pythia-1b",
+        "model_name": "pythia-1b",
         "baseline": "",
-        "parameters": 2800000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 2.8b",
-        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
+        "display_name": "pythia 1b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1b",
         "tags": [
-            "3B"
+            "1B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-2.8b": {
-        "name": "aphrodite/EleutherAI/pythia-2.8b",
-        "model_name": "pythia-2.8b",
+    "aphrodite/EleutherAI/pythia-1b": {
+        "name": "aphrodite/EleutherAI/pythia-1b",
+        "model_name": "pythia-1b",
         "baseline": "",
-        "parameters": 2800000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 2.8b",
-        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
+        "display_name": "pythia 1b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1b",
         "tags": [
-            "3B"
+            "1B"
         ]
     },
-    "koboldcpp/pythia-2.8b": {
-        "name": "koboldcpp/pythia-2.8b",
-        "model_name": "pythia-2.8b",
+    "koboldcpp/pythia-1b": {
+        "name": "koboldcpp/pythia-1b",
+        "model_name": "pythia-1b",
         "baseline": "",
-        "parameters": 2800000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 2.8b",
-        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
+        "display_name": "pythia 1b",
+        "url": "https://huggingface.co/EleutherAI/pythia-1b",
         "tags": [
-            "3B"
+            "1B"
         ]
     },
     "EleutherAI/pythia-2.8b-deduped": {
@@ -4838,46 +4793,49 @@
             "3B"
         ]
     },
-    "EleutherAI/pythia-350m": {
-        "name": "EleutherAI/pythia-350m",
-        "model_name": "pythia-350m",
+    "EleutherAI/pythia-2.8b": {
+        "name": "EleutherAI/pythia-2.8b",
+        "model_name": "pythia-2.8b",
         "baseline": "",
-        "parameters": 350000000,
+        "parameters": 2800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 350m",
+        "display_name": "pythia 2.8b",
+        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
         "tags": [
-            "0B"
+            "3B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-350m": {
-        "name": "aphrodite/EleutherAI/pythia-350m",
-        "model_name": "pythia-350m",
+    "aphrodite/EleutherAI/pythia-2.8b": {
+        "name": "aphrodite/EleutherAI/pythia-2.8b",
+        "model_name": "pythia-2.8b",
         "baseline": "",
-        "parameters": 350000000,
+        "parameters": 2800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 350m",
+        "display_name": "pythia 2.8b",
+        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
         "tags": [
-            "0B"
+            "3B"
         ]
     },
-    "koboldcpp/pythia-350m": {
-        "name": "koboldcpp/pythia-350m",
-        "model_name": "pythia-350m",
+    "koboldcpp/pythia-2.8b": {
+        "name": "koboldcpp/pythia-2.8b",
+        "model_name": "pythia-2.8b",
         "baseline": "",
-        "parameters": 350000000,
+        "parameters": 2800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 350m",
+        "display_name": "pythia 2.8b",
+        "url": "https://huggingface.co/EleutherAI/pythia-2.8b",
         "tags": [
-            "0B"
+            "3B"
         ]
     },
     "EleutherAI/pythia-350m-deduped": {
@@ -4922,47 +4880,44 @@
             "0B"
         ]
     },
-    "EleutherAI/pythia-410m": {
-        "name": "EleutherAI/pythia-410m",
-        "model_name": "pythia-410m",
+    "EleutherAI/pythia-350m": {
+        "name": "EleutherAI/pythia-350m",
+        "model_name": "pythia-350m",
         "baseline": "",
-        "parameters": 410000000,
+        "parameters": 350000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 410m",
-        "url": "https://huggingface.co/EleutherAI/pythia-410m",
+        "display_name": "pythia 350m",
         "tags": [
             "0B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-410m": {
-        "name": "aphrodite/EleutherAI/pythia-410m",
-        "model_name": "pythia-410m",
+    "aphrodite/EleutherAI/pythia-350m": {
+        "name": "aphrodite/EleutherAI/pythia-350m",
+        "model_name": "pythia-350m",
         "baseline": "",
-        "parameters": 410000000,
+        "parameters": 350000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 410m",
-        "url": "https://huggingface.co/EleutherAI/pythia-410m",
+        "display_name": "pythia 350m",
         "tags": [
             "0B"
         ]
     },
-    "koboldcpp/pythia-410m": {
-        "name": "koboldcpp/pythia-410m",
-        "model_name": "pythia-410m",
+    "koboldcpp/pythia-350m": {
+        "name": "koboldcpp/pythia-350m",
+        "model_name": "pythia-350m",
         "baseline": "",
-        "parameters": 410000000,
+        "parameters": 350000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 410m",
-        "url": "https://huggingface.co/EleutherAI/pythia-410m",
+        "display_name": "pythia 350m",
         "tags": [
             "0B"
         ]
@@ -5012,46 +4967,49 @@
             "0B"
         ]
     },
-    "EleutherAI/pythia-6.7b": {
-        "name": "EleutherAI/pythia-6.7b",
-        "model_name": "pythia-6.7b",
+    "EleutherAI/pythia-410m": {
+        "name": "EleutherAI/pythia-410m",
+        "model_name": "pythia-410m",
         "baseline": "",
-        "parameters": 6700000000,
+        "parameters": 410000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.7b",
+        "display_name": "pythia 410m",
+        "url": "https://huggingface.co/EleutherAI/pythia-410m",
         "tags": [
-            "7B"
+            "0B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-6.7b": {
-        "name": "aphrodite/EleutherAI/pythia-6.7b",
-        "model_name": "pythia-6.7b",
+    "aphrodite/EleutherAI/pythia-410m": {
+        "name": "aphrodite/EleutherAI/pythia-410m",
+        "model_name": "pythia-410m",
         "baseline": "",
-        "parameters": 6700000000,
+        "parameters": 410000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.7b",
+        "display_name": "pythia 410m",
+        "url": "https://huggingface.co/EleutherAI/pythia-410m",
         "tags": [
-            "7B"
+            "0B"
         ]
     },
-    "koboldcpp/pythia-6.7b": {
-        "name": "koboldcpp/pythia-6.7b",
-        "model_name": "pythia-6.7b",
+    "koboldcpp/pythia-410m": {
+        "name": "koboldcpp/pythia-410m",
+        "model_name": "pythia-410m",
         "baseline": "",
-        "parameters": 6700000000,
+        "parameters": 410000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.7b",
+        "display_name": "pythia 410m",
+        "url": "https://huggingface.co/EleutherAI/pythia-410m",
         "tags": [
-            "7B"
+            "0B"
         ]
     },
     "EleutherAI/pythia-6.7b-deduped": {
@@ -5096,47 +5054,44 @@
             "7B"
         ]
     },
-    "EleutherAI/pythia-6.9b": {
-        "name": "EleutherAI/pythia-6.9b",
-        "model_name": "pythia-6.9b",
+    "EleutherAI/pythia-6.7b": {
+        "name": "EleutherAI/pythia-6.7b",
+        "model_name": "pythia-6.7b",
         "baseline": "",
-        "parameters": 6900000000,
+        "parameters": 6700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.9b",
-        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
+        "display_name": "pythia 6.7b",
         "tags": [
             "7B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-6.9b": {
-        "name": "aphrodite/EleutherAI/pythia-6.9b",
-        "model_name": "pythia-6.9b",
+    "aphrodite/EleutherAI/pythia-6.7b": {
+        "name": "aphrodite/EleutherAI/pythia-6.7b",
+        "model_name": "pythia-6.7b",
         "baseline": "",
-        "parameters": 6900000000,
+        "parameters": 6700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.9b",
-        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
+        "display_name": "pythia 6.7b",
         "tags": [
             "7B"
         ]
     },
-    "koboldcpp/pythia-6.9b": {
-        "name": "koboldcpp/pythia-6.9b",
-        "model_name": "pythia-6.9b",
+    "koboldcpp/pythia-6.7b": {
+        "name": "koboldcpp/pythia-6.7b",
+        "model_name": "pythia-6.7b",
         "baseline": "",
-        "parameters": 6900000000,
+        "parameters": 6700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 6.9b",
-        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
+        "display_name": "pythia 6.7b",
         "tags": [
             "7B"
         ]
@@ -5186,49 +5141,49 @@
             "7B"
         ]
     },
-    "EleutherAI/pythia-70m": {
-        "name": "EleutherAI/pythia-70m",
-        "model_name": "pythia-70m",
+    "EleutherAI/pythia-6.9b": {
+        "name": "EleutherAI/pythia-6.9b",
+        "model_name": "pythia-6.9b",
         "baseline": "",
-        "parameters": 70000000,
+        "parameters": 6900000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 70m",
-        "url": "https://huggingface.co/EleutherAI/pythia-70m",
+        "display_name": "pythia 6.9b",
+        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
         "tags": [
-            "0B"
+            "7B"
         ]
     },
-    "aphrodite/EleutherAI/pythia-70m": {
-        "name": "aphrodite/EleutherAI/pythia-70m",
-        "model_name": "pythia-70m",
+    "aphrodite/EleutherAI/pythia-6.9b": {
+        "name": "aphrodite/EleutherAI/pythia-6.9b",
+        "model_name": "pythia-6.9b",
         "baseline": "",
-        "parameters": 70000000,
+        "parameters": 6900000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 70m",
-        "url": "https://huggingface.co/EleutherAI/pythia-70m",
+        "display_name": "pythia 6.9b",
+        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
         "tags": [
-            "0B"
+            "7B"
         ]
     },
-    "koboldcpp/pythia-70m": {
-        "name": "koboldcpp/pythia-70m",
-        "model_name": "pythia-70m",
+    "koboldcpp/pythia-6.9b": {
+        "name": "koboldcpp/pythia-6.9b",
+        "model_name": "pythia-6.9b",
         "baseline": "",
-        "parameters": 70000000,
+        "parameters": 6900000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "pythia 70m",
-        "url": "https://huggingface.co/EleutherAI/pythia-70m",
+        "display_name": "pythia 6.9b",
+        "url": "https://huggingface.co/EleutherAI/pythia-6.9b",
         "tags": [
-            "0B"
+            "7B"
         ]
     },
     "EleutherAI/pythia-70m-deduped": {
@@ -5272,6 +5227,51 @@
         "nsfw": false,
         "display_name": "pythia 70m deduped",
         "url": "https://huggingface.co/EleutherAI/pythia-70m-deduped",
+        "tags": [
+            "0B"
+        ]
+    },
+    "EleutherAI/pythia-70m": {
+        "name": "EleutherAI/pythia-70m",
+        "model_name": "pythia-70m",
+        "baseline": "",
+        "parameters": 70000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "pythia 70m",
+        "url": "https://huggingface.co/EleutherAI/pythia-70m",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/EleutherAI/pythia-70m": {
+        "name": "aphrodite/EleutherAI/pythia-70m",
+        "model_name": "pythia-70m",
+        "baseline": "",
+        "parameters": 70000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "pythia 70m",
+        "url": "https://huggingface.co/EleutherAI/pythia-70m",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/pythia-70m": {
+        "name": "koboldcpp/pythia-70m",
+        "model_name": "pythia-70m",
+        "baseline": "",
+        "parameters": 70000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "pythia 70m",
+        "url": "https://huggingface.co/EleutherAI/pythia-70m",
         "tags": [
             "0B"
         ]
@@ -5360,51 +5360,6 @@
             "70B"
         ]
     },
-    "elinas/chronos-13b": {
-        "name": "elinas/chronos-13b",
-        "model_name": "chronos-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos 13b",
-        "url": "https://huggingface.co/elinas/chronos-13b",
-        "tags": [
-            "13B"
-        ]
-    },
-    "aphrodite/elinas/chronos-13b": {
-        "name": "aphrodite/elinas/chronos-13b",
-        "model_name": "chronos-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos 13b",
-        "url": "https://huggingface.co/elinas/chronos-13b",
-        "tags": [
-            "13B"
-        ]
-    },
-    "koboldcpp/chronos-13b": {
-        "name": "koboldcpp/chronos-13b",
-        "model_name": "chronos-13b",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "chronos 13b",
-        "url": "https://huggingface.co/elinas/chronos-13b",
-        "tags": [
-            "13B"
-        ]
-    },
     "elinas/chronos-13b-v2": {
         "name": "elinas/chronos-13b-v2",
         "model_name": "chronos-13b-v2",
@@ -5446,6 +5401,51 @@
         "nsfw": false,
         "display_name": "chronos 13b v2",
         "url": "https://huggingface.co/elinas/chronos-13b-v2",
+        "tags": [
+            "13B"
+        ]
+    },
+    "elinas/chronos-13b": {
+        "name": "elinas/chronos-13b",
+        "model_name": "chronos-13b",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "chronos 13b",
+        "url": "https://huggingface.co/elinas/chronos-13b",
+        "tags": [
+            "13B"
+        ]
+    },
+    "aphrodite/elinas/chronos-13b": {
+        "name": "aphrodite/elinas/chronos-13b",
+        "model_name": "chronos-13b",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "chronos 13b",
+        "url": "https://huggingface.co/elinas/chronos-13b",
+        "tags": [
+            "13B"
+        ]
+    },
+    "koboldcpp/chronos-13b": {
+        "name": "koboldcpp/chronos-13b",
+        "model_name": "chronos-13b",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "chronos 13b",
+        "url": "https://huggingface.co/elinas/chronos-13b",
         "tags": [
             "13B"
         ]
@@ -5699,48 +5699,6 @@
             "70B"
         ]
     },
-    "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
-        "name": "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
-        "model_name": "EVA-Qwen2.5-7B-v0.1",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Qwen2.5 7B v0.1",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
-        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
-        "model_name": "EVA-Qwen2.5-7B-v0.1",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Qwen2.5 7B v0.1",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/EVA-Qwen2.5-7B-v0.1": {
-        "name": "koboldcpp/EVA-Qwen2.5-7B-v0.1",
-        "model_name": "EVA-Qwen2.5-7B-v0.1",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Qwen2.5 7B v0.1",
-        "tags": [
-            "7B"
-        ]
-    },
     "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2": {
         "name": "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2",
         "model_name": "EVA-Qwen2.5-14B-v0.2",
@@ -5868,6 +5826,48 @@
         "display_name": "EVA Qwen2.5 72B v0.1",
         "tags": [
             "72B"
+        ]
+    },
+    "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
+        "name": "EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1": {
+        "name": "aphrodite/EVA-UNIT-01/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/EVA-Qwen2.5-7B-v0.1": {
+        "name": "koboldcpp/EVA-Qwen2.5-7B-v0.1",
+        "model_name": "EVA-Qwen2.5-7B-v0.1",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Qwen2.5 7B v0.1",
+        "tags": [
+            "7B"
         ]
     },
     "facebook/opt-1.3b": {
@@ -6692,48 +6692,6 @@
         ],
         "instruct_format": "Alpaca"
     },
-    "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
-        "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
-        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Josiefied Qwen3 8B abliterated v1",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
-        "name": "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
-        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Josiefied Qwen3 8B abliterated v1",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1": {
-        "name": "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1",
-        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Josiefied Qwen3 8B abliterated v1",
-        "tags": [
-            "8B"
-        ]
-    },
     "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1": {
         "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-4B-abliterated-v1",
         "model_name": "Josiefied-Qwen3-4B-abliterated-v1",
@@ -6774,6 +6732,48 @@
         "display_name": "Josiefied Qwen3 4B abliterated v1",
         "tags": [
             "4B"
+        ]
+    },
+    "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "aphrodite/Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1": {
+        "name": "koboldcpp/Josiefied-Qwen3-8B-abliterated-v1",
+        "model_name": "Josiefied-Qwen3-8B-abliterated-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Josiefied Qwen3 8B abliterated v1",
+        "tags": [
+            "8B"
         ]
     },
     "google/gemma-2-27b-it": {
@@ -6829,48 +6829,6 @@
             "popular"
         ],
         "instruct_format": "Gemma"
-    },
-    "google/gemma-3-4b-it": {
-        "name": "google/gemma-3-4b-it",
-        "model_name": "gemma-3-4b-it",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 3 4b it",
-        "tags": [
-            "4B"
-        ]
-    },
-    "aphrodite/google/gemma-3-4b-it": {
-        "name": "aphrodite/google/gemma-3-4b-it",
-        "model_name": "gemma-3-4b-it",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 3 4b it",
-        "tags": [
-            "4B"
-        ]
-    },
-    "koboldcpp/gemma-3-4b-it": {
-        "name": "koboldcpp/gemma-3-4b-it",
-        "model_name": "gemma-3-4b-it",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 3 4b it",
-        "tags": [
-            "4B"
-        ]
     },
     "google/gemma-3-12b-it": {
         "name": "google/gemma-3-12b-it",
@@ -6956,49 +6914,46 @@
             "27B"
         ]
     },
-    "gpt2": {
-        "name": "gpt2",
-        "model_name": "gpt2",
+    "google/gemma-3-4b-it": {
+        "name": "google/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
         "baseline": "",
-        "parameters": 124000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "gpt2",
-        "url": "https://huggingface.co/openai-community/gpt2",
+        "display_name": "gemma 3 4b it",
         "tags": [
-            "0B"
+            "4B"
         ]
     },
-    "aphrodite/gpt2": {
-        "name": "aphrodite/gpt2",
-        "model_name": "gpt2",
+    "aphrodite/google/gemma-3-4b-it": {
+        "name": "aphrodite/google/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
         "baseline": "",
-        "parameters": 124000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "gpt2",
-        "url": "https://huggingface.co/openai-community/gpt2",
+        "display_name": "gemma 3 4b it",
         "tags": [
-            "0B"
+            "4B"
         ]
     },
-    "koboldcpp/gpt2": {
-        "name": "koboldcpp/gpt2",
-        "model_name": "gpt2",
+    "koboldcpp/gemma-3-4b-it": {
+        "name": "koboldcpp/gemma-3-4b-it",
+        "model_name": "gemma-3-4b-it",
         "baseline": "",
-        "parameters": 124000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "gpt2",
-        "url": "https://huggingface.co/openai-community/gpt2",
+        "display_name": "gemma 3 4b it",
         "tags": [
-            "0B"
+            "4B"
         ]
     },
     "gpt2-large": {
@@ -7134,6 +7089,51 @@
         "url": "https://huggingface.co/openai-community/gpt2-xl",
         "tags": [
             "2B"
+        ]
+    },
+    "gpt2": {
+        "name": "gpt2",
+        "model_name": "gpt2",
+        "baseline": "",
+        "parameters": 124000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gpt2",
+        "url": "https://huggingface.co/openai-community/gpt2",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/gpt2": {
+        "name": "aphrodite/gpt2",
+        "model_name": "gpt2",
+        "baseline": "",
+        "parameters": 124000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gpt2",
+        "url": "https://huggingface.co/openai-community/gpt2",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/gpt2": {
+        "name": "koboldcpp/gpt2",
+        "model_name": "gpt2",
+        "baseline": "",
+        "parameters": 124000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "gpt2",
+        "url": "https://huggingface.co/openai-community/gpt2",
+        "tags": [
+            "0B"
         ]
     },
     "Gryphe/MythoMax-L2-13b": {
@@ -8777,51 +8777,6 @@
             "0B"
         ]
     },
-    "KoboldAI/fairseq-dense-13B": {
-        "name": "KoboldAI/fairseq-dense-13B",
-        "model_name": "fairseq-dense-13B",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
-        "tags": [
-            "13B"
-        ]
-    },
-    "aphrodite/KoboldAI/fairseq-dense-13B": {
-        "name": "aphrodite/KoboldAI/fairseq-dense-13B",
-        "model_name": "fairseq-dense-13B",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
-        "tags": [
-            "13B"
-        ]
-    },
-    "koboldcpp/fairseq-dense-13B": {
-        "name": "koboldcpp/fairseq-dense-13B",
-        "model_name": "fairseq-dense-13B",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
-        "tags": [
-            "13B"
-        ]
-    },
     "KoboldAI/fairseq-dense-13B-Janeway": {
         "name": "KoboldAI/fairseq-dense-13B-Janeway",
         "model_name": "fairseq-dense-13B-Janeway",
@@ -8863,51 +8818,6 @@
         "nsfw": false,
         "display_name": "fairseq dense 13B Janeway",
         "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Janeway",
-        "tags": [
-            "13B"
-        ]
-    },
-    "KoboldAI/fairseq-dense-13B-Nerys": {
-        "name": "KoboldAI/fairseq-dense-13B-Nerys",
-        "model_name": "fairseq-dense-13B-Nerys",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B Nerys",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
-        "tags": [
-            "13B"
-        ]
-    },
-    "aphrodite/KoboldAI/fairseq-dense-13B-Nerys": {
-        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Nerys",
-        "model_name": "fairseq-dense-13B-Nerys",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B Nerys",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
-        "tags": [
-            "13B"
-        ]
-    },
-    "koboldcpp/fairseq-dense-13B-Nerys": {
-        "name": "koboldcpp/fairseq-dense-13B-Nerys",
-        "model_name": "fairseq-dense-13B-Nerys",
-        "baseline": "",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 13B Nerys",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
         "tags": [
             "13B"
         ]
@@ -8957,6 +8867,51 @@
             "13B"
         ]
     },
+    "KoboldAI/fairseq-dense-13B-Nerys": {
+        "name": "KoboldAI/fairseq-dense-13B-Nerys",
+        "model_name": "fairseq-dense-13B-Nerys",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 13B Nerys",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
+        "tags": [
+            "13B"
+        ]
+    },
+    "aphrodite/KoboldAI/fairseq-dense-13B-Nerys": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B-Nerys",
+        "model_name": "fairseq-dense-13B-Nerys",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 13B Nerys",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
+        "tags": [
+            "13B"
+        ]
+    },
+    "koboldcpp/fairseq-dense-13B-Nerys": {
+        "name": "koboldcpp/fairseq-dense-13B-Nerys",
+        "model_name": "fairseq-dense-13B-Nerys",
+        "baseline": "",
+        "parameters": 13000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 13B Nerys",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B-Nerys",
+        "tags": [
+            "13B"
+        ]
+    },
     "KoboldAI/fairseq-dense-13B-Shinen": {
         "name": "KoboldAI/fairseq-dense-13B-Shinen",
         "model_name": "fairseq-dense-13B-Shinen",
@@ -9002,49 +8957,49 @@
             "13B"
         ]
     },
-    "KoboldAI/fairseq-dense-2.7B": {
-        "name": "KoboldAI/fairseq-dense-2.7B",
-        "model_name": "fairseq-dense-2.7B",
+    "KoboldAI/fairseq-dense-13B": {
+        "name": "KoboldAI/fairseq-dense-13B",
+        "model_name": "fairseq-dense-13B",
         "baseline": "",
-        "parameters": 2700000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "fairseq dense 2.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "display_name": "fairseq dense 13B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
         "tags": [
-            "3B"
+            "13B"
         ]
     },
-    "aphrodite/KoboldAI/fairseq-dense-2.7B": {
-        "name": "aphrodite/KoboldAI/fairseq-dense-2.7B",
-        "model_name": "fairseq-dense-2.7B",
+    "aphrodite/KoboldAI/fairseq-dense-13B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-13B",
+        "model_name": "fairseq-dense-13B",
         "baseline": "",
-        "parameters": 2700000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "fairseq dense 2.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "display_name": "fairseq dense 13B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
         "tags": [
-            "3B"
+            "13B"
         ]
     },
-    "koboldcpp/fairseq-dense-2.7B": {
-        "name": "koboldcpp/fairseq-dense-2.7B",
-        "model_name": "fairseq-dense-2.7B",
+    "koboldcpp/fairseq-dense-13B": {
+        "name": "koboldcpp/fairseq-dense-13B",
+        "model_name": "fairseq-dense-13B",
         "baseline": "",
-        "parameters": 2700000000,
+        "parameters": 13000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "fairseq dense 2.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "display_name": "fairseq dense 13B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-13B",
         "tags": [
-            "3B"
+            "13B"
         ]
     },
     "KoboldAI/fairseq-dense-2.7B-Janeway": {
@@ -9137,6 +9092,51 @@
             "3B"
         ]
     },
+    "KoboldAI/fairseq-dense-2.7B": {
+        "name": "KoboldAI/fairseq-dense-2.7B",
+        "model_name": "fairseq-dense-2.7B",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 2.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/KoboldAI/fairseq-dense-2.7B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-2.7B",
+        "model_name": "fairseq-dense-2.7B",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 2.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/fairseq-dense-2.7B": {
+        "name": "koboldcpp/fairseq-dense-2.7B",
+        "model_name": "fairseq-dense-2.7B",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 2.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-2.7B",
+        "tags": [
+            "3B"
+        ]
+    },
     "KoboldAI/fairseq-dense-355M": {
         "name": "KoboldAI/fairseq-dense-355M",
         "model_name": "fairseq-dense-355M",
@@ -9180,51 +9180,6 @@
         "url": "https://huggingface.co/KoboldAI/fairseq-dense-355M",
         "tags": [
             "0B"
-        ]
-    },
-    "KoboldAI/fairseq-dense-6.7B": {
-        "name": "KoboldAI/fairseq-dense-6.7B",
-        "model_name": "fairseq-dense-6.7B",
-        "baseline": "",
-        "parameters": 6700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 6.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/KoboldAI/fairseq-dense-6.7B": {
-        "name": "aphrodite/KoboldAI/fairseq-dense-6.7B",
-        "model_name": "fairseq-dense-6.7B",
-        "baseline": "",
-        "parameters": 6700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 6.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/fairseq-dense-6.7B": {
-        "name": "koboldcpp/fairseq-dense-6.7B",
-        "model_name": "fairseq-dense-6.7B",
-        "baseline": "",
-        "parameters": 6700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "fairseq dense 6.7B",
-        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
-        "tags": [
-            "7B"
         ]
     },
     "KoboldAI/fairseq-dense-6.7B-Janeway": {
@@ -9313,6 +9268,51 @@
         "nsfw": false,
         "display_name": "fairseq dense 6.7B Shinen",
         "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B-Shinen",
+        "tags": [
+            "7B"
+        ]
+    },
+    "KoboldAI/fairseq-dense-6.7B": {
+        "name": "KoboldAI/fairseq-dense-6.7B",
+        "model_name": "fairseq-dense-6.7B",
+        "baseline": "",
+        "parameters": 6700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 6.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/KoboldAI/fairseq-dense-6.7B": {
+        "name": "aphrodite/KoboldAI/fairseq-dense-6.7B",
+        "model_name": "fairseq-dense-6.7B",
+        "baseline": "",
+        "parameters": 6700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 6.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/fairseq-dense-6.7B": {
+        "name": "koboldcpp/fairseq-dense-6.7B",
+        "model_name": "fairseq-dense-6.7B",
+        "baseline": "",
+        "parameters": 6700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "fairseq dense 6.7B",
+        "url": "https://huggingface.co/KoboldAI/fairseq-dense-6.7B",
         "tags": [
             "7B"
         ]
@@ -9632,51 +9632,6 @@
             "3B"
         ]
     },
-    "KoboldAI/GPT-Neo-2.7B-Horni": {
-        "name": "KoboldAI/GPT-Neo-2.7B-Horni",
-        "model_name": "GPT-Neo-2.7B-Horni",
-        "baseline": "",
-        "parameters": 2700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GPT Neo 2.7B Horni",
-        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
-        "tags": [
-            "3B"
-        ]
-    },
-    "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni": {
-        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni",
-        "model_name": "GPT-Neo-2.7B-Horni",
-        "baseline": "",
-        "parameters": 2700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GPT Neo 2.7B Horni",
-        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
-        "tags": [
-            "3B"
-        ]
-    },
-    "koboldcpp/GPT-Neo-2.7B-Horni": {
-        "name": "koboldcpp/GPT-Neo-2.7B-Horni",
-        "model_name": "GPT-Neo-2.7B-Horni",
-        "baseline": "",
-        "parameters": 2700000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GPT Neo 2.7B Horni",
-        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
-        "tags": [
-            "3B"
-        ]
-    },
     "KoboldAI/GPT-Neo-2.7B-Horni-LN": {
         "name": "KoboldAI/GPT-Neo-2.7B-Horni-LN",
         "model_name": "GPT-Neo-2.7B-Horni-LN",
@@ -9718,6 +9673,51 @@
         "nsfw": false,
         "display_name": "GPT Neo 2.7B Horni LN",
         "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni-LN",
+        "tags": [
+            "3B"
+        ]
+    },
+    "KoboldAI/GPT-Neo-2.7B-Horni": {
+        "name": "KoboldAI/GPT-Neo-2.7B-Horni",
+        "model_name": "GPT-Neo-2.7B-Horni",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GPT Neo 2.7B Horni",
+        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni": {
+        "name": "aphrodite/KoboldAI/GPT-Neo-2.7B-Horni",
+        "model_name": "GPT-Neo-2.7B-Horni",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GPT Neo 2.7B Horni",
+        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/GPT-Neo-2.7B-Horni": {
+        "name": "koboldcpp/GPT-Neo-2.7B-Horni",
+        "model_name": "GPT-Neo-2.7B-Horni",
+        "baseline": "",
+        "parameters": 2700000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GPT Neo 2.7B Horni",
+        "url": "https://huggingface.co/KoboldAI/GPT-Neo-2.7B-Horni",
         "tags": [
             "3B"
         ]
@@ -9945,6 +9945,48 @@
         "url": "https://huggingface.co/KoboldAI/GPT-NeoX-20B-Skein",
         "tags": [
             "20B"
+        ]
+    },
+    "KoboldAI/Llama-3.1-8B-BookAdventures": {
+        "name": "KoboldAI/Llama-3.1-8B-BookAdventures",
+        "model_name": "Llama-3.1-8B-BookAdventures",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B BookAdventures",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/KoboldAI/Llama-3.1-8B-BookAdventures": {
+        "name": "aphrodite/KoboldAI/Llama-3.1-8B-BookAdventures",
+        "model_name": "Llama-3.1-8B-BookAdventures",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B BookAdventures",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Llama-3.1-8B-BookAdventures": {
+        "name": "koboldcpp/Llama-3.1-8B-BookAdventures",
+        "model_name": "Llama-3.1-8B-BookAdventures",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B BookAdventures",
+        "tags": [
+            "8B"
         ]
     },
     "KoboldAI/LLaMA2-13B-Erebus-v3": {
@@ -10314,48 +10356,6 @@
         "display_name": "LLaMA2 13B TieWriter",
         "tags": [
             "13B"
-        ]
-    },
-    "KoboldAI/Llama-3.1-8B-BookAdventures": {
-        "name": "KoboldAI/Llama-3.1-8B-BookAdventures",
-        "model_name": "Llama-3.1-8B-BookAdventures",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B BookAdventures",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/KoboldAI/Llama-3.1-8B-BookAdventures": {
-        "name": "aphrodite/KoboldAI/Llama-3.1-8B-BookAdventures",
-        "model_name": "Llama-3.1-8B-BookAdventures",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B BookAdventures",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Llama-3.1-8B-BookAdventures": {
-        "name": "koboldcpp/Llama-3.1-8B-BookAdventures",
-        "model_name": "Llama-3.1-8B-BookAdventures",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B BookAdventures",
-        "tags": [
-            "8B"
         ]
     },
     "KoboldAI/Mistral-7B-Erebus-v3": {
@@ -11438,51 +11438,6 @@
             "33B"
         ]
     },
-    "MarsupialAI/Monstral-123B": {
-        "name": "MarsupialAI/Monstral-123B",
-        "model_name": "Monstral-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Monstral 123B",
-        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
-        "tags": [
-            "123B"
-        ]
-    },
-    "aphrodite/MarsupialAI/Monstral-123B": {
-        "name": "aphrodite/MarsupialAI/Monstral-123B",
-        "model_name": "Monstral-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Monstral 123B",
-        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
-        "tags": [
-            "123B"
-        ]
-    },
-    "koboldcpp/Monstral-123B": {
-        "name": "koboldcpp/Monstral-123B",
-        "model_name": "Monstral-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Monstral 123B",
-        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
-        "tags": [
-            "123B"
-        ]
-    },
     "MarsupialAI/Monstral-123B-v2": {
         "name": "MarsupialAI/Monstral-123B-v2",
         "model_name": "Monstral-123B-v2",
@@ -11524,6 +11479,51 @@
         "nsfw": false,
         "display_name": "Monstral 123B v2",
         "url": "https://huggingface.co/MarsupialAI/Monstral-123B-v2",
+        "tags": [
+            "123B"
+        ]
+    },
+    "MarsupialAI/Monstral-123B": {
+        "name": "MarsupialAI/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/MarsupialAI/Monstral-123B": {
+        "name": "aphrodite/MarsupialAI/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/Monstral-123B": {
+        "name": "koboldcpp/Monstral-123B",
+        "model_name": "Monstral-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Monstral 123B",
+        "url": "https://huggingface.co/MarsupialAI/Monstral-123B",
         "tags": [
             "123B"
         ]
@@ -11885,243 +11885,6 @@
             "7B"
         ]
     },
-    "meta-llama/Meta-Llama-3-70B": {
-        "name": "meta-llama/Meta-Llama-3-70B",
-        "model_name": "Meta-Llama-3-70B",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
-        "tags": [
-            "70B"
-        ]
-    },
-    "aphrodite/meta-llama/Meta-Llama-3-70B": {
-        "name": "aphrodite/meta-llama/Meta-Llama-3-70B",
-        "model_name": "Meta-Llama-3-70B",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
-        "tags": [
-            "70B"
-        ]
-    },
-    "koboldcpp/Meta-Llama-3-70B": {
-        "name": "koboldcpp/Meta-Llama-3-70B",
-        "model_name": "Meta-Llama-3-70B",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
-        "tags": [
-            "70B"
-        ]
-    },
-    "meta-llama/Meta-Llama-3-70B-Instruct": {
-        "name": "meta-llama/Meta-Llama-3-70B-Instruct",
-        "model_name": "Meta-Llama-3-70B-Instruct",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
-        "tags": [
-            "70B"
-        ]
-    },
-    "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct": {
-        "name": "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct",
-        "model_name": "Meta-Llama-3-70B-Instruct",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
-        "tags": [
-            "70B"
-        ]
-    },
-    "koboldcpp/Meta-Llama-3-70B-Instruct": {
-        "name": "koboldcpp/Meta-Llama-3-70B-Instruct",
-        "model_name": "Meta-Llama-3-70B-Instruct",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 70B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
-        "tags": [
-            "70B"
-        ]
-    },
-    "meta-llama/Meta-Llama-3-8B": {
-        "name": "meta-llama/Meta-Llama-3-8B",
-        "model_name": "Meta-Llama-3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/meta-llama/Meta-Llama-3-8B": {
-        "name": "aphrodite/meta-llama/Meta-Llama-3-8B",
-        "model_name": "Meta-Llama-3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Meta-Llama-3-8B": {
-        "name": "koboldcpp/Meta-Llama-3-8B",
-        "model_name": "Meta-Llama-3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "meta-llama/Meta-Llama-3-8B-Instruct": {
-        "name": "meta-llama/Meta-Llama-3-8B-Instruct",
-        "model_name": "Meta-Llama-3-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct": {
-        "name": "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct",
-        "model_name": "Meta-Llama-3-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Meta-Llama-3-8B-Instruct": {
-        "name": "koboldcpp/Meta-Llama-3-8B-Instruct",
-        "model_name": "Meta-Llama-3-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Meta Llama 3 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-        "tags": [
-            "8B"
-        ]
-    },
-    "meta-llama/Meta-Llama-3.1-8B-Instruct": {
-        "name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "model_name": "Meta-Llama-3.1-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Meta Llama 3.1 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "tags": [
-            "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
-        ]
-    },
-    "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
-        "name": "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "model_name": "Meta-Llama-3.1-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Meta Llama 3.1 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "tags": [
-            "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
-        ]
-    },
-    "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
-        "name": "koboldcpp/Meta-Llama-3.1-8B-Instruct",
-        "model_name": "Meta-Llama-3.1-8B-Instruct",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Meta Llama 3.1 8B Instruct",
-        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
-        "tags": [
-            "8B",
-            "Chat",
-            "assistant",
-            "censored",
-            "multilingual"
-        ]
-    },
     "meta-llama/Llama-3.1-405B-Instruct": {
         "name": "meta-llama/Llama-3.1-405B-Instruct",
         "model_name": "Llama-3.1-405B-Instruct",
@@ -12162,6 +11925,48 @@
         "display_name": "Llama 3.1 405B Instruct",
         "tags": [
             "405B"
+        ]
+    },
+    "meta-llama/Llama-3.2-11B-Vision-Instruct": {
+        "name": "meta-llama/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-11B-Vision-Instruct": {
+        "name": "koboldcpp/Llama-3.2-11B-Vision-Instruct",
+        "model_name": "Llama-3.2-11B-Vision-Instruct",
+        "baseline": "",
+        "parameters": 11000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 11B Vision Instruct",
+        "tags": [
+            "11B"
         ]
     },
     "meta-llama/Llama-3.2-1B-Instruct": {
@@ -12248,48 +12053,6 @@
             "3B"
         ]
     },
-    "meta-llama/Llama-3.2-11B-Vision-Instruct": {
-        "name": "meta-llama/Llama-3.2-11B-Vision-Instruct",
-        "model_name": "Llama-3.2-11B-Vision-Instruct",
-        "baseline": "",
-        "parameters": 11000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 11B Vision Instruct",
-        "tags": [
-            "11B"
-        ]
-    },
-    "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct": {
-        "name": "aphrodite/meta-llama/Llama-3.2-11B-Vision-Instruct",
-        "model_name": "Llama-3.2-11B-Vision-Instruct",
-        "baseline": "",
-        "parameters": 11000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 11B Vision Instruct",
-        "tags": [
-            "11B"
-        ]
-    },
-    "koboldcpp/Llama-3.2-11B-Vision-Instruct": {
-        "name": "koboldcpp/Llama-3.2-11B-Vision-Instruct",
-        "model_name": "Llama-3.2-11B-Vision-Instruct",
-        "baseline": "",
-        "parameters": 11000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 11B Vision Instruct",
-        "tags": [
-            "11B"
-        ]
-    },
     "meta-llama/Llama-3.2-90B-Vision-Instruct": {
         "name": "meta-llama/Llama-3.2-90B-Vision-Instruct",
         "model_name": "Llama-3.2-90B-Vision-Instruct",
@@ -12330,6 +12093,243 @@
         "display_name": "Llama 3.2 90B Vision Instruct",
         "tags": [
             "90B"
+        ]
+    },
+    "meta-llama/Meta-Llama-3-70B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3-70B-Instruct",
+        "model_name": "Meta-Llama-3-70B-Instruct",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-70B-Instruct",
+        "model_name": "Meta-Llama-3-70B-Instruct",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Meta-Llama-3-70B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3-70B-Instruct",
+        "model_name": "Meta-Llama-3-70B-Instruct",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct",
+        "tags": [
+            "70B"
+        ]
+    },
+    "meta-llama/Meta-Llama-3-70B": {
+        "name": "meta-llama/Meta-Llama-3-70B",
+        "model_name": "Meta-Llama-3-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-70B": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-70B",
+        "model_name": "Meta-Llama-3-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Meta-Llama-3-70B": {
+        "name": "koboldcpp/Meta-Llama-3-70B",
+        "model_name": "Meta-Llama-3-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 70B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "meta-llama/Meta-Llama-3-8B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "model_name": "Meta-Llama-3-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-8B-Instruct",
+        "model_name": "Meta-Llama-3-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Meta-Llama-3-8B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3-8B-Instruct",
+        "model_name": "Meta-Llama-3-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+        "tags": [
+            "8B"
+        ]
+    },
+    "meta-llama/Meta-Llama-3-8B": {
+        "name": "meta-llama/Meta-Llama-3-8B",
+        "model_name": "Meta-Llama-3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/meta-llama/Meta-Llama-3-8B": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3-8B",
+        "model_name": "Meta-Llama-3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Meta-Llama-3-8B": {
+        "name": "koboldcpp/Meta-Llama-3-8B",
+        "model_name": "Meta-Llama-3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Meta Llama 3 8B",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "model_name": "Meta-Llama-3.1-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Meta Llama 3.1 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "tags": [
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
+        ]
+    },
+    "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
+        "name": "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "model_name": "Meta-Llama-3.1-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Meta Llama 3.1 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "tags": [
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
+        ]
+    },
+    "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
+        "name": "koboldcpp/Meta-Llama-3.1-8B-Instruct",
+        "model_name": "Meta-Llama-3.1-8B-Instruct",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Optimized for multilingual dialogue use cases and outperform many of the available open source and closed chat models on common industry benchmarks.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Meta Llama 3.1 8B Instruct",
+        "url": "https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "tags": [
+            "8B",
+            "Chat",
+            "assistant",
+            "censored",
+            "multilingual"
         ]
     },
     "microsoft/WizardLM-2-70B": {
@@ -12554,105 +12554,6 @@
             "7B"
         ]
     },
-    "mistralai/Mixtral-8x22B-Instruct-v0.1": {
-        "name": "mistralai/Mixtral-8x22B-Instruct-v0.1",
-        "model_name": "Mixtral-8x22B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 88000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x22B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
-        "tags": [
-            "88B"
-        ]
-    },
-    "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1": {
-        "name": "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1",
-        "model_name": "Mixtral-8x22B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 88000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x22B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
-        "tags": [
-            "88B"
-        ]
-    },
-    "koboldcpp/Mixtral-8x22B-Instruct-v0.1": {
-        "name": "koboldcpp/Mixtral-8x22B-Instruct-v0.1",
-        "model_name": "Mixtral-8x22B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 88000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x22B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
-        "tags": [
-            "88B"
-        ]
-    },
-    "mistralai/Mixtral-8x7B-Instruct-v0.1": {
-        "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "model_name": "Mixtral-8x7B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 28000000000,
-        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x7B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "tags": [
-            "28B",
-            "generalist",
-            "popular"
-        ],
-        "instruct_format": "Mistral"
-    },
-    "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
-        "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "model_name": "Mixtral-8x7B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 28000000000,
-        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x7B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "tags": [
-            "28B",
-            "generalist",
-            "popular"
-        ],
-        "instruct_format": "Mistral"
-    },
-    "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
-        "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
-        "model_name": "Mixtral-8x7B-Instruct-v0.1",
-        "baseline": "",
-        "parameters": 28000000000,
-        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Mixtral 8x7B Instruct v0.1",
-        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
-        "tags": [
-            "28B",
-            "generalist",
-            "popular"
-        ],
-        "instruct_format": "Mistral"
-    },
     "mistralai/Mistral-Large-Instruct-2407": {
         "name": "mistralai/Mistral-Large-Instruct-2407",
         "model_name": "Mistral-Large-Instruct-2407",
@@ -12791,6 +12692,48 @@
             "12B"
         ]
     },
+    "mistralai/Mistral-Small-24B-Instruct-2501": {
+        "name": "mistralai/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501": {
+        "name": "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Mistral-Small-24B-Instruct-2501": {
+        "name": "koboldcpp/Mistral-Small-24B-Instruct-2501",
+        "model_name": "Mistral-Small-24B-Instruct-2501",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mistral Small 24B Instruct 2501",
+        "tags": [
+            "24B"
+        ]
+    },
     "mistralai/Mistral-Small-Instruct-2409": {
         "name": "mistralai/Mistral-Small-Instruct-2409",
         "model_name": "Mistral-Small-Instruct-2409",
@@ -12833,47 +12776,104 @@
             "22B"
         ]
     },
-    "mistralai/Mistral-Small-24B-Instruct-2501": {
-        "name": "mistralai/Mistral-Small-24B-Instruct-2501",
-        "model_name": "Mistral-Small-24B-Instruct-2501",
+    "mistralai/Mixtral-8x22B-Instruct-v0.1": {
+        "name": "mistralai/Mixtral-8x22B-Instruct-v0.1",
+        "model_name": "Mixtral-8x22B-Instruct-v0.1",
         "baseline": "",
-        "parameters": 24000000000,
+        "parameters": 88000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Mistral Small 24B Instruct 2501",
+        "display_name": "Mixtral 8x22B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
-            "24B"
+            "88B"
         ]
     },
-    "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501": {
-        "name": "aphrodite/mistralai/Mistral-Small-24B-Instruct-2501",
-        "model_name": "Mistral-Small-24B-Instruct-2501",
+    "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1": {
+        "name": "aphrodite/mistralai/Mixtral-8x22B-Instruct-v0.1",
+        "model_name": "Mixtral-8x22B-Instruct-v0.1",
         "baseline": "",
-        "parameters": 24000000000,
+        "parameters": 88000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Mistral Small 24B Instruct 2501",
+        "display_name": "Mixtral 8x22B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
-            "24B"
+            "88B"
         ]
     },
-    "koboldcpp/Mistral-Small-24B-Instruct-2501": {
-        "name": "koboldcpp/Mistral-Small-24B-Instruct-2501",
-        "model_name": "Mistral-Small-24B-Instruct-2501",
+    "koboldcpp/Mixtral-8x22B-Instruct-v0.1": {
+        "name": "koboldcpp/Mixtral-8x22B-Instruct-v0.1",
+        "model_name": "Mixtral-8x22B-Instruct-v0.1",
         "baseline": "",
-        "parameters": 24000000000,
+        "parameters": 88000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Mistral Small 24B Instruct 2501",
+        "display_name": "Mixtral 8x22B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1",
         "tags": [
-            "24B"
+            "88B"
         ]
+    },
+    "mistralai/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "model_name": "Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mixtral 8x7B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "tags": [
+            "28B",
+            "generalist",
+            "popular"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "aphrodite/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "model_name": "Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mixtral 8x7B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "tags": [
+            "28B",
+            "generalist",
+            "popular"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/Mixtral-8x7B-Instruct-v0.1": {
+        "name": "koboldcpp/Mixtral-8x7B-Instruct-v0.1",
+        "model_name": "Mixtral-8x7B-Instruct-v0.1",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "Instruct version of the initial release, still stands up as very strong as finetunes have not matured. Mistral format.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Mixtral 8x7B Instruct v0.1",
+        "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "tags": [
+            "28B",
+            "generalist",
+            "popular"
+        ],
+        "instruct_format": "Mistral"
     },
     "mlabonne/llama-2-7b-guanaco": {
         "name": "mlabonne/llama-2-7b-guanaco",
@@ -12974,51 +12974,6 @@
         ],
         "instruct_format": "Llama 3"
     },
-    "mosaicml/mpt-1b-redpajama-200b": {
-        "name": "mosaicml/mpt-1b-redpajama-200b",
-        "model_name": "mpt-1b-redpajama-200b",
-        "baseline": "",
-        "parameters": 1000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "mpt 1b redpajama 200b",
-        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
-        "tags": [
-            "1B"
-        ]
-    },
-    "aphrodite/mosaicml/mpt-1b-redpajama-200b": {
-        "name": "aphrodite/mosaicml/mpt-1b-redpajama-200b",
-        "model_name": "mpt-1b-redpajama-200b",
-        "baseline": "",
-        "parameters": 1000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "mpt 1b redpajama 200b",
-        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
-        "tags": [
-            "1B"
-        ]
-    },
-    "koboldcpp/mpt-1b-redpajama-200b": {
-        "name": "koboldcpp/mpt-1b-redpajama-200b",
-        "model_name": "mpt-1b-redpajama-200b",
-        "baseline": "",
-        "parameters": 1000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "mpt 1b redpajama 200b",
-        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
-        "tags": [
-            "1B"
-        ]
-    },
     "mosaicml/mpt-1b-redpajama-200b-dolly": {
         "name": "mosaicml/mpt-1b-redpajama-200b-dolly",
         "model_name": "mpt-1b-redpajama-200b-dolly",
@@ -13064,49 +13019,49 @@
             "1B"
         ]
     },
-    "mosaicml/mpt-7b": {
-        "name": "mosaicml/mpt-7b",
-        "model_name": "mpt-7b",
+    "mosaicml/mpt-1b-redpajama-200b": {
+        "name": "mosaicml/mpt-1b-redpajama-200b",
+        "model_name": "mpt-1b-redpajama-200b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "mpt 7b",
-        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "display_name": "mpt 1b redpajama 200b",
+        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
         "tags": [
-            "7B"
+            "1B"
         ]
     },
-    "aphrodite/mosaicml/mpt-7b": {
-        "name": "aphrodite/mosaicml/mpt-7b",
-        "model_name": "mpt-7b",
+    "aphrodite/mosaicml/mpt-1b-redpajama-200b": {
+        "name": "aphrodite/mosaicml/mpt-1b-redpajama-200b",
+        "model_name": "mpt-1b-redpajama-200b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "mpt 7b",
-        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "display_name": "mpt 1b redpajama 200b",
+        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
         "tags": [
-            "7B"
+            "1B"
         ]
     },
-    "koboldcpp/mpt-7b": {
-        "name": "koboldcpp/mpt-7b",
-        "model_name": "mpt-7b",
+    "koboldcpp/mpt-1b-redpajama-200b": {
+        "name": "koboldcpp/mpt-1b-redpajama-200b",
+        "model_name": "mpt-1b-redpajama-200b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "mpt 7b",
-        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "display_name": "mpt 1b redpajama 200b",
+        "url": "https://huggingface.co/mosaicml/mpt-1b-redpajama-200b",
         "tags": [
-            "7B"
+            "1B"
         ]
     },
     "mosaicml/mpt-7b-chat": {
@@ -13244,6 +13199,51 @@
             "7B"
         ]
     },
+    "mosaicml/mpt-7b": {
+        "name": "mosaicml/mpt-7b",
+        "model_name": "mpt-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "mpt 7b",
+        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/mosaicml/mpt-7b": {
+        "name": "aphrodite/mosaicml/mpt-7b",
+        "model_name": "mpt-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "mpt 7b",
+        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/mpt-7b": {
+        "name": "koboldcpp/mpt-7b",
+        "model_name": "mpt-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "mpt 7b",
+        "url": "https://huggingface.co/mosaicml/mpt-7b",
+        "tags": [
+            "7B"
+        ]
+    },
     "NeverSleep/Echidna-13b-v0.3": {
         "name": "NeverSleep/Echidna-13b-v0.3",
         "model_name": "Echidna-13b-v0.3",
@@ -13287,6 +13287,51 @@
         "url": "https://huggingface.co/NeverSleep/Echidna-13b-v0.3",
         "tags": [
             "13B"
+        ]
+    },
+    "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS": {
+        "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "tags": [
+            "70B"
         ]
     },
     "NeverSleep/Llama-3-Lumimaid-70B-v0.1": {
@@ -13334,49 +13379,49 @@
             "70B"
         ]
     },
-    "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
-        "name": "NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+    "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
         "baseline": "",
-        "parameters": 70000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
-            "70B"
+            "8B"
         ]
     },
-    "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS": {
-        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+    "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
         "baseline": "",
-        "parameters": 70000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
-            "70B"
+            "8B"
         ]
     },
-    "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS": {
-        "name": "koboldcpp/Llama-3-Lumimaid-70B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-70B-v0.1-OAS",
+    "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
+        "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
         "baseline": "",
-        "parameters": 70000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 70B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-70B-v0.1-OAS",
+        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
+        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
-            "70B"
+            "8B"
         ]
     },
     "NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
@@ -13433,94 +13478,49 @@
         ],
         "instruct_format": "Llama 3"
     },
-    "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
-        "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
+    "NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "NeverSleep/Lumimaid-v0.2-123B",
+        "model_name": "Lumimaid-v0.2-123B",
         "baseline": "",
-        "parameters": 8000000000,
+        "parameters": 123000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "display_name": "Lumimaid v0.2 123B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
-            "8B"
+            "123B"
         ]
     },
-    "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
-        "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
+    "aphrodite/NeverSleep/Lumimaid-v0.2-123B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-123B",
+        "model_name": "Lumimaid-v0.2-123B",
         "baseline": "",
-        "parameters": 8000000000,
+        "parameters": 123000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "display_name": "Lumimaid v0.2 123B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
-            "8B"
+            "123B"
         ]
     },
-    "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
-        "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
-        "model_name": "Llama-3-Lumimaid-8B-v0.1-OAS",
+    "koboldcpp/Lumimaid-v0.2-123B": {
+        "name": "koboldcpp/Lumimaid-v0.2-123B",
+        "model_name": "Lumimaid-v0.2-123B",
         "baseline": "",
-        "parameters": 8000000000,
+        "parameters": 123000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Llama 3 Lumimaid 8B v0.1 OAS",
-        "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
+        "display_name": "Lumimaid v0.2 123B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
         "tags": [
-            "8B"
-        ]
-    },
-    "NeverSleep/Lumimaid-v0.2-8B": {
-        "name": "NeverSleep/Lumimaid-v0.2-8B",
-        "model_name": "Lumimaid-v0.2-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Lumimaid v0.2 8B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/NeverSleep/Lumimaid-v0.2-8B": {
-        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-8B",
-        "model_name": "Lumimaid-v0.2-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Lumimaid v0.2 8B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Lumimaid-v0.2-8B": {
-        "name": "koboldcpp/Lumimaid-v0.2-8B",
-        "model_name": "Lumimaid-v0.2-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Lumimaid v0.2 8B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
-        "tags": [
-            "8B"
+            "123B"
         ]
     },
     "NeverSleep/Lumimaid-v0.2-12B": {
@@ -13634,49 +13634,49 @@
             "70B"
         ]
     },
-    "NeverSleep/Lumimaid-v0.2-123B": {
-        "name": "NeverSleep/Lumimaid-v0.2-123B",
-        "model_name": "Lumimaid-v0.2-123B",
+    "NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "NeverSleep/Lumimaid-v0.2-8B",
+        "model_name": "Lumimaid-v0.2-8B",
         "baseline": "",
-        "parameters": 123000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lumimaid v0.2 123B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
+        "display_name": "Lumimaid v0.2 8B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
-            "123B"
+            "8B"
         ]
     },
-    "aphrodite/NeverSleep/Lumimaid-v0.2-123B": {
-        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-123B",
-        "model_name": "Lumimaid-v0.2-123B",
+    "aphrodite/NeverSleep/Lumimaid-v0.2-8B": {
+        "name": "aphrodite/NeverSleep/Lumimaid-v0.2-8B",
+        "model_name": "Lumimaid-v0.2-8B",
         "baseline": "",
-        "parameters": 123000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lumimaid v0.2 123B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
+        "display_name": "Lumimaid v0.2 8B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
-            "123B"
+            "8B"
         ]
     },
-    "koboldcpp/Lumimaid-v0.2-123B": {
-        "name": "koboldcpp/Lumimaid-v0.2-123B",
-        "model_name": "Lumimaid-v0.2-123B",
+    "koboldcpp/Lumimaid-v0.2-8B": {
+        "name": "koboldcpp/Lumimaid-v0.2-8B",
+        "model_name": "Lumimaid-v0.2-8B",
         "baseline": "",
-        "parameters": 123000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Lumimaid v0.2 123B",
-        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-123B",
+        "display_name": "Lumimaid v0.2 8B",
+        "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-8B",
         "tags": [
-            "123B"
+            "8B"
         ]
     },
     "NeverSleep/Noromaid-13b-v0.1.1": {
@@ -14017,6 +14017,111 @@
             "min_p": 0.03,
             "rep_pen": 3.0
         }
+    },
+    "Nitral-AI/Captain-Eris_Violet-V0.420-12B": {
+        "name": "Nitral-AI/Captain-Eris_Violet-V0.420-12B",
+        "model_name": "Captain-Eris_Violet-V0.420-12B",
+        "baseline": "Nitral-AI/Captain_BMO-12B",
+        "parameters": 12200000000,
+        "description": "Punches very hard above its weight sometimes. Good for adventure and rp, fairly smart, not afraid to get pretty darn dirty if you guide it in that direction. Recommended ST preset available on model page.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Captain Eris Violet V0.420 12B",
+        "url": "https://huggingface.co/Nitral-AI/Captain-Eris_Violet-V0.420-12B",
+        "tags": [
+            "12B",
+            "adventure",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Nitral-AI/Captain-Eris_Violet-V0.420-12B": {
+        "name": "aphrodite/Nitral-AI/Captain-Eris_Violet-V0.420-12B",
+        "model_name": "Captain-Eris_Violet-V0.420-12B",
+        "baseline": "Nitral-AI/Captain_BMO-12B",
+        "parameters": 12200000000,
+        "description": "Punches very hard above its weight sometimes. Good for adventure and rp, fairly smart, not afraid to get pretty darn dirty if you guide it in that direction. Recommended ST preset available on model page.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Captain Eris Violet V0.420 12B",
+        "url": "https://huggingface.co/Nitral-AI/Captain-Eris_Violet-V0.420-12B",
+        "tags": [
+            "12B",
+            "adventure",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Captain-Eris_Violet-V0.420-12B": {
+        "name": "koboldcpp/Captain-Eris_Violet-V0.420-12B",
+        "model_name": "Captain-Eris_Violet-V0.420-12B",
+        "baseline": "Nitral-AI/Captain_BMO-12B",
+        "parameters": 12200000000,
+        "description": "Punches very hard above its weight sometimes. Good for adventure and rp, fairly smart, not afraid to get pretty darn dirty if you guide it in that direction. Recommended ST preset available on model page.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Captain Eris Violet V0.420 12B",
+        "url": "https://huggingface.co/Nitral-AI/Captain-Eris_Violet-V0.420-12B",
+        "tags": [
+            "12B",
+            "adventure",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "Nitral-AI/Hathor_Stable-v0.2-L3-8B": {
+        "name": "Nitral-AI/Hathor_Stable-v0.2-L3-8B",
+        "model_name": "Hathor_Stable-v0.2-L3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Hathor Stable v0.2 L3 8B",
+        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
+        "tags": [
+            "8B",
+            "Chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Nitral-AI/Hathor_Stable-v0.2-L3-8B": {
+        "name": "aphrodite/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
+        "model_name": "Hathor_Stable-v0.2-L3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Hathor Stable v0.2 L3 8B",
+        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
+        "tags": [
+            "8B",
+            "Chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Hathor_Stable-v0.2-L3-8B": {
+        "name": "koboldcpp/Hathor_Stable-v0.2-L3-8B",
+        "model_name": "Hathor_Stable-v0.2-L3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
+        "version": "1",
+        "style": "Chat",
+        "nsfw": false,
+        "display_name": "Hathor Stable v0.2 L3 8B",
+        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
+        "tags": [
+            "8B",
+            "Chat",
+            "roleplay"
+        ]
     },
     "Norquinal/Mistral-7B-claude-chat": {
         "name": "Norquinal/Mistral-7B-claude-chat",
@@ -14501,54 +14606,6 @@
             "12B"
         ]
     },
-    "ParasiticRogue/EVA-Instruct-32B": {
-        "name": "ParasiticRogue/EVA-Instruct-32B",
-        "model_name": "EVA-Instruct-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Instruct 32B",
-        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
-        "tags": [
-            "32B"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "aphrodite/ParasiticRogue/EVA-Instruct-32B": {
-        "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B",
-        "model_name": "EVA-Instruct-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Instruct 32B",
-        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
-        "tags": [
-            "32B"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "koboldcpp/EVA-Instruct-32B": {
-        "name": "koboldcpp/EVA-Instruct-32B",
-        "model_name": "EVA-Instruct-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "EVA Instruct 32B",
-        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
-        "tags": [
-            "32B"
-        ],
-        "instruct_format": "ChatML"
-    },
     "ParasiticRogue/EVA-Instruct-32B-v2": {
         "name": "ParasiticRogue/EVA-Instruct-32B-v2",
         "model_name": "EVA-Instruct-32B-v2",
@@ -14592,6 +14649,54 @@
         "nsfw": false,
         "display_name": "EVA Instruct 32B v2",
         "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B-v2",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "ParasiticRogue/EVA-Instruct-32B": {
+        "name": "ParasiticRogue/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/ParasiticRogue/EVA-Instruct-32B": {
+        "name": "aphrodite/ParasiticRogue/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
+        "tags": [
+            "32B"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/EVA-Instruct-32B": {
+        "name": "koboldcpp/EVA-Instruct-32B",
+        "model_name": "EVA-Instruct-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "A merge of Qwen2.5-32B-Instruct and EVA-Qwen2.5-32B-v0.0.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EVA Instruct 32B",
+        "url": "https://huggingface.co/ParasiticRogue/EVA-Instruct-32B",
         "tags": [
             "32B"
         ],
@@ -15254,51 +15359,6 @@
             "7B"
         ]
     },
-    "Qwen/Qwen1.5-0.5B": {
-        "name": "Qwen/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-0.5B": {
-        "name": "aphrodite/Qwen/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-0.5B": {
-        "name": "koboldcpp/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
     "Qwen/Qwen1.5-0.5B-Chat": {
         "name": "Qwen/Qwen1.5-0.5B-Chat",
         "model_name": "Qwen1.5-0.5B-Chat",
@@ -15344,49 +15404,49 @@
             "0B"
         ]
     },
-    "Qwen/Qwen1.5-1.8B": {
-        "name": "Qwen/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
+    "Qwen/Qwen1.5-0.5B": {
+        "name": "Qwen/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
         "baseline": "",
-        "parameters": 1800000000,
+        "parameters": 500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
         "tags": [
-            "2B"
+            "0B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-1.8B": {
-        "name": "aphrodite/Qwen/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
+    "aphrodite/Qwen/Qwen1.5-0.5B": {
+        "name": "aphrodite/Qwen/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
         "baseline": "",
-        "parameters": 1800000000,
+        "parameters": 500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
         "tags": [
-            "2B"
+            "0B"
         ]
     },
-    "koboldcpp/Qwen1.5-1.8B": {
-        "name": "koboldcpp/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
+    "koboldcpp/Qwen1.5-0.5B": {
+        "name": "koboldcpp/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
         "baseline": "",
-        "parameters": 1800000000,
+        "parameters": 500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
         "tags": [
-            "2B"
+            "0B"
         ]
     },
     "Qwen/Qwen1.5-1.8B-Chat": {
@@ -15434,49 +15494,49 @@
             "2B"
         ]
     },
-    "Qwen/Qwen1.5-14B": {
-        "name": "Qwen/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
+    "Qwen/Qwen1.5-1.8B": {
+        "name": "Qwen/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 14000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "14B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-14B": {
-        "name": "aphrodite/Qwen/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
+    "aphrodite/Qwen/Qwen1.5-1.8B": {
+        "name": "aphrodite/Qwen/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 14000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "14B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen1.5-14B": {
-        "name": "koboldcpp/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
+    "koboldcpp/Qwen1.5-1.8B": {
+        "name": "koboldcpp/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 14000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "14B"
+            "2B"
         ]
     },
     "Qwen/Qwen1.5-14B-Chat": {
@@ -15524,49 +15584,49 @@
             "14B"
         ]
     },
-    "Qwen/Qwen1.5-32B": {
-        "name": "Qwen/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
+    "Qwen/Qwen1.5-14B": {
+        "name": "Qwen/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
         "baseline": "",
-        "parameters": 32000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
         "tags": [
-            "32B"
+            "14B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-32B": {
-        "name": "aphrodite/Qwen/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
+    "aphrodite/Qwen/Qwen1.5-14B": {
+        "name": "aphrodite/Qwen/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
         "baseline": "",
-        "parameters": 32000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
         "tags": [
-            "32B"
+            "14B"
         ]
     },
-    "koboldcpp/Qwen1.5-32B": {
-        "name": "koboldcpp/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
+    "koboldcpp/Qwen1.5-14B": {
+        "name": "koboldcpp/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
         "baseline": "",
-        "parameters": 32000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
         "tags": [
-            "32B"
+            "14B"
         ]
     },
     "Qwen/Qwen1.5-32B-Chat": {
@@ -15614,49 +15674,49 @@
             "32B"
         ]
     },
-    "Qwen/Qwen1.5-4B": {
-        "name": "Qwen/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
+    "Qwen/Qwen1.5-32B": {
+        "name": "Qwen/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 32000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
         "tags": [
-            "4B"
+            "32B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-4B": {
-        "name": "aphrodite/Qwen/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
+    "aphrodite/Qwen/Qwen1.5-32B": {
+        "name": "aphrodite/Qwen/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 32000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
         "tags": [
-            "4B"
+            "32B"
         ]
     },
-    "koboldcpp/Qwen1.5-4B": {
-        "name": "koboldcpp/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
+    "koboldcpp/Qwen1.5-32B": {
+        "name": "koboldcpp/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 32000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
         "tags": [
-            "4B"
+            "32B"
         ]
     },
     "Qwen/Qwen1.5-4B-Chat": {
@@ -15704,49 +15764,49 @@
             "4B"
         ]
     },
-    "Qwen/Qwen1.5-72B": {
-        "name": "Qwen/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "Qwen/Qwen1.5-4B": {
+        "name": "Qwen/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
         "baseline": "",
-        "parameters": 72000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
         "tags": [
-            "72B"
+            "4B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-72B": {
-        "name": "aphrodite/Qwen/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "aphrodite/Qwen/Qwen1.5-4B": {
+        "name": "aphrodite/Qwen/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
         "baseline": "",
-        "parameters": 72000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
         "tags": [
-            "72B"
+            "4B"
         ]
     },
-    "koboldcpp/Qwen1.5-72B": {
-        "name": "koboldcpp/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "koboldcpp/Qwen1.5-4B": {
+        "name": "koboldcpp/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
         "baseline": "",
-        "parameters": 72000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
         "tags": [
-            "72B"
+            "4B"
         ]
     },
     "Qwen/Qwen1.5-72B-Chat": {
@@ -15794,49 +15854,49 @@
             "72B"
         ]
     },
-    "Qwen/Qwen1.5-7B": {
-        "name": "Qwen/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
+    "Qwen/Qwen1.5-72B": {
+        "name": "Qwen/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
-            "7B"
+            "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-7B": {
-        "name": "aphrodite/Qwen/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
+    "aphrodite/Qwen/Qwen1.5-72B": {
+        "name": "aphrodite/Qwen/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
-            "7B"
+            "72B"
         ]
     },
-    "koboldcpp/Qwen1.5-7B": {
-        "name": "koboldcpp/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
+    "koboldcpp/Qwen1.5-72B": {
+        "name": "koboldcpp/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
-            "7B"
+            "72B"
         ]
     },
     "Qwen/Qwen1.5-7B-Chat": {
@@ -15880,6 +15940,51 @@
         "nsfw": false,
         "display_name": "Qwen1.5 7B Chat",
         "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen1.5-7B": {
+        "name": "Qwen/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-7B": {
+        "name": "aphrodite/Qwen/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-7B": {
+        "name": "koboldcpp/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
         "tags": [
             "7B"
         ]
@@ -16103,48 +16208,6 @@
             "7B"
         ]
     },
-    "Qwen/Qwen2.5-Coder-32B-Instruct": {
-        "name": "Qwen/Qwen2.5-Coder-32B-Instruct",
-        "model_name": "Qwen2.5-Coder-32B-Instruct",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B Instruct",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct",
-        "model_name": "Qwen2.5-Coder-32B-Instruct",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B Instruct",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-32B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-Coder-32B-Instruct",
-        "model_name": "Qwen2.5-Coder-32B-Instruct",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B Instruct",
-        "tags": [
-            "32B"
-        ]
-    },
     "Qwen/Qwen2.5-Coder-14B-Instruct": {
         "name": "Qwen/Qwen2.5-Coder-14B-Instruct",
         "model_name": "Qwen2.5-Coder-14B-Instruct",
@@ -16187,6 +16250,48 @@
             "14B"
         ]
     },
+    "Qwen/Qwen2.5-Coder-32B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-32B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-32B-Instruct",
+        "model_name": "Qwen2.5-Coder-32B-Instruct",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B Instruct",
+        "tags": [
+            "32B"
+        ]
+    },
     "Qwen/Qwen2.5-Coder-7B-Instruct": {
         "name": "Qwen/Qwen2.5-Coder-7B-Instruct",
         "model_name": "Qwen2.5-Coder-7B-Instruct",
@@ -16227,6 +16332,174 @@
         "display_name": "Qwen2.5 Coder 7B Instruct",
         "tags": [
             "7B"
+        ]
+    },
+    "Qwen/Qwen3-14B": {
+        "name": "Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-14B": {
+        "name": "aphrodite/Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen3-14B": {
+        "name": "koboldcpp/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen3-235B-A22B": {
+        "name": "Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-235B-A22B": {
+        "name": "aphrodite/Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "koboldcpp/Qwen3-235B-A22B": {
+        "name": "koboldcpp/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "Qwen/Qwen3-30B-A3B": {
+        "name": "Qwen/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-30B-A3B": {
+        "name": "aphrodite/Qwen/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "koboldcpp/Qwen3-30B-A3B": {
+        "name": "koboldcpp/Qwen3-30B-A3B",
+        "model_name": "Qwen3-30B-A3B",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B",
+        "tags": [
+            "15B"
+        ]
+    },
+    "Qwen/Qwen3-32B": {
+        "name": "Qwen/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-32B": {
+        "name": "aphrodite/Qwen/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen3-32B": {
+        "name": "koboldcpp/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 32B",
+        "tags": [
+            "32B"
         ]
     },
     "Qwen/Qwen3-4B": {
@@ -16311,174 +16584,6 @@
         "display_name": "Qwen3 8B",
         "tags": [
             "8B"
-        ]
-    },
-    "Qwen/Qwen3-14B": {
-        "name": "Qwen/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-14B": {
-        "name": "aphrodite/Qwen/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen3-14B": {
-        "name": "koboldcpp/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "Qwen/Qwen3-32B": {
-        "name": "Qwen/Qwen3-32B",
-        "model_name": "Qwen3-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-32B": {
-        "name": "aphrodite/Qwen/Qwen3-32B",
-        "model_name": "Qwen3-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/Qwen3-32B": {
-        "name": "koboldcpp/Qwen3-32B",
-        "model_name": "Qwen3-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/Qwen3-30B-A3B": {
-        "name": "Qwen/Qwen3-30B-A3B",
-        "model_name": "Qwen3-30B-A3B",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B",
-        "tags": [
-            "15B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-30B-A3B": {
-        "name": "aphrodite/Qwen/Qwen3-30B-A3B",
-        "model_name": "Qwen3-30B-A3B",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B",
-        "tags": [
-            "15B"
-        ]
-    },
-    "koboldcpp/Qwen3-30B-A3B": {
-        "name": "koboldcpp/Qwen3-30B-A3B",
-        "model_name": "Qwen3-30B-A3B",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B",
-        "tags": [
-            "15B"
-        ]
-    },
-    "Qwen/Qwen3-235B-A22B": {
-        "name": "Qwen/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "tags": [
-            "117B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-235B-A22B": {
-        "name": "aphrodite/Qwen/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "tags": [
-            "117B"
-        ]
-    },
-    "koboldcpp/Qwen3-235B-A22B": {
-        "name": "koboldcpp/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "tags": [
-            "117B"
         ]
     },
     "Qwen/QwQ-32B": {
@@ -16895,51 +17000,6 @@
             "70B"
         ]
     },
-    "Sao10K/L3.1-70B-Euryale-v2.2": {
-        "name": "Sao10K/L3.1-70B-Euryale-v2.2",
-        "model_name": "L3.1-70B-Euryale-v2.2",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "L3.1 70B Euryale v2.2",
-        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
-        "tags": [
-            "70B"
-        ]
-    },
-    "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2": {
-        "name": "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2",
-        "model_name": "L3.1-70B-Euryale-v2.2",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "L3.1 70B Euryale v2.2",
-        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
-        "tags": [
-            "70B"
-        ]
-    },
-    "koboldcpp/L3.1-70B-Euryale-v2.2": {
-        "name": "koboldcpp/L3.1-70B-Euryale-v2.2",
-        "model_name": "L3.1-70B-Euryale-v2.2",
-        "baseline": "",
-        "parameters": 70000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "L3.1 70B Euryale v2.2",
-        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
-        "tags": [
-            "70B"
-        ]
-    },
     "Sao10K/L3-8B-Lunaris-v1": {
         "name": "Sao10K/L3-8B-Lunaris-v1",
         "model_name": "L3-8B-Lunaris-v1",
@@ -17143,6 +17203,51 @@
             "roleplay"
         ],
         "instruct_format": "Llama 3"
+    },
+    "Sao10K/L3.1-70B-Euryale-v2.2": {
+        "name": "Sao10K/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2": {
+        "name": "aphrodite/Sao10K/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/L3.1-70B-Euryale-v2.2": {
+        "name": "koboldcpp/L3.1-70B-Euryale-v2.2",
+        "model_name": "L3.1-70B-Euryale-v2.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "L3.1 70B Euryale v2.2",
+        "url": "https://huggingface.co/Sao10K/L3.1-70B-Euryale-v2.2",
+        "tags": [
+            "70B"
+        ]
     },
     "Sao10K/L3.1-70B-Hanami-x1": {
         "name": "Sao10K/L3.1-70B-Hanami-x1",
@@ -17450,48 +17555,6 @@
         ],
         "instruct_format": "Alpaca"
     },
-    "SicariusSicariiStuff/2B-ad": {
-        "name": "SicariusSicariiStuff/2B-ad",
-        "model_name": "2B-ad",
-        "baseline": "",
-        "parameters": 3200000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "2B ad",
-        "tags": [
-            "3B"
-        ]
-    },
-    "aphrodite/SicariusSicariiStuff/2B-ad": {
-        "name": "aphrodite/SicariusSicariiStuff/2B-ad",
-        "model_name": "2B-ad",
-        "baseline": "",
-        "parameters": 3200000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "2B ad",
-        "tags": [
-            "3B"
-        ]
-    },
-    "koboldcpp/2B-ad": {
-        "name": "koboldcpp/2B-ad",
-        "model_name": "2B-ad",
-        "baseline": "",
-        "parameters": 3200000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "2B ad",
-        "tags": [
-            "3B"
-        ]
-    },
     "SicariusSicariiStuff/2B_or_not_2B": {
         "name": "SicariusSicariiStuff/2B_or_not_2B",
         "model_name": "2B_or_not_2B",
@@ -17535,6 +17598,48 @@
         "url": "https://huggingface.co/SicariusSicariiStuff/2B_or_not_2B",
         "tags": [
             "2B"
+        ]
+    },
+    "SicariusSicariiStuff/2B-ad": {
+        "name": "SicariusSicariiStuff/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/2B-ad": {
+        "name": "aphrodite/SicariusSicariiStuff/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/2B-ad": {
+        "name": "koboldcpp/2B-ad",
+        "model_name": "2B-ad",
+        "baseline": "",
+        "parameters": 3200000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "2B ad",
+        "tags": [
+            "3B"
         ]
     },
     "SicariusSicariiStuff/Dusk_Rainbow": {
@@ -17762,48 +17867,6 @@
             "8B"
         ]
     },
-    "SicariusSicariiStuff/Impish_QWEN_7B-1M": {
-        "name": "SicariusSicariiStuff/Impish_QWEN_7B-1M",
-        "model_name": "Impish_QWEN_7B-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Impish QWEN 7B 1M",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M": {
-        "name": "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M",
-        "model_name": "Impish_QWEN_7B-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Impish QWEN 7B 1M",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Impish_QWEN_7B-1M": {
-        "name": "koboldcpp/Impish_QWEN_7B-1M",
-        "model_name": "Impish_QWEN_7B-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Impish QWEN 7B 1M",
-        "tags": [
-            "7B"
-        ]
-    },
     "SicariusSicariiStuff/Impish_QWEN_14B-1M": {
         "name": "SicariusSicariiStuff/Impish_QWEN_14B-1M",
         "model_name": "Impish_QWEN_14B-1M",
@@ -17844,6 +17907,48 @@
         "display_name": "Impish QWEN 14B 1M",
         "tags": [
             "14B"
+        ]
+    },
+    "SicariusSicariiStuff/Impish_QWEN_7B-1M": {
+        "name": "SicariusSicariiStuff/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Impish_QWEN_7B-1M": {
+        "name": "koboldcpp/Impish_QWEN_7B-1M",
+        "model_name": "Impish_QWEN_7B-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish QWEN 7B 1M",
+        "tags": [
+            "7B"
         ]
     },
     "SicariusSicariiStuff/LLAMA-3_8B_Unaligned_BETA": {
@@ -18542,51 +18647,6 @@
             "70B"
         ]
     },
-    "Steelskull/ML-MS-Etheris-123B": {
-        "name": "Steelskull/ML-MS-Etheris-123B",
-        "model_name": "ML-MS-Etheris-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "ML MS Etheris 123B",
-        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
-        "tags": [
-            "123B"
-        ]
-    },
-    "aphrodite/Steelskull/ML-MS-Etheris-123B": {
-        "name": "aphrodite/Steelskull/ML-MS-Etheris-123B",
-        "model_name": "ML-MS-Etheris-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "ML MS Etheris 123B",
-        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
-        "tags": [
-            "123B"
-        ]
-    },
-    "koboldcpp/ML-MS-Etheris-123B": {
-        "name": "koboldcpp/ML-MS-Etheris-123B",
-        "model_name": "ML-MS-Etheris-123B",
-        "baseline": "",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "ML MS Etheris 123B",
-        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
-        "tags": [
-            "123B"
-        ]
-    },
     "Steelskull/G2-DA-Nyxora-27b-V2": {
         "name": "Steelskull/G2-DA-Nyxora-27b-V2",
         "model_name": "G2-DA-Nyxora-27b-V2",
@@ -18630,6 +18690,51 @@
         "url": "https://huggingface.co/Steelskull/G2-DA-Nyxora-27b-V2",
         "tags": [
             "27B"
+        ]
+    },
+    "Steelskull/ML-MS-Etheris-123B": {
+        "name": "Steelskull/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "aphrodite/Steelskull/ML-MS-Etheris-123B": {
+        "name": "aphrodite/Steelskull/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
+        ]
+    },
+    "koboldcpp/ML-MS-Etheris-123B": {
+        "name": "koboldcpp/ML-MS-Etheris-123B",
+        "model_name": "ML-MS-Etheris-123B",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "ML MS Etheris 123B",
+        "url": "https://huggingface.co/Steelskull/ML-MS-Etheris-123B",
+        "tags": [
+            "123B"
         ]
     },
     "Tap-M/Luna-AI-Llama2-Uncensored": {
@@ -19214,6 +19319,48 @@
             "7B"
         ]
     },
+    "TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "aphrodite/TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "aphrodite/TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "koboldcpp/Anubis-Pro-105B-v1": {
+        "name": "koboldcpp/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
     "TheDrummer/Behemoth-123B-v1": {
         "name": "TheDrummer/Behemoth-123B-v1",
         "model_name": "Behemoth-123B-v1",
@@ -19501,48 +19648,6 @@
             "story"
         ],
         "instruct_format": "Metharme"
-    },
-    "TheDrummer/Anubis-Pro-105B-v1": {
-        "name": "TheDrummer/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
-    },
-    "aphrodite/TheDrummer/Anubis-Pro-105B-v1": {
-        "name": "aphrodite/TheDrummer/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
-    },
-    "koboldcpp/Anubis-Pro-105B-v1": {
-        "name": "koboldcpp/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
     },
     "TheDrummer/Big-Alice-28B-v1": {
         "name": "TheDrummer/Big-Alice-28B-v1",
@@ -20645,51 +20750,6 @@
             "utility"
         ]
     },
-    "tiiuae/falcon-180B": {
-        "name": "tiiuae/falcon-180B",
-        "model_name": "falcon-180B",
-        "baseline": "",
-        "parameters": 180000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "falcon 180B",
-        "url": "https://huggingface.co/tiiuae/falcon-180B",
-        "tags": [
-            "180B"
-        ]
-    },
-    "aphrodite/tiiuae/falcon-180B": {
-        "name": "aphrodite/tiiuae/falcon-180B",
-        "model_name": "falcon-180B",
-        "baseline": "",
-        "parameters": 180000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "falcon 180B",
-        "url": "https://huggingface.co/tiiuae/falcon-180B",
-        "tags": [
-            "180B"
-        ]
-    },
-    "koboldcpp/falcon-180B": {
-        "name": "koboldcpp/falcon-180B",
-        "model_name": "falcon-180B",
-        "baseline": "",
-        "parameters": 180000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "falcon 180B",
-        "url": "https://huggingface.co/tiiuae/falcon-180B",
-        "tags": [
-            "180B"
-        ]
-    },
     "tiiuae/falcon-180B-chat": {
         "name": "tiiuae/falcon-180B-chat",
         "model_name": "falcon-180B-chat",
@@ -20735,49 +20795,49 @@
             "180B"
         ]
     },
-    "tiiuae/falcon-40b": {
-        "name": "tiiuae/falcon-40b",
-        "model_name": "falcon-40b",
+    "tiiuae/falcon-180B": {
+        "name": "tiiuae/falcon-180B",
+        "model_name": "falcon-180B",
         "baseline": "",
-        "parameters": 40000000000,
+        "parameters": 180000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 40b",
-        "url": "https://huggingface.co/tiiuae/falcon-40b",
+        "display_name": "falcon 180B",
+        "url": "https://huggingface.co/tiiuae/falcon-180B",
         "tags": [
-            "40B"
+            "180B"
         ]
     },
-    "aphrodite/tiiuae/falcon-40b": {
-        "name": "aphrodite/tiiuae/falcon-40b",
-        "model_name": "falcon-40b",
+    "aphrodite/tiiuae/falcon-180B": {
+        "name": "aphrodite/tiiuae/falcon-180B",
+        "model_name": "falcon-180B",
         "baseline": "",
-        "parameters": 40000000000,
+        "parameters": 180000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 40b",
-        "url": "https://huggingface.co/tiiuae/falcon-40b",
+        "display_name": "falcon 180B",
+        "url": "https://huggingface.co/tiiuae/falcon-180B",
         "tags": [
-            "40B"
+            "180B"
         ]
     },
-    "koboldcpp/falcon-40b": {
-        "name": "koboldcpp/falcon-40b",
-        "model_name": "falcon-40b",
+    "koboldcpp/falcon-180B": {
+        "name": "koboldcpp/falcon-180B",
+        "model_name": "falcon-180B",
         "baseline": "",
-        "parameters": 40000000000,
+        "parameters": 180000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 40b",
-        "url": "https://huggingface.co/tiiuae/falcon-40b",
+        "display_name": "falcon 180B",
+        "url": "https://huggingface.co/tiiuae/falcon-180B",
         "tags": [
-            "40B"
+            "180B"
         ]
     },
     "tiiuae/falcon-40b-instruct": {
@@ -20825,49 +20885,49 @@
             "40B"
         ]
     },
-    "tiiuae/falcon-7b": {
-        "name": "tiiuae/falcon-7b",
-        "model_name": "falcon-7b",
+    "tiiuae/falcon-40b": {
+        "name": "tiiuae/falcon-40b",
+        "model_name": "falcon-40b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 40000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 7b",
-        "url": "https://huggingface.co/tiiuae/falcon-7b",
+        "display_name": "falcon 40b",
+        "url": "https://huggingface.co/tiiuae/falcon-40b",
         "tags": [
-            "7B"
+            "40B"
         ]
     },
-    "aphrodite/tiiuae/falcon-7b": {
-        "name": "aphrodite/tiiuae/falcon-7b",
-        "model_name": "falcon-7b",
+    "aphrodite/tiiuae/falcon-40b": {
+        "name": "aphrodite/tiiuae/falcon-40b",
+        "model_name": "falcon-40b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 40000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 7b",
-        "url": "https://huggingface.co/tiiuae/falcon-7b",
+        "display_name": "falcon 40b",
+        "url": "https://huggingface.co/tiiuae/falcon-40b",
         "tags": [
-            "7B"
+            "40B"
         ]
     },
-    "koboldcpp/falcon-7b": {
-        "name": "koboldcpp/falcon-7b",
-        "model_name": "falcon-7b",
+    "koboldcpp/falcon-40b": {
+        "name": "koboldcpp/falcon-40b",
+        "model_name": "falcon-40b",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 40000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "falcon 7b",
-        "url": "https://huggingface.co/tiiuae/falcon-7b",
+        "display_name": "falcon 40b",
+        "url": "https://huggingface.co/tiiuae/falcon-40b",
         "tags": [
-            "7B"
+            "40B"
         ]
     },
     "tiiuae/falcon-7b-instruct": {
@@ -20911,6 +20971,51 @@
         "nsfw": false,
         "display_name": "falcon 7b instruct",
         "url": "https://huggingface.co/tiiuae/falcon-7b-instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "tiiuae/falcon-7b": {
+        "name": "tiiuae/falcon-7b",
+        "model_name": "falcon-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "falcon 7b",
+        "url": "https://huggingface.co/tiiuae/falcon-7b",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/tiiuae/falcon-7b": {
+        "name": "aphrodite/tiiuae/falcon-7b",
+        "model_name": "falcon-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "falcon 7b",
+        "url": "https://huggingface.co/tiiuae/falcon-7b",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/falcon-7b": {
+        "name": "koboldcpp/falcon-7b",
+        "model_name": "falcon-7b",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "falcon 7b",
+        "url": "https://huggingface.co/tiiuae/falcon-7b",
         "tags": [
             "7B"
         ]
@@ -21578,51 +21683,6 @@
             "72B"
         ]
     },
-    "Undi95/MLewd-ReMM-L2-Chat-20B": {
-        "name": "Undi95/MLewd-ReMM-L2-Chat-20B",
-        "model_name": "MLewd-ReMM-L2-Chat-20B",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "MLewd ReMM L2 Chat 20B",
-        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
-        "tags": [
-            "20B"
-        ]
-    },
-    "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B": {
-        "name": "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B",
-        "model_name": "MLewd-ReMM-L2-Chat-20B",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "MLewd ReMM L2 Chat 20B",
-        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
-        "tags": [
-            "20B"
-        ]
-    },
-    "koboldcpp/MLewd-ReMM-L2-Chat-20B": {
-        "name": "koboldcpp/MLewd-ReMM-L2-Chat-20B",
-        "model_name": "MLewd-ReMM-L2-Chat-20B",
-        "baseline": "",
-        "parameters": 20000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "MLewd ReMM L2 Chat 20B",
-        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
-        "tags": [
-            "20B"
-        ]
-    },
     "Undi95/MLewd-ReMM-L2-Chat-20B-Inverted": {
         "name": "Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
         "model_name": "MLewd-ReMM-L2-Chat-20B-Inverted",
@@ -21664,6 +21724,51 @@
         "nsfw": false,
         "display_name": "MLewd ReMM L2 Chat 20B Inverted",
         "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B-Inverted",
+        "tags": [
+            "20B"
+        ]
+    },
+    "Undi95/MLewd-ReMM-L2-Chat-20B": {
+        "name": "Undi95/MLewd-ReMM-L2-Chat-20B",
+        "model_name": "MLewd-ReMM-L2-Chat-20B",
+        "baseline": "",
+        "parameters": 20000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MLewd ReMM L2 Chat 20B",
+        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
+        "tags": [
+            "20B"
+        ]
+    },
+    "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B": {
+        "name": "aphrodite/Undi95/MLewd-ReMM-L2-Chat-20B",
+        "model_name": "MLewd-ReMM-L2-Chat-20B",
+        "baseline": "",
+        "parameters": 20000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MLewd ReMM L2 Chat 20B",
+        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
+        "tags": [
+            "20B"
+        ]
+    },
+    "koboldcpp/MLewd-ReMM-L2-Chat-20B": {
+        "name": "koboldcpp/MLewd-ReMM-L2-Chat-20B",
+        "model_name": "MLewd-ReMM-L2-Chat-20B",
+        "baseline": "",
+        "parameters": 20000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MLewd ReMM L2 Chat 20B",
+        "url": "https://huggingface.co/Undi95/MLewd-ReMM-L2-Chat-20B",
         "tags": [
             "20B"
         ]
@@ -22383,57 +22488,6 @@
         "url": "https://huggingface.co/xxx777xxxASD/L3_SnowStorm_4x8B",
         "tags": [
             "16B"
-        ]
-    },
-    "Nitral-AI/Hathor_Stable-v0.2-L3-8B": {
-        "name": "Nitral-AI/Hathor_Stable-v0.2-L3-8B",
-        "model_name": "Hathor_Stable-v0.2-L3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Hathor Stable v0.2 L3 8B",
-        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
-        "tags": [
-            "8B",
-            "Chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/Nitral-AI/Hathor_Stable-v0.2-L3-8B": {
-        "name": "aphrodite/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
-        "model_name": "Hathor_Stable-v0.2-L3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Hathor Stable v0.2 L3 8B",
-        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
-        "tags": [
-            "8B",
-            "Chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Hathor_Stable-v0.2-L3-8B": {
-        "name": "koboldcpp/Hathor_Stable-v0.2-L3-8B",
-        "model_name": "Hathor_Stable-v0.2-L3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "Praised for its diverse responses and affinity for RP. Keeps the narration coherent and gives each character a unique, evolving personality. Maintains formatting well.",
-        "version": "1",
-        "style": "Chat",
-        "nsfw": false,
-        "display_name": "Hathor Stable v0.2 L3 8B",
-        "url": "https://huggingface.co/Nitral-AI/Hathor_Stable-v0.2-L3-8B",
-        "tags": [
-            "8B",
-            "Chat",
-            "roleplay"
         ]
     }
 }
