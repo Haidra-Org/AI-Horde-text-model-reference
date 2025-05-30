@@ -7675,13 +7675,16 @@
         "model_name": "GLM-4-32B-0414-abliterated",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Same incredible power as the original GLM-4-32B-0414, but decensored with abliteration.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414 abliterated",
+        "url": "https://huggingface.co/huihui-ai/GLM-4-32B-0414-abliterated",
         "tags": [
-            "32B"
+            "32B",
+            "chat",
+            "roleplay"
         ]
     },
     "aphrodite/huihui-ai/GLM-4-32B-0414-abliterated": {
@@ -7689,13 +7692,16 @@
         "model_name": "GLM-4-32B-0414-abliterated",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Same incredible power as the original GLM-4-32B-0414, but decensored with abliteration.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414 abliterated",
+        "url": "https://huggingface.co/huihui-ai/GLM-4-32B-0414-abliterated",
         "tags": [
-            "32B"
+            "32B",
+            "chat",
+            "roleplay"
         ]
     },
     "koboldcpp/GLM-4-32B-0414-abliterated": {
@@ -7703,13 +7709,16 @@
         "model_name": "GLM-4-32B-0414-abliterated",
         "baseline": "",
         "parameters": 32000000000,
-        "description": "",
+        "description": "Same incredible power as the original GLM-4-32B-0414, but decensored with abliteration.",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "GLM 4 32B 0414 abliterated",
+        "url": "https://huggingface.co/huihui-ai/GLM-4-32B-0414-abliterated",
         "tags": [
-            "32B"
+            "32B",
+            "chat",
+            "roleplay"
         ]
     },
     "huihui-ai/Qwen2.5-Coder-14B-Instruct-abliterated": {
@@ -22489,5 +22498,59 @@
         "tags": [
             "16B"
         ]
+    },
+    "yamatazen/NeonMaid-12B-v2": {
+        "name": "yamatazen/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/yamatazen/NeonMaid-12B-v2": {
+        "name": "aphrodite/yamatazen/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/NeonMaid-12B-v2": {
+        "name": "koboldcpp/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     }
 }
