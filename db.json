@@ -16691,6 +16691,129 @@
             "unaligned"
         ]
     },
+    "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
+        "name": "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "model_name": "Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "baseline": "ReadyArt/Omega-Darker_The-Final-Directive-24B",
+        "parameters": 23600000000,
+        "description": "Sadistic Specialization and Behavioral Excellence. Recommended to use Mistral-V7-Tekken-T4 settings.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darker Gaslight The Final Forgotten Fever Dream 24B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned"
+        ]
+    },
+    "aphrodite/ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
+        "name": "aphrodite/ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "model_name": "Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "baseline": "ReadyArt/Omega-Darker_The-Final-Directive-24B",
+        "parameters": 23600000000,
+        "description": "Sadistic Specialization and Behavioral Excellence. Recommended to use Mistral-V7-Tekken-T4 settings.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darker Gaslight The Final Forgotten Fever Dream 24B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned"
+        ]
+    },
+    "koboldcpp/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
+        "name": "koboldcpp/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "model_name": "Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "baseline": "ReadyArt/Omega-Darker_The-Final-Directive-24B",
+        "parameters": 23600000000,
+        "description": "Sadistic Specialization and Behavioral Excellence. Recommended to use Mistral-V7-Tekken-T4 settings.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darker Gaslight The Final Forgotten Fever Dream 24B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned"
+        ]
+    },
+    "ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B": {
+        "name": "ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "model_name": "Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "baseline": "THUDM/GLM-4-32B-0414",
+        "parameters": 32200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darkest The Broken Tutu GLM 32B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "tags": [
+            "32B",
+            "chat",
+            "explicit",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "GLM-4"
+    },
+    "aphrodite/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B": {
+        "name": "aphrodite/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "model_name": "Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "baseline": "THUDM/GLM-4-32B-0414",
+        "parameters": 32200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darkest The Broken Tutu GLM 32B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "tags": [
+            "32B",
+            "chat",
+            "explicit",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "GLM-4"
+    },
+    "koboldcpp/Omega-Darkest_The-Broken-Tutu-GLM-32B": {
+        "name": "koboldcpp/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "model_name": "Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "baseline": "THUDM/GLM-4-32B-0414",
+        "parameters": 32200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Omega Darkest The Broken Tutu GLM 32B",
+        "url": "https://huggingface.co/ReadyArt/Omega-Darkest_The-Broken-Tutu-GLM-32B",
+        "tags": [
+            "32B",
+            "chat",
+            "explicit",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "GLM-4"
+    },
     "ReadyArt/The-Omega-Directive-M-24B-v1.1": {
         "name": "ReadyArt/The-Omega-Directive-M-24B-v1.1",
         "model_name": "The-Omega-Directive-M-24B-v1.1",
