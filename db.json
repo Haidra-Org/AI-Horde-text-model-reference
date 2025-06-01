@@ -16642,7 +16642,7 @@
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16651,6 +16651,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -16660,7 +16661,7 @@
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16669,6 +16670,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -16678,7 +16680,7 @@
         "model_name": "Broken-Tutu-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Use recommended sleepdeprived3/Mistral-V7-Tekken-T5-XML SillyTavern preset.",
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -16687,6 +16689,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -18822,6 +18825,60 @@
         "url": "https://huggingface.co/Steelskull/G2-DA-Nyxora-27b-V2",
         "tags": [
             "27B"
+        ]
+    },
+    "Steelskull/L3.3-Electra-R1-70b": {
+        "name": "Steelskull/L3.3-Electra-R1-70b",
+        "model_name": "L3.3-Electra-R1-70b",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70600000000,
+        "description": "User feedback consistently highlights its superior intelligence, coherence, and unique ability to provide deep character insights. Through proper prompting, the model demonstrates advanced reasoning capabilities and unprompted exploration of character inner thoughts and motivations. Creator recommends LeCeption-XML-V2 preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Electra R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Electra-R1-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Steelskull/L3.3-Electra-R1-70b": {
+        "name": "aphrodite/Steelskull/L3.3-Electra-R1-70b",
+        "model_name": "L3.3-Electra-R1-70b",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70600000000,
+        "description": "User feedback consistently highlights its superior intelligence, coherence, and unique ability to provide deep character insights. Through proper prompting, the model demonstrates advanced reasoning capabilities and unprompted exploration of character inner thoughts and motivations. Creator recommends LeCeption-XML-V2 preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Electra R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Electra-R1-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/L3.3-Electra-R1-70b": {
+        "name": "koboldcpp/L3.3-Electra-R1-70b",
+        "model_name": "L3.3-Electra-R1-70b",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70600000000,
+        "description": "User feedback consistently highlights its superior intelligence, coherence, and unique ability to provide deep character insights. Through proper prompting, the model demonstrates advanced reasoning capabilities and unprompted exploration of character inner thoughts and motivations. Creator recommends LeCeption-XML-V2 preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Electra R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Electra-R1-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "reasoning",
+            "roleplay"
         ]
     },
     "Steelskull/L3.3-MS-Nevoria-70b": {
