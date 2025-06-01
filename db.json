@@ -18824,6 +18824,60 @@
             "27B"
         ]
     },
+    "Steelskull/L3.3-MS-Nevoria-70b": {
+        "name": "Steelskull/L3.3-MS-Nevoria-70b",
+        "model_name": "L3.3-MS-Nevoria-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70600000000,
+        "description": "Insane creativity, exceptional character adherence and dialogue, loves to slow burn and take its time, minimal sloppy patterns and writing, and such a breath of fresh air in many ways. Fantastic for seamless role-playing and storytelling. Recommended preset: Llam@ception by Konnect1221.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 MS Nevoria 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-MS-Nevoria-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ]
+    },
+    "aphrodite/Steelskull/L3.3-MS-Nevoria-70b": {
+        "name": "aphrodite/Steelskull/L3.3-MS-Nevoria-70b",
+        "model_name": "L3.3-MS-Nevoria-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70600000000,
+        "description": "Insane creativity, exceptional character adherence and dialogue, loves to slow burn and take its time, minimal sloppy patterns and writing, and such a breath of fresh air in many ways. Fantastic for seamless role-playing and storytelling. Recommended preset: Llam@ception by Konnect1221.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 MS Nevoria 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-MS-Nevoria-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ]
+    },
+    "koboldcpp/L3.3-MS-Nevoria-70b": {
+        "name": "koboldcpp/L3.3-MS-Nevoria-70b",
+        "model_name": "L3.3-MS-Nevoria-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70600000000,
+        "description": "Insane creativity, exceptional character adherence and dialogue, loves to slow burn and take its time, minimal sloppy patterns and writing, and such a breath of fresh air in many ways. Fantastic for seamless role-playing and storytelling. Recommended preset: Llam@ception by Konnect1221.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 MS Nevoria 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-MS-Nevoria-70b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ]
+    },
     "Steelskull/ML-MS-Etheris-123B": {
         "name": "Steelskull/ML-MS-Etheris-123B",
         "model_name": "ML-MS-Etheris-123B",
