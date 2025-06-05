@@ -20252,6 +20252,108 @@
             "24B"
         ]
     },
+    "TheDrummer/Cydonia-24B-v2.1": {
+        "name": "TheDrummer/Cydonia-24B-v2.1",
+        "model_name": "Cydonia-24B-v2.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v2.1",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v2.1": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v2.1",
+        "model_name": "Cydonia-24B-v2.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v2.1",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Cydonia-24B-v2.1": {
+        "name": "koboldcpp/Cydonia-24B-v2.1",
+        "model_name": "Cydonia-24B-v2.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v2.1",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "TheDrummer/Cydonia-24B-v3": {
+        "name": "TheDrummer/Cydonia-24B-v3",
+        "model_name": "Cydonia-24B-v3",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v3": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v3",
+        "model_name": "Cydonia-24B-v3",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Cydonia-24B-v3": {
+        "name": "koboldcpp/Cydonia-24B-v3",
+        "model_name": "Cydonia-24B-v3",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Creator recommends Mistral v7 Tekken template.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "TheDrummer/Fallen-Gemma3-27B-v1": {
         "name": "TheDrummer/Fallen-Gemma3-27B-v1",
         "model_name": "Fallen-Gemma3-27B-v1",
