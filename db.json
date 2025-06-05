@@ -17426,6 +17426,57 @@
             "70B"
         ]
     },
+    "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "koboldcpp/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "Sao10K/Solstice-11B-v1": {
         "name": "Sao10K/Solstice-11B-v1",
         "model_name": "Solstice-11B-v1",
@@ -20952,6 +21003,7 @@
             "agentic",
             "coding",
             "conversational",
+            "mathematics",
             "utility"
         ]
     },
@@ -20971,6 +21023,7 @@
             "agentic",
             "coding",
             "conversational",
+            "mathematics",
             "utility"
         ]
     },
@@ -20990,6 +21043,253 @@
             "agentic",
             "coding",
             "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "THUDM/GLM-4-9B-0414": {
+        "name": "THUDM/GLM-4-9B-0414",
+        "model_name": "GLM-4-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Excellent capabilities in mathematical reasoning and general tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM 4 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "aphrodite/THUDM/GLM-4-9B-0414": {
+        "name": "aphrodite/THUDM/GLM-4-9B-0414",
+        "model_name": "GLM-4-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Excellent capabilities in mathematical reasoning and general tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM 4 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "koboldcpp/GLM-4-9B-0414": {
+        "name": "koboldcpp/GLM-4-9B-0414",
+        "model_name": "GLM-4-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Excellent capabilities in mathematical reasoning and general tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM 4 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-4-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "THUDM/GLM-Z1-32B-0414": {
+        "name": "THUDM/GLM-Z1-32B-0414",
+        "model_name": "GLM-Z1-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, was further trained on tasks involving mathematics, code, and logic. Compared to the base model, GLM-Z1-32B-0414 significantly improves mathematical abilities and the capability to solve complex tasks.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-32B-0414",
+        "tags": [
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "aphrodite/THUDM/GLM-Z1-32B-0414": {
+        "name": "aphrodite/THUDM/GLM-Z1-32B-0414",
+        "model_name": "GLM-Z1-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, was further trained on tasks involving mathematics, code, and logic. Compared to the base model, GLM-Z1-32B-0414 significantly improves mathematical abilities and the capability to solve complex tasks.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-32B-0414",
+        "tags": [
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "koboldcpp/GLM-Z1-32B-0414": {
+        "name": "koboldcpp/GLM-Z1-32B-0414",
+        "model_name": "GLM-Z1-32B-0414",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, was further trained on tasks involving mathematics, code, and logic. Compared to the base model, GLM-Z1-32B-0414 significantly improves mathematical abilities and the capability to solve complex tasks.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-32B-0414",
+        "tags": [
+            "32B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "THUDM/GLM-Z1-9B-0414": {
+        "name": "THUDM/GLM-Z1-9B-0414",
+        "model_name": "GLM-Z1-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Building on GLM-4-9B-0414, this model exhibits excellent capabilities in mathematical reasoning and general tasks and further improves on coding ability, mathematics, and solving complex tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "aphrodite/THUDM/GLM-Z1-9B-0414": {
+        "name": "aphrodite/THUDM/GLM-Z1-9B-0414",
+        "model_name": "GLM-Z1-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Building on GLM-4-9B-0414, this model exhibits excellent capabilities in mathematical reasoning and general tasks and further improves on coding ability, mathematics, and solving complex tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "koboldcpp/GLM-Z1-9B-0414": {
+        "name": "koboldcpp/GLM-Z1-9B-0414",
+        "model_name": "GLM-Z1-9B-0414",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "Building on GLM-4-9B-0414, this model exhibits excellent capabilities in mathematical reasoning and general tasks and further improves on coding ability, mathematics, and solving complex tasks. Its overall performance is top-ranked among all open-source models of the same size.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 9B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-9B-0414",
+        "tags": [
+            "9B",
+            "coding",
+            "conversational",
+            "mathematics",
+            "reasoning",
+            "utility"
+        ]
+    },
+    "THUDM/GLM-Z1-Rumination-32B-0414": {
+        "name": "THUDM/GLM-Z1-Rumination-32B-0414",
+        "model_name": "GLM-Z1-Rumination-32B-0414",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, GLM-Z1-Rumination-32B-0414 is a deep reasoning model with rumination capabilities (similar to OpenAI's Deep Research). Unlike typical deep thinking models, the rumination model employs longer periods of deep thought to solve more open-ended and complex problems. The rumination model integrates search tools during its deep thinking process to handle complex tasks. Z1-Rumination shows significant improvements in research-style writing and complex retrieval tasks. (Some capabilities may not be available on the AI Horde).",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 Rumination 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-Rumination-32B-0414",
+        "tags": [
+            "33B",
+            "agentic",
+            "coding",
+            "conversational",
+            "deep-reasoning",
+            "mathematics",
+            "search",
+            "utility"
+        ]
+    },
+    "aphrodite/THUDM/GLM-Z1-Rumination-32B-0414": {
+        "name": "aphrodite/THUDM/GLM-Z1-Rumination-32B-0414",
+        "model_name": "GLM-Z1-Rumination-32B-0414",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, GLM-Z1-Rumination-32B-0414 is a deep reasoning model with rumination capabilities (similar to OpenAI's Deep Research). Unlike typical deep thinking models, the rumination model employs longer periods of deep thought to solve more open-ended and complex problems. The rumination model integrates search tools during its deep thinking process to handle complex tasks. Z1-Rumination shows significant improvements in research-style writing and complex retrieval tasks. (Some capabilities may not be available on the AI Horde).",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 Rumination 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-Rumination-32B-0414",
+        "tags": [
+            "33B",
+            "agentic",
+            "coding",
+            "conversational",
+            "deep-reasoning",
+            "mathematics",
+            "search",
+            "utility"
+        ]
+    },
+    "koboldcpp/GLM-Z1-Rumination-32B-0414": {
+        "name": "koboldcpp/GLM-Z1-Rumination-32B-0414",
+        "model_name": "GLM-Z1-Rumination-32B-0414",
+        "baseline": "",
+        "parameters": 33000000000,
+        "description": "Based on GLM-4-32B-0414, which is comparable in performance to OpenAI GPT series and DeepSeek V3/R1 series, GLM-Z1-Rumination-32B-0414 is a deep reasoning model with rumination capabilities (similar to OpenAI's Deep Research). Unlike typical deep thinking models, the rumination model employs longer periods of deep thought to solve more open-ended and complex problems. The rumination model integrates search tools during its deep thinking process to handle complex tasks. Z1-Rumination shows significant improvements in research-style writing and complex retrieval tasks. (Some capabilities may not be available on the AI Horde).",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "GLM Z1 Rumination 32B 0414",
+        "url": "https://huggingface.co/THUDM/GLM-Z1-Rumination-32B-0414",
+        "tags": [
+            "33B",
+            "agentic",
+            "coding",
+            "conversational",
+            "deep-reasoning",
+            "mathematics",
+            "search",
             "utility"
         ]
     },
