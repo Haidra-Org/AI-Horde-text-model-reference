@@ -18986,6 +18986,60 @@
             "storytelling"
         ]
     },
+    "Steelskull/L3.3-Nevoria-R1-70b": {
+        "name": "Steelskull/L3.3-Nevoria-R1-70b",
+        "model_name": "L3.3-Nevoria-R1-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70000000000,
+        "description": "This model builds upon the original Nevoria foundation, incorporating the Deepseek-R1 reasoning architecture to enhance dialogue interaction and scene comprehension. While maintaining Nevoria's core strengths in storytelling and scene description, this iteration aims to improve prompt adherence and creative reasoning capabilities. Creator reccommends LLam@ception preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Nevoria R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b",
+        "tags": [
+            "70B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Steelskull/L3.3-Nevoria-R1-70b": {
+        "name": "aphrodite/Steelskull/L3.3-Nevoria-R1-70b",
+        "model_name": "L3.3-Nevoria-R1-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70000000000,
+        "description": "This model builds upon the original Nevoria foundation, incorporating the Deepseek-R1 reasoning architecture to enhance dialogue interaction and scene comprehension. While maintaining Nevoria's core strengths in storytelling and scene description, this iteration aims to improve prompt adherence and creative reasoning capabilities. Creator reccommends LLam@ception preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Nevoria R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b",
+        "tags": [
+            "70B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/L3.3-Nevoria-R1-70b": {
+        "name": "koboldcpp/L3.3-Nevoria-R1-70b",
+        "model_name": "L3.3-Nevoria-R1-70b",
+        "baseline": "nbeerbower/Llama-3.1-Nemotron-lorablated-70B",
+        "parameters": 70000000000,
+        "description": "This model builds upon the original Nevoria foundation, incorporating the Deepseek-R1 reasoning architecture to enhance dialogue interaction and scene comprehension. While maintaining Nevoria's core strengths in storytelling and scene description, this iteration aims to improve prompt adherence and creative reasoning capabilities. Creator reccommends LLam@ception preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3.3 Nevoria R1 70b",
+        "url": "https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b",
+        "tags": [
+            "70B",
+            "chat",
+            "reasoning",
+            "roleplay"
+        ]
+    },
     "Steelskull/ML-MS-Etheris-123B": {
         "name": "Steelskull/ML-MS-Etheris-123B",
         "model_name": "ML-MS-Etheris-123B",
