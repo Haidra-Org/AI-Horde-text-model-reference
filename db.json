@@ -19667,6 +19667,60 @@
             "7B"
         ]
     },
+    "TheDrummer/Agatha-111B-v1": {
+        "name": "TheDrummer/Agatha-111B-v1",
+        "model_name": "Agatha-111B-v1",
+        "baseline": "CohereLabs/c4ai-command-a-03-2025",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Agatha 111B v1",
+        "url": "https://huggingface.co/TheDrummer/Agatha-111B-v1",
+        "tags": [
+            "111B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "CommandR"
+    },
+    "aphrodite/TheDrummer/Agatha-111B-v1": {
+        "name": "aphrodite/TheDrummer/Agatha-111B-v1",
+        "model_name": "Agatha-111B-v1",
+        "baseline": "CohereLabs/c4ai-command-a-03-2025",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Agatha 111B v1",
+        "url": "https://huggingface.co/TheDrummer/Agatha-111B-v1",
+        "tags": [
+            "111B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "CommandR"
+    },
+    "koboldcpp/Agatha-111B-v1": {
+        "name": "koboldcpp/Agatha-111B-v1",
+        "model_name": "Agatha-111B-v1",
+        "baseline": "CohereLabs/c4ai-command-a-03-2025",
+        "parameters": 111000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Agatha 111B v1",
+        "url": "https://huggingface.co/TheDrummer/Agatha-111B-v1",
+        "tags": [
+            "111B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "CommandR"
+    },
     "TheDrummer/Anubis-Pro-105B-v1": {
         "name": "TheDrummer/Anubis-Pro-105B-v1",
         "model_name": "Anubis-Pro-105B-v1",
