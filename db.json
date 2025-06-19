@@ -20906,6 +20906,69 @@
             "12B"
         ]
     },
+    "TheDrummer/Skyfall-36B-v2": {
+        "name": "TheDrummer/Skyfall-36B-v2",
+        "model_name": "Skyfall-36B-v2",
+        "baseline": "",
+        "parameters": 36900000000,
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 36B v2",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-36B-v2",
+        "tags": [
+            "37B",
+            "agentic",
+            "chat",
+            "mathematics",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 & V3-Tekken"
+    },
+    "aphrodite/TheDrummer/Skyfall-36B-v2": {
+        "name": "aphrodite/TheDrummer/Skyfall-36B-v2",
+        "model_name": "Skyfall-36B-v2",
+        "baseline": "",
+        "parameters": 36900000000,
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 36B v2",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-36B-v2",
+        "tags": [
+            "37B",
+            "agentic",
+            "chat",
+            "mathematics",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 & V3-Tekken"
+    },
+    "koboldcpp/Skyfall-36B-v2": {
+        "name": "koboldcpp/Skyfall-36B-v2",
+        "model_name": "Skyfall-36B-v2",
+        "baseline": "",
+        "parameters": 36900000000,
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 36B v2",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-36B-v2",
+        "tags": [
+            "37B",
+            "agentic",
+            "chat",
+            "mathematics",
+            "reasoning",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 & V3-Tekken"
+    },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
         "model_name": "Smegmma-9B-v1",
