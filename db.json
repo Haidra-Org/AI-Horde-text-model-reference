@@ -21103,7 +21103,7 @@
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21112,16 +21112,18 @@
         "tags": [
             "49B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Llama 3 Chat"
     },
     "aphrodite/TheDrummer/Valkyrie-49B-v1": {
         "name": "aphrodite/TheDrummer/Valkyrie-49B-v1",
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21130,16 +21132,18 @@
         "tags": [
             "49B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Llama 3 Chat"
     },
     "koboldcpp/Valkyrie-49B-v1": {
         "name": "koboldcpp/Valkyrie-49B-v1",
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 40B-70B models and can even compare to 100B+ models when used with reasoning.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21148,9 +21152,11 @@
         "tags": [
             "49B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Llama 3 Chat"
     },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
