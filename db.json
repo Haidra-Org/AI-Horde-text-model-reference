@@ -18008,6 +18008,48 @@
         ],
         "instruct_format": "Llama 3"
     },
+    "SicariusSicariiStuff/Impish_Magic_24B": {
+        "name": "SicariusSicariiStuff/Impish_Magic_24B",
+        "model_name": "Impish_Magic_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Magic 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_Magic_24B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_Magic_24B",
+        "model_name": "Impish_Magic_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Magic 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Impish_Magic_24B": {
+        "name": "koboldcpp/Impish_Magic_24B",
+        "model_name": "Impish_Magic_24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Magic 24B",
+        "tags": [
+            "24B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_Mind_8B": {
         "name": "SicariusSicariiStuff/Impish_Mind_8B",
         "model_name": "Impish_Mind_8B",
