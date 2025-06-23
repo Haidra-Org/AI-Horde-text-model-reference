@@ -423,6 +423,8 @@ Steelskull/L3.3-MS-Nevoria-70b,70.6,,https://huggingface.co/Steelskull/L3.3-MS-N
 Steelskull/L3.3-Nevoria-R1-70b,70,,https://huggingface.co/Steelskull/L3.3-Nevoria-R1-70b,nbeerbower/Llama-3.1-Nemotron-lorablated-70B,"This model builds upon the original Nevoria foundation, incorporating the Deepseek-R1 reasoning architecture to enhance dialogue interaction and scene comprehension. While maintaining Nevoria's core strengths in storytelling and scene description, this iteration aims to improve prompt adherence and creative reasoning capabilities. Creator reccommends LLam@ception preset.",chat,"roleplay, reasoning",,
 Steelskull/ML-MS-Etheris-123B,123,,https://huggingface.co/Steelskull/ML-MS-Etheris-123B,,,,,,
 Tap-M/Luna-AI-Llama2-Uncensored,7,,https://huggingface.co/Tap-M/Luna-AI-Llama2-Uncensored,,,,,,
+Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B,70,,https://huggingface.co/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B,,,,,,
+Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B,70,,https://huggingface.co/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B,,,,,,
 TeeZee/DarkForest-20B-v2.0,20,,https://huggingface.co/TeeZee/DarkForest-20B-v2.0,,,,,,
 TeeZee/DarkForest-20B-v3.0,20,,https://huggingface.co/TeeZee/DarkForest-20B-v3.0,,,,,,
 TeeZee/NEBULA-23.8B-v1.0,23.8,,https://huggingface.co/TeeZee/NEBULA-23.8B-v1.0,,,,,,
