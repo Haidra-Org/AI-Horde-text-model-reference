@@ -19172,6 +19172,96 @@
             "7B"
         ]
     },
+    "Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B": {
+        "name": "Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.2 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B": {
+        "name": "aphrodite/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.2 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Dungeonmaster-V2.2-Expanded-LLaMa-70B": {
+        "name": "koboldcpp/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.2 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.2-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B": {
+        "name": "Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.4 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "aphrodite/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B": {
+        "name": "aphrodite/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.4 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
+    "koboldcpp/Dungeonmaster-V2.4-Expanded-LLaMa-70B": {
+        "name": "koboldcpp/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "model_name": "Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dungeonmaster V2.4 Expanded LLaMa 70B",
+        "url": "https://huggingface.co/Tarek07/Dungeonmaster-V2.4-Expanded-LLaMa-70B",
+        "tags": [
+            "70B"
+        ]
+    },
     "TeeZee/DarkForest-20B-v2.0": {
         "name": "TeeZee/DarkForest-20B-v2.0",
         "model_name": "DarkForest-20B-v2.0",
