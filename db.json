@@ -16694,6 +16694,129 @@
             "unaligned"
         ]
     },
+    "ReadyArt/Broken-Tutu-24B-Transgression-v2.0": {
+        "name": "ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
+        "model_name": "Broken-Tutu-24B-Transgression-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with enhanced coherence and reduced explicit content while maintaining character authenticity. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Transgression v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
+    "aphrodite/ReadyArt/Broken-Tutu-24B-Transgression-v2.0": {
+        "name": "aphrodite/ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
+        "model_name": "Broken-Tutu-24B-Transgression-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with enhanced coherence and reduced explicit content while maintaining character authenticity. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Transgression v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
+    "koboldcpp/Broken-Tutu-24B-Transgression-v2.0": {
+        "name": "koboldcpp/Broken-Tutu-24B-Transgression-v2.0",
+        "model_name": "Broken-Tutu-24B-Transgression-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with enhanced coherence and reduced explicit content while maintaining character authenticity. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Transgression v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
+    "ReadyArt/Broken-Tutu-24B-Unslop-v2.0": {
+        "name": "ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
+        "model_name": "Broken-Tutu-24B-Unslop-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with unprecedented coherence and a zero-slop dataset. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Unslop v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "aphrodite/ReadyArt/Broken-Tutu-24B-Unslop-v2.0": {
+        "name": "aphrodite/ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
+        "model_name": "Broken-Tutu-24B-Unslop-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with unprecedented coherence and a zero-slop dataset. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Unslop v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "koboldcpp/Broken-Tutu-24B-Unslop-v2.0": {
+        "name": "koboldcpp/Broken-Tutu-24B-Unslop-v2.0",
+        "model_name": "Broken-Tutu-24B-Unslop-v2.0",
+        "baseline": "mistralai/Mistral-Small-24B-Base-2501",
+        "parameters": 24000000000,
+        "description": "An updated version of the RP powerhouse, Broken-Tutu, now with unprecedented coherence and a zero-slop dataset. Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B Unslop v2.0",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B-Unslop-v2.0",
+        "tags": [
+            "24B",
+            "ERP",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
     "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
         "name": "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
         "model_name": "Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
