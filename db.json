@@ -384,7 +384,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-12b",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -407,7 +406,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-12b",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -430,7 +428,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v2-12b",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -498,7 +495,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-27b-kto",
         "tags": [
             "27B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -517,7 +513,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-27b-kto",
         "tags": [
             "27B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -536,7 +531,6 @@
         "url": "https://huggingface.co/anthracite-org/magnum-v3-27b-kto",
         "tags": [
             "27B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -2092,6 +2086,7 @@
         "tags": [
             "13B",
             "Chat",
+            "popular",
             "roleplay",
             "storytelling"
         ],
@@ -2111,6 +2106,7 @@
         "tags": [
             "13B",
             "Chat",
+            "popular",
             "roleplay",
             "storytelling"
         ],
@@ -2130,6 +2126,7 @@
         "tags": [
             "13B",
             "Chat",
+            "popular",
             "roleplay",
             "storytelling"
         ],
@@ -5508,7 +5505,12 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 0.75,
+            "min_p": 0.1
+        }
     },
     "aphrodite/elinas/chronos-70b-v2": {
         "name": "aphrodite/elinas/chronos-70b-v2",
@@ -5523,7 +5525,12 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 0.75,
+            "min_p": 0.1
+        }
     },
     "koboldcpp/chronos-70b-v2": {
         "name": "koboldcpp/chronos-70b-v2",
@@ -5538,7 +5545,12 @@
         "url": "https://huggingface.co/elinas/chronos-70b-v2",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "ChatML",
+        "settings": {
+            "temperature": 0.75,
+            "min_p": 0.1
+        }
     },
     "elinas/Chronos-Gold-12B-1.0": {
         "name": "elinas/Chronos-Gold-12B-1.0",
@@ -5553,15 +5565,9 @@
         "url": "https://huggingface.co/elinas/Chronos-Gold-12B-1.0",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML",
-        "settings": {
-            "temperature": 0.75,
-            "min_p": 0.1
-        }
+        ]
     },
     "aphrodite/elinas/Chronos-Gold-12B-1.0": {
         "name": "aphrodite/elinas/Chronos-Gold-12B-1.0",
@@ -5576,15 +5582,9 @@
         "url": "https://huggingface.co/elinas/Chronos-Gold-12B-1.0",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML",
-        "settings": {
-            "temperature": 0.75,
-            "min_p": 0.1
-        }
+        ]
     },
     "koboldcpp/Chronos-Gold-12B-1.0": {
         "name": "koboldcpp/Chronos-Gold-12B-1.0",
@@ -5599,15 +5599,9 @@
         "url": "https://huggingface.co/elinas/Chronos-Gold-12B-1.0",
         "tags": [
             "12B",
-            "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "ChatML",
-        "settings": {
-            "temperature": 0.75,
-            "min_p": 0.1
-        }
+        ]
     },
     "elinas/chronos-mistral-7b": {
         "name": "elinas/chronos-mistral-7b",
@@ -6651,7 +6645,6 @@
         "url": "https://huggingface.co/froggeric/WestLake-10.7B-v2",
         "tags": [
             "11B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -6669,7 +6662,6 @@
         "url": "https://huggingface.co/froggeric/WestLake-10.7B-v2",
         "tags": [
             "11B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -6687,7 +6679,6 @@
         "url": "https://huggingface.co/froggeric/WestLake-10.7B-v2",
         "tags": [
             "11B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -6789,8 +6780,7 @@
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
             "27B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Gemma"
     },
@@ -6807,8 +6797,7 @@
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
             "27B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Gemma"
     },
@@ -6825,8 +6814,7 @@
         "url": "https://huggingface.co/google/gemma-2-27b-it",
         "tags": [
             "27B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Gemma"
     },
@@ -6925,7 +6913,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "aphrodite/google/gemma-3-4b-it": {
@@ -6939,7 +6928,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "koboldcpp/gemma-3-4b-it": {
@@ -6953,7 +6943,8 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B"
+            "4B",
+            "popular"
         ]
     },
     "gpt2-large": {
@@ -7864,7 +7855,8 @@
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "aphrodite/inflatebot/MN-12B-Mag-Mell-R1": {
@@ -7878,7 +7870,8 @@
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "koboldcpp/MN-12B-Mag-Mell-R1": {
@@ -7892,7 +7885,8 @@
         "nsfw": false,
         "display_name": "MN 12B Mag Mell R1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "intervitens/mini-magnum-12b-v1.1": {
@@ -7907,7 +7901,8 @@
         "display_name": "mini magnum 12b v1.1",
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "aphrodite/intervitens/mini-magnum-12b-v1.1": {
@@ -7922,7 +7917,8 @@
         "display_name": "mini magnum 12b v1.1",
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "koboldcpp/mini-magnum-12b-v1.1": {
@@ -7937,7 +7933,8 @@
         "display_name": "mini magnum 12b v1.1",
         "url": "https://huggingface.co/intervitens/mini-magnum-12b-v1.1",
         "tags": [
-            "12B"
+            "12B",
+            "popular"
         ]
     },
     "jebcarter/psyonic-cetacean-20B": {
@@ -7953,7 +7950,6 @@
         "url": "https://huggingface.co/jebcarter/psyonic-cetacean-20B",
         "tags": [
             "20B",
-            "popular",
             "story"
         ],
         "instruct_format": "Alpaca"
@@ -7971,7 +7967,6 @@
         "url": "https://huggingface.co/jebcarter/psyonic-cetacean-20B",
         "tags": [
             "20B",
-            "popular",
             "story"
         ],
         "instruct_format": "Alpaca"
@@ -7989,7 +7984,6 @@
         "url": "https://huggingface.co/jebcarter/psyonic-cetacean-20B",
         "tags": [
             "20B",
-            "popular",
             "story"
         ],
         "instruct_format": "Alpaca"
@@ -8544,7 +8538,6 @@
         "url": "https://huggingface.co/KatyTheCutie/EstopianMaid-13B",
         "tags": [
             "13B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -8563,7 +8556,6 @@
         "url": "https://huggingface.co/KatyTheCutie/EstopianMaid-13B",
         "tags": [
             "13B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -8582,7 +8574,6 @@
         "url": "https://huggingface.co/KatyTheCutie/EstopianMaid-13B",
         "tags": [
             "13B",
-            "popular",
             "roleplay",
             "story"
         ],
@@ -10239,8 +10230,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "aphrodite/KoboldAI/LLaMA2-13B-Tiefighter": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-Tiefighter",
@@ -10258,8 +10248,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "koboldcpp/LLaMA2-13B-Tiefighter": {
         "name": "koboldcpp/LLaMA2-13B-Tiefighter",
@@ -10277,8 +10266,7 @@
             "popular",
             "roleplay",
             "story"
-        ],
-        "instruct_format": "Alpaca"
+        ]
     },
     "KoboldAI/LLaMA2-13B-TiefighterLR": {
         "name": "KoboldAI/LLaMA2-13B-TiefighterLR",
@@ -10293,7 +10281,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR": {
         "name": "aphrodite/KoboldAI/LLaMA2-13B-TiefighterLR",
@@ -10308,7 +10297,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "koboldcpp/LLaMA2-13B-TiefighterLR": {
         "name": "koboldcpp/LLaMA2-13B-TiefighterLR",
@@ -10323,7 +10313,8 @@
         "url": "https://huggingface.co/KoboldAI/LLaMA2-13B-TiefighterLR",
         "tags": [
             "13B"
-        ]
+        ],
+        "instruct_format": "Alpaca"
     },
     "KoboldAI/LLaMA2-13B-TieWriter": {
         "name": "KoboldAI/LLaMA2-13B-TieWriter",
@@ -12300,7 +12291,8 @@
             "Chat",
             "assistant",
             "censored",
-            "multilingual"
+            "multilingual",
+            "popular"
         ]
     },
     "aphrodite/meta-llama/Meta-Llama-3.1-8B-Instruct": {
@@ -12319,7 +12311,8 @@
             "Chat",
             "assistant",
             "censored",
-            "multilingual"
+            "multilingual",
+            "popular"
         ]
     },
     "koboldcpp/Meta-Llama-3.1-8B-Instruct": {
@@ -12338,7 +12331,8 @@
             "Chat",
             "assistant",
             "censored",
-            "multilingual"
+            "multilingual",
+            "popular"
         ]
     },
     "microsoft/WizardLM-2-70B": {
@@ -12843,8 +12837,7 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
             "28B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Mistral"
     },
@@ -12861,8 +12854,7 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
             "28B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Mistral"
     },
@@ -12879,8 +12871,7 @@
         "url": "https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1",
         "tags": [
             "28B",
-            "generalist",
-            "popular"
+            "generalist"
         ],
         "instruct_format": "Mistral"
     },
@@ -12942,7 +12933,6 @@
         "url": "https://huggingface.co/mlabonne/NeuralDaredevil-8B-abliterated",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3"
@@ -12960,7 +12950,6 @@
         "url": "https://huggingface.co/mlabonne/NeuralDaredevil-8B-abliterated",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3"
@@ -12978,7 +12967,6 @@
         "url": "https://huggingface.co/mlabonne/NeuralDaredevil-8B-abliterated",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3"
@@ -13401,7 +13389,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -13416,7 +13405,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS": {
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1-OAS",
@@ -13431,7 +13421,8 @@
         "url": "https://huggingface.co/NeverSleep/Llama-3-Lumimaid-8B-v0.1-OAS",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
         "name": "NeverSleep/Llama-3-Lumimaid-8B-v0.1",
@@ -13448,8 +13439,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1": {
         "name": "aphrodite/NeverSleep/Llama-3-Lumimaid-8B-v0.1",
@@ -13466,8 +13456,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/Llama-3-Lumimaid-8B-v0.1": {
         "name": "koboldcpp/Llama-3-Lumimaid-8B-v0.1",
@@ -13484,8 +13473,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "NeverSleep/Lumimaid-v0.2-123B": {
         "name": "NeverSleep/Lumimaid-v0.2-123B",
@@ -13545,8 +13533,7 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-12B",
         "tags": [
             "12B",
-            "chat",
-            "popular"
+            "chat"
         ],
         "instruct_format": "Mistral",
         "settings": {
@@ -13567,8 +13554,7 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-12B",
         "tags": [
             "12B",
-            "chat",
-            "popular"
+            "chat"
         ],
         "instruct_format": "Mistral",
         "settings": {
@@ -13589,8 +13575,7 @@
         "url": "https://huggingface.co/NeverSleep/Lumimaid-v0.2-12B",
         "tags": [
             "12B",
-            "chat",
-            "popular"
+            "chat"
         ],
         "instruct_format": "Mistral",
         "settings": {
@@ -13971,7 +13956,6 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "tags": [
             "28B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML",
@@ -13994,7 +13978,6 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "tags": [
             "28B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML",
@@ -14017,7 +14000,6 @@
         "url": "https://huggingface.co/NeverSleep/Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss",
         "tags": [
             "28B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML",
@@ -14190,7 +14172,6 @@
         "url": "https://huggingface.co/nothingiisreal/Celeste-12B-V1.6",
         "tags": [
             "12B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca",
@@ -14212,7 +14193,6 @@
         "url": "https://huggingface.co/nothingiisreal/Celeste-12B-V1.6",
         "tags": [
             "12B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca",
@@ -14234,7 +14214,6 @@
         "url": "https://huggingface.co/nothingiisreal/Celeste-12B-V1.6",
         "tags": [
             "12B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca",
@@ -16438,7 +16417,8 @@
         "nsfw": false,
         "display_name": "Qwen3 30B A3B",
         "tags": [
-            "15B"
+            "15B",
+            "popular"
         ]
     },
     "aphrodite/Qwen/Qwen3-30B-A3B": {
@@ -16452,7 +16432,8 @@
         "nsfw": false,
         "display_name": "Qwen3 30B A3B",
         "tags": [
-            "15B"
+            "15B",
+            "popular"
         ]
     },
     "koboldcpp/Qwen3-30B-A3B": {
@@ -16466,7 +16447,8 @@
         "nsfw": false,
         "display_name": "Qwen3 30B A3B",
         "tags": [
-            "15B"
+            "15B",
+            "popular"
         ]
     },
     "Qwen/Qwen3-32B": {
@@ -16637,63 +16619,6 @@
             "32B"
         ]
     },
-    "ReadyArt/Broken-Tutu-24B": {
-        "name": "ReadyArt/Broken-Tutu-24B",
-        "model_name": "Broken-Tutu-24B",
-        "baseline": "",
-        "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Broken Tutu 24B",
-        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
-        "tags": [
-            "24B",
-            "chat",
-            "popular",
-            "roleplay",
-            "unaligned"
-        ]
-    },
-    "aphrodite/ReadyArt/Broken-Tutu-24B": {
-        "name": "aphrodite/ReadyArt/Broken-Tutu-24B",
-        "model_name": "Broken-Tutu-24B",
-        "baseline": "",
-        "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Broken Tutu 24B",
-        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
-        "tags": [
-            "24B",
-            "chat",
-            "popular",
-            "roleplay",
-            "unaligned"
-        ]
-    },
-    "koboldcpp/Broken-Tutu-24B": {
-        "name": "koboldcpp/Broken-Tutu-24B",
-        "model_name": "Broken-Tutu-24B",
-        "baseline": "",
-        "parameters": 24000000000,
-        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Broken Tutu 24B",
-        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
-        "tags": [
-            "24B",
-            "chat",
-            "popular",
-            "roleplay",
-            "unaligned"
-        ]
-    },
     "ReadyArt/Broken-Tutu-24B-Transgression-v2.0": {
         "name": "ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
         "model_name": "Broken-Tutu-24B-Transgression-v2.0",
@@ -16768,6 +16693,7 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned",
             "violence"
@@ -16790,6 +16716,7 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned",
             "violence"
@@ -16812,9 +16739,67 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned",
             "violence"
+        ]
+    },
+    "ReadyArt/Broken-Tutu-24B": {
+        "name": "ReadyArt/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay",
+            "unaligned"
+        ]
+    },
+    "aphrodite/ReadyArt/Broken-Tutu-24B": {
+        "name": "aphrodite/ReadyArt/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay",
+            "unaligned"
+        ]
+    },
+    "koboldcpp/Broken-Tutu-24B": {
+        "name": "koboldcpp/Broken-Tutu-24B",
+        "model_name": "Broken-Tutu-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "A do-it-all RP powerhouse with a lively, initiative-driven voice and rock-solid adherence to even the most complex character cards. Go-to daily-driver for slice-of-life, fantasy, adventure, ERP, and and gritty horror - effortlessly churning out detailed adventure scenes and intimate dialogues alike. Fully unaligned and uncensored, it delivers extreme NSFW/NSFL performance when appropriate and tracks up to 7 characters, time, and location. Beware: without careful temperature tweaks it can loop or get overly hostile, and mild repetition may creep in extremely-long sessions. Creator recommends sleepdeprived3/Mistral-V7-Tekken-T5-XML preset.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Broken Tutu 24B",
+        "url": "https://huggingface.co/ReadyArt/Broken-Tutu-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay",
+            "unaligned"
         ]
     },
     "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
@@ -16834,6 +16819,7 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -16855,6 +16841,7 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -16876,6 +16863,7 @@
             "chat",
             "explicit",
             "horror",
+            "popular",
             "roleplay",
             "unaligned"
         ]
@@ -17324,7 +17312,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/Sao10K/L3-8B-Stheno-v3.1": {
         "name": "aphrodite/Sao10K/L3-8B-Stheno-v3.1",
@@ -17338,7 +17327,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3-8B-Stheno-v3.1": {
         "name": "koboldcpp/L3-8B-Stheno-v3.1",
@@ -17352,7 +17342,8 @@
         "display_name": "L3 8B Stheno v3.1",
         "tags": [
             "8B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Sao10K/L3-8B-Stheno-v3.2": {
         "name": "Sao10K/L3-8B-Stheno-v3.2",
@@ -17369,8 +17360,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/Sao10K/L3-8B-Stheno-v3.2": {
         "name": "aphrodite/Sao10K/L3-8B-Stheno-v3.2",
@@ -17387,8 +17377,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/L3-8B-Stheno-v3.2": {
         "name": "koboldcpp/L3-8B-Stheno-v3.2",
@@ -17405,8 +17394,7 @@
             "8B",
             "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "Sao10K/L3-8B-Stheno-v3.3-32K": {
         "name": "Sao10K/L3-8B-Stheno-v3.3-32K",
@@ -17421,10 +17409,8 @@
         "url": "https://huggingface.co/Sao10K/L3-8B-Stheno-v3.3-32K",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "aphrodite/Sao10K/L3-8B-Stheno-v3.3-32K": {
         "name": "aphrodite/Sao10K/L3-8B-Stheno-v3.3-32K",
@@ -17439,10 +17425,8 @@
         "url": "https://huggingface.co/Sao10K/L3-8B-Stheno-v3.3-32K",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "koboldcpp/L3-8B-Stheno-v3.3-32K": {
         "name": "koboldcpp/L3-8B-Stheno-v3.3-32K",
@@ -17457,10 +17441,8 @@
         "url": "https://huggingface.co/Sao10K/L3-8B-Stheno-v3.3-32K",
         "tags": [
             "8B",
-            "popular",
             "roleplay"
-        ],
-        "instruct_format": "Llama 3"
+        ]
     },
     "Sao10K/L3.1-70B-Euryale-v2.2": {
         "name": "Sao10K/L3.1-70B-Euryale-v2.2",
@@ -17519,7 +17501,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "aphrodite/Sao10K/L3.1-70B-Hanami-x1": {
         "name": "aphrodite/Sao10K/L3.1-70B-Hanami-x1",
@@ -17533,7 +17516,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "koboldcpp/L3.1-70B-Hanami-x1": {
         "name": "koboldcpp/L3.1-70B-Hanami-x1",
@@ -17547,7 +17531,8 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ]
+        ],
+        "instruct_format": "Llama 3"
     },
     "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
         "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
@@ -17823,7 +17808,6 @@
         "url": "https://huggingface.co/senseable/WestLake-7B-v2",
         "tags": [
             "7B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -17841,7 +17825,6 @@
         "url": "https://huggingface.co/senseable/WestLake-7B-v2",
         "tags": [
             "7B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -17859,7 +17842,6 @@
         "url": "https://huggingface.co/senseable/WestLake-7B-v2",
         "tags": [
             "7B",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Alpaca"
@@ -18142,7 +18124,8 @@
         "nsfw": false,
         "display_name": "Impish Magic 24B",
         "tags": [
-            "24B"
+            "24B",
+            "popular"
         ]
     },
     "aphrodite/SicariusSicariiStuff/Impish_Magic_24B": {
@@ -18156,7 +18139,8 @@
         "nsfw": false,
         "display_name": "Impish Magic 24B",
         "tags": [
-            "24B"
+            "24B",
+            "popular"
         ]
     },
     "koboldcpp/Impish_Magic_24B": {
@@ -18170,7 +18154,8 @@
         "nsfw": false,
         "display_name": "Impish Magic 24B",
         "tags": [
-            "24B"
+            "24B",
+            "popular"
         ]
     },
     "SicariusSicariiStuff/Impish_Mind_8B": {
@@ -19057,6 +19042,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
         ]
@@ -19075,6 +19061,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
         ]
@@ -19093,6 +19080,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "reasoning",
             "roleplay"
         ]
@@ -19111,6 +19099,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "roleplay",
             "storytelling"
         ]
@@ -19129,6 +19118,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "roleplay",
             "storytelling"
         ]
@@ -19147,6 +19137,7 @@
         "tags": [
             "71B",
             "chat",
+            "popular",
             "roleplay",
             "storytelling"
         ]
@@ -20630,7 +20621,8 @@
             "24B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "aphrodite/TheDrummer/Cydonia-24B-v2.1": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v2.1",
@@ -20647,7 +20639,8 @@
             "24B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "koboldcpp/Cydonia-24B-v2.1": {
         "name": "koboldcpp/Cydonia-24B-v2.1",
@@ -20664,7 +20657,8 @@
             "24B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "TheDrummer/Cydonia-24B-v3": {
         "name": "TheDrummer/Cydonia-24B-v3",
@@ -20680,8 +20674,10 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "aphrodite/TheDrummer/Cydonia-24B-v3": {
         "name": "aphrodite/TheDrummer/Cydonia-24B-v3",
@@ -20697,8 +20693,10 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "koboldcpp/Cydonia-24B-v3": {
         "name": "koboldcpp/Cydonia-24B-v3",
@@ -20714,8 +20712,10 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "TheDrummer/Fallen-Gemma3-27B-v1": {
         "name": "TheDrummer/Fallen-Gemma3-27B-v1",
@@ -20771,7 +20771,8 @@
         "display_name": "Gemmasutra Mini 2B v1",
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
-            "3B"
+            "3B",
+            "popular"
         ]
     },
     "aphrodite/TheDrummer/Gemmasutra-Mini-2B-v1": {
@@ -20786,7 +20787,8 @@
         "display_name": "Gemmasutra Mini 2B v1",
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
-            "3B"
+            "3B",
+            "popular"
         ]
     },
     "koboldcpp/Gemmasutra-Mini-2B-v1": {
@@ -20801,7 +20803,8 @@
         "display_name": "Gemmasutra Mini 2B v1",
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Mini-2B-v1",
         "tags": [
-            "3B"
+            "3B",
+            "popular"
         ]
     },
     "TheDrummer/Gemmasutra-Pro-27B-v1": {
@@ -21166,7 +21169,7 @@
         "model_name": "Skyfall-36B-v2",
         "baseline": "",
         "parameters": 36900000000,
-        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and tool-use capabilities.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21177,17 +21180,17 @@
             "agentic",
             "chat",
             "mathematics",
-            "reasoning",
+            "popular",
             "roleplay"
         ],
-        "instruct_format": "Mistral V7 & V3-Tekken"
+        "instruct_format": "Mistral V7 Tekken"
     },
     "aphrodite/TheDrummer/Skyfall-36B-v2": {
         "name": "aphrodite/TheDrummer/Skyfall-36B-v2",
         "model_name": "Skyfall-36B-v2",
         "baseline": "",
         "parameters": 36900000000,
-        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and tool-use capabilities.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21198,17 +21201,17 @@
             "agentic",
             "chat",
             "mathematics",
-            "reasoning",
+            "popular",
             "roleplay"
         ],
-        "instruct_format": "Mistral V7 & V3-Tekken"
+        "instruct_format": "Mistral V7 Tekken"
     },
     "koboldcpp/Skyfall-36B-v2": {
         "name": "koboldcpp/Skyfall-36B-v2",
         "model_name": "Skyfall-36B-v2",
         "baseline": "",
         "parameters": 36900000000,
-        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and CoT + tool-use capabilities.",
+        "description": "An upscaled version of Mistral Small 2501 with continued training for creativity and RP. Praised highly for its creativity, writing style, and flexibility in roleplay as well as its strong general intelligence, depth of understanding, and tool-use capabilities.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21219,10 +21222,10 @@
             "agentic",
             "chat",
             "mathematics",
-            "reasoning",
+            "popular",
             "roleplay"
         ],
-        "instruct_format": "Mistral V7 & V3-Tekken"
+        "instruct_format": "Mistral V7 Tekken"
     },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
@@ -21421,7 +21424,7 @@
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template performs best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21441,7 +21444,7 @@
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template performs best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21461,7 +21464,7 @@
         "model_name": "Valkyrie-49B-v1",
         "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
         "parameters": 49000000000,
-        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template perorms best.",
+        "description": "A powerful uncensored model with a focus on roleplay and creativity. Follows prompts well and minimal repitition issues. Very smart and very fun. Users claim it performs similarly to 50B-70B models and can even compare to 100B+ models when used with reasoning. Llama 3 Chat template performs best.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
@@ -21538,6 +21541,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
@@ -21558,6 +21562,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
@@ -21578,6 +21583,7 @@
             "coding",
             "conversational",
             "mathematics",
+            "popular",
             "utility"
         ]
     },
@@ -23581,6 +23587,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML"
@@ -23599,6 +23606,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML"
@@ -23617,6 +23625,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "ChatML"
