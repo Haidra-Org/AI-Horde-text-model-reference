@@ -20717,6 +20717,63 @@
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
+    "TheDrummer/Cydonia-24B-v3.1": {
+        "name": "TheDrummer/Cydonia-24B-v3.1",
+        "model_name": "Cydonia-24B-v3.1",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "It plays characters well and will drive the story with or without thinking mode. It will get spicy when the scenario calls for it and will back down when it makes sense to. It will also follow prompts well and will generally format messages as expected.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3.1",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v3.1": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v3.1",
+        "model_name": "Cydonia-24B-v3.1",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "It plays characters well and will drive the story with or without thinking mode. It will get spicy when the scenario calls for it and will back down when it makes sense to. It will also follow prompts well and will generally format messages as expected.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3.1",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "koboldcpp/Cydonia-24B-v3.1": {
+        "name": "koboldcpp/Cydonia-24B-v3.1",
+        "model_name": "Cydonia-24B-v3.1",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "It plays characters well and will drive the story with or without thinking mode. It will get spicy when the scenario calls for it and will back down when it makes sense to. It will also follow prompts well and will generally format messages as expected.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v3.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v3.1",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
     "TheDrummer/Fallen-Gemma3-27B-v1": {
         "name": "TheDrummer/Fallen-Gemma3-27B-v1",
         "model_name": "Fallen-Gemma3-27B-v1",
