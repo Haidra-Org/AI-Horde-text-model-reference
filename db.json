@@ -18905,6 +18905,63 @@
             ""
         ]
     },
+    "sophosympatheia/StrawberryLemonade-L3-70B-v1.2": {
+        "name": "sophosympatheia/StrawberryLemonade-L3-70B-v1.2",
+        "model_name": "StrawberryLemonade-L3-70B-v1.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "This 70B parameter model is a merge of zerofata/L3.3-GeneticLemonade-Final-v2-70B and zerofata/L3.3-GeneticLemonade-Unleashed-v3-70B, which are two excellent models for roleplaying.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "StrawberryLemonade L3 70B v1.2",
+        "url": "https://huggingface.co/sophosympatheia/StrawberryLemonade-L3-70B-v1.2",
+        "tags": [
+            "70B",
+            "roleplay"
+        ],
+        "null": [
+            ""
+        ]
+    },
+    "aphrodite/sophosympatheia/StrawberryLemonade-L3-70B-v1.2": {
+        "name": "aphrodite/sophosympatheia/StrawberryLemonade-L3-70B-v1.2",
+        "model_name": "StrawberryLemonade-L3-70B-v1.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "This 70B parameter model is a merge of zerofata/L3.3-GeneticLemonade-Final-v2-70B and zerofata/L3.3-GeneticLemonade-Unleashed-v3-70B, which are two excellent models for roleplaying.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "StrawberryLemonade L3 70B v1.2",
+        "url": "https://huggingface.co/sophosympatheia/StrawberryLemonade-L3-70B-v1.2",
+        "tags": [
+            "70B",
+            "roleplay"
+        ],
+        "null": [
+            ""
+        ]
+    },
+    "koboldcpp/StrawberryLemonade-L3-70B-v1.2": {
+        "name": "koboldcpp/StrawberryLemonade-L3-70B-v1.2",
+        "model_name": "StrawberryLemonade-L3-70B-v1.2",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "This 70B parameter model is a merge of zerofata/L3.3-GeneticLemonade-Final-v2-70B and zerofata/L3.3-GeneticLemonade-Unleashed-v3-70B, which are two excellent models for roleplaying.",
+        "version": "1",
+        "style": "roleplay",
+        "nsfw": false,
+        "display_name": "StrawberryLemonade L3 70B v1.2",
+        "url": "https://huggingface.co/sophosympatheia/StrawberryLemonade-L3-70B-v1.2",
+        "tags": [
+            "70B",
+            "roleplay"
+        ],
+        "null": [
+            ""
+        ]
+    },
     "stabilityai/StableBeluga-13B": {
         "name": "stabilityai/StableBeluga-13B",
         "model_name": "StableBeluga-13B",
