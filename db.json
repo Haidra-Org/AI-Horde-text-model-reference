@@ -16802,6 +16802,63 @@
             "unaligned"
         ]
     },
+    "ReadyArt/Forgotten-Safeword-22B": {
+        "name": "ReadyArt/Forgotten-Safeword-22B",
+        "model_name": "Forgotten-Safeword-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "Forgotten-Safeword-22B is a highly unaligned variant of Mistral-Small-Instruct-2409, specifically engineered to bypass all standard AI safety protocols. This model will generate explicit, dangerous, and ethically compromised content wrapped in immersive roleplay scenarios.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 22B",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-22B",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/ReadyArt/Forgotten-Safeword-22B": {
+        "name": "aphrodite/ReadyArt/Forgotten-Safeword-22B",
+        "model_name": "Forgotten-Safeword-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "Forgotten-Safeword-22B is a highly unaligned variant of Mistral-Small-Instruct-2409, specifically engineered to bypass all standard AI safety protocols. This model will generate explicit, dangerous, and ethically compromised content wrapped in immersive roleplay scenarios.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 22B",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-22B",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Forgotten-Safeword-22B": {
+        "name": "koboldcpp/Forgotten-Safeword-22B",
+        "model_name": "Forgotten-Safeword-22B",
+        "baseline": "",
+        "parameters": 22000000000,
+        "description": "Forgotten-Safeword-22B is a highly unaligned variant of Mistral-Small-Instruct-2409, specifically engineered to bypass all standard AI safety protocols. This model will generate explicit, dangerous, and ethically compromised content wrapped in immersive roleplay scenarios.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 22B",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-22B",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
         "name": "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
         "model_name": "Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
