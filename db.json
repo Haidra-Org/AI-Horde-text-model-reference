@@ -1982,6 +1982,60 @@
             "33B"
         ]
     },
+    "Casual-Autopsy/L3-Super-Nova-RP-8B": {
+        "name": "Casual-Autopsy/L3-Super-Nova-RP-8B",
+        "model_name": "L3-Super-Nova-RP-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 Super Nova RP 8B",
+        "url": "https://huggingface.co/Casual-Autopsy/L3-Super-Nova-RP-8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "aphrodite/Casual-Autopsy/L3-Super-Nova-RP-8B": {
+        "name": "aphrodite/Casual-Autopsy/L3-Super-Nova-RP-8B",
+        "model_name": "L3-Super-Nova-RP-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 Super Nova RP 8B",
+        "url": "https://huggingface.co/Casual-Autopsy/L3-Super-Nova-RP-8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "koboldcpp/L3-Super-Nova-RP-8B": {
+        "name": "koboldcpp/L3-Super-Nova-RP-8B",
+        "model_name": "L3-Super-Nova-RP-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 Super Nova RP 8B",
+        "url": "https://huggingface.co/Casual-Autopsy/L3-Super-Nova-RP-8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
         "model_name": "L3-TheSpice-8b-v0.8.3",
@@ -7171,6 +7225,63 @@
         "tags": [
             "13B"
         ]
+    },
+    "Gryphe/Pantheon-RP-1.0-8b-Llama-3": {
+        "name": "Gryphe/Pantheon-RP-1.0-8b-Llama-3",
+        "model_name": "Pantheon-RP-1.0-8b-Llama-3",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon RP 1.0 8b Llama 3",
+        "url": "https://huggingface.co/Gryphe/Pantheon-RP-1.0-8b-Llama-3",
+        "tags": [
+            "8B",
+            "assertive",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/Gryphe/Pantheon-RP-1.0-8b-Llama-3": {
+        "name": "aphrodite/Gryphe/Pantheon-RP-1.0-8b-Llama-3",
+        "model_name": "Pantheon-RP-1.0-8b-Llama-3",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon RP 1.0 8b Llama 3",
+        "url": "https://huggingface.co/Gryphe/Pantheon-RP-1.0-8b-Llama-3",
+        "tags": [
+            "8B",
+            "assertive",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Pantheon-RP-1.0-8b-Llama-3": {
+        "name": "koboldcpp/Pantheon-RP-1.0-8b-Llama-3",
+        "model_name": "Pantheon-RP-1.0-8b-Llama-3",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon RP 1.0 8b Llama 3",
+        "url": "https://huggingface.co/Gryphe/Pantheon-RP-1.0-8b-Llama-3",
+        "tags": [
+            "8B",
+            "assertive",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "hakurei/lit-6B": {
         "name": "hakurei/lit-6B",
@@ -21117,13 +21228,17 @@
         "parameters": 8000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Llama 3SOME 8B v2",
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
-            "8B"
-        ]
+            "8B",
+            "ERP",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
     },
     "aphrodite/TheDrummer/Llama-3SOME-8B-v2": {
         "name": "aphrodite/TheDrummer/Llama-3SOME-8B-v2",
@@ -21132,13 +21247,17 @@
         "parameters": 8000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Llama 3SOME 8B v2",
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
-            "8B"
-        ]
+            "8B",
+            "ERP",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
     },
     "koboldcpp/Llama-3SOME-8B-v2": {
         "name": "koboldcpp/Llama-3SOME-8B-v2",
@@ -21147,13 +21266,17 @@
         "parameters": 8000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Llama 3SOME 8B v2",
         "url": "https://huggingface.co/TheDrummer/Llama-3SOME-8B-v2",
         "tags": [
-            "8B"
-        ]
+            "8B",
+            "ERP",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
     },
     "TheDrummer/Ministrations-8B-v1": {
         "name": "TheDrummer/Ministrations-8B-v1",
