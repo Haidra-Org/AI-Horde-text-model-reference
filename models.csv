@@ -446,6 +446,7 @@ teknium/airoboros-mistral2.2-7b,7,,https://huggingface.co/teknium/airoboros-mist
 teknium/OpenHermes-2.5-Mistral-7B,7,,https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B,,,,,,
 TheDrummer/Agatha-111B-v1,111,,https://huggingface.co/TheDrummer/Agatha-111B-v1,CohereLabs/c4ai-command-a-03-2025,,chat,roleplay,CommandR,
 TheDrummer/Anubis-Pro-105B-v1,105,,,,,,,,
+TheDrummer/Anubis-70B-v1.1,70,,https://huggingface.co/TheDrummer/Anubis-70B-v1.1,meta-llama/Llama-3.1-70B,"This model does a fantastic job portraying various characters without fail, adhering to them in such a refreshing and pleasing degree with their dialogue and mannerisms, while also being able to impart a very nice and fresh style that doesn't feel like any other L3.3 models.",chat,"rolplay, unaligned",Llama 3 Instruct,
 TheDrummer/Behemoth-123B-v1,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1,,,,,,
 TheDrummer/Behemoth-123B-v1.1,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1.1,,,,,,
 TheDrummer/Behemoth-123B-v1.2,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1.2,,,,,,
