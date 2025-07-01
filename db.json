@@ -20279,6 +20279,63 @@
             "105B"
         ]
     },
+    "TheDrummer/Anubis-70B-v1.1": {
+        "name": "TheDrummer/Anubis-70B-v1.1",
+        "model_name": "Anubis-70B-v1.1",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70000000000,
+        "description": "This model does a fantastic job portraying various characters without fail, adhering to them in such a refreshing and pleasing degree with their dialogue and mannerisms, while also being able to impart a very nice and fresh style that doesn't feel like any other L3.3 models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.1",
+        "tags": [
+            "70B",
+            "chat",
+            "rolplay",
+            "unaligned"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "aphrodite/TheDrummer/Anubis-70B-v1.1": {
+        "name": "aphrodite/TheDrummer/Anubis-70B-v1.1",
+        "model_name": "Anubis-70B-v1.1",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70000000000,
+        "description": "This model does a fantastic job portraying various characters without fail, adhering to them in such a refreshing and pleasing degree with their dialogue and mannerisms, while also being able to impart a very nice and fresh style that doesn't feel like any other L3.3 models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.1",
+        "tags": [
+            "70B",
+            "chat",
+            "rolplay",
+            "unaligned"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "koboldcpp/Anubis-70B-v1.1": {
+        "name": "koboldcpp/Anubis-70B-v1.1",
+        "model_name": "Anubis-70B-v1.1",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 70000000000,
+        "description": "This model does a fantastic job portraying various characters without fail, adhering to them in such a refreshing and pleasing degree with their dialogue and mannerisms, while also being able to impart a very nice and fresh style that doesn't feel like any other L3.3 models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.1",
+        "tags": [
+            "70B",
+            "chat",
+            "rolplay",
+            "unaligned"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
     "TheDrummer/Behemoth-123B-v1": {
         "name": "TheDrummer/Behemoth-123B-v1",
         "model_name": "Behemoth-123B-v1",
