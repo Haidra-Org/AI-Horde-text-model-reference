@@ -17612,6 +17612,57 @@
             "roleplay"
         ]
     },
+    "Sao10K/L3-8B-Tamamo-v1": {
+        "name": "Sao10K/L3-8B-Tamamo-v1",
+        "model_name": "L3-8B-Tamamo-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 8B Tamamo v1",
+        "url": "https://huggingface.co/Sao10K/L3-8B-Tamamo-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Sao10K/L3-8B-Tamamo-v1": {
+        "name": "aphrodite/Sao10K/L3-8B-Tamamo-v1",
+        "model_name": "L3-8B-Tamamo-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 8B Tamamo v1",
+        "url": "https://huggingface.co/Sao10K/L3-8B-Tamamo-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/L3-8B-Tamamo-v1": {
+        "name": "koboldcpp/L3-8B-Tamamo-v1",
+        "model_name": "L3-8B-Tamamo-v1",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "L3 8B Tamamo v1",
+        "url": "https://huggingface.co/Sao10K/L3-8B-Tamamo-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "Sao10K/L3.1-70B-Euryale-v2.2": {
         "name": "Sao10K/L3.1-70B-Euryale-v2.2",
         "model_name": "L3.1-70B-Euryale-v2.2",
@@ -20237,48 +20288,6 @@
         ],
         "instruct_format": "CommandR"
     },
-    "TheDrummer/Anubis-Pro-105B-v1": {
-        "name": "TheDrummer/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
-    },
-    "aphrodite/TheDrummer/Anubis-Pro-105B-v1": {
-        "name": "aphrodite/TheDrummer/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
-    },
-    "koboldcpp/Anubis-Pro-105B-v1": {
-        "name": "koboldcpp/Anubis-Pro-105B-v1",
-        "model_name": "Anubis-Pro-105B-v1",
-        "baseline": "",
-        "parameters": 105000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Anubis Pro 105B v1",
-        "tags": [
-            "105B"
-        ]
-    },
     "TheDrummer/Anubis-70B-v1.1": {
         "name": "TheDrummer/Anubis-70B-v1.1",
         "model_name": "Anubis-70B-v1.1",
@@ -20335,6 +20344,48 @@
             "unaligned"
         ],
         "instruct_format": "Llama 3 Instruct"
+    },
+    "TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "aphrodite/TheDrummer/Anubis-Pro-105B-v1": {
+        "name": "aphrodite/TheDrummer/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
+    },
+    "koboldcpp/Anubis-Pro-105B-v1": {
+        "name": "koboldcpp/Anubis-Pro-105B-v1",
+        "model_name": "Anubis-Pro-105B-v1",
+        "baseline": "",
+        "parameters": 105000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Anubis Pro 105B v1",
+        "tags": [
+            "105B"
+        ]
     },
     "TheDrummer/Behemoth-123B-v1": {
         "name": "TheDrummer/Behemoth-123B-v1",
