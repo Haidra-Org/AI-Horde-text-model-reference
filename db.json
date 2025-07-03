@@ -17035,8 +17035,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "aphrodite/ReadyArt/Forgotten-Safeword-70B-v5.0": {
         "name": "aphrodite/ReadyArt/Forgotten-Safeword-70B-v5.0",
@@ -17055,8 +17054,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "koboldcpp/Forgotten-Safeword-70B-v5.0": {
         "name": "koboldcpp/Forgotten-Safeword-70B-v5.0",
@@ -17075,8 +17073,7 @@
             "explicit",
             "roleplay",
             "unaligned"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
+        ]
     },
     "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B": {
         "name": "ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B",
