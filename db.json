@@ -5747,6 +5747,54 @@
             "70B"
         ]
     },
+    "Entropicengine/Pinecone-Titan-70b": {
+        "name": "Entropicengine/Pinecone-Titan-70b",
+        "model_name": "Pinecone-Titan-70b",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "The Pinecone Series is a collection of thoughtfully crafted model merges, combining the strengths of the best models among my personal favourites. Each version is curated to excel in roleplay, general knowledge, intelligence, and rich creative writing, while preserving the unique capabilities of its underlying models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pinecone Titan 70b",
+        "url": "https://huggingface.co/Entropicengine/Pinecone-Titan-70b",
+        "tags": [
+            "70B",
+            "chat"
+        ]
+    },
+    "aphrodite/Entropicengine/Pinecone-Titan-70b": {
+        "name": "aphrodite/Entropicengine/Pinecone-Titan-70b",
+        "model_name": "Pinecone-Titan-70b",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "The Pinecone Series is a collection of thoughtfully crafted model merges, combining the strengths of the best models among my personal favourites. Each version is curated to excel in roleplay, general knowledge, intelligence, and rich creative writing, while preserving the unique capabilities of its underlying models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pinecone Titan 70b",
+        "url": "https://huggingface.co/Entropicengine/Pinecone-Titan-70b",
+        "tags": [
+            "70B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Pinecone-Titan-70b": {
+        "name": "koboldcpp/Pinecone-Titan-70b",
+        "model_name": "Pinecone-Titan-70b",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "The Pinecone Series is a collection of thoughtfully crafted model merges, combining the strengths of the best models among my personal favourites. Each version is curated to excel in roleplay, general knowledge, intelligence, and rich creative writing, while preserving the unique capabilities of its underlying models.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pinecone Titan 70b",
+        "url": "https://huggingface.co/Entropicengine/Pinecone-Titan-70b",
+        "tags": [
+            "70B",
+            "chat"
+        ]
+    },
     "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2": {
         "name": "EVA-UNIT-01/EVA-Qwen2.5-14B-v0.2",
         "model_name": "EVA-Qwen2.5-14B-v0.2",
@@ -16965,6 +17013,66 @@
         "tags": [
             "22B",
             "chat",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "ReadyArt/Forgotten-Safeword-70B-v5.0": {
+        "name": "ReadyArt/Forgotten-Safeword-70B-v5.0",
+        "model_name": "Forgotten-Safeword-70B-v5.0",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "Unprecedented erotic roleplaying ability trained directly into Negative_LLAMA_70B's dark unalignment.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 70B v5.0",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-70B-v5.0",
+        "tags": [
+            "70B",
+            "chat",
+            "explicit",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/ReadyArt/Forgotten-Safeword-70B-v5.0": {
+        "name": "aphrodite/ReadyArt/Forgotten-Safeword-70B-v5.0",
+        "model_name": "Forgotten-Safeword-70B-v5.0",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "Unprecedented erotic roleplaying ability trained directly into Negative_LLAMA_70B's dark unalignment.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 70B v5.0",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-70B-v5.0",
+        "tags": [
+            "70B",
+            "chat",
+            "explicit",
+            "roleplay",
+            "unaligned"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Forgotten-Safeword-70B-v5.0": {
+        "name": "koboldcpp/Forgotten-Safeword-70B-v5.0",
+        "model_name": "Forgotten-Safeword-70B-v5.0",
+        "baseline": "",
+        "parameters": 70000000000,
+        "description": "Unprecedented erotic roleplaying ability trained directly into Negative_LLAMA_70B's dark unalignment.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Forgotten Safeword 70B v5.0",
+        "url": "https://huggingface.co/ReadyArt/Forgotten-Safeword-70B-v5.0",
+        "tags": [
+            "70B",
+            "chat",
+            "explicit",
             "roleplay",
             "unaligned"
         ],
