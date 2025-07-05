@@ -18437,6 +18437,48 @@
         ],
         "instruct_format": "Llama 3"
     },
+    "SicariusSicariiStuff/Impish_LLAMA_4B": {
+        "name": "SicariusSicariiStuff/Impish_LLAMA_4B",
+        "model_name": "Impish_LLAMA_4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_LLAMA_4B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_LLAMA_4B",
+        "model_name": "Impish_LLAMA_4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Impish_LLAMA_4B": {
+        "name": "koboldcpp/Impish_LLAMA_4B",
+        "model_name": "Impish_LLAMA_4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish LLAMA 4B",
+        "tags": [
+            "4B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_Magic_24B": {
         "name": "SicariusSicariiStuff/Impish_Magic_24B",
         "model_name": "Impish_Magic_24B",
