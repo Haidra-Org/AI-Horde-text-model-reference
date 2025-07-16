@@ -13130,6 +13130,69 @@
         ],
         "instruct_format": "Llama 3"
     },
+    "moonshotai/Kimi-K2-Instruct": {
+        "name": "moonshotai/Kimi-K2-Instruct",
+        "model_name": "Kimi-K2-Instruct",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained with the Muon optimizer, Kimi K2 achieves exceptional performance across frontier knowledge, reasoning, and coding tasks while being meticulously optimized for agentic capabilities.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Instruct",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "tool-use"
+        ]
+    },
+    "aphrodite/moonshotai/Kimi-K2-Instruct": {
+        "name": "aphrodite/moonshotai/Kimi-K2-Instruct",
+        "model_name": "Kimi-K2-Instruct",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained with the Muon optimizer, Kimi K2 achieves exceptional performance across frontier knowledge, reasoning, and coding tasks while being meticulously optimized for agentic capabilities.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Instruct",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "tool-use"
+        ]
+    },
+    "koboldcpp/Kimi-K2-Instruct": {
+        "name": "koboldcpp/Kimi-K2-Instruct",
+        "model_name": "Kimi-K2-Instruct",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 is a state-of-the-art mixture-of-experts (MoE) language model with 32 billion activated parameters and 1 trillion total parameters. Trained with the Muon optimizer, Kimi K2 achieves exceptional performance across frontier knowledge, reasoning, and coding tasks while being meticulously optimized for agentic capabilities.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Instruct",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "tool-use"
+        ]
+    },
     "mosaicml/mpt-1b-redpajama-200b-dolly": {
         "name": "mosaicml/mpt-1b-redpajama-200b-dolly",
         "model_name": "mpt-1b-redpajama-200b-dolly",
