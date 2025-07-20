@@ -3509,6 +3509,54 @@
             "6B"
         ]
     },
+    "Doctor-Shotgun/MS3.2-24B-Magnum-Diamond": {
+        "name": "Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
+        "model_name": "MS3.2-24B-Magnum-Diamond",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 24B Magnum Diamond",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "aphrodite/Doctor-Shotgun/MS3.2-24B-Magnum-Diamond": {
+        "name": "aphrodite/Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
+        "model_name": "MS3.2-24B-Magnum-Diamond",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 24B Magnum Diamond",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "koboldcpp/MS3.2-24B-Magnum-Diamond": {
+        "name": "koboldcpp/MS3.2-24B-Magnum-Diamond",
+        "model_name": "MS3.2-24B-Magnum-Diamond",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 24B Magnum Diamond",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
     "DreadPoor/Irix-12B-Model_Stock": {
         "name": "DreadPoor/Irix-12B-Model_Stock",
         "model_name": "Irix-12B-Model_Stock",
