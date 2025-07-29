@@ -11195,6 +11195,60 @@
             "6B"
         ]
     },
+    "LatitudeGames/Harbinger-24B": {
+        "name": "LatitudeGames/Harbinger-24B",
+        "model_name": "Harbinger-24B",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Harbinger-24B was designed for immersive adventures and other stories where consequences feel real and every decision matters. Training focused on enhancing instruction following, improving mid-sequence continuation, and strengthening narrative coherence over long sequences of outputs without user intervention.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Harbinger 24B",
+        "url": "https://huggingface.co/LatitudeGames/Harbinger-24B",
+        "tags": [
+            "24B",
+            "adventure",
+            "chat",
+            "rolplay"
+        ]
+    },
+    "aphrodite/LatitudeGames/Harbinger-24B": {
+        "name": "aphrodite/LatitudeGames/Harbinger-24B",
+        "model_name": "Harbinger-24B",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Harbinger-24B was designed for immersive adventures and other stories where consequences feel real and every decision matters. Training focused on enhancing instruction following, improving mid-sequence continuation, and strengthening narrative coherence over long sequences of outputs without user intervention.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Harbinger 24B",
+        "url": "https://huggingface.co/LatitudeGames/Harbinger-24B",
+        "tags": [
+            "24B",
+            "adventure",
+            "chat",
+            "rolplay"
+        ]
+    },
+    "koboldcpp/Harbinger-24B": {
+        "name": "koboldcpp/Harbinger-24B",
+        "model_name": "Harbinger-24B",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Harbinger-24B was designed for immersive adventures and other stories where consequences feel real and every decision matters. Training focused on enhancing instruction following, improving mid-sequence continuation, and strengthening narrative coherence over long sequences of outputs without user intervention.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Harbinger 24B",
+        "url": "https://huggingface.co/LatitudeGames/Harbinger-24B",
+        "tags": [
+            "24B",
+            "adventure",
+            "chat",
+            "rolplay"
+        ]
+    },
     "lightblue/Karasu-Mixtral-8x22B-v0.1": {
         "name": "lightblue/Karasu-Mixtral-8x22B-v0.1",
         "model_name": "Karasu-Mixtral-8x22B-v0.1",
