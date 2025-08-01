@@ -24433,5 +24433,272 @@
             "roleplay"
         ],
         "instruct_format": "ChatML"
+    },
+    "BeaverAI/Cydonia-R1-24B-v4a": {
+        "name": "BeaverAI/Cydonia-R1-24B-v4a",
+        "model_name": "Cydonia-R1-24B-v4a",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4a",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4a-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 tekken"
+    },
+    "aphrodite/BeaverAI/Cydonia-R1-24B-v4a": {
+        "name": "aphrodite/BeaverAI/Cydonia-R1-24B-v4a",
+        "model_name": "Cydonia-R1-24B-v4a",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4a",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4a-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 tekken"
+    },
+    "koboldcpp/Cydonia-R1-24B-v4a": {
+        "name": "koboldcpp/Cydonia-R1-24B-v4a",
+        "model_name": "Cydonia-R1-24B-v4a",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4a",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4a-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 tekken"
+    },
+    "BeaverAI/Cydonia-R1-24B-v4b": {
+        "name": "BeaverAI/Cydonia-R1-24B-v4b",
+        "model_name": "Cydonia-R1-24B-v4b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4b",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4b-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/BeaverAI/Cydonia-R1-24B-v4b": {
+        "name": "aphrodite/BeaverAI/Cydonia-R1-24B-v4b",
+        "model_name": "Cydonia-R1-24B-v4b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4b",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4b-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Cydonia-R1-24B-v4b": {
+        "name": "koboldcpp/Cydonia-R1-24B-v4b",
+        "model_name": "Cydonia-R1-24B-v4b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia R1 24B v4b",
+        "url": "https://huggingface.co/BeaverAI/Cydonia-R1-24B-v4b-GGUF",
+        "tags": [
+            "24B",
+            "CoT",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "BeaverAI/Skyfall-31B-v4c": {
+        "name": "BeaverAI/Skyfall-31B-v4c",
+        "model_name": "Skyfall-31B-v4c",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4c",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/BeaverAI/Skyfall-31B-v4c": {
+        "name": "aphrodite/BeaverAI/Skyfall-31B-v4c",
+        "model_name": "Skyfall-31B-v4c",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4c",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Skyfall-31B-v4c": {
+        "name": "koboldcpp/Skyfall-31B-v4c",
+        "model_name": "Skyfall-31B-v4c",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4c",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "BeaverAI/Skyfall-31B-v4f": {
+        "name": "BeaverAI/Skyfall-31B-v4f",
+        "model_name": "Skyfall-31B-v4f",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4f",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/BeaverAI/Skyfall-31B-v4f": {
+        "name": "aphrodite/BeaverAI/Skyfall-31B-v4f",
+        "model_name": "Skyfall-31B-v4f",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4f",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Skyfall-31B-v4f": {
+        "name": "koboldcpp/Skyfall-31B-v4f",
+        "model_name": "Skyfall-31B-v4f",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4f",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "BeaverAI/Skyfall-31B-v4h": {
+        "name": "BeaverAI/Skyfall-31B-v4h",
+        "model_name": "Skyfall-31B-v4h",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4h",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/BeaverAI/Skyfall-31B-v4h": {
+        "name": "aphrodite/BeaverAI/Skyfall-31B-v4h",
+        "model_name": "Skyfall-31B-v4h",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4h",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Skyfall-31B-v4h": {
+        "name": "koboldcpp/Skyfall-31B-v4h",
+        "model_name": "Skyfall-31B-v4h",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4h",
+        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
+        "tags": [
+            "32B",
+            "chat",
+            "roleplay"
+        ]
     }
 }
