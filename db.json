@@ -19451,6 +19451,51 @@
             "117B"
         ]
     },
+    "Qwen/Qwen3-4B-Instruct-2507": {
+        "name": "Qwen/Qwen3-4B-Instruct-2507",
+        "model_name": "Qwen3-4B-Instruct-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-4B-Instruct-2507": {
+        "name": "aphrodite/Qwen/Qwen3-4B-Instruct-2507",
+        "model_name": "Qwen3-4B-Instruct-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Qwen3-4B-Instruct-2507": {
+        "name": "koboldcpp/Qwen3-4B-Instruct-2507",
+        "model_name": "Qwen3-4B-Instruct-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+        "tags": [
+            "4B"
+        ]
+    },
     "Qwen/Qwen3-30B-A3B-Instruct-2507": {
         "name": "Qwen/Qwen3-30B-A3B-Instruct-2507",
         "model_name": "Qwen3-30B-A3B-Instruct-2507",
@@ -19492,51 +19537,6 @@
         "nsfw": false,
         "display_name": "Qwen3 30B A3B Instruct 2507",
         "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "Qwen/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "koboldcpp/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "koboldcpp/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
         "tags": [
             "15B"
         ]
@@ -19584,6 +19584,96 @@
         "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
         "tags": [
             "117B"
+        ]
+    },
+    "Qwen/Qwen3-4B-Thinking-2507": {
+        "name": "Qwen/Qwen3-4B-Thinking-2507",
+        "model_name": "Qwen3-4B-Thinking-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-4B-Thinking-2507": {
+        "name": "aphrodite/Qwen/Qwen3-4B-Thinking-2507",
+        "model_name": "Qwen3-4B-Thinking-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Qwen3-4B-Thinking-2507": {
+        "name": "koboldcpp/Qwen3-4B-Thinking-2507",
+        "model_name": "Qwen3-4B-Thinking-2507",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 4B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+        "tags": [
+            "4B"
+        ]
+    },
+    "Qwen/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "tags": [
+            "15B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "tags": [
+            "15B"
+        ]
+    },
+    "koboldcpp/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "koboldcpp/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+        "baseline": "",
+        "parameters": 15000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "tags": [
+            "15B"
         ]
     },
     "Qwen/Qwen3-235B-A22B-Thinking-2507": {
