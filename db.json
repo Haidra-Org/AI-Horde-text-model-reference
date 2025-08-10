@@ -21602,6 +21602,48 @@
             "8B"
         ]
     },
+    "SicariusSicariiStuff/Impish_Nemo_12B": {
+        "name": "SicariusSicariiStuff/Impish_Nemo_12B",
+        "model_name": "Impish_Nemo_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Nemo 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_Nemo_12B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_Nemo_12B",
+        "model_name": "Impish_Nemo_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Nemo 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Impish_Nemo_12B": {
+        "name": "koboldcpp/Impish_Nemo_12B",
+        "model_name": "Impish_Nemo_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Nemo 12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "SicariusSicariiStuff/Impish_QWEN_14B-1M": {
         "name": "SicariusSicariiStuff/Impish_QWEN_14B-1M",
         "model_name": "Impish_QWEN_14B-1M",
