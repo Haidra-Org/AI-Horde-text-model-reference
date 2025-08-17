@@ -21203,6 +21203,48 @@
         ],
         "instruct_format": "Alpaca"
     },
+    "Sicarius-Prototyping/Impish_Longtail_12B": {
+        "name": "Sicarius-Prototyping/Impish_Longtail_12B",
+        "model_name": "Impish_Longtail_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Longtail 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/Sicarius-Prototyping/Impish_Longtail_12B": {
+        "name": "aphrodite/Sicarius-Prototyping/Impish_Longtail_12B",
+        "model_name": "Impish_Longtail_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Longtail 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Impish_Longtail_12B": {
+        "name": "koboldcpp/Impish_Longtail_12B",
+        "model_name": "Impish_Longtail_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Longtail 12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "SicariusSicariiStuff/2B_or_not_2B": {
         "name": "SicariusSicariiStuff/2B_or_not_2B",
         "model_name": "2B_or_not_2B",
