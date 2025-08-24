@@ -8939,6 +8939,51 @@
             "24B"
         ]
     },
+    "knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B": {
+        "name": "knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "model_name": "Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of TheDrummer/Cydonia-24B-v4.1 and Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v4.1 MS3.2 Magnum Diamond 24B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B": {
+        "name": "aphrodite/knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "model_name": "Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of TheDrummer/Cydonia-24B-v4.1 and Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v4.1 MS3.2 Magnum Diamond 24B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B": {
+        "name": "koboldcpp/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "model_name": "Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of TheDrummer/Cydonia-24B-v4.1 and Doctor-Shotgun/MS3.2-24B-Magnum-Diamond",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Cydonia v4.1 MS3.2 Magnum Diamond 24B",
+        "url": "https://huggingface.co/knifeayumu/Cydonia-v4.1-MS3.2-Magnum-Diamond-24B",
+        "tags": [
+            "24B"
+        ]
+    },
     "KoboldAI/fairseq-dense-1.3B": {
         "name": "KoboldAI/fairseq-dense-1.3B",
         "model_name": "fairseq-dense-1.3B",
