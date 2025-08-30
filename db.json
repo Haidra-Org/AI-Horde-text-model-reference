@@ -25091,6 +25091,60 @@
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
+    "TheDrummer/Skyfall-31B-v4": {
+        "name": "TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Skyfall-31B-v4": {
+        "name": "aphrodite/TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Skyfall-31B-v4": {
+        "name": "koboldcpp/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Smegmma-9B-v1": {
         "name": "TheDrummer/Smegmma-9B-v1",
         "model_name": "Smegmma-9B-v1",
