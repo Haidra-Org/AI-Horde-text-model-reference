@@ -24800,6 +24800,48 @@
             "27B"
         ]
     },
+    "TheDrummer/GLM-Steam-106B-A12B-v1": {
+        "name": "TheDrummer/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
+        ]
+    },
+    "aphrodite/TheDrummer/GLM-Steam-106B-A12B-v1": {
+        "name": "aphrodite/TheDrummer/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
+        ]
+    },
+    "koboldcpp/GLM-Steam-106B-A12B-v1": {
+        "name": "koboldcpp/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
+        ]
+    },
     "TheDrummer/Llama-3SOME-8B-v1-BETA": {
         "name": "TheDrummer/Llama-3SOME-8B-v1-BETA",
         "model_name": "Llama-3SOME-8B-v1-BETA",
