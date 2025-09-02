@@ -1130,6 +1130,48 @@
             "12B"
         ]
     },
+    "Aurore-Reveil/Koto-Small-7B-IT": {
+        "name": "Aurore-Reveil/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Aurore-Reveil/Koto-Small-7B-IT": {
+        "name": "aphrodite/Aurore-Reveil/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Koto-Small-7B-IT": {
+        "name": "koboldcpp/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
     "Austism/chronos-hermes-13b-v2": {
         "name": "Austism/chronos-hermes-13b-v2",
         "model_name": "chronos-hermes-13b-v2",
