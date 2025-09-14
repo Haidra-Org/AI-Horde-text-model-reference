@@ -27686,157 +27686,58 @@
         ],
         "instruct_format": "ChatML"
     },
-    "BeaverAI/Skyfall-31B-v4c": {
-        "name": "BeaverAI/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "yamatazen/EtherealAurora-12B-v2": {
+        "name": "yamatazen/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
-    "aphrodite/BeaverAI/Skyfall-31B-v4c": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "aphrodite/yamatazen/EtherealAurora-12B-v2": {
+        "name": "aphrodite/yamatazen/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
-    "koboldcpp/Skyfall-31B-v4c": {
-        "name": "koboldcpp/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "koboldcpp/EtherealAurora-12B-v2": {
+        "name": "koboldcpp/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
-    },
-    "BeaverAI/Skyfall-31B-v4f": {
-        "name": "BeaverAI/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/BeaverAI/Skyfall-31B-v4f": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Skyfall-31B-v4f": {
-        "name": "koboldcpp/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "BeaverAI/Skyfall-31B-v4h": {
-        "name": "BeaverAI/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/BeaverAI/Skyfall-31B-v4h": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Skyfall-31B-v4h": {
-        "name": "koboldcpp/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     }
 }
