@@ -2038,6 +2038,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -2056,6 +2057,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -2074,6 +2076,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -24526,6 +24529,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -24544,6 +24548,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -24562,6 +24567,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -25243,6 +25249,7 @@
         "tags": [
             "31B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -25261,6 +25268,7 @@
         "tags": [
             "31B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -25279,6 +25287,7 @@
         "tags": [
             "31B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
