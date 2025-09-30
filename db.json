@@ -11285,6 +11285,60 @@
             "6B"
         ]
     },
+    "kyx0r/Neona-12B": {
+        "name": "kyx0r/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/kyx0r/Neona-12B": {
+        "name": "aphrodite/kyx0r/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Neona-12B": {
+        "name": "koboldcpp/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
     "LatitudeGames/Harbinger-24B": {
         "name": "LatitudeGames/Harbinger-24B",
         "model_name": "Harbinger-24B",
