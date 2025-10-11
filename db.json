@@ -1130,6 +1130,48 @@
             "12B"
         ]
     },
+    "Aurore-Reveil/Koto-Small-7B-IT": {
+        "name": "Aurore-Reveil/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Aurore-Reveil/Koto-Small-7B-IT": {
+        "name": "aphrodite/Aurore-Reveil/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Koto-Small-7B-IT": {
+        "name": "koboldcpp/Koto-Small-7B-IT",
+        "model_name": "Koto-Small-7B-IT",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Koto Small 7B IT",
+        "tags": [
+            "7B"
+        ]
+    },
     "Austism/chronos-hermes-13b-v2": {
         "name": "Austism/chronos-hermes-13b-v2",
         "model_name": "chronos-hermes-13b-v2",
@@ -1996,6 +2038,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -2014,6 +2057,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -2032,6 +2076,7 @@
         "tags": [
             "8B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Llama 3 Instruct"
@@ -11284,6 +11329,60 @@
         "tags": [
             "6B"
         ]
+    },
+    "kyx0r/Neona-12B": {
+        "name": "kyx0r/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/kyx0r/Neona-12B": {
+        "name": "aphrodite/kyx0r/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Neona-12B": {
+        "name": "koboldcpp/Neona-12B",
+        "model_name": "Neona-12B",
+        "baseline": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
+        "parameters": 12200000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Neona 12B",
+        "url": "https://huggingface.co/kyx0r/Neona-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "LatitudeGames/Harbinger-24B": {
         "name": "LatitudeGames/Harbinger-24B",
@@ -24515,6 +24614,63 @@
         ],
         "instruct_format": "Mistral V7 tekken"
     },
+    "TheDrummer/Cydonia-24B-v4.1": {
+        "name": "TheDrummer/Cydonia-24B-v4.1",
+        "model_name": "Cydonia-24B-v4.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.1",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v4.1": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v4.1",
+        "model_name": "Cydonia-24B-v4.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.1",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Cydonia-24B-v4.1": {
+        "name": "koboldcpp/Cydonia-24B-v4.1",
+        "model_name": "Cydonia-24B-v4.1",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.1",
+        "tags": [
+            "24B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Cydonia-R1-24B-v4": {
         "name": "TheDrummer/Cydonia-R1-24B-v4",
         "model_name": "Cydonia-R1-24B-v4",
@@ -24747,6 +24903,48 @@
         "url": "https://huggingface.co/TheDrummer/Gemmasutra-Pro-27B-v1",
         "tags": [
             "27B"
+        ]
+    },
+    "TheDrummer/GLM-Steam-106B-A12B-v1": {
+        "name": "TheDrummer/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
+        ]
+    },
+    "aphrodite/TheDrummer/GLM-Steam-106B-A12B-v1": {
+        "name": "aphrodite/TheDrummer/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
+        ]
+    },
+    "koboldcpp/GLM-Steam-106B-A12B-v1": {
+        "name": "koboldcpp/GLM-Steam-106B-A12B-v1",
+        "model_name": "GLM-Steam-106B-A12B-v1",
+        "baseline": "",
+        "parameters": 53000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM Steam 106B A12B v1",
+        "tags": [
+            "53B"
         ]
     },
     "TheDrummer/Llama-3SOME-8B-v1-BETA": {
@@ -25131,6 +25329,63 @@
             "agentic",
             "chat",
             "mathematics",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "TheDrummer/Skyfall-31B-v4": {
+        "name": "TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Skyfall-31B-v4": {
+        "name": "aphrodite/TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Skyfall-31B-v4": {
+        "name": "koboldcpp/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
             "popular",
             "roleplay"
         ],
@@ -27539,157 +27794,58 @@
         ],
         "instruct_format": "ChatML"
     },
-    "BeaverAI/Skyfall-31B-v4c": {
-        "name": "BeaverAI/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "yamatazen/EtherealAurora-12B-v2": {
+        "name": "yamatazen/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
-    "aphrodite/BeaverAI/Skyfall-31B-v4c": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "aphrodite/yamatazen/EtherealAurora-12B-v2": {
+        "name": "aphrodite/yamatazen/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
-    "koboldcpp/Skyfall-31B-v4c": {
-        "name": "koboldcpp/Skyfall-31B-v4c",
-        "model_name": "Skyfall-31B-v4c",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
+    "koboldcpp/EtherealAurora-12B-v2": {
+        "name": "koboldcpp/EtherealAurora-12B-v2",
+        "model_name": "EtherealAurora-12B-v2",
+        "baseline": "natong19/Mistral-Nemo-Instruct-2407-abliterated",
+        "parameters": 12200000000,
+        "description": "Ranked 2nd for Natural Intelligence and Top-Ten for Uncensored General Intelligence for 12B models as of Fall 2025.",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Skyfall 31B v4c",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4c-GGUF",
+        "display_name": "EtherealAurora 12B v2",
+        "url": "https://huggingface.co/yamatazen/EtherealAurora-12B-v2",
         "tags": [
-            "32B",
+            "12B",
             "chat",
             "roleplay"
-        ]
-    },
-    "BeaverAI/Skyfall-31B-v4f": {
-        "name": "BeaverAI/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/BeaverAI/Skyfall-31B-v4f": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Skyfall-31B-v4f": {
-        "name": "koboldcpp/Skyfall-31B-v4f",
-        "model_name": "Skyfall-31B-v4f",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4f",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4f-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "BeaverAI/Skyfall-31B-v4h": {
-        "name": "BeaverAI/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/BeaverAI/Skyfall-31B-v4h": {
-        "name": "aphrodite/BeaverAI/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Skyfall-31B-v4h": {
-        "name": "koboldcpp/Skyfall-31B-v4h",
-        "model_name": "Skyfall-31B-v4h",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4h",
-        "url": "https://huggingface.co/BeaverAI/Skyfall-31B-v4h-GGUF",
-        "tags": [
-            "32B",
-            "chat",
-            "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     }
 }
