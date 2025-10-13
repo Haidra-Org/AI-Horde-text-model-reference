@@ -24671,6 +24671,60 @@
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
+    "TheDrummer/Cydonia-24B-v4.2.0": {
+        "name": "TheDrummer/Cydonia-24B-v4.2.0",
+        "model_name": "Cydonia-24B-v4.2.0",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v4.2.0": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v4.2.0",
+        "model_name": "Cydonia-24B-v4.2.0",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Cydonia-24B-v4.2.0": {
+        "name": "koboldcpp/Cydonia-24B-v4.2.0",
+        "model_name": "Cydonia-24B-v4.2.0",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Cydonia-R1-24B-v4": {
         "name": "TheDrummer/Cydonia-R1-24B-v4",
         "model_name": "Cydonia-R1-24B-v4",
@@ -24727,6 +24781,60 @@
             "roleplay"
         ],
         "instruct_format": "Mistral V7 tekken"
+    },
+    "TheDrummer/Cydonia-ReduX-22B-v1.1": {
+        "name": "TheDrummer/Cydonia-ReduX-22B-v1.1",
+        "model_name": "Cydonia-ReduX-22B-v1.1",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22200000000,
+        "description": "An updated throwback tune of the beloved Mistral Small 22B. With up-to-date tuning techniques, this 22B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia ReduX 22B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-Redux-22B-v1.1",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "aphrodite/TheDrummer/Cydonia-ReduX-22B-v1.1": {
+        "name": "aphrodite/TheDrummer/Cydonia-ReduX-22B-v1.1",
+        "model_name": "Cydonia-ReduX-22B-v1.1",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22200000000,
+        "description": "An updated throwback tune of the beloved Mistral Small 22B. With up-to-date tuning techniques, this 22B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia ReduX 22B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-Redux-22B-v1.1",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "koboldcpp/Cydonia-ReduX-22B-v1.1": {
+        "name": "koboldcpp/Cydonia-ReduX-22B-v1.1",
+        "model_name": "Cydonia-ReduX-22B-v1.1",
+        "baseline": "mistralai/Mistral-Small-Instruct-2409",
+        "parameters": 22200000000,
+        "description": "An updated throwback tune of the beloved Mistral Small 22B. With up-to-date tuning techniques, this 22B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia ReduX 22B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-Redux-22B-v1.1",
+        "tags": [
+            "22B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
     },
     "TheDrummer/Fallen-Gemma3-27B-v1": {
         "name": "TheDrummer/Fallen-Gemma3-27B-v1",
@@ -25046,6 +25154,60 @@
         ],
         "instruct_format": "Llama 3 Instruct"
     },
+    "TheDrummer/Magidonia-24B-v4.2.0": {
+        "name": "TheDrummer/Magidonia-24B-v4.2.0",
+        "model_name": "Magidonia-24B-v4.2.0",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "A version of Cydonia-24B-v4.2.0 that uses Magistral as a base.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Magidonia-24B-v4.2.0": {
+        "name": "aphrodite/TheDrummer/Magidonia-24B-v4.2.0",
+        "model_name": "Magidonia-24B-v4.2.0",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "A version of Cydonia-24B-v4.2.0 that uses Magistral as a base.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Magidonia-24B-v4.2.0": {
+        "name": "koboldcpp/Magidonia-24B-v4.2.0",
+        "model_name": "Magidonia-24B-v4.2.0",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "A version of Cydonia-24B-v4.2.0 that uses Magistral as a base.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.2.0",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Ministrations-8B-v1": {
         "name": "TheDrummer/Ministrations-8B-v1",
         "model_name": "Ministrations-8B-v1",
@@ -25271,6 +25433,63 @@
             "12B"
         ]
     },
+    "TheDrummer/Skyfall-31B-v4": {
+        "name": "TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Skyfall-31B-v4": {
+        "name": "aphrodite/TheDrummer/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Skyfall-31B-v4": {
+        "name": "koboldcpp/Skyfall-31B-v4",
+        "model_name": "Skyfall-31B-v4",
+        "baseline": "",
+        "parameters": 31400000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
+        "tags": [
+            "31B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Skyfall-36B-v2": {
         "name": "TheDrummer/Skyfall-36B-v2",
         "model_name": "Skyfall-36B-v2",
@@ -25329,63 +25548,6 @@
             "agentic",
             "chat",
             "mathematics",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
-    },
-    "TheDrummer/Skyfall-31B-v4": {
-        "name": "TheDrummer/Skyfall-31B-v4",
-        "model_name": "Skyfall-31B-v4",
-        "baseline": "",
-        "parameters": 31400000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4",
-        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
-        "tags": [
-            "31B",
-            "chat",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
-    },
-    "aphrodite/TheDrummer/Skyfall-31B-v4": {
-        "name": "aphrodite/TheDrummer/Skyfall-31B-v4",
-        "model_name": "Skyfall-31B-v4",
-        "baseline": "",
-        "parameters": 31400000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4",
-        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
-        "tags": [
-            "31B",
-            "chat",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V7 Tekken"
-    },
-    "koboldcpp/Skyfall-31B-v4": {
-        "name": "koboldcpp/Skyfall-31B-v4",
-        "model_name": "Skyfall-31B-v4",
-        "baseline": "",
-        "parameters": 31400000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Skyfall 31B v4",
-        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF",
-        "tags": [
-            "31B",
-            "chat",
             "popular",
             "roleplay"
         ],
