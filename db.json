@@ -15413,6 +15413,48 @@
             "min_p": 0.05
         }
     },
+    "PocketDoc/Dans-PersonalityEngine-V1.3.0-12b": {
+        "name": "PocketDoc/Dans-PersonalityEngine-V1.3.0-12b",
+        "model_name": "Dans-PersonalityEngine-V1.3.0-12b",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.3.0 12b",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/PocketDoc/Dans-PersonalityEngine-V1.3.0-12b": {
+        "name": "aphrodite/PocketDoc/Dans-PersonalityEngine-V1.3.0-12b",
+        "model_name": "Dans-PersonalityEngine-V1.3.0-12b",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.3.0 12b",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Dans-PersonalityEngine-V1.3.0-12b": {
+        "name": "koboldcpp/Dans-PersonalityEngine-V1.3.0-12b",
+        "model_name": "Dans-PersonalityEngine-V1.3.0-12b",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Dans PersonalityEngine V1.3.0 12b",
+        "tags": [
+            "12B"
+        ]
+    },
     "PocketDoc/Dans-SakuraKaze-V1.0.0-12b": {
         "name": "PocketDoc/Dans-SakuraKaze-V1.0.0-12b",
         "model_name": "Dans-SakuraKaze-V1.0.0-12b",
