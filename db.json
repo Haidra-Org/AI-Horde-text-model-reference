@@ -19997,6 +19997,63 @@
             "240B"
         ]
     },
+    "ReadyArt/4.2.0-Broken-Tutu-24b": {
+        "name": "ReadyArt/4.2.0-Broken-Tutu-24b",
+        "model_name": "4.2.0-Broken-Tutu-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "4.2.0 Broken Tutu 24b",
+        "url": "https://huggingface.co/ReadyArt/4.2.0-Broken-Tutu-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
+    "aphrodite/ReadyArt/4.2.0-Broken-Tutu-24b": {
+        "name": "aphrodite/ReadyArt/4.2.0-Broken-Tutu-24b",
+        "model_name": "4.2.0-Broken-Tutu-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "4.2.0 Broken Tutu 24b",
+        "url": "https://huggingface.co/ReadyArt/4.2.0-Broken-Tutu-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
+    "koboldcpp/4.2.0-Broken-Tutu-24b": {
+        "name": "koboldcpp/4.2.0-Broken-Tutu-24b",
+        "model_name": "4.2.0-Broken-Tutu-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Mistral-V7-Tekken-T8-XML Recommended.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "4.2.0 Broken Tutu 24b",
+        "url": "https://huggingface.co/ReadyArt/4.2.0-Broken-Tutu-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay",
+            "storytelling",
+            "unaligned"
+        ]
+    },
     "ReadyArt/Broken-Tutu-24B-Transgression-v2.0": {
         "name": "ReadyArt/Broken-Tutu-24B-Transgression-v2.0",
         "model_name": "Broken-Tutu-24B-Transgression-v2.0",
