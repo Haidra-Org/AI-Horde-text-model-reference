@@ -28165,5 +28165,47 @@
             "storytelling"
         ],
         "instruct_format": "ChatML"
+    },
+    "zai-org/GLM-4.5-Air": {
+        "name": "zai-org/GLM-4.5-Air",
+        "model_name": "GLM-4.5-Air",
+        "baseline": "",
+        "parameters": 55000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.5 Air",
+        "tags": [
+            "55B"
+        ]
+    },
+    "aphrodite/zai-org/GLM-4.5-Air": {
+        "name": "aphrodite/zai-org/GLM-4.5-Air",
+        "model_name": "GLM-4.5-Air",
+        "baseline": "",
+        "parameters": 55000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.5 Air",
+        "tags": [
+            "55B"
+        ]
+    },
+    "koboldcpp/GLM-4.5-Air": {
+        "name": "koboldcpp/GLM-4.5-Air",
+        "model_name": "GLM-4.5-Air",
+        "baseline": "",
+        "parameters": 55000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.5 Air",
+        "tags": [
+            "55B"
+        ]
     }
 }
