@@ -23147,6 +23147,57 @@
             "70B"
         ]
     },
+    "tavtav/Pygmalion3-12B-Nemo-v6": {
+        "name": "tavtav/Pygmalion3-12B-Nemo-v6",
+        "model_name": "Pygmalion3-12B-Nemo-v6",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pygmalion3 12B Nemo v6",
+        "url": "https://huggingface.co/tavtav/Pygmalion3-12B-Nemo-v6",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/tavtav/Pygmalion3-12B-Nemo-v6": {
+        "name": "aphrodite/tavtav/Pygmalion3-12B-Nemo-v6",
+        "model_name": "Pygmalion3-12B-Nemo-v6",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pygmalion3 12B Nemo v6",
+        "url": "https://huggingface.co/tavtav/Pygmalion3-12B-Nemo-v6",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Pygmalion3-12B-Nemo-v6": {
+        "name": "koboldcpp/Pygmalion3-12B-Nemo-v6",
+        "model_name": "Pygmalion3-12B-Nemo-v6",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pygmalion3 12B Nemo v6",
+        "url": "https://huggingface.co/tavtav/Pygmalion3-12B-Nemo-v6",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "TeeZee/DarkForest-20B-v2.0": {
         "name": "TeeZee/DarkForest-20B-v2.0",
         "model_name": "DarkForest-20B-v2.0",
