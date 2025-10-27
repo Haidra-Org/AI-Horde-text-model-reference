@@ -11438,6 +11438,63 @@
             "rolplay"
         ]
     },
+    "LatitudeGames/Muse-12B": {
+        "name": "LatitudeGames/Muse-12B",
+        "model_name": "Muse-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12200000000,
+        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Muse 12B",
+        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/LatitudeGames/Muse-12B": {
+        "name": "aphrodite/LatitudeGames/Muse-12B",
+        "model_name": "Muse-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12200000000,
+        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Muse 12B",
+        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Muse-12B": {
+        "name": "koboldcpp/Muse-12B",
+        "model_name": "Muse-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12200000000,
+        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Muse 12B",
+        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": "ChatML"
+    },
     "lightblue/Karasu-Mixtral-8x22B-v0.1": {
         "name": "lightblue/Karasu-Mixtral-8x22B-v0.1",
         "model_name": "Karasu-Mixtral-8x22B-v0.1",
@@ -15902,182 +15959,47 @@
             "7B"
         ]
     },
-    "Qwen/Qwen-1_8B": {
-        "name": "Qwen/Qwen-1_8B",
-        "model_name": "Qwen-1_8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 1 8B",
-        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen-1_8B": {
-        "name": "aphrodite/Qwen/Qwen-1_8B",
-        "model_name": "Qwen-1_8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 1 8B",
-        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "koboldcpp/Qwen-1_8B": {
-        "name": "koboldcpp/Qwen-1_8B",
-        "model_name": "Qwen-1_8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 1 8B",
-        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen-7B": {
-        "name": "Qwen/Qwen-7B",
-        "model_name": "Qwen-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 7B",
-        "url": "https://huggingface.co/Qwen/Qwen-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen-7B": {
-        "name": "aphrodite/Qwen/Qwen-7B",
-        "model_name": "Qwen-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 7B",
-        "url": "https://huggingface.co/Qwen/Qwen-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen-7B": {
-        "name": "koboldcpp/Qwen-7B",
-        "model_name": "Qwen-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 7B",
-        "url": "https://huggingface.co/Qwen/Qwen-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen-14B": {
-        "name": "Qwen/Qwen-14B",
-        "model_name": "Qwen-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 14B",
-        "url": "https://huggingface.co/Qwen/Qwen-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen-14B": {
-        "name": "aphrodite/Qwen/Qwen-14B",
-        "model_name": "Qwen-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 14B",
-        "url": "https://huggingface.co/Qwen/Qwen-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen-14B": {
-        "name": "koboldcpp/Qwen-14B",
-        "model_name": "Qwen-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen 14B",
-        "url": "https://huggingface.co/Qwen/Qwen-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "Qwen/Qwen-72B": {
-        "name": "Qwen/Qwen-72B",
-        "model_name": "Qwen-72B",
+    "Qwen/QVQ-72B-Preview": {
+        "name": "Qwen/QVQ-72B-Preview",
+        "model_name": "QVQ-72B-Preview",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 72B",
-        "url": "https://huggingface.co/Qwen/Qwen-72B",
+        "display_name": "QVQ 72B Preview",
+        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen-72B": {
-        "name": "aphrodite/Qwen/Qwen-72B",
-        "model_name": "Qwen-72B",
+    "aphrodite/Qwen/QVQ-72B-Preview": {
+        "name": "aphrodite/Qwen/QVQ-72B-Preview",
+        "model_name": "QVQ-72B-Preview",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 72B",
-        "url": "https://huggingface.co/Qwen/Qwen-72B",
+        "display_name": "QVQ 72B Preview",
+        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/Qwen-72B": {
-        "name": "koboldcpp/Qwen-72B",
-        "model_name": "Qwen-72B",
+    "koboldcpp/QVQ-72B-Preview": {
+        "name": "koboldcpp/QVQ-72B-Preview",
+        "model_name": "QVQ-72B-Preview",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 72B",
-        "url": "https://huggingface.co/Qwen/Qwen-72B",
+        "display_name": "QVQ 72B Preview",
+        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
         "tags": [
             "72B"
         ]
@@ -16127,49 +16049,49 @@
             "2B"
         ]
     },
-    "Qwen/Qwen-7B-Chat": {
-        "name": "Qwen/Qwen-7B-Chat",
-        "model_name": "Qwen-7B-Chat",
+    "Qwen/Qwen-1_8B": {
+        "name": "Qwen/Qwen-1_8B",
+        "model_name": "Qwen-1_8B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
+        "display_name": "Qwen 1 8B",
+        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen-7B-Chat": {
-        "name": "aphrodite/Qwen/Qwen-7B-Chat",
-        "model_name": "Qwen-7B-Chat",
+    "aphrodite/Qwen/Qwen-1_8B": {
+        "name": "aphrodite/Qwen/Qwen-1_8B",
+        "model_name": "Qwen-1_8B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
+        "display_name": "Qwen 1 8B",
+        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen-7B-Chat": {
-        "name": "koboldcpp/Qwen-7B-Chat",
-        "model_name": "Qwen-7B-Chat",
+    "koboldcpp/Qwen-1_8B": {
+        "name": "koboldcpp/Qwen-1_8B",
+        "model_name": "Qwen-1_8B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
+        "display_name": "Qwen 1 8B",
+        "url": "https://huggingface.co/Qwen/Qwen-1_8B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
     "Qwen/Qwen-14B-Chat": {
@@ -16213,6 +16135,51 @@
         "nsfw": false,
         "display_name": "Qwen 14B Chat",
         "url": "https://huggingface.co/Qwen/Qwen-14B-Chat",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen-14B": {
+        "name": "Qwen/Qwen-14B",
+        "model_name": "Qwen-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 14B",
+        "url": "https://huggingface.co/Qwen/Qwen-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen-14B": {
+        "name": "aphrodite/Qwen/Qwen-14B",
+        "model_name": "Qwen-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 14B",
+        "url": "https://huggingface.co/Qwen/Qwen-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen-14B": {
+        "name": "koboldcpp/Qwen-14B",
+        "model_name": "Qwen-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 14B",
+        "url": "https://huggingface.co/Qwen/Qwen-14B",
         "tags": [
             "14B"
         ]
@@ -16262,409 +16229,139 @@
             "72B"
         ]
     },
-    "Qwen/Qwen1.5-0.5B": {
-        "name": "Qwen/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-0.5B": {
-        "name": "aphrodite/Qwen/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-0.5B": {
-        "name": "koboldcpp/Qwen1.5-0.5B",
-        "model_name": "Qwen1.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "Qwen/Qwen1.5-1.8B": {
-        "name": "Qwen/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-1.8B": {
-        "name": "aphrodite/Qwen/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-1.8B": {
-        "name": "koboldcpp/Qwen1.5-1.8B",
-        "model_name": "Qwen1.5-1.8B",
-        "baseline": "",
-        "parameters": 1800000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 1.8B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen1.5-4B": {
-        "name": "Qwen/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-4B": {
-        "name": "aphrodite/Qwen/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-4B": {
-        "name": "koboldcpp/Qwen1.5-4B",
-        "model_name": "Qwen1.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "Qwen/Qwen1.5-7B": {
-        "name": "Qwen/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-7B": {
-        "name": "aphrodite/Qwen/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-7B": {
-        "name": "koboldcpp/Qwen1.5-7B",
-        "model_name": "Qwen1.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen1.5-MoE-A2.7B": {
-        "name": "Qwen/Qwen1.5-MoE-A2.7B",
-        "model_name": "Qwen1.5-MoE-A2.7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-MoE-A2.7B": {
-        "name": "aphrodite/Qwen/Qwen1.5-MoE-A2.7B",
-        "model_name": "Qwen1.5-MoE-A2.7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-MoE-A2.7B": {
-        "name": "koboldcpp/Qwen1.5-MoE-A2.7B",
-        "model_name": "Qwen1.5-MoE-A2.7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen1.5-14B": {
-        "name": "Qwen/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-14B": {
-        "name": "aphrodite/Qwen/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-14B": {
-        "name": "koboldcpp/Qwen1.5-14B",
-        "model_name": "Qwen1.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "Qwen/Qwen1.5-32B": {
-        "name": "Qwen/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-32B": {
-        "name": "aphrodite/Qwen/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-32B": {
-        "name": "koboldcpp/Qwen1.5-32B",
-        "model_name": "Qwen1.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/Qwen1.5-72B": {
-        "name": "Qwen/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "Qwen/Qwen-72B": {
+        "name": "Qwen/Qwen-72B",
+        "model_name": "Qwen-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen 72B",
+        "url": "https://huggingface.co/Qwen/Qwen-72B",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-72B": {
-        "name": "aphrodite/Qwen/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "aphrodite/Qwen/Qwen-72B": {
+        "name": "aphrodite/Qwen/Qwen-72B",
+        "model_name": "Qwen-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen 72B",
+        "url": "https://huggingface.co/Qwen/Qwen-72B",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/Qwen1.5-72B": {
-        "name": "koboldcpp/Qwen1.5-72B",
-        "model_name": "Qwen1.5-72B",
+    "koboldcpp/Qwen-72B": {
+        "name": "koboldcpp/Qwen-72B",
+        "model_name": "Qwen-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
+        "display_name": "Qwen 72B",
+        "url": "https://huggingface.co/Qwen/Qwen-72B",
         "tags": [
             "72B"
         ]
     },
-    "Qwen/Qwen1.5-110B": {
-        "name": "Qwen/Qwen1.5-110B",
-        "model_name": "Qwen1.5-110B",
+    "Qwen/Qwen-7B-Chat": {
+        "name": "Qwen/Qwen-7B-Chat",
+        "model_name": "Qwen-7B-Chat",
         "baseline": "",
-        "parameters": 110000000000,
+        "parameters": 7000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 110B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
+        "display_name": "Qwen 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
         "tags": [
-            "110B"
+            "7B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-110B": {
-        "name": "aphrodite/Qwen/Qwen1.5-110B",
-        "model_name": "Qwen1.5-110B",
+    "aphrodite/Qwen/Qwen-7B-Chat": {
+        "name": "aphrodite/Qwen/Qwen-7B-Chat",
+        "model_name": "Qwen-7B-Chat",
         "baseline": "",
-        "parameters": 110000000000,
+        "parameters": 7000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 110B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
+        "display_name": "Qwen 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
         "tags": [
-            "110B"
+            "7B"
         ]
     },
-    "koboldcpp/Qwen1.5-110B": {
-        "name": "koboldcpp/Qwen1.5-110B",
-        "model_name": "Qwen1.5-110B",
+    "koboldcpp/Qwen-7B-Chat": {
+        "name": "koboldcpp/Qwen-7B-Chat",
+        "model_name": "Qwen-7B-Chat",
         "baseline": "",
-        "parameters": 110000000000,
+        "parameters": 7000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 110B",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
+        "display_name": "Qwen 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen-7B-Chat",
         "tags": [
-            "110B"
+            "7B"
+        ]
+    },
+    "Qwen/Qwen-7B": {
+        "name": "Qwen/Qwen-7B",
+        "model_name": "Qwen-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 7B",
+        "url": "https://huggingface.co/Qwen/Qwen-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen-7B": {
+        "name": "aphrodite/Qwen/Qwen-7B",
+        "model_name": "Qwen-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 7B",
+        "url": "https://huggingface.co/Qwen/Qwen-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen-7B": {
+        "name": "koboldcpp/Qwen-7B",
+        "model_name": "Qwen-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen 7B",
+        "url": "https://huggingface.co/Qwen/Qwen-7B",
+        "tags": [
+            "7B"
         ]
     },
     "Qwen/Qwen1.5-0.5B-Chat": {
@@ -16708,6 +16405,51 @@
         "nsfw": false,
         "display_name": "Qwen1.5 0.5B Chat",
         "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat",
+        "tags": [
+            "0B"
+        ]
+    },
+    "Qwen/Qwen1.5-0.5B": {
+        "name": "Qwen/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-0.5B": {
+        "name": "aphrodite/Qwen/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-0.5B": {
+        "name": "koboldcpp/Qwen1.5-0.5B",
+        "model_name": "Qwen1.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-0.5B",
         "tags": [
             "0B"
         ]
@@ -16757,139 +16499,139 @@
             "2B"
         ]
     },
-    "Qwen/Qwen1.5-4B-Chat": {
-        "name": "Qwen/Qwen1.5-4B-Chat",
-        "model_name": "Qwen1.5-4B-Chat",
+    "Qwen/Qwen1.5-1.8B": {
+        "name": "Qwen/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "4B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-4B-Chat": {
-        "name": "aphrodite/Qwen/Qwen1.5-4B-Chat",
-        "model_name": "Qwen1.5-4B-Chat",
+    "aphrodite/Qwen/Qwen1.5-1.8B": {
+        "name": "aphrodite/Qwen/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "4B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen1.5-4B-Chat": {
-        "name": "koboldcpp/Qwen1.5-4B-Chat",
-        "model_name": "Qwen1.5-4B-Chat",
+    "koboldcpp/Qwen1.5-1.8B": {
+        "name": "koboldcpp/Qwen1.5-1.8B",
+        "model_name": "Qwen1.5-1.8B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1800000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 4B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "display_name": "Qwen1.5 1.8B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-1.8B",
         "tags": [
-            "4B"
+            "2B"
         ]
     },
-    "Qwen/Qwen1.5-7B-Chat": {
-        "name": "Qwen/Qwen1.5-7B-Chat",
-        "model_name": "Qwen1.5-7B-Chat",
+    "Qwen/Qwen1.5-110B-Chat": {
+        "name": "Qwen/Qwen1.5-110B-Chat",
+        "model_name": "Qwen1.5-110B-Chat",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "display_name": "Qwen1.5 110B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-7B-Chat": {
-        "name": "aphrodite/Qwen/Qwen1.5-7B-Chat",
-        "model_name": "Qwen1.5-7B-Chat",
+    "aphrodite/Qwen/Qwen1.5-110B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-110B-Chat",
+        "model_name": "Qwen1.5-110B-Chat",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "display_name": "Qwen1.5 110B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
-    "koboldcpp/Qwen1.5-7B-Chat": {
-        "name": "koboldcpp/Qwen1.5-7B-Chat",
-        "model_name": "Qwen1.5-7B-Chat",
+    "koboldcpp/Qwen1.5-110B-Chat": {
+        "name": "koboldcpp/Qwen1.5-110B-Chat",
+        "model_name": "Qwen1.5-110B-Chat",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "display_name": "Qwen1.5 110B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
-    "Qwen/Qwen1.5-MoE-A2.7B-Chat": {
-        "name": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
-        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+    "Qwen/Qwen1.5-110B": {
+        "name": "Qwen/Qwen1.5-110B",
+        "model_name": "Qwen1.5-110B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "display_name": "Qwen1.5 110B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
-    "aphrodite/Qwen/Qwen1.5-MoE-A2.7B-Chat": {
-        "name": "aphrodite/Qwen/Qwen1.5-MoE-A2.7B-Chat",
-        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+    "aphrodite/Qwen/Qwen1.5-110B": {
+        "name": "aphrodite/Qwen/Qwen1.5-110B",
+        "model_name": "Qwen1.5-110B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "display_name": "Qwen1.5 110B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
-    "koboldcpp/Qwen1.5-MoE-A2.7B-Chat": {
-        "name": "koboldcpp/Qwen1.5-MoE-A2.7B-Chat",
-        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+    "koboldcpp/Qwen1.5-110B": {
+        "name": "koboldcpp/Qwen1.5-110B",
+        "model_name": "Qwen1.5-110B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 110000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen1.5 MoE A2.7B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "display_name": "Qwen1.5 110B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-110B",
         "tags": [
-            "7B"
+            "110B"
         ]
     },
     "Qwen/Qwen1.5-14B-Chat": {
@@ -16933,6 +16675,51 @@
         "nsfw": false,
         "display_name": "Qwen1.5 14B Chat",
         "url": "https://huggingface.co/Qwen/Qwen1.5-14B-Chat",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen1.5-14B": {
+        "name": "Qwen/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-14B": {
+        "name": "aphrodite/Qwen/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-14B": {
+        "name": "koboldcpp/Qwen1.5-14B",
+        "model_name": "Qwen1.5-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-14B",
         "tags": [
             "14B"
         ]
@@ -16982,6 +16769,141 @@
             "32B"
         ]
     },
+    "Qwen/Qwen1.5-32B": {
+        "name": "Qwen/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-32B": {
+        "name": "aphrodite/Qwen/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-32B": {
+        "name": "koboldcpp/Qwen1.5-32B",
+        "model_name": "Qwen1.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/Qwen1.5-4B-Chat": {
+        "name": "Qwen/Qwen1.5-4B-Chat",
+        "model_name": "Qwen1.5-4B-Chat",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-4B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-4B-Chat",
+        "model_name": "Qwen1.5-4B-Chat",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-4B-Chat": {
+        "name": "koboldcpp/Qwen1.5-4B-Chat",
+        "model_name": "Qwen1.5-4B-Chat",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B-Chat",
+        "tags": [
+            "4B"
+        ]
+    },
+    "Qwen/Qwen1.5-4B": {
+        "name": "Qwen/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-4B": {
+        "name": "aphrodite/Qwen/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "tags": [
+            "4B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-4B": {
+        "name": "koboldcpp/Qwen1.5-4B",
+        "model_name": "Qwen1.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-4B",
+        "tags": [
+            "4B"
+        ]
+    },
     "Qwen/Qwen1.5-72B-Chat": {
         "name": "Qwen/Qwen1.5-72B-Chat",
         "model_name": "Qwen1.5-72B-Chat",
@@ -17027,274 +16949,229 @@
             "72B"
         ]
     },
-    "Qwen/Qwen1.5-110B-Chat": {
-        "name": "Qwen/Qwen1.5-110B-Chat",
-        "model_name": "Qwen1.5-110B-Chat",
-        "baseline": "",
-        "parameters": 110000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 110B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
-        "tags": [
-            "110B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen1.5-110B-Chat": {
-        "name": "aphrodite/Qwen/Qwen1.5-110B-Chat",
-        "model_name": "Qwen1.5-110B-Chat",
-        "baseline": "",
-        "parameters": 110000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 110B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
-        "tags": [
-            "110B"
-        ]
-    },
-    "koboldcpp/Qwen1.5-110B-Chat": {
-        "name": "koboldcpp/Qwen1.5-110B-Chat",
-        "model_name": "Qwen1.5-110B-Chat",
-        "baseline": "",
-        "parameters": 110000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen1.5 110B Chat",
-        "url": "https://huggingface.co/Qwen/Qwen1.5-110B-Chat",
-        "tags": [
-            "110B"
-        ]
-    },
-    "Qwen/Qwen2-0.5B": {
-        "name": "Qwen/Qwen2-0.5B",
-        "model_name": "Qwen2-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2-0.5B": {
-        "name": "aphrodite/Qwen/Qwen2-0.5B",
-        "model_name": "Qwen2-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "koboldcpp/Qwen2-0.5B": {
-        "name": "koboldcpp/Qwen2-0.5B",
-        "model_name": "Qwen2-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "Qwen/Qwen2-1.5B": {
-        "name": "Qwen/Qwen2-1.5B",
-        "model_name": "Qwen2-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2-1.5B": {
-        "name": "aphrodite/Qwen/Qwen2-1.5B",
-        "model_name": "Qwen2-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "koboldcpp/Qwen2-1.5B": {
-        "name": "koboldcpp/Qwen2-1.5B",
-        "model_name": "Qwen2-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen2-7B": {
-        "name": "Qwen/Qwen2-7B",
-        "model_name": "Qwen2-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2-7B": {
-        "name": "aphrodite/Qwen/Qwen2-7B",
-        "model_name": "Qwen2-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen2-7B": {
-        "name": "koboldcpp/Qwen2-7B",
-        "model_name": "Qwen2-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen2-57B-A14B": {
-        "name": "Qwen/Qwen2-57B-A14B",
-        "model_name": "Qwen2-57B-A14B",
-        "baseline": "",
-        "parameters": 29000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 57B A14B",
-        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
-        "tags": [
-            "29B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2-57B-A14B": {
-        "name": "aphrodite/Qwen/Qwen2-57B-A14B",
-        "model_name": "Qwen2-57B-A14B",
-        "baseline": "",
-        "parameters": 29000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 57B A14B",
-        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
-        "tags": [
-            "29B"
-        ]
-    },
-    "koboldcpp/Qwen2-57B-A14B": {
-        "name": "koboldcpp/Qwen2-57B-A14B",
-        "model_name": "Qwen2-57B-A14B",
-        "baseline": "",
-        "parameters": 29000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2 57B A14B",
-        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
-        "tags": [
-            "29B"
-        ]
-    },
-    "Qwen/Qwen2-72B": {
-        "name": "Qwen/Qwen2-72B",
-        "model_name": "Qwen2-72B",
+    "Qwen/Qwen1.5-72B": {
+        "name": "Qwen/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2-72B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen2-72B": {
-        "name": "aphrodite/Qwen/Qwen2-72B",
-        "model_name": "Qwen2-72B",
+    "aphrodite/Qwen/Qwen1.5-72B": {
+        "name": "aphrodite/Qwen/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2-72B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/Qwen2-72B": {
-        "name": "koboldcpp/Qwen2-72B",
-        "model_name": "Qwen2-72B",
+    "koboldcpp/Qwen1.5-72B": {
+        "name": "koboldcpp/Qwen1.5-72B",
+        "model_name": "Qwen1.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2-72B",
+        "display_name": "Qwen1.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-72B",
         "tags": [
             "72B"
+        ]
+    },
+    "Qwen/Qwen1.5-7B-Chat": {
+        "name": "Qwen/Qwen1.5-7B-Chat",
+        "model_name": "Qwen1.5-7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-7B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-7B-Chat",
+        "model_name": "Qwen1.5-7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-7B-Chat": {
+        "name": "koboldcpp/Qwen1.5-7B-Chat",
+        "model_name": "Qwen1.5-7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen1.5-7B": {
+        "name": "Qwen/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-7B": {
+        "name": "aphrodite/Qwen/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-7B": {
+        "name": "koboldcpp/Qwen1.5-7B",
+        "model_name": "Qwen1.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen1.5-MoE-A2.7B-Chat": {
+        "name": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-MoE-A2.7B-Chat": {
+        "name": "aphrodite/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-MoE-A2.7B-Chat": {
+        "name": "koboldcpp/Qwen1.5-MoE-A2.7B-Chat",
+        "model_name": "Qwen1.5-MoE-A2.7B-Chat",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B Chat",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B-Chat",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen1.5-MoE-A2.7B": {
+        "name": "Qwen/Qwen1.5-MoE-A2.7B",
+        "model_name": "Qwen1.5-MoE-A2.7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen1.5-MoE-A2.7B": {
+        "name": "aphrodite/Qwen/Qwen1.5-MoE-A2.7B",
+        "model_name": "Qwen1.5-MoE-A2.7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen1.5-MoE-A2.7B": {
+        "name": "koboldcpp/Qwen1.5-MoE-A2.7B",
+        "model_name": "Qwen1.5-MoE-A2.7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen1.5 MoE A2.7B",
+        "url": "https://huggingface.co/Qwen/Qwen1.5-MoE-A2.7B",
+        "tags": [
+            "7B"
         ]
     },
     "Qwen/Qwen2-0.5B-Instruct": {
@@ -17338,6 +17215,51 @@
         "nsfw": false,
         "display_name": "Qwen2 0.5B Instruct",
         "url": "https://huggingface.co/Qwen/Qwen2-0.5B-Instruct",
+        "tags": [
+            "0B"
+        ]
+    },
+    "Qwen/Qwen2-0.5B": {
+        "name": "Qwen/Qwen2-0.5B",
+        "model_name": "Qwen2-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2-0.5B": {
+        "name": "aphrodite/Qwen/Qwen2-0.5B",
+        "model_name": "Qwen2-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/Qwen2-0.5B": {
+        "name": "koboldcpp/Qwen2-0.5B",
+        "model_name": "Qwen2-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-0.5B",
         "tags": [
             "0B"
         ]
@@ -17387,49 +17309,49 @@
             "2B"
         ]
     },
-    "Qwen/Qwen2-7B-Instruct": {
-        "name": "Qwen/Qwen2-7B-Instruct",
-        "model_name": "Qwen2-7B-Instruct",
+    "Qwen/Qwen2-1.5B": {
+        "name": "Qwen/Qwen2-1.5B",
+        "model_name": "Qwen2-1.5B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "display_name": "Qwen2 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen2-7B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2-7B-Instruct",
-        "model_name": "Qwen2-7B-Instruct",
+    "aphrodite/Qwen/Qwen2-1.5B": {
+        "name": "aphrodite/Qwen/Qwen2-1.5B",
+        "model_name": "Qwen2-1.5B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "display_name": "Qwen2 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen2-7B-Instruct": {
-        "name": "koboldcpp/Qwen2-7B-Instruct",
-        "model_name": "Qwen2-7B-Instruct",
+    "koboldcpp/Qwen2-1.5B": {
+        "name": "koboldcpp/Qwen2-1.5B",
+        "model_name": "Qwen2-1.5B",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "display_name": "Qwen2 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2-1.5B",
         "tags": [
-            "7B"
+            "2B"
         ]
     },
     "Qwen/Qwen2-57B-A14B-Instruct": {
@@ -17473,6 +17395,51 @@
         "nsfw": false,
         "display_name": "Qwen2 57B A14B Instruct",
         "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B-Instruct",
+        "tags": [
+            "29B"
+        ]
+    },
+    "Qwen/Qwen2-57B-A14B": {
+        "name": "Qwen/Qwen2-57B-A14B",
+        "model_name": "Qwen2-57B-A14B",
+        "baseline": "",
+        "parameters": 29000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 57B A14B",
+        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
+        "tags": [
+            "29B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2-57B-A14B": {
+        "name": "aphrodite/Qwen/Qwen2-57B-A14B",
+        "model_name": "Qwen2-57B-A14B",
+        "baseline": "",
+        "parameters": 29000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 57B A14B",
+        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
+        "tags": [
+            "29B"
+        ]
+    },
+    "koboldcpp/Qwen2-57B-A14B": {
+        "name": "koboldcpp/Qwen2-57B-A14B",
+        "model_name": "Qwen2-57B-A14B",
+        "baseline": "",
+        "parameters": 29000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 57B A14B",
+        "url": "https://huggingface.co/Qwen/Qwen2-57B-A14B",
         "tags": [
             "29B"
         ]
@@ -17522,319 +17489,139 @@
             "72B"
         ]
     },
-    "Qwen/Qwen2.5-0.5B": {
-        "name": "Qwen/Qwen2.5-0.5B",
-        "model_name": "Qwen2.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-0.5B": {
-        "name": "aphrodite/Qwen/Qwen2.5-0.5B",
-        "model_name": "Qwen2.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-0.5B": {
-        "name": "koboldcpp/Qwen2.5-0.5B",
-        "model_name": "Qwen2.5-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "Qwen/Qwen2.5-1.5B": {
-        "name": "Qwen/Qwen2.5-1.5B",
-        "model_name": "Qwen2.5-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-1.5B": {
-        "name": "aphrodite/Qwen/Qwen2.5-1.5B",
-        "model_name": "Qwen2.5-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-1.5B": {
-        "name": "koboldcpp/Qwen2.5-1.5B",
-        "model_name": "Qwen2.5-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen2.5-3B": {
-        "name": "Qwen/Qwen2.5-3B",
-        "model_name": "Qwen2.5-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-3B": {
-        "name": "aphrodite/Qwen/Qwen2.5-3B",
-        "model_name": "Qwen2.5-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-3B": {
-        "name": "koboldcpp/Qwen2.5-3B",
-        "model_name": "Qwen2.5-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "Qwen/Qwen2.5-7B": {
-        "name": "Qwen/Qwen2.5-7B",
-        "model_name": "Qwen2.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-7B": {
-        "name": "aphrodite/Qwen/Qwen2.5-7B",
-        "model_name": "Qwen2.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-7B": {
-        "name": "koboldcpp/Qwen2.5-7B",
-        "model_name": "Qwen2.5-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen2.5-14B": {
-        "name": "Qwen/Qwen2.5-14B",
-        "model_name": "Qwen2.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-14B": {
-        "name": "aphrodite/Qwen/Qwen2.5-14B",
-        "model_name": "Qwen2.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-14B": {
-        "name": "koboldcpp/Qwen2.5-14B",
-        "model_name": "Qwen2.5-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "Qwen/Qwen2.5-32B": {
-        "name": "Qwen/Qwen2.5-32B",
-        "model_name": "Qwen2.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-32B": {
-        "name": "aphrodite/Qwen/Qwen2.5-32B",
-        "model_name": "Qwen2.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-32B": {
-        "name": "koboldcpp/Qwen2.5-32B",
-        "model_name": "Qwen2.5-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/Qwen2.5-72B": {
-        "name": "Qwen/Qwen2.5-72B",
-        "model_name": "Qwen2.5-72B",
+    "Qwen/Qwen2-72B": {
+        "name": "Qwen/Qwen2-72B",
+        "model_name": "Qwen2-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
+        "display_name": "Qwen2 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2-72B",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-72B": {
-        "name": "aphrodite/Qwen/Qwen2.5-72B",
-        "model_name": "Qwen2.5-72B",
+    "aphrodite/Qwen/Qwen2-72B": {
+        "name": "aphrodite/Qwen/Qwen2-72B",
+        "model_name": "Qwen2-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
+        "display_name": "Qwen2 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2-72B",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/Qwen2.5-72B": {
-        "name": "koboldcpp/Qwen2.5-72B",
-        "model_name": "Qwen2.5-72B",
+    "koboldcpp/Qwen2-72B": {
+        "name": "koboldcpp/Qwen2-72B",
+        "model_name": "Qwen2-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
+        "display_name": "Qwen2 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2-72B",
         "tags": [
             "72B"
+        ]
+    },
+    "Qwen/Qwen2-7B-Instruct": {
+        "name": "Qwen/Qwen2-7B-Instruct",
+        "model_name": "Qwen2-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2-7B-Instruct",
+        "model_name": "Qwen2-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2-7B-Instruct": {
+        "name": "koboldcpp/Qwen2-7B-Instruct",
+        "model_name": "Qwen2-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen2-7B": {
+        "name": "Qwen/Qwen2-7B",
+        "model_name": "Qwen2-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2-7B": {
+        "name": "aphrodite/Qwen/Qwen2-7B",
+        "model_name": "Qwen2-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2-7B": {
+        "name": "koboldcpp/Qwen2-7B",
+        "model_name": "Qwen2-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2-7B",
+        "tags": [
+            "7B"
         ]
     },
     "Qwen/Qwen2.5-0.5B-Instruct": {
@@ -17878,6 +17665,51 @@
         "nsfw": false,
         "display_name": "Qwen2.5 0.5B Instruct",
         "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+        "tags": [
+            "0B"
+        ]
+    },
+    "Qwen/Qwen2.5-0.5B": {
+        "name": "Qwen/Qwen2.5-0.5B",
+        "model_name": "Qwen2.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-0.5B": {
+        "name": "aphrodite/Qwen/Qwen2.5-0.5B",
+        "model_name": "Qwen2.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-0.5B": {
+        "name": "koboldcpp/Qwen2.5-0.5B",
+        "model_name": "Qwen2.5-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
         "tags": [
             "0B"
         ]
@@ -17927,139 +17759,94 @@
             "2B"
         ]
     },
-    "Qwen/Qwen2.5-3B-Instruct": {
-        "name": "Qwen/Qwen2.5-3B-Instruct",
-        "model_name": "Qwen2.5-3B-Instruct",
+    "Qwen/Qwen2.5-1.5B": {
+        "name": "Qwen/Qwen2.5-1.5B",
+        "model_name": "Qwen2.5-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "display_name": "Qwen2.5 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
         "tags": [
-            "3B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-3B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-3B-Instruct",
-        "model_name": "Qwen2.5-3B-Instruct",
+    "aphrodite/Qwen/Qwen2.5-1.5B": {
+        "name": "aphrodite/Qwen/Qwen2.5-1.5B",
+        "model_name": "Qwen2.5-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "display_name": "Qwen2.5 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
         "tags": [
-            "3B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen2.5-3B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-3B-Instruct",
-        "model_name": "Qwen2.5-3B-Instruct",
+    "koboldcpp/Qwen2.5-1.5B": {
+        "name": "koboldcpp/Qwen2.5-1.5B",
+        "model_name": "Qwen2.5-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "display_name": "Qwen2.5 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
         "tags": [
-            "3B"
+            "2B"
         ]
     },
-    "Qwen/Qwen2.5-7B-Instruct": {
-        "name": "Qwen/Qwen2.5-7B-Instruct",
-        "model_name": "Qwen2.5-7B-Instruct",
+    "Qwen/Qwen2.5-14B-Instruct-1M": {
+        "name": "Qwen/Qwen2.5-14B-Instruct-1M",
+        "model_name": "Qwen2.5-14B-Instruct-1M",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "display_name": "Qwen2.5 14B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
         "tags": [
-            "7B"
+            "14B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-7B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-7B-Instruct",
-        "model_name": "Qwen2.5-7B-Instruct",
+    "aphrodite/Qwen/Qwen2.5-14B-Instruct-1M": {
+        "name": "aphrodite/Qwen/Qwen2.5-14B-Instruct-1M",
+        "model_name": "Qwen2.5-14B-Instruct-1M",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "display_name": "Qwen2.5 14B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
         "tags": [
-            "7B"
+            "14B"
         ]
     },
-    "koboldcpp/Qwen2.5-7B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-7B-Instruct",
-        "model_name": "Qwen2.5-7B-Instruct",
+    "koboldcpp/Qwen2.5-14B-Instruct-1M": {
+        "name": "koboldcpp/Qwen2.5-14B-Instruct-1M",
+        "model_name": "Qwen2.5-14B-Instruct-1M",
         "baseline": "",
-        "parameters": 7000000000,
+        "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "display_name": "Qwen2.5 14B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
         "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen2.5-7B-Instruct-1M": {
-        "name": "Qwen/Qwen2.5-7B-Instruct-1M",
-        "model_name": "Qwen2.5-7B-Instruct-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-7B-Instruct-1M": {
-        "name": "aphrodite/Qwen/Qwen2.5-7B-Instruct-1M",
-        "model_name": "Qwen2.5-7B-Instruct-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-7B-Instruct-1M": {
-        "name": "koboldcpp/Qwen2.5-7B-Instruct-1M",
-        "model_name": "Qwen2.5-7B-Instruct-1M",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 7B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
-        "tags": [
-            "7B"
+            "14B"
         ]
     },
     "Qwen/Qwen2.5-14B-Instruct": {
@@ -18107,47 +17894,47 @@
             "14B"
         ]
     },
-    "Qwen/Qwen2.5-14B-Instruct-1M": {
-        "name": "Qwen/Qwen2.5-14B-Instruct-1M",
-        "model_name": "Qwen2.5-14B-Instruct-1M",
+    "Qwen/Qwen2.5-14B": {
+        "name": "Qwen/Qwen2.5-14B",
+        "model_name": "Qwen2.5-14B",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+        "display_name": "Qwen2.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
         "tags": [
             "14B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-14B-Instruct-1M": {
-        "name": "aphrodite/Qwen/Qwen2.5-14B-Instruct-1M",
-        "model_name": "Qwen2.5-14B-Instruct-1M",
+    "aphrodite/Qwen/Qwen2.5-14B": {
+        "name": "aphrodite/Qwen/Qwen2.5-14B",
+        "model_name": "Qwen2.5-14B",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+        "display_name": "Qwen2.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
         "tags": [
             "14B"
         ]
     },
-    "koboldcpp/Qwen2.5-14B-Instruct-1M": {
-        "name": "koboldcpp/Qwen2.5-14B-Instruct-1M",
-        "model_name": "Qwen2.5-14B-Instruct-1M",
+    "koboldcpp/Qwen2.5-14B": {
+        "name": "koboldcpp/Qwen2.5-14B",
+        "model_name": "Qwen2.5-14B",
         "baseline": "",
         "parameters": 14000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 14B Instruct 1M",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-14B-Instruct-1M",
+        "display_name": "Qwen2.5 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-14B",
         "tags": [
             "14B"
         ]
@@ -18197,6 +17984,141 @@
             "32B"
         ]
     },
+    "Qwen/Qwen2.5-32B": {
+        "name": "Qwen/Qwen2.5-32B",
+        "model_name": "Qwen2.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-32B": {
+        "name": "aphrodite/Qwen/Qwen2.5-32B",
+        "model_name": "Qwen2.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-32B": {
+        "name": "koboldcpp/Qwen2.5-32B",
+        "model_name": "Qwen2.5-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/Qwen2.5-3B-Instruct": {
+        "name": "Qwen/Qwen2.5-3B-Instruct",
+        "model_name": "Qwen2.5-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-3B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-3B-Instruct",
+        "model_name": "Qwen2.5-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-3B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-3B-Instruct",
+        "model_name": "Qwen2.5-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "Qwen/Qwen2.5-3B": {
+        "name": "Qwen/Qwen2.5-3B",
+        "model_name": "Qwen2.5-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-3B": {
+        "name": "aphrodite/Qwen/Qwen2.5-3B",
+        "model_name": "Qwen2.5-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-3B": {
+        "name": "koboldcpp/Qwen2.5-3B",
+        "model_name": "Qwen2.5-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+        "tags": [
+            "3B"
+        ]
+    },
     "Qwen/Qwen2.5-72B-Instruct": {
         "name": "Qwen/Qwen2.5-72B-Instruct",
         "model_name": "Qwen2.5-72B-Instruct",
@@ -18242,319 +18164,184 @@
             "72B"
         ]
     },
-    "Qwen/Qwen2.5-Coder-0.5B": {
-        "name": "Qwen/Qwen2.5-Coder-0.5B",
-        "model_name": "Qwen2.5-Coder-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-0.5B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-0.5B",
-        "model_name": "Qwen2.5-Coder-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-0.5B": {
-        "name": "koboldcpp/Qwen2.5-Coder-0.5B",
-        "model_name": "Qwen2.5-Coder-0.5B",
-        "baseline": "",
-        "parameters": 500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 0.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
-        "tags": [
-            "0B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-1.5B": {
-        "name": "Qwen/Qwen2.5-Coder-1.5B",
-        "model_name": "Qwen2.5-Coder-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-1.5B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-1.5B",
-        "model_name": "Qwen2.5-Coder-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-1.5B": {
-        "name": "koboldcpp/Qwen2.5-Coder-1.5B",
-        "model_name": "Qwen2.5-Coder-1.5B",
-        "baseline": "",
-        "parameters": 1500000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 1.5B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
-        "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-3B": {
-        "name": "Qwen/Qwen2.5-Coder-3B",
-        "model_name": "Qwen2.5-Coder-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-3B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-3B",
-        "model_name": "Qwen2.5-Coder-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-3B": {
-        "name": "koboldcpp/Qwen2.5-Coder-3B",
-        "model_name": "Qwen2.5-Coder-3B",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-7B": {
-        "name": "Qwen/Qwen2.5-Coder-7B",
-        "model_name": "Qwen2.5-Coder-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-7B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-7B",
-        "model_name": "Qwen2.5-Coder-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-7B": {
-        "name": "koboldcpp/Qwen2.5-Coder-7B",
-        "model_name": "Qwen2.5-Coder-7B",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
-        "tags": [
-            "7B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-14B": {
-        "name": "Qwen/Qwen2.5-Coder-14B",
-        "model_name": "Qwen2.5-Coder-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-14B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-14B",
-        "model_name": "Qwen2.5-Coder-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-14B": {
-        "name": "koboldcpp/Qwen2.5-Coder-14B",
-        "model_name": "Qwen2.5-Coder-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 14B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-32B": {
-        "name": "Qwen/Qwen2.5-Coder-32B",
-        "model_name": "Qwen2.5-Coder-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-32B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-32B",
-        "model_name": "Qwen2.5-Coder-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-32B": {
-        "name": "koboldcpp/Qwen2.5-Coder-32B",
-        "model_name": "Qwen2.5-Coder-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 32B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-72B": {
-        "name": "Qwen/Qwen2.5-Coder-72B",
-        "model_name": "Qwen2.5-Coder-72B",
+    "Qwen/Qwen2.5-72B": {
+        "name": "Qwen/Qwen2.5-72B",
+        "model_name": "Qwen2.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
+        "display_name": "Qwen2.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-Coder-72B": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-72B",
-        "model_name": "Qwen2.5-Coder-72B",
+    "aphrodite/Qwen/Qwen2.5-72B": {
+        "name": "aphrodite/Qwen/Qwen2.5-72B",
+        "model_name": "Qwen2.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
+        "display_name": "Qwen2.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/Qwen2.5-Coder-72B": {
-        "name": "koboldcpp/Qwen2.5-Coder-72B",
-        "model_name": "Qwen2.5-Coder-72B",
+    "koboldcpp/Qwen2.5-72B": {
+        "name": "koboldcpp/Qwen2.5-72B",
+        "model_name": "Qwen2.5-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 72B",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
+        "display_name": "Qwen2.5 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-72B",
         "tags": [
             "72B"
+        ]
+    },
+    "Qwen/Qwen2.5-7B-Instruct-1M": {
+        "name": "Qwen/Qwen2.5-7B-Instruct-1M",
+        "model_name": "Qwen2.5-7B-Instruct-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-7B-Instruct-1M": {
+        "name": "aphrodite/Qwen/Qwen2.5-7B-Instruct-1M",
+        "model_name": "Qwen2.5-7B-Instruct-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-7B-Instruct-1M": {
+        "name": "koboldcpp/Qwen2.5-7B-Instruct-1M",
+        "model_name": "Qwen2.5-7B-Instruct-1M",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct 1M",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen2.5-7B-Instruct": {
+        "name": "Qwen/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-7B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-7B-Instruct",
+        "model_name": "Qwen2.5-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen2.5-7B": {
+        "name": "Qwen/Qwen2.5-7B",
+        "model_name": "Qwen2.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-7B": {
+        "name": "aphrodite/Qwen/Qwen2.5-7B",
+        "model_name": "Qwen2.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-7B": {
+        "name": "koboldcpp/Qwen2.5-7B",
+        "model_name": "Qwen2.5-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
+        "tags": [
+            "7B"
         ]
     },
     "Qwen/Qwen2.5-Coder-0.5B-Instruct": {
@@ -18598,6 +18385,51 @@
         "nsfw": false,
         "display_name": "Qwen2.5 Coder 0.5B Instruct",
         "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B-Instruct",
+        "tags": [
+            "0B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-0.5B": {
+        "name": "Qwen/Qwen2.5-Coder-0.5B",
+        "model_name": "Qwen2.5-Coder-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-0.5B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-0.5B",
+        "model_name": "Qwen2.5-Coder-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
+        "tags": [
+            "0B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-0.5B": {
+        "name": "koboldcpp/Qwen2.5-Coder-0.5B",
+        "model_name": "Qwen2.5-Coder-0.5B",
+        "baseline": "",
+        "parameters": 500000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 0.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-0.5B",
         "tags": [
             "0B"
         ]
@@ -18647,94 +18479,49 @@
             "2B"
         ]
     },
-    "Qwen/Qwen2.5-Coder-3B-Instruct": {
-        "name": "Qwen/Qwen2.5-Coder-3B-Instruct",
-        "model_name": "Qwen2.5-Coder-3B-Instruct",
+    "Qwen/Qwen2.5-Coder-1.5B": {
+        "name": "Qwen/Qwen2.5-Coder-1.5B",
+        "model_name": "Qwen2.5-Coder-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "display_name": "Qwen2.5 Coder 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
         "tags": [
-            "3B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen2.5-Coder-3B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-3B-Instruct",
-        "model_name": "Qwen2.5-Coder-3B-Instruct",
+    "aphrodite/Qwen/Qwen2.5-Coder-1.5B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-1.5B",
+        "model_name": "Qwen2.5-Coder-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "display_name": "Qwen2.5 Coder 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
         "tags": [
-            "3B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen2.5-Coder-3B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-Coder-3B-Instruct",
-        "model_name": "Qwen2.5-Coder-3B-Instruct",
+    "koboldcpp/Qwen2.5-Coder-1.5B": {
+        "name": "koboldcpp/Qwen2.5-Coder-1.5B",
+        "model_name": "Qwen2.5-Coder-1.5B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 1500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen2.5 Coder 3B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "display_name": "Qwen2.5 Coder 1.5B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B",
         "tags": [
-            "3B"
-        ]
-    },
-    "Qwen/Qwen2.5-Coder-7B-Instruct": {
-        "name": "Qwen/Qwen2.5-Coder-7B-Instruct",
-        "model_name": "Qwen2.5-Coder-7B-Instruct",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
-        "tags": [
-            "7B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct": {
-        "name": "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct",
-        "model_name": "Qwen2.5-Coder-7B-Instruct",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
-        "tags": [
-            "7B"
-        ]
-    },
-    "koboldcpp/Qwen2.5-Coder-7B-Instruct": {
-        "name": "koboldcpp/Qwen2.5-Coder-7B-Instruct",
-        "model_name": "Qwen2.5-Coder-7B-Instruct",
-        "baseline": "",
-        "parameters": 7000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen2.5 Coder 7B Instruct",
-        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
-        "tags": [
-            "7B"
+            "2B"
         ]
     },
     "Qwen/Qwen2.5-Coder-14B-Instruct": {
@@ -18778,6 +18565,51 @@
         "nsfw": false,
         "display_name": "Qwen2.5 Coder 14B Instruct",
         "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B-Instruct",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-14B": {
+        "name": "Qwen/Qwen2.5-Coder-14B",
+        "model_name": "Qwen2.5-Coder-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-14B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-14B",
+        "model_name": "Qwen2.5-Coder-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-14B": {
+        "name": "koboldcpp/Qwen2.5-Coder-14B",
+        "model_name": "Qwen2.5-Coder-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 14B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-14B",
         "tags": [
             "14B"
         ]
@@ -18827,6 +18659,141 @@
             "32B"
         ]
     },
+    "Qwen/Qwen2.5-Coder-32B": {
+        "name": "Qwen/Qwen2.5-Coder-32B",
+        "model_name": "Qwen2.5-Coder-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-32B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-32B",
+        "model_name": "Qwen2.5-Coder-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-32B": {
+        "name": "koboldcpp/Qwen2.5-Coder-32B",
+        "model_name": "Qwen2.5-Coder-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 32B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-3B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-3B-Instruct",
+        "model_name": "Qwen2.5-Coder-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-3B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "model_name": "Qwen2.5-Coder-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-3B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-3B-Instruct",
+        "model_name": "Qwen2.5-Coder-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B-Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-3B": {
+        "name": "Qwen/Qwen2.5-Coder-3B",
+        "model_name": "Qwen2.5-Coder-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-3B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-3B",
+        "model_name": "Qwen2.5-Coder-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-3B": {
+        "name": "koboldcpp/Qwen2.5-Coder-3B",
+        "model_name": "Qwen2.5-Coder-3B",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 3B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-3B",
+        "tags": [
+            "3B"
+        ]
+    },
     "Qwen/Qwen2.5-Coder-72B-Instruct": {
         "name": "Qwen/Qwen2.5-Coder-72B-Instruct",
         "model_name": "Qwen2.5-Coder-72B-Instruct",
@@ -18872,139 +18839,139 @@
             "72B"
         ]
     },
-    "Qwen/QwQ-32B-Preview": {
-        "name": "Qwen/QwQ-32B-Preview",
-        "model_name": "QwQ-32B-Preview",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B Preview",
-        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/QwQ-32B-Preview": {
-        "name": "aphrodite/Qwen/QwQ-32B-Preview",
-        "model_name": "QwQ-32B-Preview",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B Preview",
-        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/QwQ-32B-Preview": {
-        "name": "koboldcpp/QwQ-32B-Preview",
-        "model_name": "QwQ-32B-Preview",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B Preview",
-        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/QwQ-32B": {
-        "name": "Qwen/QwQ-32B",
-        "model_name": "QwQ-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B",
-        "url": "https://huggingface.co/Qwen/QwQ-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "aphrodite/Qwen/QwQ-32B": {
-        "name": "aphrodite/Qwen/QwQ-32B",
-        "model_name": "QwQ-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B",
-        "url": "https://huggingface.co/Qwen/QwQ-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "koboldcpp/QwQ-32B": {
-        "name": "koboldcpp/QwQ-32B",
-        "model_name": "QwQ-32B",
-        "baseline": "",
-        "parameters": 32000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "QwQ 32B",
-        "url": "https://huggingface.co/Qwen/QwQ-32B",
-        "tags": [
-            "32B"
-        ]
-    },
-    "Qwen/QVQ-72B-Preview": {
-        "name": "Qwen/QVQ-72B-Preview",
-        "model_name": "QVQ-72B-Preview",
+    "Qwen/Qwen2.5-Coder-72B": {
+        "name": "Qwen/Qwen2.5-Coder-72B",
+        "model_name": "Qwen2.5-Coder-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "QVQ 72B Preview",
-        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
+        "display_name": "Qwen2.5 Coder 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
         "tags": [
             "72B"
         ]
     },
-    "aphrodite/Qwen/QVQ-72B-Preview": {
-        "name": "aphrodite/Qwen/QVQ-72B-Preview",
-        "model_name": "QVQ-72B-Preview",
+    "aphrodite/Qwen/Qwen2.5-Coder-72B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-72B",
+        "model_name": "Qwen2.5-Coder-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "QVQ 72B Preview",
-        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
+        "display_name": "Qwen2.5 Coder 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
         "tags": [
             "72B"
         ]
     },
-    "koboldcpp/QVQ-72B-Preview": {
-        "name": "koboldcpp/QVQ-72B-Preview",
-        "model_name": "QVQ-72B-Preview",
+    "koboldcpp/Qwen2.5-Coder-72B": {
+        "name": "koboldcpp/Qwen2.5-Coder-72B",
+        "model_name": "Qwen2.5-Coder-72B",
         "baseline": "",
         "parameters": 72000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "QVQ 72B Preview",
-        "url": "https://huggingface.co/Qwen/QVQ-72B-Preview",
+        "display_name": "Qwen2.5 Coder 72B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-72B",
         "tags": [
             "72B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-7B-Instruct": {
+        "name": "Qwen/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-7B-Instruct": {
+        "name": "koboldcpp/Qwen2.5-Coder-7B-Instruct",
+        "model_name": "Qwen2.5-Coder-7B-Instruct",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B Instruct",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct",
+        "tags": [
+            "7B"
+        ]
+    },
+    "Qwen/Qwen2.5-Coder-7B": {
+        "name": "Qwen/Qwen2.5-Coder-7B",
+        "model_name": "Qwen2.5-Coder-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen2.5-Coder-7B": {
+        "name": "aphrodite/Qwen/Qwen2.5-Coder-7B",
+        "model_name": "Qwen2.5-Coder-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
+        "tags": [
+            "7B"
+        ]
+    },
+    "koboldcpp/Qwen2.5-Coder-7B": {
+        "name": "koboldcpp/Qwen2.5-Coder-7B",
+        "model_name": "Qwen2.5-Coder-7B",
+        "baseline": "",
+        "parameters": 7000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen2.5 Coder 7B",
+        "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
+        "tags": [
+            "7B"
         ]
     },
     "Qwen/Qwen3-0.6B-Base": {
@@ -19048,6 +19015,51 @@
         "nsfw": false,
         "display_name": "Qwen3 0.6B Base",
         "url": "https://huggingface.co/Qwen/Qwen3-0.6B-Base",
+        "tags": [
+            "1B"
+        ]
+    },
+    "Qwen/Qwen3-0.6B": {
+        "name": "Qwen/Qwen3-0.6B",
+        "model_name": "Qwen3-0.6B",
+        "baseline": "",
+        "parameters": 600000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 0.6B",
+        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "tags": [
+            "1B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-0.6B": {
+        "name": "aphrodite/Qwen/Qwen3-0.6B",
+        "model_name": "Qwen3-0.6B",
+        "baseline": "",
+        "parameters": 600000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 0.6B",
+        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "tags": [
+            "1B"
+        ]
+    },
+    "koboldcpp/Qwen3-0.6B": {
+        "name": "koboldcpp/Qwen3-0.6B",
+        "model_name": "Qwen3-0.6B",
+        "baseline": "",
+        "parameters": 600000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 0.6B",
+        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
         "tags": [
             "1B"
         ]
@@ -19097,94 +19109,49 @@
             "2B"
         ]
     },
-    "Qwen/Qwen3-4B-Base": {
-        "name": "Qwen/Qwen3-4B-Base",
-        "model_name": "Qwen3-4B-Base",
+    "Qwen/Qwen3-1.7B": {
+        "name": "Qwen/Qwen3-1.7B",
+        "model_name": "Qwen3-1.7B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 4B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
+        "display_name": "Qwen3 1.7B",
+        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
         "tags": [
-            "4B"
+            "2B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-4B-Base": {
-        "name": "aphrodite/Qwen/Qwen3-4B-Base",
-        "model_name": "Qwen3-4B-Base",
+    "aphrodite/Qwen/Qwen3-1.7B": {
+        "name": "aphrodite/Qwen/Qwen3-1.7B",
+        "model_name": "Qwen3-1.7B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 4B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
+        "display_name": "Qwen3 1.7B",
+        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
         "tags": [
-            "4B"
+            "2B"
         ]
     },
-    "koboldcpp/Qwen3-4B-Base": {
-        "name": "koboldcpp/Qwen3-4B-Base",
-        "model_name": "Qwen3-4B-Base",
+    "koboldcpp/Qwen3-1.7B": {
+        "name": "koboldcpp/Qwen3-1.7B",
+        "model_name": "Qwen3-1.7B",
         "baseline": "",
-        "parameters": 4000000000,
+        "parameters": 1700000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 4B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
+        "display_name": "Qwen3 1.7B",
+        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
         "tags": [
-            "4B"
-        ]
-    },
-    "Qwen/Qwen3-8B-Base": {
-        "name": "Qwen/Qwen3-8B-Base",
-        "model_name": "Qwen3-8B-Base",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-8B-Base": {
-        "name": "aphrodite/Qwen/Qwen3-8B-Base",
-        "model_name": "Qwen3-8B-Base",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Qwen3-8B-Base": {
-        "name": "koboldcpp/Qwen3-8B-Base",
-        "model_name": "Qwen3-8B-Base",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B Base",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
-        "tags": [
-            "8B"
+            "2B"
         ]
     },
     "Qwen/Qwen3-14B-Base": {
@@ -19232,6 +19199,186 @@
             "14B"
         ]
     },
+    "Qwen/Qwen3-14B": {
+        "name": "Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "url": "https://huggingface.co/Qwen/Qwen3-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-14B": {
+        "name": "aphrodite/Qwen/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "url": "https://huggingface.co/Qwen/Qwen3-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Qwen3-14B": {
+        "name": "koboldcpp/Qwen3-14B",
+        "model_name": "Qwen3-14B",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 14B",
+        "url": "https://huggingface.co/Qwen/Qwen3-14B",
+        "tags": [
+            "14B"
+        ]
+    },
+    "Qwen/Qwen3-235B-A22B-Instruct-2507": {
+        "name": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "model_name": "Qwen3-235B-A22B-Instruct-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-235B-A22B-Instruct-2507": {
+        "name": "aphrodite/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "model_name": "Qwen3-235B-A22B-Instruct-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "koboldcpp/Qwen3-235B-A22B-Instruct-2507": {
+        "name": "koboldcpp/Qwen3-235B-A22B-Instruct-2507",
+        "model_name": "Qwen3-235B-A22B-Instruct-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "Qwen/Qwen3-235B-A22B-Thinking-2507": {
+        "name": "Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-235B-A22B-Thinking-2507": {
+        "name": "aphrodite/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "koboldcpp/Qwen3-235B-A22B-Thinking-2507": {
+        "name": "koboldcpp/Qwen3-235B-A22B-Thinking-2507",
+        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "tags": [
+            "117B"
+        ]
+    },
+    "Qwen/Qwen3-235B-A22B": {
+        "name": "Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-235B-A22B": {
+        "name": "aphrodite/Qwen/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "tags": [
+            "117B"
+        ]
+    },
+    "koboldcpp/Qwen3-235B-A22B": {
+        "name": "koboldcpp/Qwen3-235B-A22B",
+        "model_name": "Qwen3-235B-A22B",
+        "baseline": "",
+        "parameters": 117000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 235B A22B",
+        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "tags": [
+            "117B"
+        ]
+    },
     "Qwen/Qwen3-30B-A3B-Base": {
         "name": "Qwen/Qwen3-30B-A3B-Base",
         "model_name": "Qwen3-30B-A3B-Base",
@@ -19277,229 +19424,94 @@
             "15B"
         ]
     },
-    "Qwen/Qwen3-0.6B": {
-        "name": "Qwen/Qwen3-0.6B",
-        "model_name": "Qwen3-0.6B",
+    "Qwen/Qwen3-30B-A3B-Instruct-2507": {
+        "name": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+        "model_name": "Qwen3-30B-A3B-Instruct-2507",
         "baseline": "",
-        "parameters": 600000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "display_name": "Qwen3 30B A3B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
         "tags": [
-            "1B"
+            "15B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-0.6B": {
-        "name": "aphrodite/Qwen/Qwen3-0.6B",
-        "model_name": "Qwen3-0.6B",
+    "aphrodite/Qwen/Qwen3-30B-A3B-Instruct-2507": {
+        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Instruct-2507",
+        "model_name": "Qwen3-30B-A3B-Instruct-2507",
         "baseline": "",
-        "parameters": 600000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "display_name": "Qwen3 30B A3B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
         "tags": [
-            "1B"
+            "15B"
         ]
     },
-    "koboldcpp/Qwen3-0.6B": {
-        "name": "koboldcpp/Qwen3-0.6B",
-        "model_name": "Qwen3-0.6B",
+    "koboldcpp/Qwen3-30B-A3B-Instruct-2507": {
+        "name": "koboldcpp/Qwen3-30B-A3B-Instruct-2507",
+        "model_name": "Qwen3-30B-A3B-Instruct-2507",
         "baseline": "",
-        "parameters": 600000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+        "display_name": "Qwen3 30B A3B Instruct 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
         "tags": [
-            "1B"
+            "15B"
         ]
     },
-    "Qwen/Qwen3-1.7B": {
-        "name": "Qwen/Qwen3-1.7B",
-        "model_name": "Qwen3-1.7B",
+    "Qwen/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
         "baseline": "",
-        "parameters": 1700000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 1.7B",
-        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
         "tags": [
-            "2B"
+            "15B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-1.7B": {
-        "name": "aphrodite/Qwen/Qwen3-1.7B",
-        "model_name": "Qwen3-1.7B",
+    "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
         "baseline": "",
-        "parameters": 1700000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 1.7B",
-        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
         "tags": [
-            "2B"
+            "15B"
         ]
     },
-    "koboldcpp/Qwen3-1.7B": {
-        "name": "koboldcpp/Qwen3-1.7B",
-        "model_name": "Qwen3-1.7B",
+    "koboldcpp/Qwen3-30B-A3B-Thinking-2507": {
+        "name": "koboldcpp/Qwen3-30B-A3B-Thinking-2507",
+        "model_name": "Qwen3-30B-A3B-Thinking-2507",
         "baseline": "",
-        "parameters": 1700000000,
+        "parameters": 15000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 1.7B",
-        "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+        "display_name": "Qwen3 30B A3B Thinking 2507",
+        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
         "tags": [
-            "2B"
-        ]
-    },
-    "Qwen/Qwen3-4B": {
-        "name": "Qwen/Qwen3-4B",
-        "model_name": "Qwen3-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-4B": {
-        "name": "aphrodite/Qwen/Qwen3-4B",
-        "model_name": "Qwen3-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "koboldcpp/Qwen3-4B": {
-        "name": "koboldcpp/Qwen3-4B",
-        "model_name": "Qwen3-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-4B",
-        "tags": [
-            "4B"
-        ]
-    },
-    "Qwen/Qwen3-8B": {
-        "name": "Qwen/Qwen3-8B",
-        "model_name": "Qwen3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-8B": {
-        "name": "aphrodite/Qwen/Qwen3-8B",
-        "model_name": "Qwen3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "koboldcpp/Qwen3-8B": {
-        "name": "koboldcpp/Qwen3-8B",
-        "model_name": "Qwen3-8B",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-8B",
-        "tags": [
-            "8B"
-        ]
-    },
-    "Qwen/Qwen3-14B": {
-        "name": "Qwen/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "url": "https://huggingface.co/Qwen/Qwen3-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-14B": {
-        "name": "aphrodite/Qwen/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "url": "https://huggingface.co/Qwen/Qwen3-14B",
-        "tags": [
-            "14B"
-        ]
-    },
-    "koboldcpp/Qwen3-14B": {
-        "name": "koboldcpp/Qwen3-14B",
-        "model_name": "Qwen3-14B",
-        "baseline": "",
-        "parameters": 14000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 14B",
-        "url": "https://huggingface.co/Qwen/Qwen3-14B",
-        "tags": [
-            "14B"
+            "15B"
         ]
     },
     "Qwen/Qwen3-30B-A3B": {
@@ -19592,49 +19604,49 @@
             "32B"
         ]
     },
-    "Qwen/Qwen3-235B-A22B": {
-        "name": "Qwen/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
+    "Qwen/Qwen3-4B-Base": {
+        "name": "Qwen/Qwen3-4B-Base",
+        "model_name": "Qwen3-4B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "display_name": "Qwen3 4B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
         "tags": [
-            "117B"
+            "4B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-235B-A22B": {
-        "name": "aphrodite/Qwen/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
+    "aphrodite/Qwen/Qwen3-4B-Base": {
+        "name": "aphrodite/Qwen/Qwen3-4B-Base",
+        "model_name": "Qwen3-4B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "display_name": "Qwen3 4B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
         "tags": [
-            "117B"
+            "4B"
         ]
     },
-    "koboldcpp/Qwen3-235B-A22B": {
-        "name": "koboldcpp/Qwen3-235B-A22B",
-        "model_name": "Qwen3-235B-A22B",
+    "koboldcpp/Qwen3-4B-Base": {
+        "name": "koboldcpp/Qwen3-4B-Base",
+        "model_name": "Qwen3-4B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B",
+        "display_name": "Qwen3 4B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B-Base",
         "tags": [
-            "117B"
+            "4B"
         ]
     },
     "Qwen/Qwen3-4B-Instruct-2507": {
@@ -19682,96 +19694,6 @@
             "4B"
         ]
     },
-    "Qwen/Qwen3-30B-A3B-Instruct-2507": {
-        "name": "Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "model_name": "Qwen3-30B-A3B-Instruct-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-30B-A3B-Instruct-2507": {
-        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "model_name": "Qwen3-30B-A3B-Instruct-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "koboldcpp/Qwen3-30B-A3B-Instruct-2507": {
-        "name": "koboldcpp/Qwen3-30B-A3B-Instruct-2507",
-        "model_name": "Qwen3-30B-A3B-Instruct-2507",
-        "baseline": "",
-        "parameters": 15000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 30B A3B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507",
-        "tags": [
-            "15B"
-        ]
-    },
-    "Qwen/Qwen3-235B-A22B-Instruct-2507": {
-        "name": "Qwen/Qwen3-235B-A22B-Instruct-2507",
-        "model_name": "Qwen3-235B-A22B-Instruct-2507",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
-        "tags": [
-            "117B"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-235B-A22B-Instruct-2507": {
-        "name": "aphrodite/Qwen/Qwen3-235B-A22B-Instruct-2507",
-        "model_name": "Qwen3-235B-A22B-Instruct-2507",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
-        "tags": [
-            "117B"
-        ]
-    },
-    "koboldcpp/Qwen3-235B-A22B-Instruct-2507": {
-        "name": "koboldcpp/Qwen3-235B-A22B-Instruct-2507",
-        "model_name": "Qwen3-235B-A22B-Instruct-2507",
-        "baseline": "",
-        "parameters": 117000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Qwen3 235B A22B Instruct 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
-        "tags": [
-            "117B"
-        ]
-    },
     "Qwen/Qwen3-4B-Thinking-2507": {
         "name": "Qwen/Qwen3-4B-Thinking-2507",
         "model_name": "Qwen3-4B-Thinking-2507",
@@ -19817,94 +19739,139 @@
             "4B"
         ]
     },
-    "Qwen/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+    "Qwen/Qwen3-4B": {
+        "name": "Qwen/Qwen3-4B",
+        "model_name": "Qwen3-4B",
         "baseline": "",
-        "parameters": 15000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "display_name": "Qwen3 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B",
         "tags": [
-            "15B"
+            "4B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "aphrodite/Qwen/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+    "aphrodite/Qwen/Qwen3-4B": {
+        "name": "aphrodite/Qwen/Qwen3-4B",
+        "model_name": "Qwen3-4B",
         "baseline": "",
-        "parameters": 15000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "display_name": "Qwen3 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B",
         "tags": [
-            "15B"
+            "4B"
         ]
     },
-    "koboldcpp/Qwen3-30B-A3B-Thinking-2507": {
-        "name": "koboldcpp/Qwen3-30B-A3B-Thinking-2507",
-        "model_name": "Qwen3-30B-A3B-Thinking-2507",
+    "koboldcpp/Qwen3-4B": {
+        "name": "koboldcpp/Qwen3-4B",
+        "model_name": "Qwen3-4B",
         "baseline": "",
-        "parameters": 15000000000,
+        "parameters": 4000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 30B A3B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "display_name": "Qwen3 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3-4B",
         "tags": [
-            "15B"
+            "4B"
         ]
     },
-    "Qwen/Qwen3-235B-A22B-Thinking-2507": {
-        "name": "Qwen/Qwen3-235B-A22B-Thinking-2507",
-        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+    "Qwen/Qwen3-8B-Base": {
+        "name": "Qwen/Qwen3-8B-Base",
+        "model_name": "Qwen3-8B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "display_name": "Qwen3 8B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
         "tags": [
-            "117B"
+            "8B"
         ]
     },
-    "aphrodite/Qwen/Qwen3-235B-A22B-Thinking-2507": {
-        "name": "aphrodite/Qwen/Qwen3-235B-A22B-Thinking-2507",
-        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+    "aphrodite/Qwen/Qwen3-8B-Base": {
+        "name": "aphrodite/Qwen/Qwen3-8B-Base",
+        "model_name": "Qwen3-8B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "display_name": "Qwen3 8B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
         "tags": [
-            "117B"
+            "8B"
         ]
     },
-    "koboldcpp/Qwen3-235B-A22B-Thinking-2507": {
-        "name": "koboldcpp/Qwen3-235B-A22B-Thinking-2507",
-        "model_name": "Qwen3-235B-A22B-Thinking-2507",
+    "koboldcpp/Qwen3-8B-Base": {
+        "name": "koboldcpp/Qwen3-8B-Base",
+        "model_name": "Qwen3-8B-Base",
         "baseline": "",
-        "parameters": 117000000000,
+        "parameters": 8000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
-        "display_name": "Qwen3 235B A22B Thinking 2507",
-        "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+        "display_name": "Qwen3 8B Base",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-Base",
         "tags": [
-            "117B"
+            "8B"
+        ]
+    },
+    "Qwen/Qwen3-8B": {
+        "name": "Qwen/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-8B": {
+        "name": "aphrodite/Qwen/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Qwen3-8B": {
+        "name": "koboldcpp/Qwen3-8B",
+        "model_name": "Qwen3-8B",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3 8B",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B",
+        "tags": [
+            "8B"
         ]
     },
     "Qwen/Qwen3-Coder-30B-A3B-Instruct": {
@@ -19995,6 +19962,96 @@
         "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct",
         "tags": [
             "240B"
+        ]
+    },
+    "Qwen/QwQ-32B-Preview": {
+        "name": "Qwen/QwQ-32B-Preview",
+        "model_name": "QwQ-32B-Preview",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B Preview",
+        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/QwQ-32B-Preview": {
+        "name": "aphrodite/Qwen/QwQ-32B-Preview",
+        "model_name": "QwQ-32B-Preview",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B Preview",
+        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/QwQ-32B-Preview": {
+        "name": "koboldcpp/QwQ-32B-Preview",
+        "model_name": "QwQ-32B-Preview",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B Preview",
+        "url": "https://huggingface.co/Qwen/QwQ-32B-Preview",
+        "tags": [
+            "32B"
+        ]
+    },
+    "Qwen/QwQ-32B": {
+        "name": "Qwen/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "url": "https://huggingface.co/Qwen/QwQ-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "aphrodite/Qwen/QwQ-32B": {
+        "name": "aphrodite/Qwen/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "url": "https://huggingface.co/Qwen/QwQ-32B",
+        "tags": [
+            "32B"
+        ]
+    },
+    "koboldcpp/QwQ-32B": {
+        "name": "koboldcpp/QwQ-32B",
+        "model_name": "QwQ-32B",
+        "baseline": "",
+        "parameters": 32000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QwQ 32B",
+        "url": "https://huggingface.co/Qwen/QwQ-32B",
+        "tags": [
+            "32B"
         ]
     },
     "ReadyArt/4.2.0-Broken-Tutu-24b": {
@@ -24233,6 +24290,57 @@
         ],
         "instruct_format": "Metharme"
     },
+    "TheDrummer/Behemoth-X-123B-v2.1": {
+        "name": "TheDrummer/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Behemoth-X-123B-v2.1": {
+        "name": "aphrodite/TheDrummer/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Behemoth-X-123B-v2.1": {
+        "name": "koboldcpp/Behemoth-X-123B-v2.1",
+        "model_name": "Behemoth-X-123B-v2.1",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth X 123B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-X-123B-v2.1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "TheDrummer/Big-Alice-28B-v1": {
         "name": "TheDrummer/Big-Alice-28B-v1",
         "model_name": "Big-Alice-28B-v1",
@@ -28049,63 +28157,6 @@
             "16B"
         ]
     },
-    "yamatazen/NeonMaid-12B-v2": {
-        "name": "yamatazen/NeonMaid-12B-v2",
-        "model_name": "NeonMaid-12B-v2",
-        "baseline": "",
-        "parameters": 12200000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "NeonMaid 12B v2",
-        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
-        "tags": [
-            "12B",
-            "chat",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "aphrodite/yamatazen/NeonMaid-12B-v2": {
-        "name": "aphrodite/yamatazen/NeonMaid-12B-v2",
-        "model_name": "NeonMaid-12B-v2",
-        "baseline": "",
-        "parameters": 12200000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "NeonMaid 12B v2",
-        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
-        "tags": [
-            "12B",
-            "chat",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "koboldcpp/NeonMaid-12B-v2": {
-        "name": "koboldcpp/NeonMaid-12B-v2",
-        "model_name": "NeonMaid-12B-v2",
-        "baseline": "",
-        "parameters": 12200000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "NeonMaid 12B v2",
-        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
-        "tags": [
-            "12B",
-            "chat",
-            "popular",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
-    },
     "yamatazen/EtherealAurora-12B-v2": {
         "name": "yamatazen/EtherealAurora-12B-v2",
         "model_name": "EtherealAurora-12B-v2",
@@ -28160,60 +28211,60 @@
         ],
         "instruct_format": "ChatML"
     },
-    "LatitudeGames/Muse-12B": {
-        "name": "LatitudeGames/Muse-12B",
-        "model_name": "Muse-12B",
-        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+    "yamatazen/NeonMaid-12B-v2": {
+        "name": "yamatazen/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
         "parameters": 12200000000,
-        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "description": "",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Muse 12B",
-        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
         "tags": [
             "12B",
             "chat",
-            "roleplay",
-            "storytelling"
+            "popular",
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
-    "aphrodite/LatitudeGames/Muse-12B": {
-        "name": "aphrodite/LatitudeGames/Muse-12B",
-        "model_name": "Muse-12B",
-        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+    "aphrodite/yamatazen/NeonMaid-12B-v2": {
+        "name": "aphrodite/yamatazen/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
         "parameters": 12200000000,
-        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "description": "",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Muse 12B",
-        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
         "tags": [
             "12B",
             "chat",
-            "roleplay",
-            "storytelling"
+            "popular",
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
-    "koboldcpp/Muse-12B": {
-        "name": "koboldcpp/Muse-12B",
-        "model_name": "Muse-12B",
-        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+    "koboldcpp/NeonMaid-12B-v2": {
+        "name": "koboldcpp/NeonMaid-12B-v2",
+        "model_name": "NeonMaid-12B-v2",
+        "baseline": "",
         "parameters": 12200000000,
-        "description": "Muse brings an extra dimension to any tale-whether you're exploring a fantastical realm, court intrigue, or slice-of-life scenarios where a conversation can be as meaningful as a quest. While it handles adventure capably, Muse truly shines when character relationships and emotions are at the forefront, delivering impressive narrative coherence over long contexts.",
+        "description": "",
         "version": "1",
         "style": "chat",
         "nsfw": false,
-        "display_name": "Muse 12B",
-        "url": "https://huggingface.co/LatitudeGames/Muse-12B",
+        "display_name": "NeonMaid 12B v2",
+        "url": "https://huggingface.co/yamatazen/NeonMaid-12B-v2",
         "tags": [
             "12B",
             "chat",
-            "roleplay",
-            "storytelling"
+            "popular",
+            "roleplay"
         ],
         "instruct_format": "ChatML"
     },
