@@ -20294,6 +20294,69 @@
             "unaligned"
         ]
     },
+    "ReadyArt/Dark-Nexus-12B-v2.0": {
+        "name": "ReadyArt/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "aphrodite/ReadyArt/Dark-Nexus-12B-v2.0": {
+        "name": "aphrodite/ReadyArt/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
+    "koboldcpp/Dark-Nexus-12B-v2.0": {
+        "name": "koboldcpp/Dark-Nexus-12B-v2.0",
+        "model_name": "Dark-Nexus-12B-v2.0",
+        "baseline": "TheDrummer/UnslopNemo-12B-v3",
+        "parameters": 12000000000,
+        "description": "This model doesn't just cross lines - it erases them with arterial spray. Features: Cleaned Dataset, Enhanced Gore Protocols, Balanced Depravity, Enhanced Character Piloting, Mortality Awareness",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Dark Nexus 12B v2.0",
+        "url": "https://huggingface.co/ReadyArt/Dark-Nexus-12B-v2.0",
+        "tags": [
+            "12B",
+            "chat",
+            "explicit",
+            "horror",
+            "roleplay",
+            "unaligned",
+            "violence"
+        ]
+    },
     "ReadyArt/Forgotten-Safeword-22B": {
         "name": "ReadyArt/Forgotten-Safeword-22B",
         "model_name": "Forgotten-Safeword-22B",
