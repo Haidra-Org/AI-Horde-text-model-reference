@@ -26126,6 +26126,60 @@
         ],
         "instruct_format": "Llama 3 Chat"
     },
+    "TheDrummer/Valkyrie-49B-v2": {
+        "name": "TheDrummer/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Chat"
+    },
+    "aphrodite/TheDrummer/Valkyrie-49B-v2": {
+        "name": "aphrodite/TheDrummer/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Chat"
+    },
+    "koboldcpp/Valkyrie-49B-v2": {
+        "name": "koboldcpp/Valkyrie-49B-v2",
+        "model_name": "Valkyrie-49B-v2",
+        "baseline": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+        "parameters": 50000000000,
+        "description": "AI characters are giving quite life-like responses and reactions, with good understanding of complicated concepts. Has good character adherence to a variety of different archetypes, pretty good situation adherence and reacts well to sys commands.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Chat"
+    },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
         "model_name": "llama-3-cat-8b-instruct-v1",
