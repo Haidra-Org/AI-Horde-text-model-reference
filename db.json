@@ -28552,5 +28552,50 @@
         "tags": [
             "55B"
         ]
+    },
+    "zai-org/GLM-4.6": {
+        "name": "zai-org/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 100000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "100B"
+        ]
+    },
+    "aphrodite/zai-org/GLM-4.6": {
+        "name": "aphrodite/zai-org/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 100000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "100B"
+        ]
+    },
+    "koboldcpp/GLM-4.6": {
+        "name": "koboldcpp/GLM-4.6",
+        "model_name": "GLM-4.6",
+        "baseline": "",
+        "parameters": 100000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.6",
+        "url": "https://huggingface.co/zai-org/GLM-4.6",
+        "tags": [
+            "100B"
+        ]
     }
 }
