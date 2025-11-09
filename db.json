@@ -28557,7 +28557,7 @@
         "name": "zai-org/GLM-4.6",
         "model_name": "GLM-4.6",
         "baseline": "",
-        "parameters": 100000000000,
+        "parameters": 200000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -28565,14 +28565,14 @@
         "display_name": "GLM 4.6",
         "url": "https://huggingface.co/zai-org/GLM-4.6",
         "tags": [
-            "100B"
+            "200B"
         ]
     },
     "aphrodite/zai-org/GLM-4.6": {
         "name": "aphrodite/zai-org/GLM-4.6",
         "model_name": "GLM-4.6",
         "baseline": "",
-        "parameters": 100000000000,
+        "parameters": 200000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -28580,14 +28580,14 @@
         "display_name": "GLM 4.6",
         "url": "https://huggingface.co/zai-org/GLM-4.6",
         "tags": [
-            "100B"
+            "200B"
         ]
     },
     "koboldcpp/GLM-4.6": {
         "name": "koboldcpp/GLM-4.6",
         "model_name": "GLM-4.6",
         "baseline": "",
-        "parameters": 100000000000,
+        "parameters": 200000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -28595,7 +28595,7 @@
         "display_name": "GLM 4.6",
         "url": "https://huggingface.co/zai-org/GLM-4.6",
         "tags": [
-            "100B"
+            "200B"
         ]
     }
 }
