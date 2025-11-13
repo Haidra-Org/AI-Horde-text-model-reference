@@ -28597,5 +28597,53 @@
         "tags": [
             "200B"
         ]
+    },
+    "https://huggingface.co/Undi95/Lumimaid-Magnum-12B": {
+        "name": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/https://huggingface.co/Undi95/Lumimaid-Magnum-12B": {
+        "name": "aphrodite/https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/": {
+        "name": "koboldcpp/",
+        "model_name": "",
+        "baseline": "NeverSleep/Lumimaid-v0.2-12B",
+        "parameters": 12000000000,
+        "description": "Merge of Lumimaid and Magnum",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "url": "https://huggingface.co/Undi95/Lumimaid-Magnum-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ]
     }
 }
