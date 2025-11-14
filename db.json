@@ -22562,6 +22562,48 @@
             "24B"
         ]
     },
+    "SicariusSicariiStuff/Sweet_Dreams_12B": {
+        "name": "SicariusSicariiStuff/Sweet_Dreams_12B",
+        "model_name": "Sweet_Dreams_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Sweet Dreams 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Sweet_Dreams_12B": {
+        "name": "aphrodite/SicariusSicariiStuff/Sweet_Dreams_12B",
+        "model_name": "Sweet_Dreams_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Sweet Dreams 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Sweet_Dreams_12B": {
+        "name": "koboldcpp/Sweet_Dreams_12B",
+        "model_name": "Sweet_Dreams_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Sweet Dreams 12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "SicariusSicariiStuff/Tenebra_30B_Alpha01_FP16": {
         "name": "SicariusSicariiStuff/Tenebra_30B_Alpha01_FP16",
         "model_name": "Tenebra_30B_Alpha01_FP16",
