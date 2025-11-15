@@ -28747,5 +28747,47 @@
         "tags": [
             "200B"
         ]
+    },
+    "zerofata/MS3.2-PaintedFantasy-v3-24B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-v3-24B",
+        "model_name": "MS3.2-PaintedFantasy-v3-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B",
+        "model_name": "MS3.2-PaintedFantasy-v3-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-v3-24B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-v3-24B",
+        "model_name": "MS3.2-PaintedFantasy-v3-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "tags": [
+            "24B"
+        ]
     }
 }
