@@ -13541,6 +13541,72 @@
             "tool-use"
         ]
     },
+    "moonshotai/Kimi-K2-Thinking": {
+        "name": "moonshotai/Kimi-K2-Thinking",
+        "model_name": "Kimi-K2-Thinking",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. It sets a new state-of-the-art on Humanity's Last Exam (HLE), BrowseComp, and other benchmarks by dramatically scaling multi-step reasoning depth and maintaining stable tool-use across 200-300 sequential calls.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Thinking",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool-use"
+        ]
+    },
+    "aphrodite/moonshotai/Kimi-K2-Thinking": {
+        "name": "aphrodite/moonshotai/Kimi-K2-Thinking",
+        "model_name": "Kimi-K2-Thinking",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. It sets a new state-of-the-art on Humanity's Last Exam (HLE), BrowseComp, and other benchmarks by dramatically scaling multi-step reasoning depth and maintaining stable tool-use across 200-300 sequential calls.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Thinking",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool-use"
+        ]
+    },
+    "koboldcpp/Kimi-K2-Thinking": {
+        "name": "koboldcpp/Kimi-K2-Thinking",
+        "model_name": "Kimi-K2-Thinking",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2 Thinking is the latest, most capable version of open-source thinking model. Starting with Kimi K2, we built it as a thinking agent that reasons step-by-step while dynamically invoking tools. It sets a new state-of-the-art on Humanity's Last Exam (HLE), BrowseComp, and other benchmarks by dramatically scaling multi-step reasoning depth and maintaining stable tool-use across 200-300 sequential calls.",
+        "version": "1",
+        "style": "conversational",
+        "nsfw": false,
+        "display_name": "Kimi K2 Thinking",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool-use"
+        ]
+    },
     "mosaicml/mpt-1b-redpajama-200b-dolly": {
         "name": "mosaicml/mpt-1b-redpajama-200b-dolly",
         "model_name": "mpt-1b-redpajama-200b-dolly",
