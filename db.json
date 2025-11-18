@@ -3602,6 +3602,60 @@
         ],
         "instruct_format": "Mistral v7 Tekken"
     },
+    "DreadPoor/Famino-12B-Model_Stock": {
+        "name": "DreadPoor/Famino-12B-Model_Stock",
+        "model_name": "Famino-12B-Model_Stock",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Famino 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Famino-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/DreadPoor/Famino-12B-Model_Stock": {
+        "name": "aphrodite/DreadPoor/Famino-12B-Model_Stock",
+        "model_name": "Famino-12B-Model_Stock",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Famino 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Famino-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/Famino-12B-Model_Stock": {
+        "name": "koboldcpp/Famino-12B-Model_Stock",
+        "model_name": "Famino-12B-Model_Stock",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Famino 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Famino-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
     "DreadPoor/Irix-12B-Model_Stock": {
         "name": "DreadPoor/Irix-12B-Model_Stock",
         "model_name": "Irix-12B-Model_Stock",
