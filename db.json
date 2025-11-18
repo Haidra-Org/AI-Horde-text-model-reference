@@ -1844,6 +1844,114 @@
             "34B"
         ]
     },
+    "BruhzWater/Sapphira-L3.3-70b-0.1": {
+        "name": "BruhzWater/Sapphira-L3.3-70b-0.1",
+        "model_name": "Sapphira-L3.3-70b-0.1",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Ranks 2nd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is great for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.1",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.1",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "aphrodite/BruhzWater/Sapphira-L3.3-70b-0.1": {
+        "name": "aphrodite/BruhzWater/Sapphira-L3.3-70b-0.1",
+        "model_name": "Sapphira-L3.3-70b-0.1",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Ranks 2nd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is great for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.1",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.1",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "koboldcpp/Sapphira-L3.3-70b-0.1": {
+        "name": "koboldcpp/Sapphira-L3.3-70b-0.1",
+        "model_name": "Sapphira-L3.3-70b-0.1",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Ranks 2nd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is great for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.1",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.1",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "BruhzWater/Sapphira-L3.3-70b-0.2": {
+        "name": "BruhzWater/Sapphira-L3.3-70b-0.2",
+        "model_name": "Sapphira-L3.3-70b-0.2",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Storytelling and RP model similar to Sapphira-L3.3-70b-0.1, but a little spicier. Ranks 3rd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is excellent for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.2",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "aphrodite/BruhzWater/Sapphira-L3.3-70b-0.2": {
+        "name": "aphrodite/BruhzWater/Sapphira-L3.3-70b-0.2",
+        "model_name": "Sapphira-L3.3-70b-0.2",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Storytelling and RP model similar to Sapphira-L3.3-70b-0.1, but a little spicier. Ranks 3rd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is excellent for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.2",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "koboldcpp/Sapphira-L3.3-70b-0.2": {
+        "name": "koboldcpp/Sapphira-L3.3-70b-0.2",
+        "model_name": "Sapphira-L3.3-70b-0.2",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Storytelling and RP model similar to Sapphira-L3.3-70b-0.1, but a little spicier. Ranks 3rd place in UGI under 100B on the UGI Leaderboard with high Willingness and Writing scores. This model is excellent for general ERP.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Sapphira L3.3 70b 0.2",
+        "url": "https://huggingface.co/BruhzWater/Sapphira-L3.3-70b-0.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
     "CalderaAI/13B-BlueMethod": {
         "name": "CalderaAI/13B-BlueMethod",
         "model_name": "13B-BlueMethod",
