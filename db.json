@@ -1844,6 +1844,60 @@
             "34B"
         ]
     },
+    "BruhzWater/Edens-Fall-L3.3-70b-0.3b": {
+        "name": "BruhzWater/Edens-Fall-L3.3-70b-0.3b",
+        "model_name": "Edens-Fall-L3.3-70b-0.3b",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Tuner's Notes: Final stage of a 3 part merge. I wanted to try to create a model for creative writing that had lengthy responses without repeating story beats. This one feels relatively unique, but still being tested.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Edens Fall L3.3 70b 0.3b",
+        "url": "https://huggingface.co/BruhzWater/Edens-Fall-L3.3-70b-0.3b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "aphrodite/BruhzWater/Edens-Fall-L3.3-70b-0.3b": {
+        "name": "aphrodite/BruhzWater/Edens-Fall-L3.3-70b-0.3b",
+        "model_name": "Edens-Fall-L3.3-70b-0.3b",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Tuner's Notes: Final stage of a 3 part merge. I wanted to try to create a model for creative writing that had lengthy responses without repeating story beats. This one feels relatively unique, but still being tested.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Edens Fall L3.3 70b 0.3b",
+        "url": "https://huggingface.co/BruhzWater/Edens-Fall-L3.3-70b-0.3b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
+    "koboldcpp/Edens-Fall-L3.3-70b-0.3b": {
+        "name": "koboldcpp/Edens-Fall-L3.3-70b-0.3b",
+        "model_name": "Edens-Fall-L3.3-70b-0.3b",
+        "baseline": "deepcogito/cogito-v2-preview-llama-70B",
+        "parameters": 71000000000,
+        "description": "Tuner's Notes: Final stage of a 3 part merge. I wanted to try to create a model for creative writing that had lengthy responses without repeating story beats. This one feels relatively unique, but still being tested.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Edens Fall L3.3 70b 0.3b",
+        "url": "https://huggingface.co/BruhzWater/Edens-Fall-L3.3-70b-0.3b",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama3"
+    },
     "BruhzWater/Sapphira-L3.3-70b-0.1": {
         "name": "BruhzWater/Sapphira-L3.3-70b-0.1",
         "model_name": "Sapphira-L3.3-70b-0.1",
@@ -3811,6 +3865,60 @@
         "nsfw": false,
         "display_name": "Irix 12B Model Stock",
         "url": "https://huggingface.co/DreadPoor/Irix-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "DreadPoor/Smoothie-12B-Model_Stock": {
+        "name": "DreadPoor/Smoothie-12B-Model_Stock",
+        "model_name": "Smoothie-12B-Model_Stock",
+        "baseline": "DreadPoor/Ward-12B-Model_Stock",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Smoothie 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Smoothie-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/DreadPoor/Smoothie-12B-Model_Stock": {
+        "name": "aphrodite/DreadPoor/Smoothie-12B-Model_Stock",
+        "model_name": "Smoothie-12B-Model_Stock",
+        "baseline": "DreadPoor/Ward-12B-Model_Stock",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Smoothie 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Smoothie-12B-Model_Stock",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/Smoothie-12B-Model_Stock": {
+        "name": "koboldcpp/Smoothie-12B-Model_Stock",
+        "model_name": "Smoothie-12B-Model_Stock",
+        "baseline": "DreadPoor/Ward-12B-Model_Stock",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Smoothie 12B Model Stock",
+        "url": "https://huggingface.co/DreadPoor/Smoothie-12B-Model_Stock",
         "tags": [
             "12B",
             "chat",
@@ -6940,6 +7048,438 @@
         "tags": [
             "7B"
         ]
+    },
+    "FlareRebellion/WeirdCompound-v1.7-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.7-24b",
+        "model_name": "WeirdCompound-v1.7-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.7-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.7-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.7-24b",
+        "model_name": "WeirdCompound-v1.7-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.7-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.7-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.7-24b",
+        "model_name": "WeirdCompound-v1.7-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.7-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.6-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.6-24b",
+        "model_name": "WeirdCompound-v1.6-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.6 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.6-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.6-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.6-24b",
+        "model_name": "WeirdCompound-v1.6-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.6 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.6-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.6-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.6-24b",
+        "model_name": "WeirdCompound-v1.6-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.6 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.6-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.5-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.5-24b",
+        "model_name": "WeirdCompound-v1.5-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.5 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.5-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.5-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.5-24b",
+        "model_name": "WeirdCompound-v1.5-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.5 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.5-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.5-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.5-24b",
+        "model_name": "WeirdCompound-v1.5-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.5 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.5-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.4-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.4-24b",
+        "model_name": "WeirdCompound-v1.4-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.4 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.4-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.4-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.4-24b",
+        "model_name": "WeirdCompound-v1.4-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.4 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.4-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.4-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.4-24b",
+        "model_name": "WeirdCompound-v1.4-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.4 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.4-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.3-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.3-24b",
+        "model_name": "WeirdCompound-v1.3-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.3 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.3-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.3-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.3-24b",
+        "model_name": "WeirdCompound-v1.3-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.3 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.3-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.3-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.3-24b",
+        "model_name": "WeirdCompound-v1.3-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.3 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.3-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.2-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.2-24b",
+        "model_name": "WeirdCompound-v1.2-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.2 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.2-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.2-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.2-24b",
+        "model_name": "WeirdCompound-v1.2-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.2 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.2-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.2-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.2-24b",
+        "model_name": "WeirdCompound-v1.2-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.2 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.2-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.1-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.1-24b",
+        "model_name": "WeirdCompound-v1.1-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.1 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.1-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.1-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.1-24b",
+        "model_name": "WeirdCompound-v1.1-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.1 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.1-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.1-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.1-24b",
+        "model_name": "WeirdCompound-v1.1-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.1 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.1-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "FlareRebellion/WeirdCompound-v1.0-24b": {
+        "name": "FlareRebellion/WeirdCompound-v1.0-24b",
+        "model_name": "WeirdCompound-v1.0-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.0 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.0-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/FlareRebellion/WeirdCompound-v1.0-24b": {
+        "name": "aphrodite/FlareRebellion/WeirdCompound-v1.0-24b",
+        "model_name": "WeirdCompound-v1.0-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.0 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.0-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/WeirdCompound-v1.0-24b": {
+        "name": "koboldcpp/WeirdCompound-v1.0-24b",
+        "model_name": "WeirdCompound-v1.0-24b",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.0 24b",
+        "url": "https://huggingface.co/FlareRebellion/WeirdCompound-v1.0-24b",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
     },
     "FluffyKaeloky/Luminum-v0.1-123B": {
         "name": "FluffyKaeloky/Luminum-v0.1-123B",
