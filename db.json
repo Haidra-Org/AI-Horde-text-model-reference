@@ -12287,6 +12287,48 @@
             "70B"
         ]
     },
+    "Marcjoni/QuasiStarSynth-12B": {
+        "name": "Marcjoni/QuasiStarSynth-12B",
+        "model_name": "QuasiStarSynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QuasiStarSynth 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/Marcjoni/QuasiStarSynth-12B": {
+        "name": "aphrodite/Marcjoni/QuasiStarSynth-12B",
+        "model_name": "QuasiStarSynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QuasiStarSynth 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/QuasiStarSynth-12B": {
+        "name": "koboldcpp/QuasiStarSynth-12B",
+        "model_name": "QuasiStarSynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "QuasiStarSynth 12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "MarinaraSpaghetti/NemoMix-Unleashed-12B": {
         "name": "MarinaraSpaghetti/NemoMix-Unleashed-12B",
         "model_name": "NemoMix-Unleashed-12B",
