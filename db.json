@@ -13901,6 +13901,174 @@
         ],
         "instruct_format": "Mistral"
     },
+    "mistralai/Ministral-3-8B-Reasoning-2512": {
+        "name": "mistralai/Ministral-3-8B-Reasoning-2512",
+        "model_name": "Ministral-3-8B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Reasoning 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/mistralai/Ministral-3-8B-Reasoning-2512": {
+        "name": "aphrodite/mistralai/Ministral-3-8B-Reasoning-2512",
+        "model_name": "Ministral-3-8B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Reasoning 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Ministral-3-8B-Reasoning-2512": {
+        "name": "koboldcpp/Ministral-3-8B-Reasoning-2512",
+        "model_name": "Ministral-3-8B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Reasoning 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "mistralai/Ministral-3-8B-Instruct-2512": {
+        "name": "mistralai/Ministral-3-8B-Instruct-2512",
+        "model_name": "Ministral-3-8B-Instruct-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Instruct 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "aphrodite/mistralai/Ministral-3-8B-Instruct-2512": {
+        "name": "aphrodite/mistralai/Ministral-3-8B-Instruct-2512",
+        "model_name": "Ministral-3-8B-Instruct-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Instruct 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "koboldcpp/Ministral-3-8B-Instruct-2512": {
+        "name": "koboldcpp/Ministral-3-8B-Instruct-2512",
+        "model_name": "Ministral-3-8B-Instruct-2512",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 8B Instruct 2512",
+        "tags": [
+            "8B"
+        ]
+    },
+    "mistralai/Ministral-3-14B-Reasoning-2512": {
+        "name": "mistralai/Ministral-3-14B-Reasoning-2512",
+        "model_name": "Ministral-3-14B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Reasoning 2512",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/mistralai/Ministral-3-14B-Reasoning-2512": {
+        "name": "aphrodite/mistralai/Ministral-3-14B-Reasoning-2512",
+        "model_name": "Ministral-3-14B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Reasoning 2512",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Ministral-3-14B-Reasoning-2512": {
+        "name": "koboldcpp/Ministral-3-14B-Reasoning-2512",
+        "model_name": "Ministral-3-14B-Reasoning-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Reasoning 2512",
+        "tags": [
+            "14B"
+        ]
+    },
+    "mistralai/Ministral-3-14B-Instruct-2512": {
+        "name": "mistralai/Ministral-3-14B-Instruct-2512",
+        "model_name": "Ministral-3-14B-Instruct-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Instruct 2512",
+        "tags": [
+            "14B"
+        ]
+    },
+    "aphrodite/mistralai/Ministral-3-14B-Instruct-2512": {
+        "name": "aphrodite/mistralai/Ministral-3-14B-Instruct-2512",
+        "model_name": "Ministral-3-14B-Instruct-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Instruct 2512",
+        "tags": [
+            "14B"
+        ]
+    },
+    "koboldcpp/Ministral-3-14B-Instruct-2512": {
+        "name": "koboldcpp/Ministral-3-14B-Instruct-2512",
+        "model_name": "Ministral-3-14B-Instruct-2512",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Ministral 3 14B Instruct 2512",
+        "tags": [
+            "14B"
+        ]
+    },
     "mistralai/Mistral-Nemo-Instruct-2407": {
         "name": "mistralai/Mistral-Nemo-Instruct-2407",
         "model_name": "Mistral-Nemo-Instruct-2407",
