@@ -12287,6 +12287,60 @@
             "70B"
         ]
     },
+    "Marcjoni/SingularitySynth-12B": {
+        "name": "Marcjoni/SingularitySynth-12B",
+        "model_name": "SingularitySynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Merge of Irix-12B-Model_Stock and EtherealAurora-12B-v2.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "SingularitySynth 12B",
+        "url": "https://huggingface.co/Marcjoni/SingularitySynth-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/Marcjoni/SingularitySynth-12B": {
+        "name": "aphrodite/Marcjoni/SingularitySynth-12B",
+        "model_name": "SingularitySynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Merge of Irix-12B-Model_Stock and EtherealAurora-12B-v2.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "SingularitySynth 12B",
+        "url": "https://huggingface.co/Marcjoni/SingularitySynth-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/SingularitySynth-12B": {
+        "name": "koboldcpp/SingularitySynth-12B",
+        "model_name": "SingularitySynth-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Merge of Irix-12B-Model_Stock and EtherealAurora-12B-v2.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "SingularitySynth 12B",
+        "url": "https://huggingface.co/Marcjoni/SingularitySynth-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
     "Marcjoni/QuasiStarSynth-12B": {
         "name": "Marcjoni/QuasiStarSynth-12B",
         "model_name": "QuasiStarSynth-12B",
