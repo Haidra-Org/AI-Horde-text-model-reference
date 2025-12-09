@@ -26246,6 +26246,60 @@
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
+    "TheDrummer/Cydonia-24B-v4.3": {
+        "name": "TheDrummer/Cydonia-24B-v4.3",
+        "model_name": "Cydonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Cydonia-24B-v4.3": {
+        "name": "aphrodite/TheDrummer/Cydonia-24B-v4.3",
+        "model_name": "Cydonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Cydonia-24B-v4.3": {
+        "name": "koboldcpp/Cydonia-24B-v4.3",
+        "model_name": "Cydonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Cydonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Cydonia-24B-v4.3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Cydonia-R1-24B-v4": {
         "name": "TheDrummer/Cydonia-R1-24B-v4",
         "model_name": "Cydonia-R1-24B-v4",
@@ -26722,6 +26776,60 @@
         "nsfw": false,
         "display_name": "Magidonia 24B v4.2.0",
         "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.2.0",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "TheDrummer/Magidonia-24B-v4.3": {
+        "name": "TheDrummer/Magidonia-24B-v4.3",
+        "model_name": "Magidonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Magidonia-24B-v4.3": {
+        "name": "aphrodite/TheDrummer/Magidonia-24B-v4.3",
+        "model_name": "Magidonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.3",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Magidonia-24B-v4.3": {
+        "name": "koboldcpp/Magidonia-24B-v4.3",
+        "model_name": "Magidonia-24B-v4.3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Magidonia 24B v4.3",
+        "url": "https://huggingface.co/TheDrummer/Magidonia-24B-v4.3",
         "tags": [
             "24B",
             "chat",
