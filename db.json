@@ -22904,6 +22904,48 @@
             "3B"
         ]
     },
+    "SicariusSicariiStuff/Angelic_Eclipse_12B": {
+        "name": "SicariusSicariiStuff/Angelic_Eclipse_12B",
+        "model_name": "Angelic_Eclipse_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Angelic Eclipse 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Angelic_Eclipse_12B": {
+        "name": "aphrodite/SicariusSicariiStuff/Angelic_Eclipse_12B",
+        "model_name": "Angelic_Eclipse_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Angelic Eclipse 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Angelic_Eclipse_12B": {
+        "name": "koboldcpp/Angelic_Eclipse_12B",
+        "model_name": "Angelic_Eclipse_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Angelic Eclipse 12B",
+        "tags": [
+            "12B"
+        ]
+    },
     "SicariusSicariiStuff/Dusk_Rainbow": {
         "name": "SicariusSicariiStuff/Dusk_Rainbow",
         "model_name": "Dusk_Rainbow",
@@ -23031,6 +23073,48 @@
         "display_name": "Fiendish LLAMA 3B",
         "tags": [
             "3B"
+        ]
+    },
+    "SicariusSicariiStuff/Impish_Bloodmoon_12B": {
+        "name": "SicariusSicariiStuff/Impish_Bloodmoon_12B",
+        "model_name": "Impish_Bloodmoon_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Bloodmoon 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Impish_Bloodmoon_12B": {
+        "name": "aphrodite/SicariusSicariiStuff/Impish_Bloodmoon_12B",
+        "model_name": "Impish_Bloodmoon_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Bloodmoon 12B",
+        "tags": [
+            "12B"
+        ]
+    },
+    "koboldcpp/Impish_Bloodmoon_12B": {
+        "name": "koboldcpp/Impish_Bloodmoon_12B",
+        "model_name": "Impish_Bloodmoon_12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Impish Bloodmoon 12B",
+        "tags": [
+            "12B"
         ]
     },
     "SicariusSicariiStuff/Impish_LLAMA_3B": {
