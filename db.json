@@ -22946,6 +22946,57 @@
             "12B"
         ]
     },
+    "SicariusSicariiStuff/Assistant_Pepe_8B": {
+        "name": "SicariusSicariiStuff/Assistant_Pepe_8B",
+        "model_name": "Assistant_Pepe_8B",
+        "baseline": "nvidia/Llama-3.1-Nemotron-8B-UltraLong-1M-Instruct",
+        "parameters": 8000000000,
+        "description": "This amphibious AI has learned the ways of /g/, and speaks fluent brainrot, but will also help you out with just about anything you'll need, and won't be ashamed to roast you while at it.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Assistant_Pepe_8B": {
+        "name": "aphrodite/SicariusSicariiStuff/Assistant_Pepe_8B",
+        "model_name": "Assistant_Pepe_8B",
+        "baseline": "nvidia/Llama-3.1-Nemotron-8B-UltraLong-1M-Instruct",
+        "parameters": 8000000000,
+        "description": "This amphibious AI has learned the ways of /g/, and speaks fluent brainrot, but will also help you out with just about anything you'll need, and won't be ashamed to roast you while at it.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Assistant_Pepe_8B": {
+        "name": "koboldcpp/Assistant_Pepe_8B",
+        "model_name": "Assistant_Pepe_8B",
+        "baseline": "nvidia/Llama-3.1-Nemotron-8B-UltraLong-1M-Instruct",
+        "parameters": 8000000000,
+        "description": "This amphibious AI has learned the ways of /g/, and speaks fluent brainrot, but will also help you out with just about anything you'll need, and won't be ashamed to roast you while at it.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 8B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_8B",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "SicariusSicariiStuff/Dusk_Rainbow": {
         "name": "SicariusSicariiStuff/Dusk_Rainbow",
         "model_name": "Dusk_Rainbow",
@@ -25358,6 +25409,57 @@
         ],
         "instruct_format": "Llama 3 Instruct"
     },
+    "TheDrummer/Anubis-70B-v1.2": {
+        "name": "TheDrummer/Anubis-70B-v1.2",
+        "model_name": "Anubis-70B-v1.2",
+        "baseline": "",
+        "parameters": 71000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Anubis-70B-v1.2": {
+        "name": "aphrodite/TheDrummer/Anubis-70B-v1.2",
+        "model_name": "Anubis-70B-v1.2",
+        "baseline": "",
+        "parameters": 71000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Anubis-70B-v1.2": {
+        "name": "koboldcpp/Anubis-70B-v1.2",
+        "model_name": "Anubis-70B-v1.2",
+        "baseline": "",
+        "parameters": 71000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis 70B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Anubis-70B-v1.2",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "TheDrummer/Anubis-Pro-105B-v1": {
         "name": "TheDrummer/Anubis-Pro-105B-v1",
         "model_name": "Anubis-Pro-105B-v1",
@@ -27254,6 +27356,63 @@
             "12B"
         ]
     },
+    "TheDrummer/Rocinante-X-12B-v1": {
+        "name": "TheDrummer/Rocinante-X-12B-v1",
+        "model_name": "Rocinante-X-12B-v1",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "Rocinante's back - stronger than ever! A worthy successor to the legendary Rocinante 12B v1.1 from over a year ago! Like all other 4.0 gen models from TheDrummer, this one focuses on RP. Updated prose, better writing, fun dialogue, and robust roleplaying!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Rocinante X 12B v1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-X-12B-v1",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "thinking"
+        ],
+        "instruct_format": "Mistral V3 Tekken"
+    },
+    "aphrodite/TheDrummer/Rocinante-X-12B-v1": {
+        "name": "aphrodite/TheDrummer/Rocinante-X-12B-v1",
+        "model_name": "Rocinante-X-12B-v1",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "Rocinante's back - stronger than ever! A worthy successor to the legendary Rocinante 12B v1.1 from over a year ago! Like all other 4.0 gen models from TheDrummer, this one focuses on RP. Updated prose, better writing, fun dialogue, and robust roleplaying!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Rocinante X 12B v1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-X-12B-v1",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "thinking"
+        ],
+        "instruct_format": "Mistral V3 Tekken"
+    },
+    "koboldcpp/Rocinante-X-12B-v1": {
+        "name": "koboldcpp/Rocinante-X-12B-v1",
+        "model_name": "Rocinante-X-12B-v1",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "Rocinante's back - stronger than ever! A worthy successor to the legendary Rocinante 12B v1.1 from over a year ago! Like all other 4.0 gen models from TheDrummer, this one focuses on RP. Updated prose, better writing, fun dialogue, and robust roleplaying!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Rocinante X 12B v1",
+        "url": "https://huggingface.co/TheDrummer/Rocinante-X-12B-v1",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "thinking"
+        ],
+        "instruct_format": "Mistral V3 Tekken"
+    },
     "TheDrummer/Skyfall-31B-v4": {
         "name": "TheDrummer/Skyfall-31B-v4",
         "model_name": "Skyfall-31B-v4",
@@ -27311,6 +27470,60 @@
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
+    "TheDrummer/Skyfall-31B-v4.1": {
+        "name": "TheDrummer/Skyfall-31B-v4.1",
+        "model_name": "Skyfall-31B-v4.1",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/TheDrummer/Skyfall-31B-v4.1": {
+        "name": "aphrodite/TheDrummer/Skyfall-31B-v4.1",
+        "model_name": "Skyfall-31B-v4.1",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/Skyfall-31B-v4.1": {
+        "name": "koboldcpp/Skyfall-31B-v4.1",
+        "model_name": "Skyfall-31B-v4.1",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Skyfall 31B v4.1",
+        "url": "https://huggingface.co/TheDrummer/Skyfall-31B-v4.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "TheDrummer/Skyfall-36B-v2": {
         "name": "TheDrummer/Skyfall-36B-v2",
         "model_name": "Skyfall-36B-v2",
@@ -27327,7 +27540,6 @@
             "agentic",
             "chat",
             "mathematics",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27348,7 +27560,6 @@
             "agentic",
             "chat",
             "mathematics",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27369,7 +27580,6 @@
             "agentic",
             "chat",
             "mathematics",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27734,6 +27944,57 @@
         ],
         "instruct_format": "Llama 3 Chat"
     },
+    "TheDrummer/Valkyrie-49B-v2.1": {
+        "name": "TheDrummer/Valkyrie-49B-v2.1",
+        "model_name": "Valkyrie-49B-v2.1",
+        "baseline": "",
+        "parameters": 50000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2.1",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/TheDrummer/Valkyrie-49B-v2.1": {
+        "name": "aphrodite/TheDrummer/Valkyrie-49B-v2.1",
+        "model_name": "Valkyrie-49B-v2.1",
+        "baseline": "",
+        "parameters": 50000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2.1",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Valkyrie-49B-v2.1": {
+        "name": "koboldcpp/Valkyrie-49B-v2.1",
+        "model_name": "Valkyrie-49B-v2.1",
+        "baseline": "",
+        "parameters": 50000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Valkyrie 49B v2.1",
+        "url": "https://huggingface.co/TheDrummer/Valkyrie-49B-v2.1",
+        "tags": [
+            "50B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "TheSkullery/llama-3-cat-8b-instruct-v1": {
         "name": "TheSkullery/llama-3-cat-8b-instruct-v1",
         "model_name": "llama-3-cat-8b-instruct-v1",
@@ -27796,7 +28057,6 @@
             "coding",
             "conversational",
             "mathematics",
-            "popular",
             "utility"
         ]
     },
@@ -27817,7 +28077,6 @@
             "coding",
             "conversational",
             "mathematics",
-            "popular",
             "utility"
         ]
     },
@@ -27838,7 +28097,6 @@
             "coding",
             "conversational",
             "mathematics",
-            "popular",
             "utility"
         ]
     },
