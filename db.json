@@ -2243,6 +2243,57 @@
         ],
         "instruct_format": "Llama 3 Instruct"
     },
+    "Casual-Autopsy/Maginum-Cydoms-24B": {
+        "name": "Casual-Autopsy/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of: Magidonia, Precog, Cydonia from Drummer; Broken Tutu from ReadyArt; Painted Fantasy v3 AND v2 from zerofata; and some extra Magistral small for good measure. Scores 34.34 for UGI and 42.65 for Writing on the UGI Leaderboard. A great model for (E)RP.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B": {
+        "name": "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of: Magidonia, Precog, Cydonia from Drummer; Broken Tutu from ReadyArt; Painted Fantasy v3 AND v2 from zerofata; and some extra Magistral small for good measure. Scores 34.34 for UGI and 42.65 for Writing on the UGI Leaderboard. A great model for (E)RP.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
+    "koboldcpp/Maginum-Cydoms-24B": {
+        "name": "koboldcpp/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "Merge of: Magidonia, Precog, Cydonia from Drummer; Broken Tutu from ReadyArt; Painted Fantasy v3 AND v2 from zerofata; and some extra Magistral small for good measure. Scores 34.34 for UGI and 42.65 for Writing on the UGI Leaderboard. A great model for (E)RP.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
+        "tags": [
+            "24B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral v7 Tekken"
+    },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
         "model_name": "L3-TheSpice-8b-v0.8.3",
