@@ -2243,6 +2243,48 @@
         ],
         "instruct_format": "Llama 3 Instruct"
     },
+    "Casual-Autopsy/Maginum-Cydoms-24B": {
+        "name": "Casual-Autopsy/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B": {
+        "name": "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "tags": [
+            "24B"
+        ]
+    },
+    "koboldcpp/Maginum-Cydoms-24B": {
+        "name": "koboldcpp/Maginum-Cydoms-24B",
+        "model_name": "Maginum-Cydoms-24B",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Maginum Cydoms 24B",
+        "tags": [
+            "24B"
+        ]
+    },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
         "model_name": "L3-TheSpice-8b-v0.8.3",
