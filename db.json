@@ -3194,6 +3194,57 @@
             "7B"
         ]
     },
+    "Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "DatToad/Chuluun-Qwen2.5-32B-v0.01": {
         "name": "DatToad/Chuluun-Qwen2.5-32B-v0.01",
         "model_name": "Chuluun-Qwen2.5-32B-v0.01",
@@ -3318,57 +3369,6 @@
         "display_name": "Chuluun Qwen2.5 72B v0.08",
         "tags": [
             "72B"
-        ]
-    },
-    "Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
-        "name": "Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
-        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
-        "baseline": "zai-org/GLM-4.5-Air",
-        "parameters": 53000000000,
-        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "GLM Air 4.5 106B Animus V12.1",
-        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
-        "tags": [
-            "53B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
-        "name": "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
-        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
-        "baseline": "zai-org/GLM-4.5-Air",
-        "parameters": 53000000000,
-        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "GLM Air 4.5 106B Animus V12.1",
-        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
-        "tags": [
-            "53B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1": {
-        "name": "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1",
-        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
-        "baseline": "zai-org/GLM-4.5-Air",
-        "parameters": 53000000000,
-        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "GLM Air 4.5 106B Animus V12.1",
-        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
-        "tags": [
-            "53B",
-            "chat",
-            "roleplay"
         ]
     },
     "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
@@ -13409,6 +13409,48 @@
             "1B"
         ]
     },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+        "name": "meta-llama/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "aphrodite/meta-llama/Llama-3.2-3B-Instruct": {
+        "name": "aphrodite/meta-llama/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
+    "koboldcpp/Llama-3.2-3B-Instruct": {
+        "name": "koboldcpp/Llama-3.2-3B-Instruct",
+        "model_name": "Llama-3.2-3B-Instruct",
+        "baseline": "",
+        "parameters": 3000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Llama 3.2 3B Instruct",
+        "tags": [
+            "3B"
+        ]
+    },
     "meta-llama/Llama-3.2-3B": {
         "name": "meta-llama/Llama-3.2-3B",
         "model_name": "Llama-3.2-3B",
@@ -13450,48 +13492,6 @@
         "nsfw": false,
         "display_name": "Llama 3.2 3B",
         "url": "https://huggingface.co/meta-llama/Llama-3.2-3B",
-        "tags": [
-            "3B"
-        ]
-    },
-    "meta-llama/Llama-3.2-3B-Instruct": {
-        "name": "meta-llama/Llama-3.2-3B-Instruct",
-        "model_name": "Llama-3.2-3B-Instruct",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 3B Instruct",
-        "tags": [
-            "3B"
-        ]
-    },
-    "aphrodite/meta-llama/Llama-3.2-3B-Instruct": {
-        "name": "aphrodite/meta-llama/Llama-3.2-3B-Instruct",
-        "model_name": "Llama-3.2-3B-Instruct",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 3B Instruct",
-        "tags": [
-            "3B"
-        ]
-    },
-    "koboldcpp/Llama-3.2-3B-Instruct": {
-        "name": "koboldcpp/Llama-3.2-3B-Instruct",
-        "model_name": "Llama-3.2-3B-Instruct",
-        "baseline": "",
-        "parameters": 3000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "Llama 3.2 3B Instruct",
         "tags": [
             "3B"
         ]
@@ -13910,6 +13910,108 @@
             "88B"
         ]
     },
+    "mistralai/Devstral-2-123B-Instruct-2512": {
+        "name": "mistralai/Devstral-2-123B-Instruct-2512",
+        "model_name": "Devstral-2-123B-Instruct-2512",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral 2 123B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512",
+        "tags": [
+            "123B",
+            "agentic",
+            "coder"
+        ]
+    },
+    "aphrodite/mistralai/Devstral-2-123B-Instruct-2512": {
+        "name": "aphrodite/mistralai/Devstral-2-123B-Instruct-2512",
+        "model_name": "Devstral-2-123B-Instruct-2512",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral 2 123B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512",
+        "tags": [
+            "123B",
+            "agentic",
+            "coder"
+        ]
+    },
+    "koboldcpp/Devstral-2-123B-Instruct-2512": {
+        "name": "koboldcpp/Devstral-2-123B-Instruct-2512",
+        "model_name": "Devstral-2-123B-Instruct-2512",
+        "baseline": "",
+        "parameters": 123000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral 2 123B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-2-123B-Instruct-2512",
+        "tags": [
+            "123B",
+            "agentic",
+            "coder"
+        ]
+    },
+    "mistralai/Devstral-Small-2-24B-Instruct-2512": {
+        "name": "mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "model_name": "Devstral-Small-2-24B-Instruct-2512",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral Small 2 24B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "tags": [
+            "24B",
+            "agentic",
+            "coder"
+        ]
+    },
+    "aphrodite/mistralai/Devstral-Small-2-24B-Instruct-2512": {
+        "name": "aphrodite/mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "model_name": "Devstral-Small-2-24B-Instruct-2512",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral Small 2 24B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "tags": [
+            "24B",
+            "agentic",
+            "coder"
+        ]
+    },
+    "koboldcpp/Devstral-Small-2-24B-Instruct-2512": {
+        "name": "koboldcpp/Devstral-Small-2-24B-Instruct-2512",
+        "model_name": "Devstral-Small-2-24B-Instruct-2512",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "parameters": 24000000000,
+        "description": "Devstral is an agentic LLM for software engineering tasks. Devstral 2 excels at using tools to explore codebases, editing multiple files, and powering software engineering agents.",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Devstral Small 2 24B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512",
+        "tags": [
+            "24B",
+            "agentic",
+            "coder"
+        ]
+    },
     "mistralai/Ministral-3-14B-Instruct-2512": {
         "name": "mistralai/Ministral-3-14B-Instruct-2512",
         "model_name": "Ministral-3-14B-Instruct-2512",
@@ -13920,8 +14022,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist"
         ]
     },
     "aphrodite/mistralai/Ministral-3-14B-Instruct-2512": {
@@ -13934,8 +14039,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist"
         ]
     },
     "koboldcpp/Ministral-3-14B-Instruct-2512": {
@@ -13948,8 +14056,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist"
         ]
     },
     "mistralai/Ministral-3-14B-Reasoning-2512": {
@@ -13962,8 +14073,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Reasoning-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "aphrodite/mistralai/Ministral-3-14B-Reasoning-2512": {
@@ -13976,8 +14091,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Reasoning-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "koboldcpp/Ministral-3-14B-Reasoning-2512": {
@@ -13990,8 +14109,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-14B-Reasoning-2512",
         "tags": [
-            "14B"
+            "14B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "mistralai/Ministral-3-8B-Instruct-2512": {
@@ -14004,8 +14127,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist"
         ]
     },
     "aphrodite/mistralai/Ministral-3-8B-Instruct-2512": {
@@ -14018,8 +14144,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist"
         ]
     },
     "koboldcpp/Ministral-3-8B-Instruct-2512": {
@@ -14032,8 +14161,11 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Instruct 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist"
         ]
     },
     "mistralai/Ministral-3-8B-Reasoning-2512": {
@@ -14046,8 +14178,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Reasoning-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "aphrodite/mistralai/Ministral-3-8B-Reasoning-2512": {
@@ -14060,8 +14196,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Reasoning-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "koboldcpp/Ministral-3-8B-Reasoning-2512": {
@@ -14074,8 +14214,12 @@
         "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 8B Reasoning 2512",
+        "url": "https://huggingface.co/mistralai/Ministral-3-8B-Reasoning-2512",
         "tags": [
-            "8B"
+            "8B",
+            "agentic",
+            "generalist",
+            "thinking"
         ]
     },
     "mistralai/Mistral-7B-Instruct-v0.1": {
