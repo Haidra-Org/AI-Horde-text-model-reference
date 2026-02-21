@@ -3320,6 +3320,57 @@
             "72B"
         ]
     },
+    "Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "aphrodite/Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1": {
+        "name": "koboldcpp/GLM-Air-4.5-106B-Animus-V12.1",
+        "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
+        "baseline": "zai-org/GLM-4.5-Air",
+        "parameters": 53000000000,
+        "description": "V12.1's strength comes from a novel dataset designed to teach the model the why behind the lore, not just the what.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM Air 4.5 106B Animus V12.1",
+        "url": "https://huggingface.co/Darkhn/GLM-Air-4.5-106B-Animus-V12.1?not-for-all-audiences=true",
+        "tags": [
+            "53B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b": {
         "name": "DavidAU/Psyonic-Cetacean-Ultra-Quality-20b",
         "model_name": "Psyonic-Cetacean-Ultra-Quality-20b",
