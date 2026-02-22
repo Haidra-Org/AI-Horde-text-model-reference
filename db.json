@@ -284,6 +284,57 @@
             "22B"
         ]
     },
+    "allura-org/Tlacuilo-12B": {
+        "name": "allura-org/Tlacuilo-12B",
+        "model_name": "Tlacuilo-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Tlacuilo 12B",
+        "url": "https://huggingface.co/allura-org/Tlacuilo-12B",
+        "tags": [
+            "12B",
+            "chat"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/allura-org/Tlacuilo-12B": {
+        "name": "aphrodite/allura-org/Tlacuilo-12B",
+        "model_name": "Tlacuilo-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Tlacuilo 12B",
+        "url": "https://huggingface.co/allura-org/Tlacuilo-12B",
+        "tags": [
+            "12B",
+            "chat"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Tlacuilo-12B": {
+        "name": "koboldcpp/Tlacuilo-12B",
+        "model_name": "Tlacuilo-12B",
+        "baseline": "mistralai/Mistral-Nemo-Base-2407",
+        "parameters": 12000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Tlacuilo 12B",
+        "url": "https://huggingface.co/allura-org/Tlacuilo-12B",
+        "tags": [
+            "12B",
+            "chat"
+        ],
+        "instruct_format": "ChatML"
+    },
     "alpindale/goliath-120b": {
         "name": "alpindale/goliath-120b",
         "model_name": "goliath-120b",

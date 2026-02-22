@@ -5,6 +5,7 @@ Aeala/Enterredaas-65b,65,,https://huggingface.co/Aeala/Enterredaas-65b,,,,,,
 aetherwiing/MN-12B-Starcannon-v3,12,,,,,,,,
 ai21labs/AI21-Jamba-1.5-Mini,26,,https://huggingface.co/ai21labs/AI21-Jamba-1.5-Mini,,,,,,
 allura-org/MS-Meadowlark-22B,22,,https://huggingface.co/allura-org/MS-Meadowlark-22B,,,,,,
+allura-org/Tlacuilo-12B,12,,https://huggingface.co/allura-org/Tlacuilo-12B,mistralai/Mistral-Nemo-Base-2407,,chat,,ChatML,
 alpindale/goliath-120b,120,,https://huggingface.co/alpindale/goliath-120b,,,,,,
 alpindale/magnum-72b-v1,72,,,,,,,,
 anthracite-org/magnum-12b-v2,12,Magnum 12B V2,https://huggingface.co/anthracite-org/magnum-v2-12b,mistralai/Mistral-Nemo-Base-2407,"Very diverse and creative model. May fall behind in logic compared to some other models but generally regarded as one of the more ""fun"" models in terms of how it writes. Good at both Story and RP.",roleplay,story,ChatML,"{""temperature"": 0.75, ""min_p"": 0.1}"
