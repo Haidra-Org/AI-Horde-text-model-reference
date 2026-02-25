@@ -14906,6 +14906,72 @@
             "tool-use"
         ]
     },
+    "moonshotai/Kimi-K2.5": {
+        "name": "moonshotai/Kimi-K2.5",
+        "model_name": "Kimi-K2.5",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2.5 is an open-source, native multimodal agentic model built through continual pretraining on approximately 15 trillion mixed visual and text tokens atop Kimi-K2-Base. It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Kimi K2.5",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "generalist",
+            "reasoning",
+            "tool-use",
+            "vision"
+        ]
+    },
+    "aphrodite/moonshotai/Kimi-K2.5": {
+        "name": "aphrodite/moonshotai/Kimi-K2.5",
+        "model_name": "Kimi-K2.5",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2.5 is an open-source, native multimodal agentic model built through continual pretraining on approximately 15 trillion mixed visual and text tokens atop Kimi-K2-Base. It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Kimi K2.5",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "generalist",
+            "reasoning",
+            "tool-use",
+            "vision"
+        ]
+    },
+    "koboldcpp/Kimi-K2.5": {
+        "name": "koboldcpp/Kimi-K2.5",
+        "model_name": "Kimi-K2.5",
+        "baseline": "",
+        "parameters": 700000000000,
+        "description": "Kimi K2.5 is an open-source, native multimodal agentic model built through continual pretraining on approximately 15 trillion mixed visual and text tokens atop Kimi-K2-Base. It seamlessly integrates vision and language understanding with advanced agentic capabilities, instant and thinking modes, as well as conversational and agentic paradigms.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Kimi K2.5",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.5",
+        "tags": [
+            "700B",
+            "MoE",
+            "agentic",
+            "coding",
+            "generalist",
+            "reasoning",
+            "tool-use",
+            "vision"
+        ]
+    },
     "mosaicml/mpt-1b-redpajama-200b-dolly": {
         "name": "mosaicml/mpt-1b-redpajama-200b-dolly",
         "model_name": "mpt-1b-redpajama-200b-dolly",
@@ -21378,6 +21444,246 @@
         "url": "https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct",
         "tags": [
             "240B"
+        ]
+    },
+    "Qwen/Qwen3-Coder-Next": {
+        "name": "Qwen/Qwen3-Coder-Next",
+        "model_name": "Qwen3-Coder-Next",
+        "baseline": "",
+        "parameters": 40000000000,
+        "description": "",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Qwen3 Coder Next",
+        "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+        "tags": [
+            "40B",
+            "coder"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3-Coder-Next": {
+        "name": "aphrodite/Qwen/Qwen3-Coder-Next",
+        "model_name": "Qwen3-Coder-Next",
+        "baseline": "",
+        "parameters": 40000000000,
+        "description": "",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Qwen3 Coder Next",
+        "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+        "tags": [
+            "40B",
+            "coder"
+        ]
+    },
+    "koboldcpp/Qwen3-Coder-Next": {
+        "name": "koboldcpp/Qwen3-Coder-Next",
+        "model_name": "Qwen3-Coder-Next",
+        "baseline": "",
+        "parameters": 40000000000,
+        "description": "",
+        "version": "1",
+        "style": "coder",
+        "nsfw": false,
+        "display_name": "Qwen3 Coder Next",
+        "url": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+        "tags": [
+            "40B",
+            "coder"
+        ]
+    },
+    "Qwen/Qwen3.5-122B-A10B": {
+        "name": "Qwen/Qwen3.5-122B-A10B",
+        "model_name": "Qwen3.5-122B-A10B",
+        "baseline": "",
+        "parameters": 62000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 122B A10B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+        "tags": [
+            "62B",
+            "generalist"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-122B-A10B": {
+        "name": "aphrodite/Qwen/Qwen3.5-122B-A10B",
+        "model_name": "Qwen3.5-122B-A10B",
+        "baseline": "",
+        "parameters": 62000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 122B A10B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+        "tags": [
+            "62B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Qwen3.5-122B-A10B": {
+        "name": "koboldcpp/Qwen3.5-122B-A10B",
+        "model_name": "Qwen3.5-122B-A10B",
+        "baseline": "",
+        "parameters": 62000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 122B A10B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+        "tags": [
+            "62B",
+            "generalist"
+        ]
+    },
+    "Qwen/Qwen3.5-27B": {
+        "name": "Qwen/Qwen3.5-27B",
+        "model_name": "Qwen3.5-27B",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
+        "tags": [
+            "28B",
+            "generalist"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-27B": {
+        "name": "aphrodite/Qwen/Qwen3.5-27B",
+        "model_name": "Qwen3.5-27B",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
+        "tags": [
+            "28B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Qwen3.5-27B": {
+        "name": "koboldcpp/Qwen3.5-27B",
+        "model_name": "Qwen3.5-27B",
+        "baseline": "",
+        "parameters": 28000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
+        "tags": [
+            "28B",
+            "generalist"
+        ]
+    },
+    "Qwen/Qwen3.5-35B-A3B": {
+        "name": "Qwen/Qwen3.5-35B-A3B",
+        "model_name": "Qwen3.5-35B-A3B",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+        "tags": [
+            "18B",
+            "generalist"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-35B-A3B": {
+        "name": "aphrodite/Qwen/Qwen3.5-35B-A3B",
+        "model_name": "Qwen3.5-35B-A3B",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+        "tags": [
+            "18B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Qwen3.5-35B-A3B": {
+        "name": "koboldcpp/Qwen3.5-35B-A3B",
+        "model_name": "Qwen3.5-35B-A3B",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+        "tags": [
+            "18B",
+            "generalist"
+        ]
+    },
+    "Qwen/Qwen3.5-397B-A17B": {
+        "name": "Qwen/Qwen3.5-397B-A17B",
+        "model_name": "Qwen3.5-397B-A17B",
+        "baseline": "",
+        "parameters": 201000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 397B A17B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+        "tags": [
+            "201B",
+            "generalist"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-397B-A17B": {
+        "name": "aphrodite/Qwen/Qwen3.5-397B-A17B",
+        "model_name": "Qwen3.5-397B-A17B",
+        "baseline": "",
+        "parameters": 201000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 397B A17B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+        "tags": [
+            "201B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Qwen3.5-397B-A17B": {
+        "name": "koboldcpp/Qwen3.5-397B-A17B",
+        "model_name": "Qwen3.5-397B-A17B",
+        "baseline": "",
+        "parameters": 201000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 397B A17B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+        "tags": [
+            "201B",
+            "generalist"
         ]
     },
     "Qwen/QwQ-32B-Preview": {
@@ -30668,46 +30974,100 @@
             "200B"
         ]
     },
+    "zai-org/GLM-5": {
+        "name": "zai-org/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
+            "generalist"
+        ]
+    },
+    "aphrodite/zai-org/GLM-5": {
+        "name": "aphrodite/zai-org/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/GLM-5": {
+        "name": "koboldcpp/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
+            "generalist"
+        ]
+    },
     "zerofata/MS3.2-PaintedFantasy-v3-24B": {
         "name": "zerofata/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B": {
         "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "koboldcpp/MS3.2-PaintedFantasy-v3-24B": {
         "name": "koboldcpp/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "",
+        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
         "nsfw": false,
         "display_name": "MS3.2 PaintedFantasy v3 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "tags": [
             "24B"
-        ]
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     }
 }
