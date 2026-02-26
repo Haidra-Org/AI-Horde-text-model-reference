@@ -26429,6 +26429,117 @@
         ],
         "instruct_format": "Metharme"
     },
+    "TheDrummer/Behemoth-ReduX-123B-v1": {
+        "name": "TheDrummer/Behemoth-ReduX-123B-v1",
+        "model_name": "Behemoth-ReduX-123B-v1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "aphrodite/TheDrummer/Behemoth-ReduX-123B-v1": {
+        "name": "aphrodite/TheDrummer/Behemoth-ReduX-123B-v1",
+        "model_name": "Behemoth-ReduX-123B-v1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "koboldcpp/Behemoth-ReduX-123B-v1": {
+        "name": "koboldcpp/Behemoth-ReduX-123B-v1",
+        "model_name": "Behemoth-ReduX-123B-v1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.0",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "TheDrummer/Behemoth-ReduX-123B-v1.1": {
+        "name": "TheDrummer/Behemoth-ReduX-123B-v1.1",
+        "model_name": "Behemoth-ReduX-123B-v1.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1.1",
+        "tags": [
+            "123B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "aphrodite/TheDrummer/Behemoth-ReduX-123B-v1.1": {
+        "name": "aphrodite/TheDrummer/Behemoth-ReduX-123B-v1.1",
+        "model_name": "Behemoth-ReduX-123B-v1.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1.1",
+        "tags": [
+            "123B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "koboldcpp/Behemoth-ReduX-123B-v1.1": {
+        "name": "koboldcpp/Behemoth-ReduX-123B-v1.1",
+        "model_name": "Behemoth-ReduX-123B-v1.1",
+        "baseline": "mistralai/Mistral-Large-Instruct-2407",
+        "parameters": 123000000000,
+        "description": "A throwback tune of the legedenary Mistral Large 2407. With up-to-date tuning techniques, this 123B tune will not disappoint!",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth ReduX 123B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-ReduX-123B-v1.1",
+        "tags": [
+            "123B",
+            "chat",
+            "popular",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
     "TheDrummer/Behemoth-X-123B-v2.1": {
         "name": "TheDrummer/Behemoth-X-123B-v2.1",
         "model_name": "Behemoth-X-123B-v2.1",
@@ -27025,7 +27136,6 @@
         "tags": [
             "24B",
             "chat",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27044,7 +27154,6 @@
         "tags": [
             "24B",
             "chat",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27063,7 +27172,6 @@
         "tags": [
             "24B",
             "chat",
-            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27136,6 +27244,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27154,6 +27263,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -27172,6 +27282,7 @@
         "tags": [
             "24B",
             "chat",
+            "popular",
             "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
@@ -28009,6 +28120,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay",
             "thinking"
         ],
@@ -28028,6 +28140,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay",
             "thinking"
         ],
@@ -28047,6 +28160,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay",
             "thinking"
         ],
@@ -29887,6 +30001,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ]
     },
@@ -29904,6 +30019,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ]
     },
@@ -29921,6 +30037,7 @@
         "tags": [
             "12B",
             "chat",
+            "popular",
             "roleplay"
         ]
     },
