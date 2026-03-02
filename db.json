@@ -2801,6 +2801,54 @@
             "7B"
         ]
     },
+    "coder3101/Qwen3.5-27B-heretic": {
+        "name": "coder3101/Qwen3.5-27B-heretic",
+        "model_name": "Qwen3.5-27B-heretic",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "This is a decensored version of Qwen/Qwen3.5-27B, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation (MPOA)",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-27B-heretic",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "aphrodite/coder3101/Qwen3.5-27B-heretic": {
+        "name": "aphrodite/coder3101/Qwen3.5-27B-heretic",
+        "model_name": "Qwen3.5-27B-heretic",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "This is a decensored version of Qwen/Qwen3.5-27B, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation (MPOA)",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-27B-heretic",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Qwen3.5-27B-heretic": {
+        "name": "koboldcpp/Qwen3.5-27B-heretic",
+        "model_name": "Qwen3.5-27B-heretic",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "This is a decensored version of Qwen/Qwen3.5-27B, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation (MPOA)",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.5 27B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-27B-heretic",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
     "cognitivecomputations/dolphin-2.9-llama3-8b": {
         "name": "cognitivecomputations/dolphin-2.9-llama3-8b",
         "model_name": "dolphin-2.9-llama3-8b",
