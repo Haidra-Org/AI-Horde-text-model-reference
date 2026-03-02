@@ -30893,6 +30893,57 @@
             "16B"
         ]
     },
+    "yamatazen/EsotericSage-12B": {
+        "name": "yamatazen/EsotericSage-12B",
+        "model_name": "EsotericSage-12B",
+        "baseline": "yamatazen/LinearWriter-12B",
+        "parameters": 12000000000,
+        "description": "Ranked in the top-ten for Uncensored General Intelligence for 12B models in February 2026 and with great scores elsewhere this model is a great fit for roleplaying.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EsotericSage 12B",
+        "url": "https://huggingface.co/yamatazen/EsotericSage-12B",
+        "tags": [
+            "12B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "aphrodite/yamatazen/EsotericSage-12B": {
+        "name": "aphrodite/yamatazen/EsotericSage-12B",
+        "model_name": "EsotericSage-12B",
+        "baseline": "yamatazen/LinearWriter-12B",
+        "parameters": 12000000000,
+        "description": "Ranked in the top-ten for Uncensored General Intelligence for 12B models in February 2026 and with great scores elsewhere this model is a great fit for roleplaying.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EsotericSage 12B",
+        "url": "https://huggingface.co/yamatazen/EsotericSage-12B",
+        "tags": [
+            "12B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
+    "koboldcpp/EsotericSage-12B": {
+        "name": "koboldcpp/EsotericSage-12B",
+        "model_name": "EsotericSage-12B",
+        "baseline": "yamatazen/LinearWriter-12B",
+        "parameters": 12000000000,
+        "description": "Ranked in the top-ten for Uncensored General Intelligence for 12B models in February 2026 and with great scores elsewhere this model is a great fit for roleplaying.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "EsotericSage 12B",
+        "url": "https://huggingface.co/yamatazen/EsotericSage-12B",
+        "tags": [
+            "12B",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral"
+    },
     "yamatazen/EtherealAurora-12B-v2": {
         "name": "yamatazen/EtherealAurora-12B-v2",
         "model_name": "EtherealAurora-12B-v2",
