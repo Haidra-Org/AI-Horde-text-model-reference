@@ -2849,6 +2849,51 @@
             "chat"
         ]
     },
+    "coder3101/Qwen3.5-35B-A3B-heretic": {
+        "name": "coder3101/Qwen3.5-35B-A3B-heretic",
+        "model_name": "Qwen3.5-35B-A3B-heretic",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-35B-A3B-heretic",
+        "tags": [
+            "18B"
+        ]
+    },
+    "aphrodite/coder3101/Qwen3.5-35B-A3B-heretic": {
+        "name": "aphrodite/coder3101/Qwen3.5-35B-A3B-heretic",
+        "model_name": "Qwen3.5-35B-A3B-heretic",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-35B-A3B-heretic",
+        "tags": [
+            "18B"
+        ]
+    },
+    "koboldcpp/Qwen3.5-35B-A3B-heretic": {
+        "name": "koboldcpp/Qwen3.5-35B-A3B-heretic",
+        "model_name": "Qwen3.5-35B-A3B-heretic",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic",
+        "url": "https://huggingface.co/coder3101/Qwen3.5-35B-A3B-heretic",
+        "tags": [
+            "18B"
+        ]
+    },
     "cognitivecomputations/dolphin-2.9-llama3-8b": {
         "name": "cognitivecomputations/dolphin-2.9-llama3-8b",
         "model_name": "dolphin-2.9-llama3-8b",
@@ -12477,6 +12522,96 @@
         "url": "https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf",
         "tags": [
             "70B"
+        ]
+    },
+    "llmfan46/Qwen3.5-35B-A3B-heretic-v1": {
+        "name": "llmfan46/Qwen3.5-35B-A3B-heretic-v1",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v1",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v1",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v1",
+        "tags": [
+            "18B"
+        ]
+    },
+    "aphrodite/llmfan46/Qwen3.5-35B-A3B-heretic-v1": {
+        "name": "aphrodite/llmfan46/Qwen3.5-35B-A3B-heretic-v1",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v1",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v1",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v1",
+        "tags": [
+            "18B"
+        ]
+    },
+    "koboldcpp/Qwen3.5-35B-A3B-heretic-v1": {
+        "name": "koboldcpp/Qwen3.5-35B-A3B-heretic-v1",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v1",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v1",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v1",
+        "tags": [
+            "18B"
+        ]
+    },
+    "llmfan46/Qwen3.5-35B-A3B-heretic-v2": {
+        "name": "llmfan46/Qwen3.5-35B-A3B-heretic-v2",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v2",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v2",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2",
+        "tags": [
+            "18B"
+        ]
+    },
+    "aphrodite/llmfan46/Qwen3.5-35B-A3B-heretic-v2": {
+        "name": "aphrodite/llmfan46/Qwen3.5-35B-A3B-heretic-v2",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v2",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v2",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2",
+        "tags": [
+            "18B"
+        ]
+    },
+    "koboldcpp/Qwen3.5-35B-A3B-heretic-v2": {
+        "name": "koboldcpp/Qwen3.5-35B-A3B-heretic-v2",
+        "model_name": "Qwen3.5-35B-A3B-heretic-v2",
+        "baseline": "Qwen/Qwen3.5-35B-A3B-Base",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.5 35B A3B heretic v2",
+        "url": "https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2",
+        "tags": [
+            "18B"
         ]
     },
     "Marcjoni/QuasiStarSynth-12B": {
