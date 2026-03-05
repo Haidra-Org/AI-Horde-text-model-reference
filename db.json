@@ -2299,42 +2299,54 @@
         "model_name": "Maginum-Cydoms-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "",
+        "description": "The following models were included in the merge:anthracite-core/Mistral-Small-3.2-24B-Instruct-2506-Text-Only, TheDrummer/Magidonia-24B-v4.3, TheDrummer/Precog-24B-v1, zerofata/MS3.2-PaintedFantasy-v3-24B, TheDrummer/Cydonia-24B-v4.3, ReadyArt/4.2.0-Broken-Tutu-24b, zerofata/MS3.2-PaintedFantasy-v2-24B",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B": {
         "name": "aphrodite/Casual-Autopsy/Maginum-Cydoms-24B",
         "model_name": "Maginum-Cydoms-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "",
+        "description": "The following models were included in the merge:anthracite-core/Mistral-Small-3.2-24B-Instruct-2506-Text-Only, TheDrummer/Magidonia-24B-v4.3, TheDrummer/Precog-24B-v1, zerofata/MS3.2-PaintedFantasy-v3-24B, TheDrummer/Cydonia-24B-v4.3, ReadyArt/4.2.0-Broken-Tutu-24b, zerofata/MS3.2-PaintedFantasy-v2-24B",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "koboldcpp/Maginum-Cydoms-24B": {
         "name": "koboldcpp/Maginum-Cydoms-24B",
         "model_name": "Maginum-Cydoms-24B",
         "baseline": "",
         "parameters": 24000000000,
-        "description": "",
+        "description": "The following models were included in the merge:anthracite-core/Mistral-Small-3.2-24B-Instruct-2506-Text-Only, TheDrummer/Magidonia-24B-v4.3, TheDrummer/Precog-24B-v1, zerofata/MS3.2-PaintedFantasy-v3-24B, TheDrummer/Cydonia-24B-v4.3, ReadyArt/4.2.0-Broken-Tutu-24b, zerofata/MS3.2-PaintedFantasy-v2-24B",
         "version": "1",
-        "style": "generalist",
+        "style": "chat",
         "nsfw": false,
         "display_name": "Maginum Cydoms 24B",
+        "url": "https://huggingface.co/Casual-Autopsy/Maginum-Cydoms-24B",
         "tags": [
-            "24B"
-        ]
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
     },
     "cgato/L3-TheSpice-8b-v0.8.3": {
         "name": "cgato/L3-TheSpice-8b-v0.8.3",
@@ -8047,8 +8059,7 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B",
-            "popular"
+            "4B"
         ]
     },
     "aphrodite/google/gemma-3-4b-it": {
@@ -8062,8 +8073,7 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B",
-            "popular"
+            "4B"
         ]
     },
     "koboldcpp/gemma-3-4b-it": {
@@ -8077,8 +8087,7 @@
         "nsfw": false,
         "display_name": "gemma 3 4b it",
         "tags": [
-            "4B",
-            "popular"
+            "4B"
         ]
     },
     "gpt2-large": {
@@ -8305,6 +8314,60 @@
         "tags": [
             "13B"
         ]
+    },
+    "Gryphe/Pantheon-Proto-RP-1.8-30B-A3B": {
+        "name": "Gryphe/Pantheon-Proto-RP-1.8-30B-A3B",
+        "model_name": "Pantheon-Proto-RP-1.8-30B-A3B",
+        "baseline": "Qwen/Qwen3-30B-A3B-Base",
+        "parameters": 17000000000,
+        "description": "This time the recipe focused on combining as many data sources as I possibly could, featuring synthetic data from Sonnet 3.5 + 3.7, ChatGPT 4o and Deepseek. These then went through an extensive rewriting pipeline to eliminate common AI cliches, with the hopeful intent of providing you a fresh experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon Proto RP 1.8 30B A3B",
+        "url": "https://huggingface.co/Gryphe/Pantheon-Proto-RP-1.8-30B-A3B",
+        "tags": [
+            "17B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/Gryphe/Pantheon-Proto-RP-1.8-30B-A3B": {
+        "name": "aphrodite/Gryphe/Pantheon-Proto-RP-1.8-30B-A3B",
+        "model_name": "Pantheon-Proto-RP-1.8-30B-A3B",
+        "baseline": "Qwen/Qwen3-30B-A3B-Base",
+        "parameters": 17000000000,
+        "description": "This time the recipe focused on combining as many data sources as I possibly could, featuring synthetic data from Sonnet 3.5 + 3.7, ChatGPT 4o and Deepseek. These then went through an extensive rewriting pipeline to eliminate common AI cliches, with the hopeful intent of providing you a fresh experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon Proto RP 1.8 30B A3B",
+        "url": "https://huggingface.co/Gryphe/Pantheon-Proto-RP-1.8-30B-A3B",
+        "tags": [
+            "17B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Pantheon-Proto-RP-1.8-30B-A3B": {
+        "name": "koboldcpp/Pantheon-Proto-RP-1.8-30B-A3B",
+        "model_name": "Pantheon-Proto-RP-1.8-30B-A3B",
+        "baseline": "Qwen/Qwen3-30B-A3B-Base",
+        "parameters": 17000000000,
+        "description": "This time the recipe focused on combining as many data sources as I possibly could, featuring synthetic data from Sonnet 3.5 + 3.7, ChatGPT 4o and Deepseek. These then went through an extensive rewriting pipeline to eliminate common AI cliches, with the hopeful intent of providing you a fresh experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Pantheon Proto RP 1.8 30B A3B",
+        "url": "https://huggingface.co/Gryphe/Pantheon-Proto-RP-1.8-30B-A3B",
+        "tags": [
+            "17B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     },
     "Gryphe/Pantheon-RP-1.0-8b-Llama-3": {
         "name": "Gryphe/Pantheon-RP-1.0-8b-Llama-3",
@@ -12755,6 +12818,60 @@
             "12B"
         ]
     },
+    "MarinaraSpaghetti/NemoReRemix-12B": {
+        "name": "MarinaraSpaghetti/NemoReRemix-12B",
+        "model_name": "NemoReRemix-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Improved NemoRemix for storytelling and roleplay. Plus, this one can also be used as a general assistant model. The prose is pretty much the same, but it was made smarter, thanks to the addition of the amazing Migtissera's Tess model.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NemoReRemix 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoReRemix-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/MarinaraSpaghetti/NemoReRemix-12B": {
+        "name": "aphrodite/MarinaraSpaghetti/NemoReRemix-12B",
+        "model_name": "NemoReRemix-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Improved NemoRemix for storytelling and roleplay. Plus, this one can also be used as a general assistant model. The prose is pretty much the same, but it was made smarter, thanks to the addition of the amazing Migtissera's Tess model.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NemoReRemix 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoReRemix-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/NemoReRemix-12B": {
+        "name": "koboldcpp/NemoReRemix-12B",
+        "model_name": "NemoReRemix-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Improved NemoRemix for storytelling and roleplay. Plus, this one can also be used as a general assistant model. The prose is pretty much the same, but it was made smarter, thanks to the addition of the amazing Migtissera's Tess model.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "NemoReRemix 12B",
+        "url": "https://huggingface.co/MarinaraSpaghetti/NemoReRemix-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
     "MarsupialAI/Aqueducts-18B": {
         "name": "MarsupialAI/Aqueducts-18B",
         "model_name": "Aqueducts-18B",
@@ -16828,6 +16945,60 @@
         "tags": [
             "12B"
         ]
+    },
+    "Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2": {
+        "name": "Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "model_name": "Llama-3.1-8B-Lexi-Uncensored-V2",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Lexi Uncensored V2",
+        "url": "https://huggingface.co/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "aphrodite/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2": {
+        "name": "aphrodite/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "model_name": "Llama-3.1-8B-Lexi-Uncensored-V2",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Lexi Uncensored V2",
+        "url": "https://huggingface.co/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "koboldcpp/Llama-3.1-8B-Lexi-Uncensored-V2": {
+        "name": "koboldcpp/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "model_name": "Llama-3.1-8B-Lexi-Uncensored-V2",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Lexi Uncensored V2",
+        "url": "https://huggingface.co/Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
     },
     "ParasiticRogue/EVA-Instruct-32B-v2": {
         "name": "ParasiticRogue/EVA-Instruct-32B-v2",
@@ -30627,6 +30798,60 @@
         "url": "https://huggingface.co/v000000/L3-8B-Poppy-Sunspice",
         "tags": [
             "8B"
+        ]
+    },
+    "Vortex5/Shining-Prism-12B": {
+        "name": "Vortex5/Shining-Prism-12B",
+        "model_name": "Shining-Prism-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Shining-Prism-12B was created by merging Scarlet-Seraph-12B, Strawberry-Smoothie-12B, and NeonMaid-12B-v2 using a custom method.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Shining Prism 12B",
+        "url": "https://huggingface.co/Vortex5/Shining-Prism-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ]
+    },
+    "aphrodite/Vortex5/Shining-Prism-12B": {
+        "name": "aphrodite/Vortex5/Shining-Prism-12B",
+        "model_name": "Shining-Prism-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Shining-Prism-12B was created by merging Scarlet-Seraph-12B, Strawberry-Smoothie-12B, and NeonMaid-12B-v2 using a custom method.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Shining Prism 12B",
+        "url": "https://huggingface.co/Vortex5/Shining-Prism-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ]
+    },
+    "koboldcpp/Shining-Prism-12B": {
+        "name": "koboldcpp/Shining-Prism-12B",
+        "model_name": "Shining-Prism-12B",
+        "baseline": "",
+        "parameters": 12000000000,
+        "description": "Shining-Prism-12B was created by merging Scarlet-Seraph-12B, Strawberry-Smoothie-12B, and NeonMaid-12B-v2 using a custom method.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Shining Prism 12B",
+        "url": "https://huggingface.co/Vortex5/Shining-Prism-12B",
+        "tags": [
+            "12B",
+            "chat",
+            "roleplay",
+            "storytelling"
         ]
     },
     "Walmart-the-bag/Misted-7B": {
