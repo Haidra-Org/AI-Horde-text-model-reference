@@ -31649,10 +31649,64 @@
             "generalist"
         ]
     },
+    "zerofata/MS3.2-PaintedFantasy-v2-24B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-v2-24B",
+        "model_name": "MS3.2-PaintedFantasy-v2-24B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 24000000000,
+        "description": "This is an uncensored creative model intended to excel at character driven RP / ERP. Version 2 feels quite different from the original, with a heavy focus on reducing repetition across conversations and improving instruction following. Has a pretty unique writing style and sense of creativity (IMO). Pays the price with intermittent brain farts though.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v2 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v2-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-v2-24B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v2-24B",
+        "model_name": "MS3.2-PaintedFantasy-v2-24B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 24000000000,
+        "description": "This is an uncensored creative model intended to excel at character driven RP / ERP. Version 2 feels quite different from the original, with a heavy focus on reducing repetition across conversations and improving instruction following. Has a pretty unique writing style and sense of creativity (IMO). Pays the price with intermittent brain farts though.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v2 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v2-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-v2-24B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-v2-24B",
+        "model_name": "MS3.2-PaintedFantasy-v2-24B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 24000000000,
+        "description": "This is an uncensored creative model intended to excel at character driven RP / ERP. Version 2 feels quite different from the original, with a heavy focus on reducing repetition across conversations and improving instruction following. Has a pretty unique writing style and sense of creativity (IMO). Pays the price with intermittent brain farts though.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v2 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v2-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
     "zerofata/MS3.2-PaintedFantasy-v3-24B": {
         "name": "zerofata/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "baseline": "mistralai/Magistral-Small-2509",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
@@ -31668,7 +31722,7 @@
     "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B": {
         "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "baseline": "mistralai/Magistral-Small-2509",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
@@ -31684,7 +31738,7 @@
     "koboldcpp/MS3.2-PaintedFantasy-v3-24B": {
         "name": "koboldcpp/MS3.2-PaintedFantasy-v3-24B",
         "model_name": "MS3.2-PaintedFantasy-v3-24B",
-        "baseline": "mistralai/Mistral-Small-3.1-24B-Base-2503",
+        "baseline": "mistralai/Magistral-Small-2509",
         "parameters": 24000000000,
         "description": "",
         "version": "1",
@@ -31694,6 +31748,222 @@
         "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v3-24B",
         "tags": [
             "24B"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "zerofata/MS3.2-PaintedFantasy-v4-24B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-v4-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Feels like a good in between of creativity / dialogue and logic. This version tries to improve on the writing style and intelligence compared to v3.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-v4-24B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v4-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Feels like a good in between of creativity / dialogue and logic. This version tries to improve on the writing style and intelligence compared to v3.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-v4-24B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-v4-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Feels like a good in between of creativity / dialogue and logic. This version tries to improve on the writing style and intelligence compared to v3.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "zerofata/MS3.2-PaintedFantasy-v4.1-24B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-v4.1-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4.1-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Right after releasing v4 I noticed a bunch of repetition. Go figure. v4.1 is my first stab at trying to actively tailor the dataset towards weeding this out. Compared to v4, the only difference is heavy filtering and rewriting assistant messages identified as repetitive. Repetition isn't fixed, but it's improved. The model still likes patterns, but at least seems capable of occasionally breaking these itself.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4.1 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4.1-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-v4.1-24B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-v4.1-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4.1-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Right after releasing v4 I noticed a bunch of repetition. Go figure. v4.1 is my first stab at trying to actively tailor the dataset towards weeding this out. Compared to v4, the only difference is heavy filtering and rewriting assistant messages identified as repetitive. Repetition isn't fixed, but it's improved. The model still likes patterns, but at least seems capable of occasionally breaking these itself.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4.1 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4.1-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-v4.1-24B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-v4.1-24B",
+        "model_name": "MS3.2-PaintedFantasy-v4.1-24B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 24000000000,
+        "description": "This is an uncensored model intended to excel at creative character driven RP / ERP. Right after releasing v4 I noticed a bunch of repetition. Go figure. v4.1 is my first stab at trying to actively tailor the dataset towards weeding this out. Compared to v4, the only difference is heavy filtering and rewriting assistant messages identified as repetitive. Repetition isn't fixed, but it's improved. The model still likes patterns, but at least seems capable of occasionally breaking these itself.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy v4.1 24B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-v4.1-24B",
+        "tags": [
+            "24B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "zerofata/MS3.2-PaintedFantasy-Visage-v2-33B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v2-33B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 34000000000,
+        "description": "A smart, uncensored, creative model that excels at character driven RP / ERP where characters are portrayed creatively and proactively.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v2 33B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-Visage-v2-33B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v2-33B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 34000000000,
+        "description": "A smart, uncensored, creative model that excels at character driven RP / ERP where characters are portrayed creatively and proactively.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v2 33B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-Visage-v2-33B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v2-33B",
+        "baseline": "ConicCat/Mistral-Small-3.2-AntiRep-24B",
+        "parameters": 34000000000,
+        "description": "A smart, uncensored, creative model that excels at character driven RP / ERP where characters are portrayed creatively and proactively.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v2 33B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v2-33B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "zerofata/MS3.2-PaintedFantasy-Visage-v4-34B": {
+        "name": "zerofata/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v4-34B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 34000000000,
+        "description": "Magistral 24B Upscaled to 34B. The latest Magistral model seems pretty good. Has some refreshing prose. This model is an uncensored, creative writing and RP model. It uses a new (still a work in progress) dataset I've been curating based on real character cards.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v4 34B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "aphrodite/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B": {
+        "name": "aphrodite/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v4-34B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 34000000000,
+        "description": "Magistral 24B Upscaled to 34B. The latest Magistral model seems pretty good. Has some refreshing prose. This model is an uncensored, creative writing and RP model. It uses a new (still a work in progress) dataset I've been curating based on real character cards.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v4 34B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V7 Tekken"
+    },
+    "koboldcpp/MS3.2-PaintedFantasy-Visage-v4-34B": {
+        "name": "koboldcpp/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "model_name": "MS3.2-PaintedFantasy-Visage-v4-34B",
+        "baseline": "mistralai/Magistral-Small-2509",
+        "parameters": 34000000000,
+        "description": "Magistral 24B Upscaled to 34B. The latest Magistral model seems pretty good. Has some refreshing prose. This model is an uncensored, creative writing and RP model. It uses a new (still a work in progress) dataset I've been curating based on real character cards.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "MS3.2 PaintedFantasy Visage v4 34B",
+        "url": "https://huggingface.co/zerofata/MS3.2-PaintedFantasy-Visage-v4-34B",
+        "tags": [
+            "34B",
+            "chat",
+            "roleplay"
         ],
         "instruct_format": "Mistral V7 Tekken"
     },
