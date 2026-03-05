@@ -31696,5 +31696,59 @@
             "24B"
         ],
         "instruct_format": "Mistral V7 Tekken"
+    },
+    "zerofata/Q3.5-BlueStar-27B": {
+        "name": "zerofata/Q3.5-BlueStar-27B",
+        "model_name": "Q3.5-BlueStar-27B",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "Designed for conversational assistant tasks and RP. Model feels pretty creative and has some nice moments. Couple brainfarts and bits of repetition occasionally, but nothing out of the normal. (The qwen team recommends a presence penalty of 1.5). Non thinking and thinking are both supported. Thinking has reduced censorship.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Q3.5 BlueStar 27B",
+        "url": "https://huggingface.co/zerofata/Q3.5-BlueStar-27B",
+        "tags": [
+            "27B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/zerofata/Q3.5-BlueStar-27B": {
+        "name": "aphrodite/zerofata/Q3.5-BlueStar-27B",
+        "model_name": "Q3.5-BlueStar-27B",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "Designed for conversational assistant tasks and RP. Model feels pretty creative and has some nice moments. Couple brainfarts and bits of repetition occasionally, but nothing out of the normal. (The qwen team recommends a presence penalty of 1.5). Non thinking and thinking are both supported. Thinking has reduced censorship.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Q3.5 BlueStar 27B",
+        "url": "https://huggingface.co/zerofata/Q3.5-BlueStar-27B",
+        "tags": [
+            "27B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Q3.5-BlueStar-27B": {
+        "name": "koboldcpp/Q3.5-BlueStar-27B",
+        "model_name": "Q3.5-BlueStar-27B",
+        "baseline": "Qwen/Qwen3.5-27B",
+        "parameters": 27000000000,
+        "description": "Designed for conversational assistant tasks and RP. Model feels pretty creative and has some nice moments. Couple brainfarts and bits of repetition occasionally, but nothing out of the normal. (The qwen team recommends a presence penalty of 1.5). Non thinking and thinking are both supported. Thinking has reduced censorship.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Q3.5 BlueStar 27B",
+        "url": "https://huggingface.co/zerofata/Q3.5-BlueStar-27B",
+        "tags": [
+            "27B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "ChatML"
     }
 }
