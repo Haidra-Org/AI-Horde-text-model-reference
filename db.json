@@ -3350,6 +3350,57 @@
             "7B"
         ]
     },
+    "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5": {
+        "name": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "model_name": "Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "baseline": "Qwen/Qwen3.5-9B-Base",
+        "parameters": 9000000000,
+        "description": "Flagship Intelligence. Featherweight Footprint. Meticulously distilled from Claude Opus 4.6 into a highly efficient Qwen 3.5 architecture.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Crow 9B Opus 4.6 Distill Heretic Qwen3.5",
+        "url": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "tags": [
+            "9B",
+            "chat",
+            "generalist"
+        ]
+    },
+    "aphrodite/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5": {
+        "name": "aphrodite/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "model_name": "Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "baseline": "Qwen/Qwen3.5-9B-Base",
+        "parameters": 9000000000,
+        "description": "Flagship Intelligence. Featherweight Footprint. Meticulously distilled from Claude Opus 4.6 into a highly efficient Qwen 3.5 architecture.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Crow 9B Opus 4.6 Distill Heretic Qwen3.5",
+        "url": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "tags": [
+            "9B",
+            "chat",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5": {
+        "name": "koboldcpp/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "model_name": "Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "baseline": "Qwen/Qwen3.5-9B-Base",
+        "parameters": 9000000000,
+        "description": "Flagship Intelligence. Featherweight Footprint. Meticulously distilled from Claude Opus 4.6 into a highly efficient Qwen 3.5 architecture.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Crow 9B Opus 4.6 Distill Heretic Qwen3.5",
+        "url": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+        "tags": [
+            "9B",
+            "chat",
+            "generalist"
+        ]
+    },
     "Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
         "name": "Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
         "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
