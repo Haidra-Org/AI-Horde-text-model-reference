@@ -31649,6 +31649,54 @@
             "generalist"
         ]
     },
+    "zai-org/GLM-4.7-Flash": {
+        "name": "zai-org/GLM-4.7-Flash",
+        "model_name": "GLM-4.7-Flash",
+        "baseline": "",
+        "parameters": 17000000000,
+        "description": "GLM-4.7-Flash is a 30B-A3B MoE model. As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash",
+        "url": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+        "tags": [
+            "17B",
+            "generalist"
+        ]
+    },
+    "aphrodite/zai-org/GLM-4.7-Flash": {
+        "name": "aphrodite/zai-org/GLM-4.7-Flash",
+        "model_name": "GLM-4.7-Flash",
+        "baseline": "",
+        "parameters": 17000000000,
+        "description": "GLM-4.7-Flash is a 30B-A3B MoE model. As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash",
+        "url": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+        "tags": [
+            "17B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/GLM-4.7-Flash": {
+        "name": "koboldcpp/GLM-4.7-Flash",
+        "model_name": "GLM-4.7-Flash",
+        "baseline": "",
+        "parameters": 17000000000,
+        "description": "GLM-4.7-Flash is a 30B-A3B MoE model. As the strongest model in the 30B class, GLM-4.7-Flash offers a new option for lightweight deployment that balances performance and efficiency.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash",
+        "url": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+        "tags": [
+            "17B",
+            "generalist"
+        ]
+    },
     "zerofata/MS3.2-PaintedFantasy-v2-24B": {
         "name": "zerofata/MS3.2-PaintedFantasy-v2-24B",
         "model_name": "MS3.2-PaintedFantasy-v2-24B",
