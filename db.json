@@ -15593,6 +15593,54 @@
             "7B"
         ]
     },
+    "MuXodious/GLM-4.7-Flash-absolute-heresy": {
+        "name": "MuXodious/GLM-4.7-Flash-absolute-heresy",
+        "model_name": "GLM-4.7-Flash-absolute-heresy",
+        "baseline": "zai-org/GLM-4.7-Flash",
+        "parameters": 17000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash absolute heresy",
+        "url": "https://huggingface.co/MuXodious/GLM-4.7-Flash-absolute-heresy",
+        "tags": [
+            "17B",
+            "chat"
+        ]
+    },
+    "aphrodite/MuXodious/GLM-4.7-Flash-absolute-heresy": {
+        "name": "aphrodite/MuXodious/GLM-4.7-Flash-absolute-heresy",
+        "model_name": "GLM-4.7-Flash-absolute-heresy",
+        "baseline": "zai-org/GLM-4.7-Flash",
+        "parameters": 17000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash absolute heresy",
+        "url": "https://huggingface.co/MuXodious/GLM-4.7-Flash-absolute-heresy",
+        "tags": [
+            "17B",
+            "chat"
+        ]
+    },
+    "koboldcpp/GLM-4.7-Flash-absolute-heresy": {
+        "name": "koboldcpp/GLM-4.7-Flash-absolute-heresy",
+        "model_name": "GLM-4.7-Flash-absolute-heresy",
+        "baseline": "zai-org/GLM-4.7-Flash",
+        "parameters": 17000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "GLM 4.7 Flash absolute heresy",
+        "url": "https://huggingface.co/MuXodious/GLM-4.7-Flash-absolute-heresy",
+        "tags": [
+            "17B",
+            "chat"
+        ]
+    },
     "NeverSleep/Echidna-13b-v0.3": {
         "name": "NeverSleep/Echidna-13b-v0.3",
         "model_name": "Echidna-13b-v0.3",
@@ -31601,54 +31649,6 @@
             "200B"
         ]
     },
-    "zai-org/GLM-5": {
-        "name": "zai-org/GLM-5",
-        "model_name": "GLM-5",
-        "baseline": "",
-        "parameters": 372000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GLM 5",
-        "url": "https://huggingface.co/zai-org/GLM-5",
-        "tags": [
-            "372B",
-            "generalist"
-        ]
-    },
-    "aphrodite/zai-org/GLM-5": {
-        "name": "aphrodite/zai-org/GLM-5",
-        "model_name": "GLM-5",
-        "baseline": "",
-        "parameters": 372000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GLM 5",
-        "url": "https://huggingface.co/zai-org/GLM-5",
-        "tags": [
-            "372B",
-            "generalist"
-        ]
-    },
-    "koboldcpp/GLM-5": {
-        "name": "koboldcpp/GLM-5",
-        "model_name": "GLM-5",
-        "baseline": "",
-        "parameters": 372000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "GLM 5",
-        "url": "https://huggingface.co/zai-org/GLM-5",
-        "tags": [
-            "372B",
-            "generalist"
-        ]
-    },
     "zai-org/GLM-4.7-Flash": {
         "name": "zai-org/GLM-4.7-Flash",
         "model_name": "GLM-4.7-Flash",
@@ -31694,6 +31694,54 @@
         "url": "https://huggingface.co/zai-org/GLM-4.7-Flash",
         "tags": [
             "17B",
+            "generalist"
+        ]
+    },
+    "zai-org/GLM-5": {
+        "name": "zai-org/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
+            "generalist"
+        ]
+    },
+    "aphrodite/zai-org/GLM-5": {
+        "name": "aphrodite/zai-org/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
+            "generalist"
+        ]
+    },
+    "koboldcpp/GLM-5": {
+        "name": "koboldcpp/GLM-5",
+        "model_name": "GLM-5",
+        "baseline": "",
+        "parameters": 372000000000,
+        "description": "",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "GLM 5",
+        "url": "https://huggingface.co/zai-org/GLM-5",
+        "tags": [
+            "372B",
             "generalist"
         ]
     },
