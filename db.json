@@ -26552,6 +26552,60 @@
             "roleplay"
         ]
     },
+    "TheDrummer/Anubis-Mini-8B-v1": {
+        "name": "TheDrummer/Anubis-Mini-8B-v1",
+        "model_name": "Anubis-Mini-8B-v1",
+        "baseline": "allura-forge/Llama-3.3-8B-Instruct",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis Mini 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-Mini-8B-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "aphrodite/TheDrummer/Anubis-Mini-8B-v1": {
+        "name": "aphrodite/TheDrummer/Anubis-Mini-8B-v1",
+        "model_name": "Anubis-Mini-8B-v1",
+        "baseline": "allura-forge/Llama-3.3-8B-Instruct",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis Mini 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-Mini-8B-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "koboldcpp/Anubis-Mini-8B-v1": {
+        "name": "koboldcpp/Anubis-Mini-8B-v1",
+        "model_name": "Anubis-Mini-8B-v1",
+        "baseline": "allura-forge/Llama-3.3-8B-Instruct",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Anubis Mini 8B v1",
+        "url": "https://huggingface.co/TheDrummer/Anubis-Mini-8B-v1",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
     "TheDrummer/Anubis-Pro-105B-v1": {
         "name": "TheDrummer/Anubis-Pro-105B-v1",
         "model_name": "Anubis-Pro-105B-v1",
