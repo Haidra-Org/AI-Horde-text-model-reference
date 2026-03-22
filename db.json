@@ -20999,54 +20999,6 @@
             "1B"
         ]
     },
-    "Qwen/Qwen3-Embedding-0.6B": {
-        "name": "Qwen/Qwen3-Embedding-0.6B",
-        "model_name": "Qwen3-Embedding-0.6B",
-        "baseline": "Qwen/Qwen3-0.6B-Base",
-        "parameters": 600000000,
-        "description": "A very potent embedding model in a tiny package that is perfect for those that lack a dedicated GPU but still wish to contribute",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
-        "tags": [
-            "1B",
-            "embedding"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-Embedding-0.6B": {
-        "name": "aphrodite/Qwen/Qwen3-Embedding-0.6B",
-        "model_name": "Qwen3-Embedding-0.6B",
-        "baseline": "Qwen/Qwen3-0.6B-Base",
-        "parameters": 600000000,
-        "description": "A very potent embedding model in a tiny package that is perfect for those that lack a dedicated GPU but still wish to contribute",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
-        "tags": [
-            "1B",
-            "embedding"
-        ]
-    },
-    "koboldcpp/Qwen3-Embedding-0.6B": {
-        "name": "koboldcpp/Qwen3-Embedding-0.6B",
-        "model_name": "Qwen3-Embedding-0.6B",
-        "baseline": "Qwen/Qwen3-0.6B-Base",
-        "parameters": 600000000,
-        "description": "A very potent embedding model in a tiny package that is perfect for those that lack a dedicated GPU but still wish to contribute",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 0.6B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
-        "tags": [
-            "1B",
-            "embedding"
-        ]
-    },
     "Qwen/Qwen3-1.7B-Base": {
         "name": "Qwen/Qwen3-1.7B-Base",
         "model_name": "Qwen3-1.7B-Base",
@@ -21767,54 +21719,6 @@
             "4B"
         ]
     },
-    "Qwen/Qwen3-Embedding-4B": {
-        "name": "Qwen/Qwen3-Embedding-4B",
-        "model_name": "Qwen3-Embedding-4B",
-        "baseline": "Qwen/Qwen3-4B-Base",
-        "parameters": 4000000000,
-        "description": "A very potent embedding model in a small package that is perfect for those lacking the hardware to run larger models",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
-        "tags": [
-            "4B",
-            "embedding"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-Embedding-4B": {
-        "name": "aphrodite/Qwen/Qwen3-Embedding-4B",
-        "model_name": "Qwen3-Embedding-4B",
-        "baseline": "Qwen/Qwen3-4B-Base",
-        "parameters": 4000000000,
-        "description": "A very potent embedding model in a small package that is perfect for those lacking the hardware to run larger models",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
-        "tags": [
-            "4B",
-            "embedding"
-        ]
-    },
-    "koboldcpp/Qwen3-Embedding-4B": {
-        "name": "koboldcpp/Qwen3-Embedding-4B",
-        "model_name": "Qwen3-Embedding-4B",
-        "baseline": "Qwen/Qwen3-4B-Base",
-        "parameters": 4000000000,
-        "description": "A very potent embedding model in a small package that is perfect for those lacking the hardware to run larger models",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
-        "tags": [
-            "4B",
-            "embedding"
-        ]
-    },
     "Qwen/Qwen3-8B-Base": {
         "name": "Qwen/Qwen3-8B-Base",
         "model_name": "Qwen3-8B-Base",
@@ -21903,54 +21807,6 @@
         "url": "https://huggingface.co/Qwen/Qwen3-8B",
         "tags": [
             "8B"
-        ]
-    },
-    "Qwen/Qwen3-Embedding-8B": {
-        "name": "Qwen/Qwen3-Embedding-8B",
-        "model_name": "Qwen3-Embedding-8B",
-        "baseline": "Qwen/Qwen3-8B-Base",
-        "parameters": 8000000000,
-        "description": "The current top-of-the-line Qwen embedding model that is sure to do an incredible job",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
-        "tags": [
-            "8B",
-            "embedding"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3-Embedding-8B": {
-        "name": "aphrodite/Qwen/Qwen3-Embedding-8B",
-        "model_name": "Qwen3-Embedding-8B",
-        "baseline": "Qwen/Qwen3-8B-Base",
-        "parameters": 8000000000,
-        "description": "The current top-of-the-line Qwen embedding model that is sure to do an incredible job",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
-        "tags": [
-            "8B",
-            "embedding"
-        ]
-    },
-    "koboldcpp/Qwen3-Embedding-8B": {
-        "name": "koboldcpp/Qwen3-Embedding-8B",
-        "model_name": "Qwen3-Embedding-8B",
-        "baseline": "Qwen/Qwen3-8B-Base",
-        "parameters": 8000000000,
-        "description": "The current top-of-the-line Qwen embedding model that is sure to do an incredible job",
-        "version": "1",
-        "style": "embedding",
-        "nsfw": false,
-        "display_name": "Qwen3 Embedding 8B",
-        "url": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
-        "tags": [
-            "8B",
-            "embedding"
         ]
     },
     "Qwen/Qwen3-Coder-30B-A3B-Instruct": {
