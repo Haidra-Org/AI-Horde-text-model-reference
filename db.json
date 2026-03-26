@@ -16802,6 +16802,129 @@
             "13B"
         ]
     },
+    "nvidia/Nemotron-Cascade-2-30B-A3B": {
+        "name": "nvidia/Nemotron-Cascade-2-30B-A3B",
+        "model_name": "Nemotron-Cascade-2-30B-A3B",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "An open 30B MoE model with 3B activated parameters that delivers strong reasoning and agentic capabilities",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Nemotron Cascade 2 30B A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "tags": [
+            "16B",
+            "generalist",
+            "mathematics",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/nvidia/Nemotron-Cascade-2-30B-A3B": {
+        "name": "aphrodite/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "model_name": "Nemotron-Cascade-2-30B-A3B",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "An open 30B MoE model with 3B activated parameters that delivers strong reasoning and agentic capabilities",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Nemotron Cascade 2 30B A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "tags": [
+            "16B",
+            "generalist",
+            "mathematics",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/Nemotron-Cascade-2-30B-A3B": {
+        "name": "koboldcpp/Nemotron-Cascade-2-30B-A3B",
+        "model_name": "Nemotron-Cascade-2-30B-A3B",
+        "baseline": "",
+        "parameters": 16000000000,
+        "description": "An open 30B MoE model with 3B activated parameters that delivers strong reasoning and agentic capabilities",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Nemotron Cascade 2 30B A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "tags": [
+            "16B",
+            "generalist",
+            "mathematics",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B": {
+        "name": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B",
+        "model_name": "NVIDIA-Nemotron-3-Super-120B-A12B",
+        "baseline": "",
+        "parameters": 60000000000,
+        "description": "Designed to deliver strong agentic, reasoning, and conversational capabilities. It is optimized for collaborative agents and high-volume workloads such as IT ticket automation.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NVIDIA Nemotron 3 Super 120B A12B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+        "tags": [
+            "60B",
+            "agentic",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "aphrodite/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B": {
+        "name": "aphrodite/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B",
+        "model_name": "NVIDIA-Nemotron-3-Super-120B-A12B",
+        "baseline": "",
+        "parameters": 60000000000,
+        "description": "Designed to deliver strong agentic, reasoning, and conversational capabilities. It is optimized for collaborative agents and high-volume workloads such as IT ticket automation.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NVIDIA Nemotron 3 Super 120B A12B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+        "tags": [
+            "60B",
+            "agentic",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
+    "koboldcpp/NVIDIA-Nemotron-3-Super-120B-A12B": {
+        "name": "koboldcpp/NVIDIA-Nemotron-3-Super-120B-A12B",
+        "model_name": "NVIDIA-Nemotron-3-Super-120B-A12B",
+        "baseline": "",
+        "parameters": 60000000000,
+        "description": "Designed to deliver strong agentic, reasoning, and conversational capabilities. It is optimized for collaborative agents and high-volume workloads such as IT ticket automation.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "NVIDIA Nemotron 3 Super 120B A12B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+        "tags": [
+            "60B",
+            "agentic",
+            "conversational",
+            "generalist",
+            "reasoning",
+            "tool calling"
+        ],
+        "instruct_format": "ChatML"
+    },
     "nvidia/Qwen3-Nemotron-235B-A22B-GenRM": {
         "name": "nvidia/Qwen3-Nemotron-235B-A22B-GenRM",
         "model_name": "Qwen3-Nemotron-235B-A22B-GenRM",
@@ -24037,6 +24160,60 @@
         "tags": [
             "12B"
         ]
+    },
+    "SicariusSicariiStuff/Assistant_Pepe_70B": {
+        "name": "SicariusSicariiStuff/Assistant_Pepe_70B",
+        "model_name": "Assistant_Pepe_70B",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 71000000000,
+        "description": "It has so damn many loose screws that it hits maximum brain rot to the point it starts to somehow make sense again.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_70B",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "aphrodite/SicariusSicariiStuff/Assistant_Pepe_70B": {
+        "name": "aphrodite/SicariusSicariiStuff/Assistant_Pepe_70B",
+        "model_name": "Assistant_Pepe_70B",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 71000000000,
+        "description": "It has so damn many loose screws that it hits maximum brain rot to the point it starts to somehow make sense again.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_70B",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
+    },
+    "koboldcpp/Assistant_Pepe_70B": {
+        "name": "koboldcpp/Assistant_Pepe_70B",
+        "model_name": "Assistant_Pepe_70B",
+        "baseline": "meta-llama/Llama-3.1-70B",
+        "parameters": 71000000000,
+        "description": "It has so damn many loose screws that it hits maximum brain rot to the point it starts to somehow make sense again.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 70B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_70B",
+        "tags": [
+            "71B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3 Instruct"
     },
     "SicariusSicariiStuff/Assistant_Pepe_8B": {
         "name": "SicariusSicariiStuff/Assistant_Pepe_8B",
