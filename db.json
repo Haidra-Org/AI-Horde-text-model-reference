@@ -2813,6 +2813,159 @@
             "7B"
         ]
     },
+    "coder3101/gemma-4-26B-A4B-it-heretic": {
+        "name": "coder3101/gemma-4-26B-A4B-it-heretic",
+        "model_name": "gemma-4-26B-A4B-it-heretic",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 13000000000,
+        "description": "This is a decensored version of google/gemma-4-26B-A4B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic",
+        "tags": [
+            "13B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "aphrodite/coder3101/gemma-4-26B-A4B-it-heretic": {
+        "name": "aphrodite/coder3101/gemma-4-26B-A4B-it-heretic",
+        "model_name": "gemma-4-26B-A4B-it-heretic",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 13000000000,
+        "description": "This is a decensored version of google/gemma-4-26B-A4B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic",
+        "tags": [
+            "13B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "koboldcpp/gemma-4-26B-A4B-it-heretic": {
+        "name": "koboldcpp/gemma-4-26B-A4B-it-heretic",
+        "model_name": "gemma-4-26B-A4B-it-heretic",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 13000000000,
+        "description": "This is a decensored version of google/gemma-4-26B-A4B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-26B-A4B-it-heretic",
+        "tags": [
+            "13B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "coder3101/gemma-4-31B-it-heretic-v2": {
+        "name": "coder3101/gemma-4-31B-it-heretic-v2",
+        "model_name": "gemma-4-31B-it-heretic-v2",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic v2",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic-v2",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "aphrodite/coder3101/gemma-4-31B-it-heretic-v2": {
+        "name": "aphrodite/coder3101/gemma-4-31B-it-heretic-v2",
+        "model_name": "gemma-4-31B-it-heretic-v2",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic v2",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic-v2",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "koboldcpp/gemma-4-31B-it-heretic-v2": {
+        "name": "koboldcpp/gemma-4-31B-it-heretic-v2",
+        "model_name": "gemma-4-31B-it-heretic-v2",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with Magnitude-Preserving Orthogonal Ablation",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic v2",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic-v2",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "coder3101/gemma-4-31B-it-heretic": {
+        "name": "coder3101/gemma-4-31B-it-heretic",
+        "model_name": "gemma-4-31B-it-heretic",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "aphrodite/coder3101/gemma-4-31B-it-heretic": {
+        "name": "aphrodite/coder3101/gemma-4-31B-it-heretic",
+        "model_name": "gemma-4-31B-it-heretic",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
+    "koboldcpp/gemma-4-31B-it-heretic": {
+        "name": "koboldcpp/gemma-4-31B-it-heretic",
+        "model_name": "gemma-4-31B-it-heretic",
+        "baseline": "",
+        "parameters": 31000000000,
+        "description": "This is a decensored version of google/gemma-4-31B-it, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 31B it heretic",
+        "url": "https://huggingface.co/coder3101/gemma-4-31B-it-heretic",
+        "tags": [
+            "31B",
+            "chat",
+            "decensored"
+        ]
+    },
     "coder3101/Qwen3.5-27B-heretic": {
         "name": "coder3101/Qwen3.5-27B-heretic",
         "model_name": "Qwen3.5-27B-heretic",
