@@ -32573,6 +32573,60 @@
             "generalist"
         ]
     },
+    "zerofata/G4-MeroMero-26B-A4B": {
+        "name": "zerofata/G4-MeroMero-26B-A4B",
+        "model_name": "G4-MeroMero-26B-A4B",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 14000000000,
+        "description": "This model is a finetune that was merged back into the original instruct. It feels a lot like the original instruct. However, reasoning is more structured, using less tokens during RP and this model generally has a slightly less verbose / flowery writing style. Main weakness of this model I think is the swipe variety hasn't improved. Logic and repetition I think are roughly on par with the original.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B",
+        "url": "https://huggingface.co/zerofata/G4-MeroMero-26B-A4B",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/zerofata/G4-MeroMero-26B-A4B": {
+        "name": "aphrodite/zerofata/G4-MeroMero-26B-A4B",
+        "model_name": "G4-MeroMero-26B-A4B",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 14000000000,
+        "description": "This model is a finetune that was merged back into the original instruct. It feels a lot like the original instruct. However, reasoning is more structured, using less tokens during RP and this model generally has a slightly less verbose / flowery writing style. Main weakness of this model I think is the swipe variety hasn't improved. Logic and repetition I think are roughly on par with the original.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B",
+        "url": "https://huggingface.co/zerofata/G4-MeroMero-26B-A4B",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/G4-MeroMero-26B-A4B": {
+        "name": "koboldcpp/G4-MeroMero-26B-A4B",
+        "model_name": "G4-MeroMero-26B-A4B",
+        "baseline": "google/gemma-4-26B-A4B-it",
+        "parameters": 14000000000,
+        "description": "This model is a finetune that was merged back into the original instruct. It feels a lot like the original instruct. However, reasoning is more structured, using less tokens during RP and this model generally has a slightly less verbose / flowery writing style. Main weakness of this model I think is the swipe variety hasn't improved. Logic and repetition I think are roughly on par with the original.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B",
+        "url": "https://huggingface.co/zerofata/G4-MeroMero-26B-A4B",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "zerofata/MS3.2-PaintedFantasy-v2-24B": {
         "name": "zerofata/MS3.2-PaintedFantasy-v2-24B",
         "model_name": "MS3.2-PaintedFantasy-v2-24B",
