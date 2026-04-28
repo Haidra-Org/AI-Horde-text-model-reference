@@ -24080,57 +24080,6 @@
             "roleplay"
         ]
     },
-    "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
-        ]
-    },
-    "koboldcpp/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "koboldcpp/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
-        ]
-    },
     "Sao10K/L3-8B-Tamamo-v1": {
         "name": "Sao10K/L3-8B-Tamamo-v1",
         "model_name": "L3-8B-Tamamo-v1",
@@ -24269,6 +24218,60 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
+        ],
+        "instruct_format": "Llama 3"
+    },
+    "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3"
+    },
+    "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Llama 3"
+    },
+    "koboldcpp/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "koboldcpp/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
         ],
         "instruct_format": "Llama 3"
     },
@@ -27655,6 +27658,60 @@
             "story"
         ],
         "instruct_format": "Metharme"
+    },
+    "TheDrummer/Behemoth-R1-123B-v2": {
+        "name": "TheDrummer/Behemoth-R1-123B-v2",
+        "model_name": "Behemoth-R1-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth R1 123B v2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "aphrodite/TheDrummer/Behemoth-R1-123B-v2": {
+        "name": "aphrodite/TheDrummer/Behemoth-R1-123B-v2",
+        "model_name": "Behemoth-R1-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth R1 123B v2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "koboldcpp/Behemoth-R1-123B-v2": {
+        "name": "koboldcpp/Behemoth-R1-123B-v2",
+        "model_name": "Behemoth-R1-123B-v2",
+        "baseline": "mistralai/Mistral-Large-Instruct-2411",
+        "parameters": 123000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth R1 123B v2",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
+        "tags": [
+            "123B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
     },
     "TheDrummer/Behemoth-ReduX-123B-v1": {
         "name": "TheDrummer/Behemoth-ReduX-123B-v1",
