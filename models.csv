@@ -633,6 +633,7 @@ TheDrummer/Precog-24B-v1,24,,https://huggingface.co/TheDrummer/Precog-24B-v1,mis
 TheDrummer/Rocinante-12B-v1,12,,https://huggingface.co/TheDrummer/Rocinante-12B-v1,,,,,,
 TheDrummer/Rocinante-12B-v1.1,12,,https://huggingface.co/TheDrummer/Rocinante-12B-v1.1,,,,,,
 TheDrummer/Rocinante-X-12B-v1,12,,https://huggingface.co/TheDrummer/Rocinante-X-12B-v1,mistralai/Mistral-Nemo-Base-2407,"Rocinante's back - stronger than ever! A worthy successor to the legendary Rocinante 12B v1.1 from over a year ago! Like all other 4.0 gen models from TheDrummer, this one focuses on RP. Updated prose, better writing, fun dialogue, and robust roleplaying!",chat,"roleplay, thinking, popular",Mistral V3 Tekken,
+TheDrummer/Rocinante-XL-16B-v1,16,,https://huggingface.co/TheDrummer/Rocinante-XL-16B-v1,,Just like Roci X but better.,chat,"roleplay, thinking",Mistral V3 Tekken,
 TheDrummer/Skyfall-31B-v4,31.4,,https://huggingface.co/TheDrummer/Skyfall-31B-v4-GGUF,,,chat,"roleplay, popular",Mistral V7 Tekken,
 TheDrummer/Skyfall-31B-v4.1,31,,https://huggingface.co/TheDrummer/Skyfall-31B-v4.1,,,chat,roleplay,Mistral V7 Tekken,
 TheDrummer/Skyfall-31B-v4.2,31,,https://huggingface.co/TheDrummer/Skyfall-31B-v4.2,,,chat,roleplay,Mistral V7 Tekken,
