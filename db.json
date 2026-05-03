@@ -24723,7 +24723,8 @@
             "chat",
             "creative",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B": {
         "name": "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B",
@@ -24741,7 +24742,8 @@
             "chat",
             "creative",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "koboldcpp/Assistant_Pepe_32B": {
         "name": "koboldcpp/Assistant_Pepe_32B",
@@ -24759,7 +24761,8 @@
             "chat",
             "creative",
             "roleplay"
-        ]
+        ],
+        "instruct_format": "ChatML"
     },
     "SicariusSicariiStuff/Assistant_Pepe_70B": {
         "name": "SicariusSicariiStuff/Assistant_Pepe_70B",
