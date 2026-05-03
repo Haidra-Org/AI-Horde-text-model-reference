@@ -24707,6 +24707,60 @@
             "12B"
         ]
     },
+    "SicariusSicariiStuff/Assistant_Pepe_32B": {
+        "name": "SicariusSicariiStuff/Assistant_Pepe_32B",
+        "model_name": "Assistant_Pepe_32B",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 32000000000,
+        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 32B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
+        "tags": [
+            "32B",
+            "chat",
+            "creative",
+            "roleplay"
+        ]
+    },
+    "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B": {
+        "name": "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B",
+        "model_name": "Assistant_Pepe_32B",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 32000000000,
+        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 32B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
+        "tags": [
+            "32B",
+            "chat",
+            "creative",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Assistant_Pepe_32B": {
+        "name": "koboldcpp/Assistant_Pepe_32B",
+        "model_name": "Assistant_Pepe_32B",
+        "baseline": "Qwen/Qwen3-32B",
+        "parameters": 32000000000,
+        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Assistant Pepe 32B",
+        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
+        "tags": [
+            "32B",
+            "chat",
+            "creative",
+            "roleplay"
+        ]
+    },
     "SicariusSicariiStuff/Assistant_Pepe_70B": {
         "name": "SicariusSicariiStuff/Assistant_Pepe_70B",
         "model_name": "Assistant_Pepe_70B",
