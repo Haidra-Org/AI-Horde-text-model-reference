@@ -23651,6 +23651,66 @@
             "6B"
         ]
     },
+    "samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B": {
+        "name": "samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
+        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
+        "baseline": "Qwen/Qwen3.6-35B-A3B",
+        "parameters": 18000000000,
+        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
+        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
+        "tags": [
+            "18B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "aphrodite/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B": {
+        "name": "aphrodite/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
+        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
+        "baseline": "Qwen/Qwen3.6-35B-A3B",
+        "parameters": 18000000000,
+        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
+        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
+        "tags": [
+            "18B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
+    "koboldcpp/Carnice-Qwen3.6-MoE-35B-A3B": {
+        "name": "koboldcpp/Carnice-Qwen3.6-MoE-35B-A3B",
+        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
+        "baseline": "Qwen/Qwen3.6-35B-A3B",
+        "parameters": 18000000000,
+        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
+        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
+        "tags": [
+            "18B",
+            "agentic",
+            "coding",
+            "conversational",
+            "mathematics",
+            "utility"
+        ]
+    },
     "SanjiWatsuki/Kunoichi-7B": {
         "name": "SanjiWatsuki/Kunoichi-7B",
         "model_name": "Kunoichi-7B",
