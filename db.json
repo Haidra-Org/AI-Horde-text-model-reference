@@ -33229,5 +33229,62 @@
             "roleplay"
         ],
         "instruct_format": "ChatML"
+    },
+    "LatitudeGames/Equinox-31B": {
+        "name": "LatitudeGames/Equinox-31B",
+        "model_name": "Equinox-31B",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Equinox 31B",
+        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": " Gemma 4"
+    },
+    "aphrodite/LatitudeGames/Equinox-31B": {
+        "name": "aphrodite/LatitudeGames/Equinox-31B",
+        "model_name": "Equinox-31B",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Equinox 31B",
+        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": " Gemma 4"
+    },
+    "koboldcpp/Equinox-31B": {
+        "name": "koboldcpp/Equinox-31B",
+        "model_name": "Equinox-31B",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Equinox 31B",
+        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay",
+            "storytelling"
+        ],
+        "instruct_format": " Gemma 4"
     }
 }
