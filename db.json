@@ -15021,14 +15021,13 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "agentic",
-            "generalist"
+            "utility"
         ]
     },
     "aphrodite/mistralai/Ministral-3-14B-Instruct-2512": {
@@ -15038,14 +15037,13 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "agentic",
-            "generalist"
+            "utility"
         ]
     },
     "koboldcpp/Ministral-3-14B-Instruct-2512": {
@@ -15055,14 +15053,13 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "generalist",
+        "style": "utility",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "agentic",
-            "generalist"
+            "utility"
         ]
     },
     "mistralai/Ministral-3-14B-Reasoning-2512": {
@@ -33286,5 +33283,101 @@
             "roleplay"
         ],
         "instruct_format": "ChatML"
+    },
+    "Qwen/Qwen3.5-9B": {
+        "name": "Qwen/Qwen3.5-9B",
+        "model_name": "Qwen3.5-9B",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 9B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+        "tags": [
+            "9B",
+            "utility"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-9B": {
+        "name": "aphrodite/Qwen/Qwen3.5-9B",
+        "model_name": "Qwen3.5-9B",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 9B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+        "tags": [
+            "9B",
+            "utility"
+        ]
+    },
+    "koboldcpp/Qwen3.5-9B": {
+        "name": "koboldcpp/Qwen3.5-9B",
+        "model_name": "Qwen3.5-9B",
+        "baseline": "",
+        "parameters": 9000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 9B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+        "tags": [
+            "9B",
+            "utility"
+        ]
+    },
+    "Qwen/Qwen3.5-4B": {
+        "name": "Qwen/Qwen3.5-4B",
+        "model_name": "Qwen3.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+        "tags": [
+            "4B",
+            "utility"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.5-4B": {
+        "name": "aphrodite/Qwen/Qwen3.5-4B",
+        "model_name": "Qwen3.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+        "tags": [
+            "4B",
+            "utility"
+        ]
+    },
+    "koboldcpp/Qwen3.5-4B": {
+        "name": "koboldcpp/Qwen3.5-4B",
+        "model_name": "Qwen3.5-4B",
+        "baseline": "",
+        "parameters": 4000000000,
+        "description": "",
+        "version": "1",
+        "style": "utility",
+        "nsfw": false,
+        "display_name": "Qwen3.5 4B",
+        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
+        "tags": [
+            "4B",
+            "utility"
+        ]
     }
 }
