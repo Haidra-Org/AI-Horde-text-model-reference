@@ -2966,63 +2966,6 @@
             "decensored"
         ]
     },
-    "coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic": {
-        "name": "coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "This is a decensored version of google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized heretic",
-        "url": "https://huggingface.co/coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "tags": [
-            "6B",
-            "chat",
-            "roleplay",
-            "uncensored"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic": {
-        "name": "aphrodite/coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "This is a decensored version of google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized heretic",
-        "url": "https://huggingface.co/coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "tags": [
-            "6B",
-            "chat",
-            "roleplay",
-            "uncensored"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-E4B-it-qat-q4_0-unquantized-heretic": {
-        "name": "koboldcpp/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "This is a decensored version of google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized heretic",
-        "url": "https://huggingface.co/coder3101/gemma-4-E4B-it-qat-q4_0-unquantized-heretic",
-        "tags": [
-            "6B",
-            "chat",
-            "roleplay",
-            "uncensored"
-        ],
-        "instruct_format": "Gemma 4"
-    },
     "coder3101/Qwen3.5-27B-heretic": {
         "name": "coder3101/Qwen3.5-27B-heretic",
         "model_name": "Qwen3.5-27B-heretic",
@@ -8351,217 +8294,10 @@
             "4B"
         ]
     },
-    "google/gemma-4-12B-it-qat-q4_0-unquantized": {
-        "name": "google/gemma-4-12B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-12B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-12B-it-qat-q4_0-unquantized": {
-        "name": "aphrodite/google/gemma-4-12B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-12B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-12B-it-qat-q4_0-unquantized": {
-        "name": "koboldcpp/gemma-4-12B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-12B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-unquantized",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-12B-it": {
-        "name": "google/gemma-4-12B-it",
-        "model_name": "gemma-4-12B-it",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it",
-        "url": "https://huggingface.co/google/gemma-4-12B-it",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-12B-it": {
-        "name": "aphrodite/google/gemma-4-12B-it",
-        "model_name": "gemma-4-12B-it",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it",
-        "url": "https://huggingface.co/google/gemma-4-12B-it",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-12B-it": {
-        "name": "koboldcpp/gemma-4-12B-it",
-        "model_name": "gemma-4-12B-it",
-        "baseline": "google/gemma-4-12B",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B it",
-        "url": "https://huggingface.co/google/gemma-4-12B-it",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-12B": {
-        "name": "google/gemma-4-12B",
-        "model_name": "gemma-4-12B",
-        "baseline": "",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B",
-        "url": "https://huggingface.co/google/gemma-4-12B",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-12B": {
-        "name": "aphrodite/google/gemma-4-12B",
-        "model_name": "gemma-4-12B",
-        "baseline": "",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B",
-        "url": "https://huggingface.co/google/gemma-4-12B",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-12B": {
-        "name": "koboldcpp/gemma-4-12B",
-        "model_name": "gemma-4-12B",
-        "baseline": "",
-        "parameters": 12000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 12B",
-        "url": "https://huggingface.co/google/gemma-4-12B",
-        "tags": [
-            "12B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-26B-A4B-it-qat-q4_0-unquantized": {
-        "name": "google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-26B-A4B",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 26B A4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "13B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized": {
-        "name": "aphrodite/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-26B-A4B",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 26B A4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "13B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-26B-A4B-it-qat-q4_0-unquantized": {
-        "name": "koboldcpp/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-26B-A4B",
-        "parameters": 13000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 26B A4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-26B-A4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "13B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
     "google/gemma-4-26B-A4B-it": {
         "name": "google/gemma-4-26B-A4B-it",
         "model_name": "gemma-4-26B-A4B-it",
-        "baseline": "google/gemma-4-26B-A4B",
+        "baseline": "",
         "parameters": 13000000000,
         "description": "",
         "version": "1",
@@ -8573,13 +8309,12 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-26B-A4B-it": {
         "name": "aphrodite/google/gemma-4-26B-A4B-it",
         "model_name": "gemma-4-26B-A4B-it",
-        "baseline": "google/gemma-4-26B-A4B",
+        "baseline": "",
         "parameters": 13000000000,
         "description": "",
         "version": "1",
@@ -8591,13 +8326,12 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-26B-A4B-it": {
         "name": "koboldcpp/gemma-4-26B-A4B-it",
         "model_name": "gemma-4-26B-A4B-it",
-        "baseline": "google/gemma-4-26B-A4B",
+        "baseline": "",
         "parameters": 13000000000,
         "description": "",
         "version": "1",
@@ -8609,8 +8343,7 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-26B-A4B": {
         "name": "google/gemma-4-26B-A4B",
@@ -8627,8 +8360,7 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-26B-A4B": {
         "name": "aphrodite/google/gemma-4-26B-A4B",
@@ -8645,8 +8377,7 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-26B-A4B": {
         "name": "koboldcpp/gemma-4-26B-A4B",
@@ -8663,59 +8394,7 @@
             "13B",
             "MoE",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-31B-it-qat-q4_0-unquantized": {
-        "name": "google/gemma-4-31B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-31B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 33000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 31B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized",
-        "tags": [
-            "33B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-31B-it-qat-q4_0-unquantized": {
-        "name": "aphrodite/google/gemma-4-31B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-31B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 33000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 31B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized",
-        "tags": [
-            "33B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-31B-it-qat-q4_0-unquantized": {
-        "name": "koboldcpp/gemma-4-31B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-31B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 33000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 31B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-31B-it-qat-q4_0-unquantized",
-        "tags": [
-            "33B",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-31B-it": {
         "name": "google/gemma-4-31B-it",
@@ -8731,8 +8410,7 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-31B-it": {
         "name": "aphrodite/google/gemma-4-31B-it",
@@ -8748,8 +8426,7 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-31B-it": {
         "name": "koboldcpp/gemma-4-31B-it",
@@ -8765,8 +8442,7 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-31B": {
         "name": "google/gemma-4-31B",
@@ -8782,8 +8458,7 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-31B": {
         "name": "aphrodite/google/gemma-4-31B",
@@ -8799,8 +8474,7 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-31B": {
         "name": "koboldcpp/gemma-4-31B",
@@ -8816,68 +8490,13 @@
         "tags": [
             "33B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-E2B-it-qat-q4_0-unquantized": {
-        "name": "google/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E2B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E2B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-E2B-it-qat-q4_0-unquantized": {
-        "name": "aphrodite/google/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E2B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E2B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-E2B-it-qat-q4_0-unquantized": {
-        "name": "koboldcpp/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E2B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E2B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E2B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-E2B-it": {
         "name": "google/gemma-4-E2B-it",
         "model_name": "gemma-4-E2B-it",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 3000000000,
+        "baseline": "",
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8885,17 +8504,15 @@
         "display_name": "gemma 4 E2B it",
         "url": "https://huggingface.co/google/gemma-4-E2B-it",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-E2B-it": {
         "name": "aphrodite/google/gemma-4-E2B-it",
         "model_name": "gemma-4-E2B-it",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 3000000000,
+        "baseline": "",
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8903,17 +8520,15 @@
         "display_name": "gemma 4 E2B it",
         "url": "https://huggingface.co/google/gemma-4-E2B-it",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-E2B-it": {
         "name": "koboldcpp/gemma-4-E2B-it",
         "model_name": "gemma-4-E2B-it",
-        "baseline": "google/gemma-4-E2B",
-        "parameters": 3000000000,
+        "baseline": "",
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8921,17 +8536,15 @@
         "display_name": "gemma 4 E2B it",
         "url": "https://huggingface.co/google/gemma-4-E2B-it",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-E2B": {
         "name": "google/gemma-4-E2B",
         "model_name": "gemma-4-E2B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8939,17 +8552,15 @@
         "display_name": "gemma 4 E2B",
         "url": "https://huggingface.co/google/gemma-4-E2B",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-E2B": {
         "name": "aphrodite/google/gemma-4-E2B",
         "model_name": "gemma-4-E2B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8957,17 +8568,15 @@
         "display_name": "gemma 4 E2B",
         "url": "https://huggingface.co/google/gemma-4-E2B",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-E2B": {
         "name": "koboldcpp/gemma-4-E2B",
         "model_name": "gemma-4-E2B",
         "baseline": "",
-        "parameters": 3000000000,
+        "parameters": 2500000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -8975,71 +8584,15 @@
         "display_name": "gemma 4 E2B",
         "url": "https://huggingface.co/google/gemma-4-E2B",
         "tags": [
-            "3B",
-            "MoE",
+            "2B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "google/gemma-4-E4B-it-qat-q4_0-unquantized": {
-        "name": "google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "aphrodite/google/gemma-4-E4B-it-qat-q4_0-unquantized": {
-        "name": "aphrodite/google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
-    },
-    "koboldcpp/gemma-4-E4B-it-qat-q4_0-unquantized": {
-        "name": "koboldcpp/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "model_name": "gemma-4-E4B-it-qat-q4_0-unquantized",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
-        "description": "",
-        "version": "1",
-        "style": "generalist",
-        "nsfw": false,
-        "display_name": "gemma 4 E4B it qat q4 0 unquantized",
-        "url": "https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized",
-        "tags": [
-            "6B",
-            "MoE",
-            "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-E4B-it": {
         "name": "google/gemma-4-E4B-it",
         "model_name": "gemma-4-E4B-it",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
+        "baseline": "",
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9047,17 +8600,15 @@
         "display_name": "gemma 4 E4B it",
         "url": "https://huggingface.co/google/gemma-4-E4B-it",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-E4B-it": {
         "name": "aphrodite/google/gemma-4-E4B-it",
         "model_name": "gemma-4-E4B-it",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
+        "baseline": "",
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9065,17 +8616,15 @@
         "display_name": "gemma 4 E4B it",
         "url": "https://huggingface.co/google/gemma-4-E4B-it",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-E4B-it": {
         "name": "koboldcpp/gemma-4-E4B-it",
         "model_name": "gemma-4-E4B-it",
-        "baseline": "google/gemma-4-E4B",
-        "parameters": 6000000000,
+        "baseline": "",
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9083,17 +8632,15 @@
         "display_name": "gemma 4 E4B it",
         "url": "https://huggingface.co/google/gemma-4-E4B-it",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "google/gemma-4-E4B": {
         "name": "google/gemma-4-E4B",
         "model_name": "gemma-4-E4B",
         "baseline": "",
-        "parameters": 6000000000,
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9101,17 +8648,15 @@
         "display_name": "gemma 4 E4B",
         "url": "https://huggingface.co/google/gemma-4-E4B",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "aphrodite/google/gemma-4-E4B": {
         "name": "aphrodite/google/gemma-4-E4B",
         "model_name": "gemma-4-E4B",
         "baseline": "",
-        "parameters": 6000000000,
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9119,17 +8664,15 @@
         "display_name": "gemma 4 E4B",
         "url": "https://huggingface.co/google/gemma-4-E4B",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "koboldcpp/gemma-4-E4B": {
         "name": "koboldcpp/gemma-4-E4B",
         "model_name": "gemma-4-E4B",
         "baseline": "",
-        "parameters": 6000000000,
+        "parameters": 5000000000,
         "description": "",
         "version": "1",
         "style": "generalist",
@@ -9137,11 +8680,9 @@
         "display_name": "gemma 4 E4B",
         "url": "https://huggingface.co/google/gemma-4-E4B",
         "tags": [
-            "6B",
-            "MoE",
+            "5B",
             "generalist"
-        ],
-        "instruct_format": "Gemma 4"
+        ]
     },
     "gpt2-large": {
         "name": "gpt2-large",
@@ -13439,63 +12980,6 @@
         ],
         "instruct_format": "ChatML"
     },
-    "LatitudeGames/Equinox-31B": {
-        "name": "LatitudeGames/Equinox-31B",
-        "model_name": "Equinox-31B",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 31000000000,
-        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Equinox 31B",
-        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
-        "tags": [
-            "31B",
-            "chat",
-            "roleplay",
-            "storytelling"
-        ],
-        "instruct_format": " Gemma 4"
-    },
-    "aphrodite/LatitudeGames/Equinox-31B": {
-        "name": "aphrodite/LatitudeGames/Equinox-31B",
-        "model_name": "Equinox-31B",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 31000000000,
-        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Equinox 31B",
-        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
-        "tags": [
-            "31B",
-            "chat",
-            "roleplay",
-            "storytelling"
-        ],
-        "instruct_format": " Gemma 4"
-    },
-    "koboldcpp/Equinox-31B": {
-        "name": "koboldcpp/Equinox-31B",
-        "model_name": "Equinox-31B",
-        "baseline": "google/gemma-4-31B",
-        "parameters": 31000000000,
-        "description": "Equinox draws its name from the balance between extremes. Trained on a balanced blend of Wayfarer 2's unforgiving dark adventures and Hearthfire's quiet slice-of-life storytelling, Equinox is equally at home in perilous dungeons and candlelit conversations. Gemma 4's native chat template was used, and thinking mode is suppressed by default.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Equinox 31B",
-        "url": "https://huggingface.co/LatitudeGames/Equinox-31B",
-        "tags": [
-            "31B",
-            "chat",
-            "roleplay",
-            "storytelling"
-        ],
-        "instruct_format": " Gemma 4"
-    },
     "LatitudeGames/Harbinger-24B": {
         "name": "LatitudeGames/Harbinger-24B",
         "model_name": "Harbinger-24B",
@@ -15480,13 +14964,14 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "utility",
+        "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "utility"
+            "agentic",
+            "generalist"
         ]
     },
     "aphrodite/mistralai/Ministral-3-14B-Instruct-2512": {
@@ -15496,13 +14981,14 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "utility",
+        "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "utility"
+            "agentic",
+            "generalist"
         ]
     },
     "koboldcpp/Ministral-3-14B-Instruct-2512": {
@@ -15512,13 +14998,14 @@
         "parameters": 14000000000,
         "description": "",
         "version": "1",
-        "style": "utility",
+        "style": "generalist",
         "nsfw": false,
         "display_name": "Ministral 3 14B Instruct 2512",
         "url": "https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512",
         "tags": [
             "14B",
-            "utility"
+            "agentic",
+            "generalist"
         ]
     },
     "mistralai/Ministral-3-14B-Reasoning-2512": {
@@ -23318,102 +22805,6 @@
             "generalist"
         ]
     },
-    "Qwen/Qwen3.5-4B": {
-        "name": "Qwen/Qwen3.5-4B",
-        "model_name": "Qwen3.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
-        "tags": [
-            "4B",
-            "utility"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3.5-4B": {
-        "name": "aphrodite/Qwen/Qwen3.5-4B",
-        "model_name": "Qwen3.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
-        "tags": [
-            "4B",
-            "utility"
-        ]
-    },
-    "koboldcpp/Qwen3.5-4B": {
-        "name": "koboldcpp/Qwen3.5-4B",
-        "model_name": "Qwen3.5-4B",
-        "baseline": "",
-        "parameters": 4000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 4B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-4B",
-        "tags": [
-            "4B",
-            "utility"
-        ]
-    },
-    "Qwen/Qwen3.5-9B": {
-        "name": "Qwen/Qwen3.5-9B",
-        "model_name": "Qwen3.5-9B",
-        "baseline": "",
-        "parameters": 9000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 9B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
-        "tags": [
-            "9B",
-            "utility"
-        ]
-    },
-    "aphrodite/Qwen/Qwen3.5-9B": {
-        "name": "aphrodite/Qwen/Qwen3.5-9B",
-        "model_name": "Qwen3.5-9B",
-        "baseline": "",
-        "parameters": 9000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 9B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
-        "tags": [
-            "9B",
-            "utility"
-        ]
-    },
-    "koboldcpp/Qwen3.5-9B": {
-        "name": "koboldcpp/Qwen3.5-9B",
-        "model_name": "Qwen3.5-9B",
-        "baseline": "",
-        "parameters": 9000000000,
-        "description": "",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Qwen3.5 9B",
-        "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
-        "tags": [
-            "9B",
-            "utility"
-        ]
-    },
     "Qwen/QwQ-32B-Preview": {
         "name": "Qwen/QwQ-32B-Preview",
         "model_name": "QwQ-32B-Preview",
@@ -24260,66 +23651,6 @@
             "6B"
         ]
     },
-    "samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B": {
-        "name": "samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
-        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
-        "baseline": "Qwen/Qwen3.6-35B-A3B",
-        "parameters": 18000000000,
-        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
-        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
-        "tags": [
-            "18B",
-            "agentic",
-            "coding",
-            "conversational",
-            "mathematics",
-            "utility"
-        ]
-    },
-    "aphrodite/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B": {
-        "name": "aphrodite/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
-        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
-        "baseline": "Qwen/Qwen3.6-35B-A3B",
-        "parameters": 18000000000,
-        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
-        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
-        "tags": [
-            "18B",
-            "agentic",
-            "coding",
-            "conversational",
-            "mathematics",
-            "utility"
-        ]
-    },
-    "koboldcpp/Carnice-Qwen3.6-MoE-35B-A3B": {
-        "name": "koboldcpp/Carnice-Qwen3.6-MoE-35B-A3B",
-        "model_name": "Carnice-Qwen3.6-MoE-35B-A3B",
-        "baseline": "Qwen/Qwen3.6-35B-A3B",
-        "parameters": 18000000000,
-        "description": "QLoRA fine-tune of Qwen3.6-35B-A3B (MoE, 3B active parameters) optimized for agentic workflows and Hermes Agent runtime. Two-stage training adapted from kai-os/Carnice-9b.",
-        "version": "1",
-        "style": "utility",
-        "nsfw": false,
-        "display_name": "Carnice Qwen3.6 MoE 35B A3B",
-        "url": "https://huggingface.co/samuelcardillo/Carnice-Qwen3.6-MoE-35B-A3B",
-        "tags": [
-            "18B",
-            "agentic",
-            "coding",
-            "conversational",
-            "mathematics",
-            "utility"
-        ]
-    },
     "SanjiWatsuki/Kunoichi-7B": {
         "name": "SanjiWatsuki/Kunoichi-7B",
         "model_name": "Kunoichi-7B",
@@ -24749,6 +24080,57 @@
             "roleplay"
         ]
     },
+    "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
+    "koboldcpp/Llama-3.1-8B-Stheno-v3.4": {
+        "name": "koboldcpp/Llama-3.1-8B-Stheno-v3.4",
+        "model_name": "Llama-3.1-8B-Stheno-v3.4",
+        "baseline": "",
+        "parameters": 8000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Llama 3.1 8B Stheno v3.4",
+        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
+        "tags": [
+            "8B",
+            "chat",
+            "roleplay"
+        ]
+    },
     "Sao10K/L3-8B-Tamamo-v1": {
         "name": "Sao10K/L3-8B-Tamamo-v1",
         "model_name": "L3-8B-Tamamo-v1",
@@ -24887,60 +24269,6 @@
         "display_name": "L3.1 70B Hanami x1",
         "tags": [
             "70B"
-        ],
-        "instruct_format": "Llama 3"
-    },
-    "Sao10K/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
-        ],
-        "instruct_format": "Llama 3"
-    },
-    "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "aphrodite/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
-        ],
-        "instruct_format": "Llama 3"
-    },
-    "koboldcpp/Llama-3.1-8B-Stheno-v3.4": {
-        "name": "koboldcpp/Llama-3.1-8B-Stheno-v3.4",
-        "model_name": "Llama-3.1-8B-Stheno-v3.4",
-        "baseline": "",
-        "parameters": 8000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Llama 3.1 8B Stheno v3.4",
-        "url": "https://huggingface.co/Sao10K/Llama-3.1-8B-Stheno-v3.4",
-        "tags": [
-            "8B",
-            "chat",
-            "roleplay"
         ],
         "instruct_format": "Llama 3"
     },
@@ -25375,63 +24703,6 @@
         "tags": [
             "12B"
         ]
-    },
-    "SicariusSicariiStuff/Assistant_Pepe_32B": {
-        "name": "SicariusSicariiStuff/Assistant_Pepe_32B",
-        "model_name": "Assistant_Pepe_32B",
-        "baseline": "Qwen/Qwen3-32B",
-        "parameters": 32000000000,
-        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Assistant Pepe 32B",
-        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
-        "tags": [
-            "32B",
-            "chat",
-            "creative",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B": {
-        "name": "aphrodite/SicariusSicariiStuff/Assistant_Pepe_32B",
-        "model_name": "Assistant_Pepe_32B",
-        "baseline": "Qwen/Qwen3-32B",
-        "parameters": 32000000000,
-        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Assistant Pepe 32B",
-        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
-        "tags": [
-            "32B",
-            "chat",
-            "creative",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
-    },
-    "koboldcpp/Assistant_Pepe_32B": {
-        "name": "koboldcpp/Assistant_Pepe_32B",
-        "model_name": "Assistant_Pepe_32B",
-        "baseline": "Qwen/Qwen3-32B",
-        "parameters": 32000000000,
-        "description": "One of the driest, most 'robotic' base models has birthed one of the arguably most human-like finetunes. It is exceptionally fun to talk to and is simply amazing at any creative/brainstorming endeavor. Inclusive toward amphibians.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Assistant Pepe 32B",
-        "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
-        "tags": [
-            "32B",
-            "chat",
-            "creative",
-            "roleplay"
-        ],
-        "instruct_format": "ChatML"
     },
     "SicariusSicariiStuff/Assistant_Pepe_70B": {
         "name": "SicariusSicariiStuff/Assistant_Pepe_70B",
@@ -28385,60 +27656,6 @@
         ],
         "instruct_format": "Metharme"
     },
-    "TheDrummer/Behemoth-R1-123B-v2": {
-        "name": "TheDrummer/Behemoth-R1-123B-v2",
-        "model_name": "Behemoth-R1-123B-v2",
-        "baseline": "mistralai/Mistral-Large-Instruct-2411",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Behemoth R1 123B v2",
-        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
-        "tags": [
-            "123B",
-            "chat",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
-    },
-    "aphrodite/TheDrummer/Behemoth-R1-123B-v2": {
-        "name": "aphrodite/TheDrummer/Behemoth-R1-123B-v2",
-        "model_name": "Behemoth-R1-123B-v2",
-        "baseline": "mistralai/Mistral-Large-Instruct-2411",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Behemoth R1 123B v2",
-        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
-        "tags": [
-            "123B",
-            "chat",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
-    },
-    "koboldcpp/Behemoth-R1-123B-v2": {
-        "name": "koboldcpp/Behemoth-R1-123B-v2",
-        "model_name": "Behemoth-R1-123B-v2",
-        "baseline": "mistralai/Mistral-Large-Instruct-2411",
-        "parameters": 123000000000,
-        "description": "",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Behemoth R1 123B v2",
-        "url": "https://huggingface.co/TheDrummer/Behemoth-R1-123B-v2",
-        "tags": [
-            "123B",
-            "chat",
-            "roleplay"
-        ],
-        "instruct_format": "Mistral V3"
-    },
     "TheDrummer/Behemoth-ReduX-123B-v1": {
         "name": "TheDrummer/Behemoth-ReduX-123B-v1",
         "model_name": "Behemoth-ReduX-123B-v1",
@@ -30171,63 +29388,6 @@
             "12B",
             "chat",
             "popular",
-            "roleplay",
-            "thinking"
-        ],
-        "instruct_format": "Mistral V3 Tekken"
-    },
-    "TheDrummer/Rocinante-XL-16B-v1": {
-        "name": "TheDrummer/Rocinante-XL-16B-v1",
-        "model_name": "Rocinante-XL-16B-v1",
-        "baseline": "",
-        "parameters": 16000000000,
-        "description": "Just like Roci X but better.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Rocinante XL 16B v1",
-        "url": "https://huggingface.co/TheDrummer/Rocinante-XL-16B-v1",
-        "tags": [
-            "16B",
-            "chat",
-            "roleplay",
-            "thinking"
-        ],
-        "instruct_format": "Mistral V3 Tekken"
-    },
-    "aphrodite/TheDrummer/Rocinante-XL-16B-v1": {
-        "name": "aphrodite/TheDrummer/Rocinante-XL-16B-v1",
-        "model_name": "Rocinante-XL-16B-v1",
-        "baseline": "",
-        "parameters": 16000000000,
-        "description": "Just like Roci X but better.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Rocinante XL 16B v1",
-        "url": "https://huggingface.co/TheDrummer/Rocinante-XL-16B-v1",
-        "tags": [
-            "16B",
-            "chat",
-            "roleplay",
-            "thinking"
-        ],
-        "instruct_format": "Mistral V3 Tekken"
-    },
-    "koboldcpp/Rocinante-XL-16B-v1": {
-        "name": "koboldcpp/Rocinante-XL-16B-v1",
-        "model_name": "Rocinante-XL-16B-v1",
-        "baseline": "",
-        "parameters": 16000000000,
-        "description": "Just like Roci X but better.",
-        "version": "1",
-        "style": "chat",
-        "nsfw": false,
-        "display_name": "Rocinante XL 16B v1",
-        "url": "https://huggingface.co/TheDrummer/Rocinante-XL-16B-v1",
-        "tags": [
-            "16B",
-            "chat",
             "roleplay",
             "thinking"
         ],
