@@ -18719,6 +18719,54 @@
             "12B"
         ]
     },
+    "ProCreations/grug-27b": {
+        "name": "ProCreations/grug-27b",
+        "model_name": "grug-27b",
+        "baseline": "Qwen/Qwen3.6-27B",
+        "parameters": 27000000000,
+        "description": "same reasoning. same depth. way fewer token. grug throw grammar padding in fire, keep all brain meat. answer come out normal english, full quality. only inside voice is grug.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "grug 27b",
+        "url": "https://huggingface.co/ProCreations/grug-27b",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "aphrodite/ProCreations/grug-27b": {
+        "name": "aphrodite/ProCreations/grug-27b",
+        "model_name": "grug-27b",
+        "baseline": "Qwen/Qwen3.6-27B",
+        "parameters": 27000000000,
+        "description": "same reasoning. same depth. way fewer token. grug throw grammar padding in fire, keep all brain meat. answer come out normal english, full quality. only inside voice is grug.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "grug 27b",
+        "url": "https://huggingface.co/ProCreations/grug-27b",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "koboldcpp/grug-27b": {
+        "name": "koboldcpp/grug-27b",
+        "model_name": "grug-27b",
+        "baseline": "Qwen/Qwen3.6-27B",
+        "parameters": 27000000000,
+        "description": "same reasoning. same depth. way fewer token. grug throw grammar padding in fire, keep all brain meat. answer come out normal english, full quality. only inside voice is grug.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "grug 27b",
+        "url": "https://huggingface.co/ProCreations/grug-27b",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
     "PygmalionAI/mythalion-13b": {
         "name": "PygmalionAI/mythalion-13b",
         "model_name": "mythalion-13b",
@@ -23463,6 +23511,54 @@
         "tags": [
             "9B",
             "utility"
+        ]
+    },
+    "Qwen/Qwen3.6-27B": {
+        "name": "Qwen/Qwen3.6-27B",
+        "model_name": "Qwen3.6-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Qwen3.6 prioritizes stability and real-world utility, offering developers a more intuitive, responsive, and genuinely productive coding experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.6-27B": {
+        "name": "aphrodite/Qwen/Qwen3.6-27B",
+        "model_name": "Qwen3.6-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Qwen3.6 prioritizes stability and real-world utility, offering developers a more intuitive, responsive, and genuinely productive coding experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "tags": [
+            "27B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Qwen3.6-27B": {
+        "name": "koboldcpp/Qwen3.6-27B",
+        "model_name": "Qwen3.6-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Qwen3.6 prioritizes stability and real-world utility, offering developers a more intuitive, responsive, and genuinely productive coding experience.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "tags": [
+            "27B",
+            "chat"
         ]
     },
     "Qwen/QwQ-32B-Preview": {
