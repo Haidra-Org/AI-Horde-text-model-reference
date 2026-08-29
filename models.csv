@@ -296,6 +296,7 @@ LatitudeGames/Muse-12B,12.2,,https://huggingface.co/LatitudeGames/Muse-12B,mistr
 lightblue/Karasu-Mixtral-8x22B-v0.1,88,,https://huggingface.co/lightblue/Karasu-Mixtral-8x22B-v0.1,,,,,,
 lightblue/Karasu-Mixtral-8x22B-v0.1,88,,https://huggingface.co/lightblue/Karasu-Mixtral-8x22B-v0.1,,,,,,
 lizpreciatior/lzlv_70b_fp16_hf,70,,https://huggingface.co/lizpreciatior/lzlv_70b_fp16_hf,,,,,,
+llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic,14,,https://huggingface.co/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic,google/gemma-4-26B-A4B,"This is a decensored version of zerofata/G4-MeroMero-26B-A4B, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",chat,roleplay,Gemma 4,
 llmfan46/Qwen3.5-35B-A3B-heretic-v1,18,,https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v1,Qwen/Qwen3.5-35B-A3B-Base,,,,,
 llmfan46/Qwen3.5-35B-A3B-heretic-v2,18,,https://huggingface.co/llmfan46/Qwen3.5-35B-A3B-heretic-v2,Qwen/Qwen3.5-35B-A3B-Base,,,,,
 Marcjoni/QuasiStarSynth-12B,12,,,,,,,,

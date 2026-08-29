@@ -13697,6 +13697,60 @@
             "70B"
         ]
     },
+    "llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic": {
+        "name": "llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "model_name": "G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a decensored version of zerofata/G4-MeroMero-26B-A4B, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B it uncensored heretic",
+        "url": "https://huggingface.co/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic": {
+        "name": "aphrodite/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "model_name": "G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a decensored version of zerofata/G4-MeroMero-26B-A4B, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B it uncensored heretic",
+        "url": "https://huggingface.co/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/G4-MeroMero-26B-A4B-it-uncensored-heretic": {
+        "name": "koboldcpp/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "model_name": "G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a decensored version of zerofata/G4-MeroMero-26B-A4B, made using Heretic v1.2.0 with the Arbitrary-Rank Ablation (ARA) method",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "G4 MeroMero 26B A4B it uncensored heretic",
+        "url": "https://huggingface.co/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "llmfan46/Qwen3.5-35B-A3B-heretic-v1": {
         "name": "llmfan46/Qwen3.5-35B-A3B-heretic-v1",
         "model_name": "Qwen3.5-35B-A3B-heretic-v1",
