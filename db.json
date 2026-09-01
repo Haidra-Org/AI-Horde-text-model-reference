@@ -28298,6 +28298,114 @@
             "105B"
         ]
     },
+    "TheDrummer/Artemis-31B-v1": {
+        "name": "TheDrummer/Artemis-31B-v1",
+        "model_name": "Artemis-31B-v1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "It was a good early attempt that pulled out the best writing potential in Gemma 4. However, v1 might require some handholding, token banning, etc., for stability and to avoid dash spiraling. With that said, many fans still vouched for [what is now] v1.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/TheDrummer/Artemis-31B-v1": {
+        "name": "aphrodite/TheDrummer/Artemis-31B-v1",
+        "model_name": "Artemis-31B-v1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "It was a good early attempt that pulled out the best writing potential in Gemma 4. However, v1 might require some handholding, token banning, etc., for stability and to avoid dash spiraling. With that said, many fans still vouched for [what is now] v1.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Artemis-31B-v1": {
+        "name": "koboldcpp/Artemis-31B-v1",
+        "model_name": "Artemis-31B-v1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "It was a good early attempt that pulled out the best writing potential in Gemma 4. However, v1 might require some handholding, token banning, etc., for stability and to avoid dash spiraling. With that said, many fans still vouched for [what is now] v1.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "TheDrummer/Artemis-31B-v1.1": {
+        "name": "TheDrummer/Artemis-31B-v1.1",
+        "model_name": "Artemis-31B-v1.1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Addresses the issues of v1 while retaining as much of the charm that v1 had.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/TheDrummer/Artemis-31B-v1.1": {
+        "name": "aphrodite/TheDrummer/Artemis-31B-v1.1",
+        "model_name": "Artemis-31B-v1.1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Addresses the issues of v1 while retaining as much of the charm that v1 had.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Artemis-31B-v1.1": {
+        "name": "koboldcpp/Artemis-31B-v1.1",
+        "model_name": "Artemis-31B-v1.1",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Addresses the issues of v1 while retaining as much of the charm that v1 had.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.1",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "TheDrummer/Behemoth-123B-v1": {
         "name": "TheDrummer/Behemoth-123B-v1",
         "model_name": "Behemoth-123B-v1",
@@ -28585,6 +28693,60 @@
             "story"
         ],
         "instruct_format": "Metharme"
+    },
+    "TheDrummer/Behemoth-128B-v3": {
+        "name": "TheDrummer/Behemoth-128B-v3",
+        "model_name": "Behemoth-128B-v3",
+        "baseline": "mistralai/Mistral-Medium-3.5-128B",
+        "parameters": 128000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth 128B v3",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-128B-v3",
+        "tags": [
+            "128B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "aphrodite/TheDrummer/Behemoth-128B-v3": {
+        "name": "aphrodite/TheDrummer/Behemoth-128B-v3",
+        "model_name": "Behemoth-128B-v3",
+        "baseline": "mistralai/Mistral-Medium-3.5-128B",
+        "parameters": 128000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth 128B v3",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-128B-v3",
+        "tags": [
+            "128B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
+    },
+    "koboldcpp/Behemoth-128B-v3": {
+        "name": "koboldcpp/Behemoth-128B-v3",
+        "model_name": "Behemoth-128B-v3",
+        "baseline": "mistralai/Mistral-Medium-3.5-128B",
+        "parameters": 128000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Behemoth 128B v3",
+        "url": "https://huggingface.co/TheDrummer/Behemoth-128B-v3",
+        "tags": [
+            "128B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Mistral V3"
     },
     "TheDrummer/Behemoth-R1-123B-v2": {
         "name": "TheDrummer/Behemoth-R1-123B-v2",
@@ -30169,6 +30331,60 @@
         "tags": [
             "70B"
         ]
+    },
+    "TheDrummer/Orion-26B-A4B-v1": {
+        "name": "TheDrummer/Orion-26B-A4B-v1",
+        "model_name": "Orion-26B-A4B-v1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test Config v1f",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/TheDrummer/Orion-26B-A4B-v1": {
+        "name": "aphrodite/TheDrummer/Orion-26B-A4B-v1",
+        "model_name": "Orion-26B-A4B-v1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test Config v1f",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Orion-26B-A4B-v1": {
+        "name": "koboldcpp/Orion-26B-A4B-v1",
+        "model_name": "Orion-26B-A4B-v1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test Config v1f",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
     },
     "TheDrummer/Precog-24B-v1": {
         "name": "TheDrummer/Precog-24B-v1",
