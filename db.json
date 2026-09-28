@@ -23615,6 +23615,108 @@
             "chat"
         ]
     },
+    "Qwen/Qwen3.8-27B": {
+        "name": "Qwen/Qwen3.8-27B",
+        "model_name": "Qwen3.8-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Dense 27B Qwen3.8 model with vision and thinking support.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+            "27B",
+            "generalist",
+            "thinking"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.8-27B": {
+        "name": "aphrodite/Qwen/Qwen3.8-27B",
+        "model_name": "Qwen3.8-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Dense 27B Qwen3.8 model with vision and thinking support.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+            "27B",
+            "generalist",
+            "thinking"
+        ]
+    },
+    "koboldcpp/Qwen3.8-27B": {
+        "name": "koboldcpp/Qwen3.8-27B",
+        "model_name": "Qwen3.8-27B",
+        "baseline": "",
+        "parameters": 27000000000,
+        "description": "Dense 27B Qwen3.8 model with vision and thinking support.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "tags": [
+            "27B",
+            "generalist",
+            "thinking"
+        ]
+    },
+    "Qwen/Qwen3.8-Flash-Next": {
+        "name": "Qwen/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 63000000000,
+        "description": "Experimental preview of the Qwen4 architecture. MoE with 125B total / 6B activated parameters (plus n-gram embeddings), 262k context, vision.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "63B",
+            "generalist",
+            "thinking"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.8-Flash-Next": {
+        "name": "aphrodite/Qwen/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 63000000000,
+        "description": "Experimental preview of the Qwen4 architecture. MoE with 125B total / 6B activated parameters (plus n-gram embeddings), 262k context, vision.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "63B",
+            "generalist",
+            "thinking"
+        ]
+    },
+    "koboldcpp/Qwen3.8-Flash-Next": {
+        "name": "koboldcpp/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 63000000000,
+        "description": "Experimental preview of the Qwen4 architecture. MoE with 125B total / 6B activated parameters (plus n-gram embeddings), 262k context, vision.",
+        "version": "1",
+        "style": "generalist",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "63B",
+            "generalist",
+            "thinking"
+        ]
+    },
     "Qwen/QwQ-32B-Preview": {
         "name": "Qwen/QwQ-32B-Preview",
         "model_name": "QwQ-32B-Preview",

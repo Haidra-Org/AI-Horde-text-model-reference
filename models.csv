@@ -510,6 +510,8 @@ Qwen/Qwen3.5-397B-A17B,201,,https://huggingface.co/Qwen/Qwen3.5-397B-A17B,,,gene
 Qwen/Qwen3.5-4B,4,,https://huggingface.co/Qwen/Qwen3.5-4B,,,utility,,,
 Qwen/Qwen3.5-9B,9,,https://huggingface.co/Qwen/Qwen3.5-9B,,,utility,,,
 Qwen/Qwen3.6-27B,27,,https://huggingface.co/Qwen/Qwen3.6-27B,,"Qwen3.6 prioritizes stability and real-world utility, offering developers a more intuitive, responsive, and genuinely productive coding experience.",chat,,,
+Qwen/Qwen3.8-27B,27,,https://huggingface.co/Qwen/Qwen3.8-27B,,Dense 27B Qwen3.8 model with vision and thinking support.,generalist,thinking,,
+Qwen/Qwen3.8-Flash-Next,63,,https://huggingface.co/Qwen/Qwen3.8-Flash-Next,,"Experimental preview of the Qwen4 architecture. MoE with 125B total / 6B activated parameters (plus n-gram embeddings), 262k context, vision.",generalist,thinking,,
 Qwen/QwQ-32B-Preview,32,,https://huggingface.co/Qwen/QwQ-32B-Preview,,,,,,
 Qwen/QwQ-32B,32,,https://huggingface.co/Qwen/QwQ-32B,,,,,,
 ReadyArt/4.2.0-Broken-Tutu-24b,24,,https://huggingface.co/ReadyArt/4.2.0-Broken-Tutu-24b,,Mistral-V7-Tekken-T8-XML Recommended.,chat,"roleplay, storytelling, unaligned",,
