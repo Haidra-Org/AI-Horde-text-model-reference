@@ -34318,7 +34318,7 @@
         "description": "Mixed-precision NVFP4/FP8 artifact of llmfan46/Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved, retaining native MTP. Runs in NInfer on RTX 5090. Model-card context limit: 262144 tokens.",
         "version": "1",
         "style": "chat",
-        "nsfw": false,
+        "nsfw": true,
         "display_name": "Qwen3.8 27B Heretic NVFP4 (NInfer)",
         "url": "https://huggingface.co/koloved/Qwen3.8-27B-Heretic-NVFP4-NInfer",
         "tags": [
@@ -34343,7 +34343,7 @@
         "description": "Mixed-precision NVFP4/FP8 artifact of llmfan46/Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved, retaining native MTP. Runs in NInfer on RTX 5090. Model-card context limit: 262144 tokens.",
         "version": "1",
         "style": "chat",
-        "nsfw": false,
+        "nsfw": true,
         "display_name": "Qwen3.8 27B Heretic NVFP4 (NInfer)",
         "url": "https://huggingface.co/koloved/Qwen3.8-27B-Heretic-NVFP4-NInfer",
         "tags": [
@@ -34368,7 +34368,7 @@
         "description": "Mixed-precision NVFP4/FP8 artifact of llmfan46/Qwen3.8-27B-Ultra-Uncensored-Heretic-Native-MTP-Preserved, retaining native MTP. Runs in NInfer on RTX 5090. Model-card context limit: 262144 tokens.",
         "version": "1",
         "style": "chat",
-        "nsfw": false,
+        "nsfw": true,
         "display_name": "Qwen3.8 27B Heretic NVFP4 (NInfer)",
         "url": "https://huggingface.co/koloved/Qwen3.8-27B-Heretic-NVFP4-NInfer",
         "tags": [

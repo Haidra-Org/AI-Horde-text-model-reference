@@ -71,8 +71,13 @@ with open(input_file, newline="") as csvfile:
         if not row.get("display_name"):
             row["display_name"] = re.sub(r" +", " ", re.sub(r"[-_]", " ", model_name)).strip()
 
+        # Explicit NSFW capability overrides the default when supplied.
+        if row.get("nsfw"):
+            assert row["nsfw"].lower() in ("true", "false"), f"{name}: nsfw must be true or false"
+            row["nsfw"] = row["nsfw"].lower() == "true"
+
         # Remove empty values
-        row = {k: v for k, v in row.items() if v}
+        row = {k: v for k, v in row.items() if v or isinstance(v, bool)}
 
         # Add the model record to the data
         for key_format in ["{name}", "aphrodite/{name}", "koboldcpp/{model_name}"]:
