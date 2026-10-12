@@ -611,6 +611,7 @@ TheDrummer/Anubis-Mini-8B-v1,8,,https://huggingface.co/TheDrummer/Anubis-Mini-8B
 TheDrummer/Anubis-Pro-105B-v1,105,,,,,,,,
 TheDrummer/Artemis-31B-v1,31,,https://huggingface.co/TheDrummer/Artemis-31B-v1,google/gemma-4-31B,"It was a good early attempt that pulled out the best writing potential in Gemma 4. However, v1 might require some handholding, token banning, etc., for stability and to avoid dash spiraling. With that said, many fans still vouched for [what is now] v1.",chat,roleplay,Gemma 4,
 TheDrummer/Artemis-31B-v1.1,31,,https://huggingface.co/TheDrummer/Artemis-31B-v1.1,google/gemma-4-31B,Addresses the issues of v1 while retaining as much of the charm that v1 had.,chat,roleplay,Gemma 4,
+TheDrummer/Artemis-31B-v1.2,31,,https://huggingface.co/TheDrummer/Artemis-31B-v1.2,google/gemma-4-31B,Writing that doesn't feel like G4. Reasoning that actually works. Tracking and consistency. Class above its size.,chat,roleplay,Gemma 4,
 TheDrummer/Behemoth-123B-v1,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1,,,,,,
 TheDrummer/Behemoth-123B-v1.1,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1.1,,,,,,
 TheDrummer/Behemoth-123B-v1.2,123,,https://huggingface.co/TheDrummer/Behemoth-123B-v1.2,,,,,,

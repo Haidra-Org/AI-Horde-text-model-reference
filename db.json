@@ -28406,6 +28406,60 @@
         ],
         "instruct_format": "Gemma 4"
     },
+    "TheDrummer/Artemis-31B-v1.2": {
+        "name": "TheDrummer/Artemis-31B-v1.2",
+        "model_name": "Artemis-31B-v1.2",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Writing that doesn't feel like G4. Reasoning that actually works. Tracking and consistency. Class above its size.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/TheDrummer/Artemis-31B-v1.2": {
+        "name": "aphrodite/TheDrummer/Artemis-31B-v1.2",
+        "model_name": "Artemis-31B-v1.2",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Writing that doesn't feel like G4. Reasoning that actually works. Tracking and consistency. Class above its size.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Artemis-31B-v1.2": {
+        "name": "koboldcpp/Artemis-31B-v1.2",
+        "model_name": "Artemis-31B-v1.2",
+        "baseline": "google/gemma-4-31B",
+        "parameters": 31000000000,
+        "description": "Writing that doesn't feel like G4. Reasoning that actually works. Tracking and consistency. Class above its size.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Artemis 31B v1.2",
+        "url": "https://huggingface.co/TheDrummer/Artemis-31B-v1.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "TheDrummer/Behemoth-123B-v1": {
         "name": "TheDrummer/Behemoth-123B-v1",
         "model_name": "Behemoth-123B-v1",
