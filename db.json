@@ -3611,6 +3611,54 @@
             "generalist"
         ]
     },
+    "DarkArtsForge/Asmodeus-24B-v3": {
+        "name": "DarkArtsForge/Asmodeus-24B-v3",
+        "model_name": "Asmodeus-24B-v3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Asmodeus 24B v3",
+        "url": "https://huggingface.co/DarkArtsForge/Asmodeus-24B-v3",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
+    "aphrodite/DarkArtsForge/Asmodeus-24B-v3": {
+        "name": "aphrodite/DarkArtsForge/Asmodeus-24B-v3",
+        "model_name": "Asmodeus-24B-v3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Asmodeus 24B v3",
+        "url": "https://huggingface.co/DarkArtsForge/Asmodeus-24B-v3",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Asmodeus-24B-v3": {
+        "name": "koboldcpp/Asmodeus-24B-v3",
+        "model_name": "Asmodeus-24B-v3",
+        "baseline": "",
+        "parameters": 24000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Asmodeus 24B v3",
+        "url": "https://huggingface.co/DarkArtsForge/Asmodeus-24B-v3",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
     "Darkhn/GLM-Air-4.5-106B-Animus-V12.1": {
         "name": "Darkhn/GLM-Air-4.5-106B-Animus-V12.1",
         "model_name": "GLM-Air-4.5-106B-Animus-V12.1",
@@ -13841,6 +13889,54 @@
             "18B"
         ]
     },
+    "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved": {
+        "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "model_name": "Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved",
+        "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "tags": [
+            "18B",
+            "chat"
+        ]
+    },
+    "aphrodite/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved": {
+        "name": "aphrodite/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "model_name": "Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved",
+        "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "tags": [
+            "18B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved": {
+        "name": "koboldcpp/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "model_name": "Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "baseline": "",
+        "parameters": 18000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved",
+        "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved",
+        "tags": [
+            "18B",
+            "chat"
+        ]
+    },
     "Marcjoni/QuasiStarSynth-12B": {
         "name": "Marcjoni/QuasiStarSynth-12B",
         "model_name": "QuasiStarSynth-12B",
@@ -16754,6 +16850,54 @@
             "7B"
         ]
     },
+    "MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy": {
+        "name": "MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "model_name": "gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a gemma-4-26B-A4B-it fine-tune, produced through P-E-W's Heretic (v1.2.0) abliteration engine with Self-Organizing Maps & Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it SOMPOA heresy",
+        "url": "https://huggingface.co/MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "tags": [
+            "14B",
+            "chat"
+        ]
+    },
+    "aphrodite/MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy": {
+        "name": "aphrodite/MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "model_name": "gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a gemma-4-26B-A4B-it fine-tune, produced through P-E-W's Heretic (v1.2.0) abliteration engine with Self-Organizing Maps & Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it SOMPOA heresy",
+        "url": "https://huggingface.co/MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "tags": [
+            "14B",
+            "chat"
+        ]
+    },
+    "koboldcpp/gemma-4-26B-A4B-it-SOMPOA-heresy": {
+        "name": "koboldcpp/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "model_name": "gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "This is a gemma-4-26B-A4B-it fine-tune, produced through P-E-W's Heretic (v1.2.0) abliteration engine with Self-Organizing Maps & Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "gemma 4 26B A4B it SOMPOA heresy",
+        "url": "https://huggingface.co/MuXodious/gemma-4-26B-A4B-it-SOMPOA-heresy",
+        "tags": [
+            "14B",
+            "chat"
+        ]
+    },
     "MuXodious/GLM-4.7-Flash-absolute-heresy": {
         "name": "MuXodious/GLM-4.7-Flash-absolute-heresy",
         "model_name": "GLM-4.7-Flash-absolute-heresy",
@@ -16799,6 +16943,102 @@
         "url": "https://huggingface.co/MuXodious/GLM-4.7-Flash-absolute-heresy",
         "tags": [
             "17B",
+            "chat"
+        ]
+    },
+    "MuXodious/WeirdCompound-v1.7-24b-absolute-heresy": {
+        "name": "MuXodious/WeirdCompound-v1.7-24b-absolute-heresy",
+        "model_name": "WeirdCompound-v1.7-24b-absolute-heresy",
+        "baseline": "FlareRebellion/WeirdCompound-v1.7-24b",
+        "parameters": 24000000000,
+        "description": "This is a WeirdCompound-v1.7-24b fine-tune, produced through P-E-W's Heretic (v1.1.0) abliteration engine with Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b absolute heresy",
+        "url": "https://huggingface.co/MuXodious/WeirdCompound-v1.7-24b-absolute-heresy",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
+    "aphrodite/MuXodious/WeirdCompound-v1.7-24b-absolute-heresy": {
+        "name": "aphrodite/MuXodious/WeirdCompound-v1.7-24b-absolute-heresy",
+        "model_name": "WeirdCompound-v1.7-24b-absolute-heresy",
+        "baseline": "FlareRebellion/WeirdCompound-v1.7-24b",
+        "parameters": 24000000000,
+        "description": "This is a WeirdCompound-v1.7-24b fine-tune, produced through P-E-W's Heretic (v1.1.0) abliteration engine with Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b absolute heresy",
+        "url": "https://huggingface.co/MuXodious/WeirdCompound-v1.7-24b-absolute-heresy",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
+    "koboldcpp/WeirdCompound-v1.7-24b-absolute-heresy": {
+        "name": "koboldcpp/WeirdCompound-v1.7-24b-absolute-heresy",
+        "model_name": "WeirdCompound-v1.7-24b-absolute-heresy",
+        "baseline": "FlareRebellion/WeirdCompound-v1.7-24b",
+        "parameters": 24000000000,
+        "description": "This is a WeirdCompound-v1.7-24b fine-tune, produced through P-E-W's Heretic (v1.1.0) abliteration engine with Magnitude-Preserving Orthogonal Ablation enabled.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "WeirdCompound v1.7 24b absolute heresy",
+        "url": "https://huggingface.co/MuXodious/WeirdCompound-v1.7-24b-absolute-heresy",
+        "tags": [
+            "24B",
+            "chat"
+        ]
+    },
+    "Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA": {
+        "name": "Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "model_name": "Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Goetia 26B A4B v1.3 Absolute Heretic ARA",
+        "url": "https://huggingface.co/Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "tags": [
+            "14B",
+            "chat"
+        ]
+    },
+    "aphrodite/Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA": {
+        "name": "aphrodite/Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "model_name": "Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Goetia 26B A4B v1.3 Absolute Heretic ARA",
+        "url": "https://huggingface.co/Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "tags": [
+            "14B",
+            "chat"
+        ]
+    },
+    "koboldcpp/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA": {
+        "name": "koboldcpp/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "model_name": "Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "baseline": "",
+        "parameters": 14000000000,
+        "description": "",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Goetia 26B A4B v1.3 Absolute Heretic ARA",
+        "url": "https://huggingface.co/Naphula/Goetia-26B-A4B-v1.3-Absolute-Heretic-ARA",
+        "tags": [
+            "14B",
             "chat"
         ]
     },
