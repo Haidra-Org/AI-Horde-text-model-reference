@@ -30680,6 +30680,60 @@
         ],
         "instruct_format": "Gemma 4"
     },
+    "TheDrummer/Orion-26B-A4B-v1.1": {
+        "name": "TheDrummer/Orion-26B-A4B-v1.1",
+        "model_name": "Orion-26B-A4B-v1.1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test config v1h",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1.1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/TheDrummer/Orion-26B-A4B-v1.1": {
+        "name": "aphrodite/TheDrummer/Orion-26B-A4B-v1.1",
+        "model_name": "Orion-26B-A4B-v1.1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test config v1h",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1.1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Orion-26B-A4B-v1.1": {
+        "name": "koboldcpp/Orion-26B-A4B-v1.1",
+        "model_name": "Orion-26B-A4B-v1.1",
+        "baseline": "google/gemma-4-26B-A4B",
+        "parameters": 14000000000,
+        "description": "Test config v1h",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Orion 26B A4B v1.1",
+        "url": "https://huggingface.co/TheDrummer/Orion-26B-A4B-v1.1",
+        "tags": [
+            "14B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "TheDrummer/Precog-24B-v1": {
         "name": "TheDrummer/Precog-24B-v1",
         "model_name": "Precog-24B-v1",
