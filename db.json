@@ -17810,6 +17810,60 @@
             "rep_pen": 3.0
         }
     },
+    "Nimbz/Gemma-4-Dark-Orthia-31B": {
+        "name": "Nimbz/Gemma-4-Dark-Orthia-31B",
+        "model_name": "Gemma-4-Dark-Orthia-31B",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "Merciless.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Gemma 4 Dark Orthia 31B",
+        "url": "https://huggingface.co/Nimbz/Gemma-4-Dark-Orthia-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/Nimbz/Gemma-4-Dark-Orthia-31B": {
+        "name": "aphrodite/Nimbz/Gemma-4-Dark-Orthia-31B",
+        "model_name": "Gemma-4-Dark-Orthia-31B",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "Merciless.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Gemma 4 Dark Orthia 31B",
+        "url": "https://huggingface.co/Nimbz/Gemma-4-Dark-Orthia-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Gemma-4-Dark-Orthia-31B": {
+        "name": "koboldcpp/Gemma-4-Dark-Orthia-31B",
+        "model_name": "Gemma-4-Dark-Orthia-31B",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "Merciless.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Gemma 4 Dark Orthia 31B",
+        "url": "https://huggingface.co/Nimbz/Gemma-4-Dark-Orthia-31B",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
     "Nitral-AI/Captain-Eris_Violet-V0.420-12B": {
         "name": "Nitral-AI/Captain-Eris_Violet-V0.420-12B",
         "model_name": "Captain-Eris_Violet-V0.420-12B",
