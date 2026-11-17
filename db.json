@@ -23909,6 +23909,57 @@
             "chat"
         ]
     },
+    "Qwen/Qwen3.8-Flash-Next": {
+        "name": "Qwen/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 180000000000,
+        "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how much we can scale, but how efficiently we can do so. Sustainable progress toward artificial general intelligence (AGI) that benefits everyone demands architectural innovation. Today, we are sharing a concrete step in that direction: Qwen3.8-Flash-Next.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "180B",
+            "chat",
+            "generalist"
+        ]
+    },
+    "aphrodite/Qwen/Qwen3.8-Flash-Next": {
+        "name": "aphrodite/Qwen/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 180000000000,
+        "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how much we can scale, but how efficiently we can do so. Sustainable progress toward artificial general intelligence (AGI) that benefits everyone demands architectural innovation. Today, we are sharing a concrete step in that direction: Qwen3.8-Flash-Next.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "180B",
+            "chat",
+            "generalist"
+        ]
+    },
+    "koboldcpp/Qwen3.8-Flash-Next": {
+        "name": "koboldcpp/Qwen3.8-Flash-Next",
+        "model_name": "Qwen3.8-Flash-Next",
+        "baseline": "",
+        "parameters": 180000000000,
+        "description": "As the frontier of foundation models pushes toward ever-larger parameter counts and ever-longer context windows, the question is no longer just how much we can scale, but how efficiently we can do so. Sustainable progress toward artificial general intelligence (AGI) that benefits everyone demands architectural innovation. Today, we are sharing a concrete step in that direction: Qwen3.8-Flash-Next.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Qwen3.8 Flash Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "tags": [
+            "180B",
+            "chat",
+            "generalist"
+        ]
+    },
     "Qwen/QwQ-32B-Preview": {
         "name": "Qwen/QwQ-32B-Preview",
         "model_name": "QwQ-32B-Preview",
@@ -27115,6 +27166,60 @@
         "tags": [
             "14B"
         ]
+    },
+    "sophosympatheia/Glistening-Gem-31B-v2.2": {
+        "name": "sophosympatheia/Glistening-Gem-31B-v2.2",
+        "model_name": "Glistening-Gem-31B-v2.2",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "This merge is an incremental improvement over my previous Glistening Gem releases. I think it has slightly better creativity and coherence.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Glistening Gem 31B v2.2",
+        "url": "https://huggingface.co/sophosympatheia/Glistening-Gem-31B-v2.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "aphrodite/sophosympatheia/Glistening-Gem-31B-v2.2": {
+        "name": "aphrodite/sophosympatheia/Glistening-Gem-31B-v2.2",
+        "model_name": "Glistening-Gem-31B-v2.2",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "This merge is an incremental improvement over my previous Glistening Gem releases. I think it has slightly better creativity and coherence.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Glistening Gem 31B v2.2",
+        "url": "https://huggingface.co/sophosympatheia/Glistening-Gem-31B-v2.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
+    },
+    "koboldcpp/Glistening-Gem-31B-v2.2": {
+        "name": "koboldcpp/Glistening-Gem-31B-v2.2",
+        "model_name": "Glistening-Gem-31B-v2.2",
+        "baseline": "google/gemma-4-31B-it",
+        "parameters": 31000000000,
+        "description": "This merge is an incremental improvement over my previous Glistening Gem releases. I think it has slightly better creativity and coherence.",
+        "version": "1",
+        "style": "chat",
+        "nsfw": false,
+        "display_name": "Glistening Gem 31B v2.2",
+        "url": "https://huggingface.co/sophosympatheia/Glistening-Gem-31B-v2.2",
+        "tags": [
+            "31B",
+            "chat",
+            "roleplay"
+        ],
+        "instruct_format": "Gemma 4"
     },
     "sophosympatheia/StrawberryLemonade-L3-70B-v1.0": {
         "name": "sophosympatheia/StrawberryLemonade-L3-70B-v1.0",
